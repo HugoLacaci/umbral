@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ielts-l-p1-04",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 1,
+    "title": "Summer work at a music festival",
+    "context": "You will hear a young man phoning about temporary work at a music festival.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Janet", "role": "Staff coordinator", "gender": "f", "accent": "en-CA" },
+        { "id": "b", "name": "Marcus", "role": "Applicant", "gender": "m", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Lakeshore Music Festival, staffing office. This is Janet." },
+        { "s": "b", "t": "Hi, Janet. I saw your ad for temporary staff for this summer, and I'd like to find out a bit more, if that's okay." },
+        { "s": "a", "t": "Of course. I'll just open a new form. What's your name?" },
+        { "s": "b", "t": "Marcus Delacroix. The last name is D-E-L-A-C-R-O-I-X." },
+        { "s": "a", "t": "Thanks, Marcus. We need all our staff to be at least eighteen. How old are you?" },
+        { "s": "b", "t": "I'm 19. I'll be twenty in August, actually, just after the festival." },
+        { "s": "a", "t": "That's fine, then. Do you know what kind of work you're interested in?" },
+        { "s": "b", "t": "Well, I was hoping to work in catering, because I've done some kitchen work before." },
+        { "s": "a", "t": "I'm sorry, but all the catering jobs went in the first week. What I can offer you is a place on the recycling team. You'd be collecting and sorting waste around the site and helping people use the right bins." },
+        { "s": "b", "t": "Sure, I'd be happy to do that. What's the pay like?" },
+        { "s": "a", "t": "The ad says sixteen fifty-five an hour, but that was last year's rate, I'm afraid we forgot to change it. This year it's $17.50 an hour." },
+        { "s": "b", "t": "Oh, even better. Is there any training?" },
+        { "s": "a", "t": "Yes, there's a compulsory training session in June. Let me check the date for your team. The setup crew have theirs on the 20th of June, but the recycling team is the day after, so the 21st of June, from nine until one." },
+        { "s": "b", "t": "Okay, the 21st. And do I need any special clothing?" },
+        { "s": "a", "t": "We'll give you a high-visibility vest and a cap with the festival logo, but you'll need to bring your own boots. Strong ones, please, not sneakers, because the ground gets very muddy if it rains." },
+        { "s": "b", "t": "I've got some hiking boots that should be fine. Are there any other benefits?" },
+        { "s": "a", "t": "We used to offer free camping for staff, but the site has got too small, so we had to stop that. What you do get is three free meals a day while you're working, from the staff kitchen." },
+        { "s": "b", "t": "That's great. And how do people usually get to the site? It's quite a long way out of the city." },
+        { "s": "a", "t": "There's a free shuttle bus for staff from Union Station, every half hour. Staff parking is really limited, so we don't recommend driving." },
+        { "s": "b", "t": "Actually, I just moved to an apartment near the lake, so it's only about fifteen minutes away. I think I'll just ride my bike there every day." },
+        { "s": "a", "t": "Perfect. There's a secure bike area by the staff entrance. Now, before I can confirm the job, I need one more thing from you. We already have your bank details from the online form, and we'll take your photo for your ID badge on the training day. But I still need a reference from a previous employer or a teacher. Could you email that to me by Friday?" },
+        { "s": "b", "t": "Sure. My old manager at the restaurant will write one for me, I'm sure." },
+        { "s": "a", "t": "Great. And on the first day of the festival, when you arrive, don't go looking for your team leader, because they'll be busy all over the site. Go straight to the information tent, which is next to the main gate, and they'll give you your badge and your schedule." },
+        { "s": "b", "t": "The information tent. Got it. Thanks so much, Janet." },
+        { "s": "a", "t": "You're welcome, Marcus. We'll see you at training." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 1–6\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Lakeshore Music Festival – Temporary staff",
+        "template": "Applicant: Marcus {{q1}}\nAge: {{q2}}\nJob offered: member of the {{q3}} team\nPay: ${{q4}} per hour\nTraining session: {{q5}} June, 9 am – 1 pm\nStaff must bring their own {{q6}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "note-completion", "answers": ["Delacroix"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He spells his last name: D-E-L-A-C-R-O-I-X.", "evidence": "The last name is D-E-L-A-C-R-O-I-X." },
+          { "id": "q2", "kind": "gap", "qtype": "note-completion", "answers": ["19", "nineteen"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He is 19 now; twenty is his age after the festival.", "evidence": "I'm 19." },
+          { "id": "q3", "kind": "gap", "qtype": "note-completion", "answers": ["recycling"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He wanted catering, but those jobs are gone; he is offered the recycling team.", "evidence": "a place on the recycling team" },
+          { "id": "q4", "kind": "gap", "qtype": "note-completion", "answers": ["17.50"], "maxWords": 1, "allowNumber": true,
+            "explanation": "16.55 was last year's rate, printed by mistake in the ad. This year it is $17.50.", "evidence": "This year it's $17.50 an hour." },
+          { "id": "q5", "kind": "gap", "qtype": "note-completion", "answers": ["21", "21st"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The 20th is for the setup crew; the recycling team trains on the 21st.", "evidence": "so the 21st of June, from nine until one" },
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["boots"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The vest and cap are provided, but staff bring their own boots.", "evidence": "you'll need to bring your own boots" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 7–10\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q7", "kind": "mcq", "qtype": "mcq", "prompt": "What do festival staff receive for free?",
+            "options": ["a place to camp", "meals", "a festival T-shirt"], "answer": 1,
+            "explanation": "Free camping has stopped; staff get three free meals a day.",
+            "evidence": "What you do get is three free meals a day",
+            "optionNotes": ["Camping was offered in the past but not any more.", "Correct.", "They get a vest and a cap, not a T-shirt."] },
+          { "id": "q8", "kind": "mcq", "qtype": "mcq", "prompt": "How does Marcus plan to travel to the festival site?",
+            "options": ["by shuttle bus", "by car", "by bicycle"], "answer": 2,
+            "explanation": "Janet mentions the shuttle bus and says driving is not recommended, but Marcus lives nearby and will ride his bike.",
+            "evidence": "I think I'll just ride my bike there every day.",
+            "optionNotes": ["Offered, but he does not choose it.", "Parking is limited and not recommended.", "Correct."] },
+          { "id": "q9", "kind": "mcq", "qtype": "mcq", "prompt": "What must Marcus send by Friday?",
+            "options": ["a reference", "his bank details", "a photo"], "answer": 0,
+            "explanation": "Bank details are already on the form and the photo is taken on training day; he must email a reference.",
+            "evidence": "But I still need a reference from a previous employer or a teacher.",
+            "optionNotes": ["Correct.", "They already have them.", "It will be taken on the training day."] },
+          { "id": "q10", "kind": "mcq", "qtype": "mcq", "prompt": "When Marcus arrives on the first day, he should first go to",
+            "options": ["his team leader.", "the information tent.", "the staff kitchen."], "answer": 1,
+            "explanation": "He should not look for his team leader; he should go straight to the information tent.",
+            "evidence": "Go straight to the information tent",
+            "optionNotes": ["Janet says not to look for the team leader.", "Correct.", "Mentioned only in relation to meals."] }
+        ]
+      }
+    ]
+  }
+]

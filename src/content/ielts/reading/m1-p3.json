@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ielts-r-m1-p3",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 1,
+    "passageNo": 3,
+    "title": "Remembering with the World",
+    "subtitle": "Is our reliance on external devices weakening human memory, or simply changing what memory is for?",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Every age seems to produce its own anxiety about memory. In Plato's dialogue Phaedrus, Socrates relates a myth in which the Egyptian king Thamus warns that the newly invented art of writing will make those who learn it forgetful, since they will trust to external marks rather than to their own minds. The same fear has accompanied the printed book, the pocket calculator and, most recently, the smartphone and the search engine. It would be easy to dismiss these warnings as the reflex of each generation against the technology of the next. That, I think, would be a mistake. The worries are not baseless; they are simply aimed at the wrong target."
+      },
+      {
+        "label": "B",
+        "text": "Psychologists use the term 'cognitive offloading' to describe the use of physical action or external resources to reduce the mental demands of a task. Writing a shopping list, tilting one's head to read rotated text and setting a phone reminder are all examples. Experimental work has shown that offloading is not a sign of laziness but a calculated choice. When people are given the option of noting information down, they tend to do so more often when they lack confidence in their memory, and, strikingly, this tendency is driven more by their beliefs about their memory than by its actual accuracy. In other words, people offload according to how good they think their memory is rather than how good it really is."
+      },
+      {
+        "label": "C",
+        "text": "The more troubling findings concern what happens to the offloaded material. In a widely cited set of studies, participants who typed facts into a computer and were told the file would be saved recalled fewer of those facts than participants who were told it would be deleted. They did, however, remember better where the information had been stored. Researchers have interpreted this as evidence that people treat the internet as a kind of external memory partner, much as members of a long-married couple come to divide responsibility for remembering different things. Later attempts to replicate some of these results have produced mixed outcomes, which ought to make us cautious, but the general pattern - that expecting future access reduces the effort we put into remembering - has proved fairly robust."
+      },
+      {
+        "label": "D",
+        "text": "Is this a loss? The answer depends on what one believes memory is for. If memory is principally a storehouse, valued for the quantity and accuracy of what it holds, then any reduction in what we retain is a cost. But this view sits uneasily with what we know of how memory evolved. Human memory is notoriously poor at verbatim storage and remarkably good at extracting patterns, building expectations and linking new experiences to old ones. Seen in this light, delegating the storage of arbitrary details - telephone numbers, dates, passwords - may free capacity for the kind of thinking at which biological memory excels. Indeed, one experiment found that participants who were allowed to save one document before studying a second learned the second document better than those who could not save the first."
+      },
+      {
+        "label": "E",
+        "text": "Yet the argument from liberation can be pushed too far. Expertise in any field depends on a large body of knowledge held in the head, because understanding emerges from connections between pieces of knowledge, and connections cannot be formed between items that exist only on a screen. A chess master does not consult an opening book in the middle of a game; a physician who must look up every symptom cannot recognise the unusual combination that signals a rare disease. The danger of offloading, then, is not that we will forget trivial facts, but that we will mistake access to information for possession of it, and so neglect to build the internal knowledge on which judgement depends. Students who believe they can always look things up may never discover what it is they do not understand."
+      },
+      {
+        "label": "F",
+        "text": "There is a further, subtler cost. Offloaded information is only as reliable as the system that holds it. When we memorise something, we also tend to remember roughly how and when we learned it, which allows us to judge how far to trust it. Information retrieved instantly from a search engine arrives without this context, and studies suggest that people who have just searched online for answers subsequently overestimate how much they themselves know. The feeling of knowing, it seems, does not distinguish between what is stored in one's own head and what is merely within reach."
+      },
+      {
+        "label": "G",
+        "text": "None of this means we should reject the tools that extend our memories; such a rejection would be both impractical and, in its own way, as naive as uncritical enthusiasm. What is needed is a more deliberate allocation of effort. Educators, in particular, should be clear about which knowledge students must internalise in order to think well, and which can safely be left to external stores. Thamus was wrong to believe that writing would make people forgetful in general. He was right, however, to suspect that a technology which makes remembering unnecessary can also make understanding harder to achieve - unless we decide, consciously, where the line between the two should fall."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 27–31\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 27–31 on your answer sheet.",
+        "items": [
+          {
+            "id": "q27",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Why does the writer refer to the myth of Thamus in paragraph A?",
+            "options": [
+              "to show that concern about technology and memory is not new",
+              "to prove that writing has damaged human memory",
+              "to suggest that ancient societies valued memory more highly",
+              "to question the methods used in modern memory research"
+            ],
+            "answer": 0,
+            "evidence": "The same fear has accompanied the printed book, the pocket calculator",
+            "explanation": "The myth is the first in a list of similar fears across history ('Every age seems to produce its own anxiety about memory'). The writer later says Thamus 'was wrong' about general forgetfulness, so B is incorrect; C and D are not discussed.",
+            "optionNotes": [
+              "Correct: the myth illustrates a long history of the same worry.",
+              "The writer says Thamus was wrong to think writing would make people forgetful in general.",
+              "No comparison of how much societies valued memory is made.",
+              "Modern research is not mentioned in paragraph A."
+            ]
+          },
+          {
+            "id": "q28",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "According to paragraph B, whether people choose to offload information depends mainly on",
+            "options": [
+              "how accurate their memory really is.",
+              "what they believe about their own memory.",
+              "how much effort the task requires.",
+              "whether a suitable device is available."
+            ],
+            "answer": 1,
+            "evidence": "this tendency is driven more by their beliefs about their memory than by its actual accuracy",
+            "explanation": "The text says offloading is driven by beliefs about memory more than by its actual accuracy, so B is right and A is the opposite. C and D are plausible but are not given as the main factor.",
+            "optionNotes": [
+              "The text says actual accuracy matters less than beliefs.",
+              "Correct: 'how good they think their memory is'.",
+              "Task demands are part of the definition of offloading, not the deciding factor in the experiments.",
+              "Device availability is not mentioned."
+            ]
+          },
+          {
+            "id": "q29",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "In the studies described in paragraph C, participants who believed their typed facts would be saved",
+            "options": [
+              "remembered the facts more accurately than the other group.",
+              "were better at remembering where the facts were kept.",
+              "were unwilling to type any further information.",
+              "performed in the same way as the other group."
+            ],
+            "answer": 1,
+            "evidence": "They did, however, remember better where the information had been stored.",
+            "explanation": "This group recalled fewer facts (so not A or D) but remembered better where the information was stored.",
+            "optionNotes": [
+              "They recalled fewer of the facts.",
+              "Correct.",
+              "Not mentioned.",
+              "Their results differed in both recall and memory for location."
+            ]
+          },
+          {
+            "id": "q30",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What does the writer say about later attempts to repeat these studies?",
+            "options": [
+              "They have shown the original findings to be completely wrong.",
+              "They have produced results that are not consistent.",
+              "They were poorly designed and should be ignored.",
+              "They have confirmed every one of the original findings."
+            ],
+            "answer": 1,
+            "evidence": "Later attempts to replicate some of these results have produced mixed outcomes",
+            "explanation": "'Mixed outcomes' means inconsistent results. The writer adds that the general pattern is 'fairly robust', so A and D are too extreme; there is no criticism of the design (C).",
+            "optionNotes": [
+              "Too extreme: the general pattern 'has proved fairly robust'.",
+              "Correct: 'mixed outcomes'.",
+              "The writer never criticises how the replications were designed.",
+              "'Mixed' rules out complete confirmation."
+            ]
+          },
+          {
+            "id": "q31",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "The experiment mentioned at the end of paragraph D suggests that",
+            "options": [
+              "saving information can make it easier to learn new material.",
+              "people prefer to study one document at a time.",
+              "printed documents are remembered better than digital ones.",
+              "saving a document reduces long-term memory of its contents."
+            ],
+            "answer": 0,
+            "evidence": "learned the second document better than those who could not save the first",
+            "explanation": "Saving the first document helped people learn the second, supporting the idea that offloading 'may free capacity'. B and C are not tested; D may be true from paragraph C but is not what this experiment shows.",
+            "optionNotes": [
+              "Correct: saving freed capacity for the second document.",
+              "Preferences were not studied.",
+              "Print and digital formats are not compared.",
+              "This experiment measured learning of the second document, not memory of the saved one."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "ynng",
+        "instructions": "Questions 32–37\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–37 on your answer sheet, write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+        "items": [
+          {
+            "id": "q32",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Historical fears that new technologies would harm memory have had no real basis.",
+            "answer": "NO",
+            "evidence": "The worries are not baseless; they are simply aimed at the wrong target.",
+            "explanation": "The writer explicitly says the worries are 'not baseless' - it would be 'a mistake' to dismiss them. This contradicts the statement, so NO."
+          },
+          {
+            "id": "q33",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Younger people are more likely than older people to remember where information is stored rather than the information itself.",
+            "answer": "NOT GIVEN",
+            "explanation": "Paragraph C describes remembering where information is stored, but the writer never compares age groups. NOT GIVEN."
+          },
+          {
+            "id": "q34",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Human memory is better at identifying patterns than at storing information word for word.",
+            "answer": "YES",
+            "evidence": "Human memory is notoriously poor at verbatim storage and remarkably good at extracting patterns",
+            "explanation": "'Word for word' = 'verbatim'; the writer says memory is poor at this and good at extracting patterns."
+          },
+          {
+            "id": "q35",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Real expertise requires knowledge to be stored in a person's own memory.",
+            "answer": "YES",
+            "evidence": "Expertise in any field depends on a large body of knowledge held in the head",
+            "explanation": "'Held in the head' = stored in one's own memory; the chess and medical examples support this view."
+          },
+          {
+            "id": "q36",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Searching online for answers tends to make people underestimate how much they know.",
+            "answer": "NO",
+            "evidence": "subsequently overestimate how much they themselves know",
+            "explanation": "The writer reports that people overestimate their knowledge after searching - the opposite of 'underestimate'. NO, not NOT GIVEN, because the text gives the opposite claim."
+          },
+          {
+            "id": "q37",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "The smartphone has had a greater effect on human memory than the printed book.",
+            "answer": "NOT GIVEN",
+            "explanation": "Both technologies are listed in paragraph A as causes of similar fears, but the writer never compares the size of their effects. NOT GIVEN."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching-endings",
+        "instructions": "Questions 38–40\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 38–40 on your answer sheet.",
+        "options": [
+          { "key": "A", "text": "should decide which knowledge students need to hold internally." },
+          { "key": "B", "text": "should avoid using digital tools in the classroom." },
+          { "key": "C", "text": "tend to make less effort to remember it." },
+          { "key": "D", "text": "is usually more accurate than information found online." },
+          { "key": "E", "text": "usually comes with some sense of when it was learned." },
+          { "key": "F", "text": "are generally better at recognising rare diseases." }
+        ],
+        "items": [
+          {
+            "id": "q38",
+            "kind": "match",
+            "qtype": "matching-endings",
+            "prompt": "People who expect to be able to access information again later",
+            "answer": "C",
+            "evidence": "expecting future access reduces the effort we put into remembering",
+            "explanation": "Paragraph C: expecting future access reduces the effort put into remembering. F is a trap based on the physician example, which is about people who must look things up."
+          },
+          {
+            "id": "q39",
+            "kind": "match",
+            "qtype": "matching-endings",
+            "prompt": "Information that a person has memorised themselves",
+            "answer": "E",
+            "evidence": "we also tend to remember roughly how and when we learned it",
+            "explanation": "Paragraph F says memorised information comes with a memory of how and when it was learned. D is tempting but the writer never says memorised information is more accurate - only that its context helps us judge how far to trust it."
+          },
+          {
+            "id": "q40",
+            "kind": "match",
+            "qtype": "matching-endings",
+            "prompt": "According to the writer, educators",
+            "answer": "A",
+            "evidence": "Educators, in particular, should be clear about which knowledge students must internalise",
+            "explanation": "'Hold internally' paraphrases 'internalise'. B contradicts the writer, who says rejecting these tools would be 'impractical' and 'naive'."
+          }
+        ]
+      }
+    ]
+  }
+]

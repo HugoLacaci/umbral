@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ielts-r-m4-p2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "passageNo": 2,
+    "title": "Setting the World's Clocks",
+    "subtitle": "How local time gave way to standard time zones",
+    "paragraphs": [
+      { "label": "A", "text": "For most of human history, time was a local matter. Each town set its clocks by the sun, declaring noon at the moment the sun stood highest in the sky. Because the earth turns from west to east, noon arrives slightly later the further west one travels: about four minutes later for every degree of longitude. Bristol, in the west of England, therefore kept time roughly ten minutes behind London. For people who travelled on foot or by horse-drawn coach, such differences were of no consequence. A journey between the two cities took the better part of a day, and nobody was troubled to find that their watch was out of step with the church clock when they arrived." },
+      { "label": "B", "text": "The railways changed this. A timetable that listed departures in a dozen different local times was not merely confusing but dangerous, since on single-track lines the safety of trains depended on knowing exactly when other trains would pass. In 1840 the Great Western Railway began to run all its services on London time, and over the following decade most British railway companies did the same, encouraged by the Railway Clearing House, the body that coordinated their operations. Telegraph signals sent from the Royal Observatory at Greenwich allowed station clocks to be checked against a single standard. Not every town accepted the change willingly. Some local authorities kept their own time for years, and in Bristol a public clock was fitted with two minute hands, one showing local time and the other the time used by the railway. It was not until 1880 that Greenwich time became the legal standard throughout Great Britain." },
+      { "label": "C", "text": "In North America, the problem was on a different scale. A country stretching across more than fifty degrees of longitude could not run on a single time, and by the early 1880s the railways of the United States were using dozens of separate time standards, each based on the local time of an important city on a particular company's network. A station served by several companies might display several clocks, all showing different times. The solution was devised and put into practice by the railways themselves, without waiting for government. On 18 November 1883, railways across the United States and Canada adjusted their clocks to a small number of standard zones, each an hour apart. Many towns followed the railways' lead, though others refused, and standard time was not given the force of federal law in the United States until 1918." },
+      { "label": "D", "text": "Meanwhile, some thinkers were considering the problem on a global scale. The most persistent was Sandford Fleming, a Scottish-born engineer who had worked on the construction of Canada's railways. Fleming is said to have become interested in the subject after missing a train in Ireland in 1876 because a printed timetable had confused morning and evening. He proposed dividing the world into twenty-four zones, each covering fifteen degrees of longitude and differing from its neighbours by exactly one hour, all linked to a single universal time. To prevent mistakes like the one that had cost him his train, he also recommended a twenty-four-hour clock. His ideas were widely discussed, but many governments considered them too radical, and for several decades they were adopted only in part." },
+      { "label": "E", "text": "An important step towards an international system came in 1884, when delegates from twenty-five countries met in Washington for the International Meridian Conference. Its main task was to choose a single prime meridian, the line of zero longitude from which all others would be measured. Greenwich was the obvious candidate, largely because most of the world's shipping already used charts based on it. The resolution was passed by a large majority, but France and Brazil abstained, and France continued to use its own meridian, which passed through Paris, for official purposes until 1911. It is often assumed that the conference also created the world's time zones. In fact, it did not: its resolutions concerned the prime meridian and a universal day, and the adoption of standard time zones was left to individual nations, which introduced them gradually over the following decades." },
+      { "label": "F", "text": "Even today, the system is far less tidy than Fleming imagined. Time zones follow political borders rather than lines of longitude, and governments set them according to their own priorities. China, which spans roughly five of Fleming's zones, has used a single national time since 1949, with the result that in the far west of the country the sun may not rise until around ten o'clock in winter. India uses a time five and a half hours ahead of Greenwich, and Nepal one that is five hours and forty-five minutes ahead. Spain moved its clocks forward to Central European Time in 1940 and has kept them there, although most of the country lies to the west of Greenwich. In 2011 the Pacific nation of Samoa went further still, moving to the other side of the International Date Line to bring its working week into line with its main trading partners, Australia and New Zealand; as a result, its citizens went straight from 29 December to 31 December." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-headings",
+        "instructions": "Questions 14–19\nReading Passage 2 has six paragraphs, A–F.\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number, i–x, in boxes 14–19 on your answer sheet.",
+        "title": "List of Headings",
+        "options": [
+          { "key": "i", "text": "When every town kept its own time" },
+          { "key": "ii", "text": "A town that refused to accept change" },
+          { "key": "iii", "text": "A new form of transport demands a common standard" },
+          { "key": "iv", "text": "Governments take the lead across a continent" },
+          { "key": "v", "text": "An industry solves a continental problem by itself" },
+          { "key": "vi", "text": "A worldwide scheme that was ahead of its time" },
+          { "key": "vii", "text": "Agreement on a starting line, but not on time zones" },
+          { "key": "viii", "text": "How sailors calculated their position at sea" },
+          { "key": "ix", "text": "National priorities take precedence over geography" },
+          { "key": "x", "text": "A modern system that has finally become consistent" }
+        ],
+        "items": [
+          { "id": "q14", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph A", "answer": "i",
+            "explanation": "Paragraph A explains that each town set its clocks by the sun, so time varied from place to place, which did not matter before fast travel.",
+            "evidence": "For most of human history, time was a local matter." },
+          { "id": "q15", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph B", "answer": "iii",
+            "explanation": "The railways needed a single time for safety and timetables, which led to London (Greenwich) time across Britain. Heading ii is a trap: Bristol's two-handed clock is only one detail in the paragraph.",
+            "evidence": "The railways changed this." },
+          { "id": "q16", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph C", "answer": "v",
+            "explanation": "The standard zones were introduced by the railways 'without waiting for government'. Heading iv says the opposite: federal law came only in 1918.",
+            "evidence": "The solution was devised and put into practice by the railways themselves, without waiting for government." },
+          { "id": "q17", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph D", "answer": "vi",
+            "explanation": "Fleming proposed 24 world zones and a 24-hour clock, but governments thought his ideas 'too radical', so they were ahead of their time.",
+            "evidence": "many governments considered them too radical" },
+          { "id": "q18", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph E", "answer": "vii",
+            "explanation": "The conference agreed on Greenwich as the prime meridian ('starting line'), but 'it did not' create time zones. Heading viii is a distractor: shipping charts are mentioned, but not how sailors found their position.",
+            "evidence": "It is often assumed that the conference also created the world's time zones. In fact, it did not" },
+          { "id": "q19", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph F", "answer": "ix",
+            "explanation": "Zones 'follow political borders rather than lines of longitude', as China, Spain and Samoa show. Heading x contradicts 'far less tidy than Fleming imagined'.",
+            "evidence": "Time zones follow political borders rather than lines of longitude, and governments set them according to their own priorities." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-features",
+        "instructions": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of people and organisations below.\nMatch each statement with the correct person or organisation, A–E.\nWrite the correct letter, A–E, in boxes 20–23 on your answer sheet.",
+        "title": "List of People and Organisations",
+        "options": [
+          { "key": "A", "text": "the Great Western Railway" },
+          { "key": "B", "text": "the Railway Clearing House" },
+          { "key": "C", "text": "the railways of the United States and Canada" },
+          { "key": "D", "text": "Sandford Fleming" },
+          { "key": "E", "text": "the International Meridian Conference" }
+        ],
+        "items": [
+          { "id": "q20", "kind": "match", "qtype": "matching-features", "prompt": "suggested a way of telling the time that would avoid confusing morning with evening", "answer": "D",
+            "explanation": "Fleming 'recommended a twenty-four-hour clock' to prevent the kind of morning/evening mistake that made him miss his train.",
+            "evidence": "he also recommended a twenty-four-hour clock" },
+          { "id": "q21", "kind": "match", "qtype": "matching-features", "prompt": "used one time for all its services before most others in its country did so", "answer": "A",
+            "explanation": "The Great Western Railway adopted London time in 1840, and 'over the following decade most British railway companies did the same'. B only encouraged companies; it did not run services.",
+            "evidence": "In 1840 the Great Western Railway began to run all its services on London time" },
+          { "id": "q22", "kind": "match", "qtype": "matching-features", "prompt": "acted without waiting for official approval", "answer": "C",
+            "explanation": "The North American railways introduced standard time zones 'without waiting for government'.",
+            "evidence": "without waiting for government" },
+          { "id": "q23", "kind": "match", "qtype": "matching-features", "prompt": "left decisions about standard time to individual countries", "answer": "E",
+            "explanation": "The conference dealt with the prime meridian and a universal day; 'the adoption of standard time zones was left to individual nations'.",
+            "evidence": "the adoption of standard time zones was left to individual nations" }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "short-answer",
+        "instructions": "Questions 24–26\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nWrite your answers in boxes 24–26 on your answer sheet.",
+        "items": [
+          { "id": "q24", "kind": "gap", "qtype": "short-answer", "prompt": "What made it possible to check British station clocks against the time at Greenwich? ___", "answers": ["telegraph signals", "telegraph signal"], "maxWords": 2, "allowNumber": true,
+            "explanation": "'Telegraph signals sent from the Royal Observatory at Greenwich allowed station clocks to be checked against a single standard.'",
+            "evidence": "Telegraph signals sent from the Royal Observatory at Greenwich allowed station clocks to be checked against a single standard." },
+          { "id": "q25", "kind": "gap", "qtype": "short-answer", "prompt": "In which year did standard time become federal law in the United States? ___", "answers": ["1918"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Standard time 'was not given the force of federal law in the United States until 1918'. 1883 is when the railways introduced the zones, not the law.",
+            "evidence": "standard time was not given the force of federal law in the United States until 1918" },
+          { "id": "q26", "kind": "gap", "qtype": "short-answer", "prompt": "Through which city did the meridian that France used until 1911 pass? ___", "answers": ["Paris"], "maxWords": 2, "allowNumber": true,
+            "explanation": "France kept 'its own meridian, which passed through Paris, for official purposes until 1911'.",
+            "evidence": "France continued to use its own meridian, which passed through Paris, for official purposes until 1911" }
+        ]
+      }
+    ]
+  }
+]

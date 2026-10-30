@@ -1,0 +1,807 @@
+[
+  {
+    "id": "toefl-ap-28",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Standard Candles and an Accelerating Universe",
+    "text": "Measuring distances to remote galaxies is among the most persistent difficulties in astronomy. A source's apparent brightness depends both on how much light it emits and on how far away it is, so brightness alone cannot reveal distance unless the intrinsic luminosity is known. Astronomers therefore seek \"standard candles,\" classes of objects whose true output can be inferred independently. Type Ia supernovae, the thermonuclear explosions of white dwarf stars, have proved especially useful: they are bright enough to be observed across billions of light-years, and although their peak luminosities vary, the variation correlates closely with how quickly they fade, allowing the luminosity of each to be estimated from its light curve.\n\nIn the late 1990s, two independent teams used such supernovae to measure how the expansion of the universe had changed over time. They expected to find that gravity had been slowing the expansion. Instead, distant supernovae appeared fainter, and hence farther away, than a decelerating universe would allow. The implication, that the expansion is accelerating, was so unexpected that both teams scrutinized their data for errors before publishing; that two groups using different samples reached the same conclusion did much to persuade the wider community. The discovery was recognized with the Nobel Prize in Physics in 2011.\n\nThe cause of the acceleration remains obscure. It is commonly attributed to \"dark energy,\" a label that names the phenomenon without explaining it. Moreover, the method depends on the assumption that supernovae in the distant past behaved like nearby ones; if ancient explosions were systematically dimmer for other reasons, part of the apparent effect could be spurious. Subsequent evidence from independent methods has, however, largely supported the original conclusion.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, how is the luminosity of a Type Ia supernova estimated?",
+        "options": [
+          "From its apparent brightness alone",
+          "From the rate at which it fades",
+          "By comparing it with nearby white dwarf stars",
+          "By assuming that all such supernovae are equally bright"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Contradicted: brightness alone cannot reveal distance unless luminosity is known.",
+          "Correct: peak luminosity correlates with how quickly the supernova fades.",
+          "Not stated: no such comparison is described.",
+          "Contradicted: \"their peak luminosities vary.\""
+        ],
+        "explanation": "The passage explains that the variation in luminosity correlates with the speed of fading, so the light curve reveals the luminosity.",
+        "evidence": "the variation correlates closely with how quickly they fade"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"spurious\" in the passage is closest in meaning to",
+        "options": [
+          "significant",
+          "gradual",
+          "measurable",
+          "not genuine"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not the meaning: the concern is whether the effect is real, not how large it is.",
+          "Not the meaning: speed of change is not at issue.",
+          "Not the meaning: the effect was measured; the question is whether it is real.",
+          "Correct: if old supernovae were dimmer for other reasons, part of the effect would be false."
+        ],
+        "explanation": "The sentence describes a scenario in which the apparent acceleration would be produced by something else, i.e., not genuine.",
+        "evidence": "part of the apparent effect could be spurious"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"it\" in the phrase \"names the phenomenon without explaining it\" refers to",
+        "options": [
+          "the phenomenon",
+          "the label",
+          "the method",
+          "the universe"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the label names the acceleration (the phenomenon) without explaining that phenomenon.",
+          "Not logical: a label cannot fail to explain itself in this sense.",
+          "Not logical: the method is introduced in the next sentence.",
+          "Not logical: the universe is not mentioned in this sentence."
+        ],
+        "explanation": "The phrase contrasts naming and explaining the same thing: the phenomenon of acceleration.",
+        "evidence": "a label that names the phenomenon without explaining it"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "Why was the agreement between the two teams particularly persuasive?",
+        "options": [
+          "Because both teams analyzed exactly the same supernovae",
+          "Because both teams had predicted that the expansion would accelerate",
+          "Because an error peculiar to one team's sample would be unlikely to produce the same result in the other's",
+          "Because the Nobel Prize was awarded before the results were published"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: the groups used \"different samples.\"",
+          "Reversed: they \"expected to find that gravity had been slowing the expansion.\"",
+          "Correct: independent samples reaching the same conclusion make a shared error less likely.",
+          "Wrong order: the prize came in 2011, after publication."
+        ],
+        "explanation": "The passage stresses that the samples were different; this implies that a problem in one data set could not explain both results.",
+        "evidence": "that two groups using different samples reached the same conclusion did much to persuade the wider community"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author point out that \"dark energy\" is a label that \"names the phenomenon without explaining it\"?",
+        "options": [
+          "To reject the evidence that the expansion is accelerating",
+          "To emphasize that the cause of the acceleration remains unknown despite having a name",
+          "To argue that astronomers should stop using the term",
+          "To show that dark energy was discovered before the supernova observations"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Reversed: the author accepts the acceleration and says later evidence largely supports it.",
+          "Correct: the remark supports the opening claim that \"the cause of the acceleration remains obscure.\"",
+          "Too strong: the author comments on the term but does not recommend abandoning it.",
+          "Not stated: the term is presented as a response to the discovery."
+        ],
+        "explanation": "The point follows directly from \"The cause of the acceleration remains obscure\": giving something a name is not the same as explaining it.",
+        "evidence": "The cause of the acceleration remains obscure."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-29",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Rethinking the Peace of Westphalia",
+    "text": "Textbooks in international relations have long dated the modern system of sovereign states to 1648, when the treaties collectively known as the Peace of Westphalia ended the Thirty Years' War. According to this account, the settlement established the principle that each ruler possessed exclusive authority within his territory, free from interference by outside powers such as the Holy Roman Emperor or the Pope. Westphalia thus came to serve as a convenient shorthand: scholars speak of the \"Westphalian system\" to denote an order of independent, legally equal states.\n\nIn recent decades, however, historians have argued that this narrative owes more to later interpretation than to the treaties themselves. The documents, they point out, say little about sovereignty in the abstract. Instead, they address concrete matters such as territorial adjustments, religious rights within the Empire, and the constitutional relationship between the Emperor and the princes. Far from abolishing outside interference, the treaties made France and Sweden guarantors of the settlement, giving foreign powers a recognized right to intervene in imperial affairs. Moreover, the Holy Roman Empire, with its overlapping jurisdictions, survived until 1806, hardly the model of a system of discrete sovereign units.\n\nWhy, then, did the myth take hold? One explanation is that nineteenth- and twentieth-century scholars, seeking a clear origin for the state system they inhabited, projected their own concepts backward onto a convenient landmark. None of this implies that 1648 was insignificant; the settlement did reshape the political map of Europe. The revisionist point is narrower: the principles attributed to Westphalia emerged gradually, and assigning them a single founding moment obscures that more protracted history.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, what did the Westphalian treaties actually address?",
+        "options": [
+          "A general theory of state sovereignty",
+          "The dissolution of the Holy Roman Empire",
+          "Specific issues such as territory, religious rights, and relations between the Emperor and the princes",
+          "The legal equality of all European states"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: the documents \"say little about sovereignty in the abstract.\"",
+          "Contradicted: the Empire survived until 1806.",
+          "Correct: these are the \"concrete matters\" the treaties dealt with.",
+          "Not stated: legal equality belongs to the later \"Westphalian system\" idea, not the treaties."
+        ],
+        "explanation": "Historians point out that the treaties dealt with concrete matters rather than abstract principles.",
+        "evidence": "they address concrete matters such as territorial adjustments, religious rights within the Empire"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"they\" in the phrase \"the state system they inhabited\" refers to",
+        "options": [
+          "nineteenth- and twentieth-century scholars",
+          "the treaties",
+          "the princes",
+          "their own concepts"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the scholars lived in the state system whose origin they sought.",
+          "Not logical: treaties cannot inhabit a system.",
+          "Not logical: the princes are not mentioned in this paragraph.",
+          "Not logical: concepts are projected; they do not inhabit anything."
+        ],
+        "explanation": "The subject of the sentence is the scholars, who were \"seeking a clear origin for the state system they inhabited.\"",
+        "evidence": "seeking a clear origin for the state system they inhabited"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that France and Sweden became guarantors of the settlement?",
+        "options": [
+          "To show that they were the most powerful states in Europe",
+          "To explain why the Thirty Years' War ended",
+          "To support the traditional view that the treaties created sovereign states",
+          "To provide evidence that the treaties did not establish freedom from outside interference"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "True perhaps, but not stated or relevant to the argument.",
+          "Not the purpose: the passage does not discuss why the war ended.",
+          "Reversed: the detail is used against the traditional view.",
+          "Correct: guarantors had a recognized right to intervene, which contradicts the idea of exclusive authority."
+        ],
+        "explanation": "The phrase \"Far from abolishing outside interference\" shows that the guarantor role is evidence against the textbook account.",
+        "evidence": "giving foreign powers a recognized right to intervene in imperial affairs"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"protracted\" in the passage is closest in meaning to",
+        "options": [
+          "violent",
+          "prolonged",
+          "obscure",
+          "well-documented"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not the meaning: the contrast is about time, not violence.",
+          "Correct: the principles emerged gradually, over a long period.",
+          "Not the meaning: \"obscures\" appears in the sentence, but describes the effect of the myth.",
+          "Not the meaning: documentation is not mentioned."
+        ],
+        "explanation": "The history is contrasted with \"a single founding moment\" and described as gradual, so \"protracted\" means long or prolonged.",
+        "evidence": "obscures that more protracted history"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "The belief that the 1648 treaties founded the system of sovereign states reflects later interpretation more than the treaties themselves.",
+          "The Peace of Westphalia had no real significance in European history.",
+          "The Holy Roman Empire was the first true sovereign state.",
+          "The principles of sovereignty appeared suddenly in the nineteenth century."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: this is the revisionist argument developed throughout the passage.",
+          "Too strong: the author states that 1648 was not insignificant.",
+          "Contradicted: the Empire had \"overlapping jurisdictions,\" the opposite of a model sovereign unit.",
+          "Reversed: the principles \"emerged gradually\"; nineteenth-century scholars only projected them backward."
+        ],
+        "explanation": "Paragraph 1 gives the textbook account, paragraph 2 the historians' objections, and paragraph 3 an explanation of the myth and the narrower revisionist point.",
+        "evidence": "this narrative owes more to later interpretation than to the treaties themselves"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-30",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Equilibrium Theory of Island Biogeography",
+    "text": "Naturalists had long noticed that larger islands tend to harbor more species than smaller ones, and that remote islands tend to support fewer species than those near a mainland. In 1967 the ecologists Robert MacArthur and Edward O. Wilson proposed an explanation that was notable less for its details than for its logic. Rather than attributing an island's species richness to its particular history or habitats, they treated it as the outcome of two opposing processes: the arrival of new species through colonization and the disappearance of established ones through local extinction.\n\nBoth rates, they reasoned, depend on the number of species already present. As an island fills, fewer arriving species are genuinely new, so the immigration rate declines; at the same time, more species are present that could go extinct, and competition intensifies, so the extinction rate rises. The number of species should therefore settle where the two rates balance. Distance affects immigration, since fewer colonists reach remote islands, while area affects extinction, since small islands support small populations that are vulnerable to chance events. A crucial implication is that the equilibrium is dynamic: the number of species may remain roughly constant even as their identities change.\n\nThe theory received notable support from experiments in which Daniel Simberloff and Wilson removed the arthropods from small mangrove islands in Florida and observed recolonization, finding that species numbers returned approximately to their former levels. Its influence extended to conservation, where nature reserves came to be conceived as habitat islands. Yet ecologists have also emphasized its limits; on very isolated islands, for example, evolution generates new species, a process the model, focused on immigration from a mainland, does not address.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"harbor\" in the passage is closest in meaning to",
+        "options": [
+          "shelter from storms",
+          "send away",
+          "compete with",
+          "be home to"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not the meaning: the literal sense of a harbor is not intended here.",
+          "Opposite: the islands contain the species.",
+          "Not the meaning: islands do not compete with species.",
+          "Correct: larger islands are home to more species."
+        ],
+        "explanation": "The sentence compares how many species different islands contain; \"harbor\" means to be home to.",
+        "evidence": "larger islands tend to harbor more species than smaller ones"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, why does the extinction rate rise as an island fills with species?",
+        "options": [
+          "Fewer colonists are able to reach the island.",
+          "The island becomes smaller over time.",
+          "More species are present that could go extinct, and competition increases.",
+          "Arriving species are less likely to be new."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Wrong process: this concerns immigration and distance.",
+          "Not stated: island size does not change in the model.",
+          "Correct: both reasons are given explicitly.",
+          "Wrong process: this explains why immigration declines."
+        ],
+        "explanation": "The passage gives two reasons for rising extinction: more species that could disappear and more intense competition.",
+        "evidence": "more species are present that could go extinct, and competition intensifies, so the extinction rate rises"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "According to the theory, which island would be expected to support the fewest species?",
+        "options": [
+          "A large island near a mainland",
+          "A small island far from a mainland",
+          "A large island far from a mainland",
+          "A small island near a mainland"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Wrong: both factors favor many species (high immigration, low extinction).",
+          "Correct: remoteness lowers immigration and small size raises extinction.",
+          "Wrong: its large area keeps extinction relatively low.",
+          "Wrong: its nearness keeps immigration relatively high."
+        ],
+        "explanation": "Combining the two effects, the island with low immigration (remote) and high extinction (small) should hold the fewest species.",
+        "evidence": "Distance affects immigration, since fewer colonists reach remote islands, while area affects extinction"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"Its\" in the sentence \"Its influence extended to conservation\" refers to",
+        "options": [
+          "the theory",
+          "the experiment",
+          "recolonization",
+          "the mangrove island"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the theory influenced how nature reserves were conceived.",
+          "Not logical: the experiment supported the theory; the influence on conservation belongs to the theory.",
+          "Not logical: recolonization is a process observed, not something with influence on conservation.",
+          "Not logical: a single island did not influence conservation thinking."
+        ],
+        "explanation": "The previous sentence begins \"The theory received notable support,\" and the paragraph continues to discuss the theory's influence and limits.",
+        "evidence": "Its influence extended to conservation"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention evolution on very isolated islands?",
+        "options": [
+          "To show that the theory has been disproved",
+          "To explain the results of the Simberloff and Wilson experiment",
+          "To argue that nature reserves should be as isolated as possible",
+          "To identify a process that the model does not account for"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Too strong: the author describes a limit, not a refutation.",
+          "Unrelated: the experiment concerned recolonization of small islands.",
+          "Not argued: the passage gives no such recommendation.",
+          "Correct: the model focuses on immigration and so does not address the origin of new species on the island itself."
+        ],
+        "explanation": "The sentence is introduced by \"Yet ecologists have also emphasized its limits,\" and evolution is given \"for example.\"",
+        "evidence": "a process the model, focused on immigration from a mainland, does not address"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-31",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "From Association to Causation",
+    "text": "Epidemiologists frequently observe that a particular exposure is associated with a disease: people who smoke, for instance, develop lung cancer at far higher rates than people who do not. Yet association alone does not establish causation. A third factor, known as a confounder, may be linked both to the exposure and to the outcome, producing a correlation where no direct causal connection exists. In some early studies, coffee drinkers appeared to suffer more heart disease, but coffee drinkers were also more likely to smoke, and once smoking was taken into account, much of the apparent association diminished.\n\nBecause randomized experiments are often impossible or unethical for harmful exposures, researchers have developed criteria for judging whether an observed association is likely to be causal. The most widely cited were set out in 1965 by the British statistician Austin Bradford Hill. They include the strength of the association, its consistency across different populations and study designs, the requirement that exposure precede the outcome, the presence of a dose-response relationship, and biological plausibility. A strong association is harder to attribute entirely to an unmeasured confounder, since such a confounder would itself need to be strongly associated with both the exposure and the disease.\n\nBradford Hill himself warned against treating these considerations as a checklist. With the exception of temporal order, none is strictly necessary; a weak association may still be causal, and the absence of a plausible mechanism may simply reflect the limits of current biological knowledge. Nor does satisfying several criteria amount to proof. The criteria, in his account, were aids to judgment rather than substitutes for it.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention coffee drinkers in paragraph 1?",
+        "options": [
+          "To show that coffee is a cause of heart disease",
+          "To illustrate how a confounding factor can create an apparent link between an exposure and a disease",
+          "To explain why smokers drink more coffee",
+          "To suggest that early studies were deliberately misleading"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Reversed: the association largely disappeared once smoking was considered.",
+          "Correct: smoking was linked to both coffee drinking and heart disease, producing a misleading correlation.",
+          "Not stated: no reason for the link between smoking and coffee is given.",
+          "Not stated: nothing suggests deliberate deception."
+        ],
+        "explanation": "The coffee example follows the definition of a confounder and shows one in action: smoking.",
+        "evidence": "once smoking was taken into account, much of the apparent association diminished"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"precede\" in the passage is closest in meaning to",
+        "options": [
+          "come before",
+          "outweigh",
+          "accompany",
+          "prevent"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the exposure must happen before the outcome.",
+          "Not the meaning: no comparison of size is made.",
+          "Not the meaning: occurring at the same time would not show temporal order.",
+          "Not the meaning: the exposure is suspected of causing, not preventing, the outcome."
+        ],
+        "explanation": "Paragraph 3 calls this criterion \"temporal order\": the cause must come before the effect.",
+        "evidence": "the requirement that exposure precede the outcome"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "Based on paragraph 3, which statement would Bradford Hill most likely agree with?",
+        "options": [
+          "An association that meets several criteria is thereby proven to be causal.",
+          "Temporal order is not necessary for causation.",
+          "A study that finds only a weak association should not be dismissed for that reason alone.",
+          "Without a known biological mechanism, an association must be rejected."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: satisfying several criteria does not \"amount to proof.\"",
+          "Contradicted: temporal order is the one exception that is necessary.",
+          "Correct: \"a weak association may still be causal.\"",
+          "Contradicted: a missing mechanism may reflect the limits of current knowledge."
+        ],
+        "explanation": "Hill treated the criteria flexibly; weakness of association does not rule out causation.",
+        "evidence": "a weak association may still be causal"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"it\" in the phrase \"substitutes for it\" refers to",
+        "options": [
+          "the criteria",
+          "his account",
+          "temporal order",
+          "judgment"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not logical: the criteria cannot be substitutes for themselves.",
+          "Not logical: the account is not being substituted.",
+          "Not logical: temporal order is mentioned earlier and is not what the criteria replace.",
+          "Correct: the criteria help judgment but cannot replace it."
+        ],
+        "explanation": "The contrast \"aids to judgment rather than substitutes for it\" refers twice to judgment.",
+        "evidence": "were aids to judgment rather than substitutes for it"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Randomized experiments are the only valid way to establish causation.",
+          "Because associations can arise from confounding, epidemiologists use flexible criteria, rather than mechanical rules, to judge whether an association is causal.",
+          "Bradford Hill's criteria provide a reliable checklist for proving causation.",
+          "Smoking is the main confounder in all epidemiological studies."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Too strong: the passage presents criteria for cases where experiments are impossible.",
+          "Correct: it links the problem (confounding) to the response (criteria used as aids to judgment).",
+          "Contradicted: Hill warned against treating them as a checklist.",
+          "Too strong: smoking is one example of a confounder."
+        ],
+        "explanation": "The passage moves from the problem of confounding to Hill's criteria and his warning that they are not a checklist.",
+        "evidence": "researchers have developed criteria for judging whether an observed association is likely to be causal"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-32",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Present Bias and Commitment",
+    "text": "Standard models of economic choice assume that people discount future rewards at a constant rate. On this assumption, a person who prefers one hundred dollars today to one hundred and ten dollars in a week should also prefer one hundred dollars in a year to one hundred and ten dollars in a year and a week, since the delay between the two options is identical. Experimental evidence suggests that many people violate this consistency. They choose the smaller, immediate reward when it is available now, yet choose the larger, later reward when both options lie in the distant future. Economists describe this pattern as present bias and often model it by assuming that the immediate moment receives disproportionate weight relative to all subsequent ones.\n\nOne important consequence of present bias is that plans formed in advance tend to unravel when the moment of action arrives. A person who sincerely resolves to begin saving or exercising next month may, when next month comes, prefer to postpone once again. Individuals who recognize this tendency in themselves may therefore seek to restrict their own future options. Such commitment devices range from depositing money in an account that cannot be accessed until a specified date to agreeing to forfeit a sum if a goal is not met.\n\nThe demand for commitment is theoretically revealing. A person with time-consistent preferences would never pay to limit her own choices, since, for someone whose future preferences match her present ones, additional options can never be harmful. That some people voluntarily accept such restrictions therefore suggests not only that their preferences change over time but also that they are, to some degree, aware of the fact.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "People always prefer larger rewards, however long they must wait for them.",
+          "Commitment devices completely eliminate present bias.",
+          "Many people give extra weight to the present, which undermines their plans, and their use of commitment devices suggests they know this.",
+          "Standard economic models accurately predict how people choose between rewards."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: people choose the smaller reward when it is available now.",
+          "Too strong: the passage says such devices restrict options, not that they eliminate the bias.",
+          "Correct: it covers the bias, its consequence, and what commitment reveals.",
+          "Contradicted: people \"violate this consistency.\""
+        ],
+        "explanation": "The passage defines present bias, shows how it undermines plans, and argues that demand for commitment reveals awareness of the bias.",
+        "evidence": "suggests not only that their preferences change over time but also that they are, to some degree, aware of the fact"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"unravel\" in the passage is closest in meaning to",
+        "options": [
+          "become clearer",
+          "become stronger",
+          "be repeated",
+          "fall apart"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not the meaning: the plans fail rather than become clear.",
+          "Opposite: the plans weaken.",
+          "Not the meaning: the problem is not repetition.",
+          "Correct: the plans fall apart when it is time to act."
+        ],
+        "explanation": "The example shows a person postponing again and again, so the plan falls apart.",
+        "evidence": "plans formed in advance tend to unravel when the moment of action arrives"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, which pattern of choices violates the assumption of standard models?",
+        "options": [
+          "Choosing the smaller reward when it is immediate, but the larger reward when both options are in the distant future",
+          "Always choosing the larger, later reward",
+          "Always choosing the smaller, earlier reward",
+          "Discounting future rewards at a constant rate"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the preference reverses depending on whether the options are near or far.",
+          "Consistent: this would not violate the assumption.",
+          "Consistent: a constant preference for sooner rewards also fits the standard model.",
+          "This is the assumption itself, not a violation of it."
+        ],
+        "explanation": "The violation is the reversal: the same delay matters when it starts now but not when it starts in a year.",
+        "evidence": "They choose the smaller, immediate reward when it is available now, yet choose the larger, later reward when both options lie in the distant future."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author explain that a person with time-consistent preferences \"would never pay to limit her own choices\"?",
+        "options": [
+          "To argue that commitment devices are irrational",
+          "To show why the use of commitment devices is evidence that preferences change over time",
+          "To describe how savings accounts with restrictions work",
+          "To claim that most people have time-consistent preferences"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Reversed: the author treats commitment as a sensible response to known bias.",
+          "Correct: since consistent people would gain nothing from fewer options, paying for restrictions reveals inconsistency.",
+          "Not the purpose: the accounts are described in paragraph 2.",
+          "Contradicted: the passage says many people violate consistency."
+        ],
+        "explanation": "This step of the argument explains why the demand for commitment is \"theoretically revealing.\"",
+        "evidence": "A person with time-consistent preferences would never pay to limit her own choices"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred about a present-biased person who is unaware of the bias?",
+        "options": [
+          "The person will use more commitment devices than other people.",
+          "The person has time-consistent preferences.",
+          "The person is unlikely to seek out commitment devices.",
+          "The person will never postpone a planned activity."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Reversed: commitment is sought by those who recognize the tendency.",
+          "Contradicted: being present-biased means preferences change.",
+          "Correct: only people who recognize the tendency in themselves seek to restrict their options.",
+          "Contradicted: present bias leads people to postpone plans."
+        ],
+        "explanation": "Paragraph 2 links commitment to self-awareness; without awareness, there is no reason to restrict future options.",
+        "evidence": "Individuals who recognize this tendency in themselves may therefore seek to restrict their own future options."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-33",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Intermediate Disturbance Hypothesis",
+    "text": "Ecological communities are periodically disrupted by storms, fires, floods, and other events that kill or remove organisms. In 1978 the ecologist Joseph Connell, drawing on studies of tropical rainforests and coral reefs, proposed that species diversity should be highest where such disturbances are neither too frequent nor too rare. Where disturbance is constant, he argued, only a few hardy species able to colonize quickly can persist. Where it is rare, communities approach equilibrium, and a handful of competitively superior species gradually exclude the rest. At intermediate levels, disturbance would interrupt competitive exclusion often enough to allow weaker competitors to persist.\n\nThe intermediate disturbance hypothesis proved remarkably popular. Its predictions are intuitive, it can be represented by a simple hump-shaped curve, and it appeared to offer practical guidance to managers of forests and grasslands. For several decades it was presented in textbooks as a general principle of community ecology.\n\nSubsequent scrutiny has been less kind. Reviews of empirical studies have found that a hump-shaped relationship between disturbance and diversity is observed in only a minority of cases; many studies report increasing, decreasing, or no relationship at all. Theoretical work has also questioned the mechanism, showing that disturbance does not generally prevent competitive exclusion merely by reducing population sizes, since it may slow the decline of weaker species without halting it. Some ecologists have consequently argued that the hypothesis should be abandoned; others contend that it may remain useful under particular conditions, provided that it is no longer treated as a universal rule. Either way, its history illustrates how an elegant idea can win wide acceptance before the evidence has been systematically assessed.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, what happens where disturbance is rare?",
+        "options": [
+          "A few competitively superior species gradually exclude the others.",
+          "Only hardy species that colonize quickly can survive.",
+          "Species diversity reaches its highest level.",
+          "Communities never approach equilibrium."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: without interruption, competition eliminates weaker species.",
+          "Wrong: this describes constant disturbance.",
+          "Wrong: diversity is highest at intermediate levels.",
+          "Contradicted: rare disturbance lets communities \"approach equilibrium.\""
+        ],
+        "explanation": "Connell contrasted three situations; with rare disturbance, competitive exclusion proceeds.",
+        "evidence": "a handful of competitively superior species gradually exclude the rest"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"Its\" in the sentence \"Its predictions are intuitive\" refers to",
+        "options": [
+          "competitive exclusion",
+          "the hump-shaped curve",
+          "community ecology",
+          "the intermediate disturbance hypothesis"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not logical: competitive exclusion is a process, not a theory that makes predictions here.",
+          "Not logical: the curve is mentioned after \"Its\" and represents the hypothesis.",
+          "Not logical: community ecology is a field, mentioned at the end of the paragraph.",
+          "Correct: the hypothesis, named in the previous sentence, makes intuitive predictions."
+        ],
+        "explanation": "The previous sentence's subject is \"The intermediate disturbance hypothesis,\" and the paragraph lists reasons for its popularity.",
+        "evidence": "Its predictions are intuitive"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that the hypothesis was presented in textbooks as a general principle?",
+        "options": [
+          "To show that it had been confirmed by extensive evidence",
+          "To argue that textbooks should not be used in ecology",
+          "To highlight how widely accepted the idea became before later criticism",
+          "To explain the mechanism by which disturbance affects diversity"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Reversed: the passage says acceptance came \"before the evidence has been systematically assessed.\"",
+          "Not argued: no criticism of textbooks in general is made.",
+          "Correct: the detail sets up the contrast with \"Subsequent scrutiny has been less kind.\"",
+          "Not the purpose: the mechanism is explained in paragraph 1."
+        ],
+        "explanation": "The textbook status illustrates the hypothesis's popularity, which the final paragraph contrasts with its weak empirical support.",
+        "evidence": "For several decades it was presented in textbooks as a general principle of community ecology."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred about the ecologists who say the hypothesis \"may remain useful under particular conditions\"?",
+        "options": [
+          "They believe a hump-shaped relationship occurs in most cases.",
+          "They accept that the hypothesis does not apply universally.",
+          "They reject the findings of the empirical reviews.",
+          "They argue that the hypothesis should be abandoned."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not supported: nothing suggests they dispute the \"minority of cases\" finding.",
+          "Correct: their position depends on the hypothesis \"no longer\" being treated as a universal rule.",
+          "Not stated: their view is compatible with the reviews.",
+          "Wrong group: this is the view of \"some ecologists,\" contrasted with \"others.\""
+        ],
+        "explanation": "The condition they attach, that it no longer be treated as a universal rule, shows that they accept its limited scope.",
+        "evidence": "provided that it is no longer treated as a universal rule"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "A once widely accepted explanation of how disturbance affects diversity has been challenged on both empirical and theoretical grounds.",
+          "Disturbance always reduces species diversity.",
+          "Connell's hypothesis has been conclusively shown to be false in every case.",
+          "Intermediate disturbance is the best strategy for managing forests."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the passage traces the hypothesis from popularity to empirical and theoretical criticism.",
+          "Not stated: studies report increasing, decreasing, or no relationship.",
+          "Too strong: some ecologists think it may still be useful in some conditions.",
+          "Not supported: the hypothesis only \"appeared to offer\" such guidance."
+        ],
+        "explanation": "Paragraphs 1–2 present the hypothesis and its popularity; paragraph 3 describes the empirical and theoretical challenges.",
+        "evidence": "Subsequent scrutiny has been less kind."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-34",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Matthew Effect in Science",
+    "text": "In 1968 the sociologist Robert K. Merton described a pattern he called the Matthew effect, after a verse in the Gospel of Matthew stating that to those who have, more shall be given. Drawing on interviews with Nobel laureates conducted by the sociologist Harriet Zuckerman, Merton identified a curious asymmetry: when an eminent scientist and a little-known one made comparable contributions, whether jointly or independently, the eminent figure tended to receive a disproportionate share of the credit. Readers were more likely to notice, cite, and remember work associated with an established name, while equivalent work by an obscure researcher might pass unremarked.\n\nMerton's analysis was notable for its refusal to treat this pattern as simple injustice. The effect, he suggested, also performs a function for science as a whole. Faced with an overwhelming volume of publications, researchers must decide what to read, and the reputation of an author serves as a rough signal of likely quality. Consequently, findings attached to prominent names may diffuse more rapidly through the scientific community than they otherwise would. The same mechanism that is unfair to individuals may thus improve the efficiency of communication within the system.\n\nLater researchers have sought to measure the effect more precisely, a task complicated by the fact that eminent scientists may genuinely produce better work, making it difficult to separate reputation from quality. Studies that track citations to papers written before their authors received a prestigious award have suggested that recognition itself can increase attention to earlier work, though the size of the effect varies. Because advantages compound over a career, such findings raise the possibility that small initial differences in recognition can grow into substantial inequalities.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"diffuse\" in the passage is closest in meaning to",
+        "options": [
+          "weaken",
+          "spread",
+          "conflict",
+          "be corrected"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not the meaning: the findings become better known, not weaker.",
+          "Correct: the findings spread more rapidly through the community.",
+          "Not the meaning: there is no disagreement involved.",
+          "Not the meaning: accuracy is not at issue."
+        ],
+        "explanation": "The phrase \"through the scientific community\" shows that the findings travel, or spread, among researchers.",
+        "evidence": "findings attached to prominent names may diffuse more rapidly"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, why do researchers rely on an author's reputation?",
+        "options": [
+          "Because eminent scientists always produce better work",
+          "Because journals require them to cite famous authors",
+          "Because the volume of publications is too great to read everything",
+          "Because Merton recommended doing so"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Too strong: reputation is only \"a rough signal of likely quality.\"",
+          "Not mentioned: journal requirements are not discussed.",
+          "Correct: an overwhelming volume of publications forces researchers to choose what to read.",
+          "Not stated: Merton explained the behavior rather than recommending it."
+        ],
+        "explanation": "Reputation helps researchers decide what to read when there is too much to read.",
+        "evidence": "Faced with an overwhelming volume of publications, researchers must decide what to read"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author say that Merton's analysis \"was notable for its refusal to treat this pattern as simple injustice\"?",
+        "options": [
+          "To suggest that Merton denied the pattern was unfair to anyone",
+          "To criticize Merton for ignoring less famous scientists",
+          "To show that the Matthew effect is rare",
+          "To introduce Merton's argument that the effect may also benefit the scientific system"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Too strong: Merton acknowledged the mechanism \"is unfair to individuals.\"",
+          "Not stated: the author presents Merton's view without criticism.",
+          "Not supported: nothing suggests the effect is rare.",
+          "Correct: the next sentence states that the effect also performs a function for science as a whole."
+        ],
+        "explanation": "The word \"simple\" signals that Merton saw more than injustice; the paragraph goes on to describe the effect's function for communication.",
+        "evidence": "The effect, he suggested, also performs a function for science as a whole."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred about why studies of papers written before an award are useful?",
+        "options": [
+          "They help separate the influence of recognition from the quality of the work, since the quality of earlier papers cannot be changed by the award.",
+          "They prove that eminent scientists produce better work.",
+          "They show that the effect is the same in every field.",
+          "They show that awards reduce citations to earlier work."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the earlier papers are fixed in quality, so any increase in attention after the award reflects recognition.",
+          "Not supported: the studies address recognition, not ability.",
+          "Contradicted: \"the size of the effect varies.\"",
+          "Reversed: recognition \"can increase attention to earlier work.\""
+        ],
+        "explanation": "The difficulty is separating reputation from quality; looking at work written before the award holds quality constant.",
+        "evidence": "making it difficult to separate reputation from quality"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"they\" in the phrase \"than they otherwise would\" refers to",
+        "options": [
+          "prominent names",
+          "researchers",
+          "findings attached to prominent names",
+          "publications"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not logical: the names are not what spreads through the community.",
+          "Not logical: researchers are not the subject of this sentence.",
+          "Correct: the findings spread faster than the same findings would without a famous name.",
+          "Not logical: publications are mentioned in the previous sentence and are not the subject here."
+        ],
+        "explanation": "The sentence compares how fast findings spread when linked to a prominent name with how fast they would otherwise spread.",
+        "evidence": "than they otherwise would"
+      }
+    ]
+  }
+]

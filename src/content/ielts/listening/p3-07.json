@@ -1,0 +1,324 @@
+[
+  {
+    "id": "ielts-l-p3-07",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 3,
+    "title": "A survey on clothing repair",
+    "context": "You will hear two students, Ruth and Sam, discussing their survey project on clothing repair with their tutor, Dr Moreau.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "rut",
+          "name": "Ruth",
+          "role": "student",
+          "gender": "f",
+          "accent": "en-GB"
+        },
+        {
+          "id": "sam",
+          "name": "Sam",
+          "role": "student",
+          "gender": "m",
+          "accent": "en-NZ"
+        },
+        {
+          "id": "tut",
+          "name": "Dr Moreau",
+          "role": "tutor",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "tut",
+          "t": "Come in, Ruth, Sam. So, how's the survey project going? Remind me, it's on clothing, isn't it?"
+        },
+        {
+          "s": "sam",
+          "t": "Yes, but we've changed the focus. We started with fast fashion in general, and then we narrowed it down to why people don't repair their clothes. I thought we'd changed because you told us the original topic was too broad."
+        },
+        {
+          "s": "tut",
+          "t": "I did say that, but I assumed you'd decided to keep it anyway."
+        },
+        {
+          "s": "rut",
+          "t": "Well, the real reason was something else. When I searched the department's archive, there were already dozens of student surveys on fast fashion. We wouldn't have been adding anything new. Finding participants wasn't an issue, because we'd have had plenty either way."
+        },
+        {
+          "s": "tut",
+          "t": "That's a sensible reason. So how are you going to recruit people?"
+        },
+        {
+          "s": "sam",
+          "t": "My first idea was just to share a link on social media."
+        },
+        {
+          "s": "rut",
+          "t": "But that would mostly reach our own friends, who are all about the same age and have similar habits. So I suggested handing out questionnaires at the repair café that runs in the town hall every month."
+        },
+        {
+          "s": "tut",
+          "t": "Hmm. Think about who goes to a repair café, though. They're people who already repair things. Your results would be heavily biased in one direction."
+        },
+        {
+          "s": "sam",
+          "t": "That's true. In that case, what about the university's mailing list? It goes to every student and member of staff."
+        },
+        {
+          "s": "rut",
+          "t": "Yes, that's much wider than either of the other options. Let's go with the mailing list."
+        },
+        {
+          "s": "tut",
+          "t": "Good. Now, I've had a look at your draft questionnaire. The length is fine. Ten minutes is perfectly acceptable. And I like the balance of open and closed questions. But look at question six. Don't you agree that repairing clothes saves money? That's pushing people towards the answer you expect."
+        },
+        {
+          "s": "sam",
+          "t": "I see what you mean. We'll reword it so it's neutral."
+        },
+        {
+          "s": "tut",
+          "t": "And you ran a pilot study, I think?"
+        },
+        {
+          "s": "rut",
+          "t": "Yes, with twelve people. I expected some of them to skip the question about income, but they all answered it. And the timing was spot on. The problem was a word. Several people thought alteration meant the same as repair, whereas we meant changing the size or style of a garment. So we'll add a short definition."
+        },
+        {
+          "s": "tut",
+          "t": "Very useful. What reasons did people give for not repairing their clothes?"
+        },
+        {
+          "s": "sam",
+          "t": "I was sure that lack of time would come out on top, but it actually came fourth."
+        },
+        {
+          "s": "rut",
+          "t": "The cost of paying someone else to do repairs came up, but only from a couple of people. By far the most common reason was that people simply don't know how to sew. And the second was that new clothes are so cheap that repairing old ones doesn't seem worth the effort."
+        },
+        {
+          "s": "sam",
+          "t": "And I was expecting people to say they'd be embarrassed to wear something with a visible patch, but nobody mentioned that at all."
+        },
+        {
+          "s": "tut",
+          "t": "Interesting. Now, for your discussion section, you'll need to think about solutions. Sam, you mentioned subsidies in your notes."
+        },
+        {
+          "s": "sam",
+          "t": "Yes, Sweden reduced the tax on repairs a few years ago. I thought something like that would make a big difference here."
+        },
+        {
+          "s": "tut",
+          "t": "I'm not so sure. From what I've read, the evidence from Sweden suggests that the effect on people's behaviour was quite small. In my view, making repairs cheaper wouldn't change much on its own."
+        },
+        {
+          "s": "rut",
+          "t": "What I'd really like to see is every clothing label explaining how to repair the garment, not just how to wash it. If people had that information the moment they bought something, they'd be far more likely to try."
+        },
+        {
+          "s": "sam",
+          "t": "Maybe. One thing that worries me about our data, though, is the mailing list. Most of the people on it are under thirty. I don't think we can assume that older people would give the same reasons."
+        },
+        {
+          "s": "rut",
+          "t": "I suppose older people are more likely to have learned to sew at school. Fair enough, we'll mention that as a limitation."
+        },
+        {
+          "s": "tut",
+          "t": "Good. And Ruth, you said earlier you were doubtful about social media."
+        },
+        {
+          "s": "rut",
+          "t": "As a way of recruiting participants, yes."
+        },
+        {
+          "s": "tut",
+          "t": "Well, as a solution, I'd take it more seriously. I'm convinced that online videos are what will make mending fashionable among young people. Some of those visible mending accounts have huge audiences."
+        },
+        {
+          "s": "sam",
+          "t": "That's worth including. OK, we'll send you a revised draft next week."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–24\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q21",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Why did the students change the focus of their project?",
+            "options": [
+              "The original topic had already been studied many times.",
+              "They could not find enough participants.",
+              "Their tutor had told them the topic was too broad."
+            ],
+            "answer": 0,
+            "optionNotes": [
+              "Correct: dozens of student surveys already existed.",
+              "Ruth says participants were not an issue.",
+              "Sam believed this, but the tutor assumed they had kept the topic; Ruth gives the real reason."
+            ],
+            "explanation": "Ruth explains that there were already dozens of student surveys on fast fashion, so they would add nothing new.",
+            "evidence": "there were already dozens of student surveys on fast fashion"
+          },
+          {
+            "id": "q22",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "How will the students recruit participants?",
+            "options": [
+              "through social media",
+              "at a local repair café",
+              "through a university mailing list"
+            ],
+            "answer": 2,
+            "optionNotes": [
+              "Rejected: it would only reach their friends.",
+              "Rejected by the tutor: the sample would be biased.",
+              "Correct: they finally agree on this."
+            ],
+            "explanation": "Each suggestion is rejected in turn until Sam proposes the mailing list and Ruth agrees.",
+            "evidence": "Let's go with the mailing list."
+          },
+          {
+            "id": "q23",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What criticism does the tutor make of the draft questionnaire?",
+            "options": [
+              "It is too long.",
+              "One question is worded in a leading way.",
+              "It contains too many open questions."
+            ],
+            "answer": 1,
+            "optionNotes": [
+              "He says the length is fine.",
+              "Correct: question six pushes people towards an answer.",
+              "He likes the balance of open and closed questions."
+            ],
+            "explanation": "Question six \"is pushing people towards the answer you expect\".",
+            "evidence": "That's pushing people towards the answer you expect."
+          },
+          {
+            "id": "q24",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What problem did the pilot study reveal?",
+            "options": [
+              "Some participants refused to answer a personal question.",
+              "The questionnaire took longer than planned.",
+              "A key term was misunderstood."
+            ],
+            "answer": 2,
+            "optionNotes": [
+              "Ruth expected this, but everyone answered the income question.",
+              "The timing was spot on.",
+              "Correct: \"alteration\" was confused with \"repair\"."
+            ],
+            "explanation": "Several people thought \"alteration\" meant repair, so the students will add a definition.",
+            "evidence": "Several people thought alteration meant the same as repair"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "multi",
+        "instructions": "Questions 25 and 26\nChoose TWO letters, A–E.",
+        "items": [
+          {
+            "id": "q25",
+            "kind": "multi",
+            "qtype": "multi",
+            "prompt": "Which TWO reasons for not repairing clothes were given most often in the pilot study?",
+            "options": [
+              "a lack of sewing skills",
+              "the cost of repair services",
+              "a lack of time",
+              "the low price of new clothes",
+              "embarrassment about wearing repaired clothes"
+            ],
+            "answers": [
+              0,
+              3
+            ],
+            "optionNotes": [
+              "Correct: the most common reason.",
+              "Mentioned by only a couple of people.",
+              "Sam expected it to come first, but it came fourth.",
+              "Correct: the second reason.",
+              "Nobody mentioned it."
+            ],
+            "explanation": "The top reason was not knowing how to sew; the second was that new clothes are so cheap. Time came fourth, cost of repairs was rare and embarrassment was not mentioned.",
+            "evidence": "By far the most common reason was that people simply don't know how to sew."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching",
+        "instructions": "Questions 27–30\nWho expresses each of the following opinions?\nWrite the correct letter, A, B or C, next to Questions 27–30.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Ruth"
+          },
+          {
+            "key": "B",
+            "text": "Sam"
+          },
+          {
+            "key": "C",
+            "text": "Dr Moreau"
+          }
+        ],
+        "items": [
+          {
+            "id": "q27",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "Lowering the cost of repairs would have little effect.",
+            "answer": "C",
+            "explanation": "Sam thought a tax cut like Sweden's would make a big difference; the tutor disagrees.",
+            "evidence": "making repairs cheaper wouldn't change much on its own"
+          },
+          {
+            "id": "q28",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "Clothes should come with repair instructions.",
+            "answer": "A",
+            "explanation": "Ruth wants every clothing label to explain how to repair the garment. Sam only says \"Maybe\".",
+            "evidence": "every clothing label explaining how to repair the garment"
+          },
+          {
+            "id": "q29",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "The findings may not apply to older people.",
+            "answer": "B",
+            "explanation": "Sam raises this; Ruth only accepts it afterwards (\"Fair enough\").",
+            "evidence": "I don't think we can assume that older people would give the same reasons."
+          },
+          {
+            "id": "q30",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "Online content could make repairing clothes popular.",
+            "answer": "C",
+            "explanation": "Ruth's doubts were about recruiting on social media; the tutor is convinced online videos will make mending fashionable.",
+            "evidence": "I'm convinced that online videos are what will make mending fashionable"
+          }
+        ]
+      }
+    ]
+  }
+]

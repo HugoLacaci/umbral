@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ielts-r-m3-p1",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 3,
+    "passageNo": 1,
+    "title": "Lights on the Rocks",
+    "subtitle": "How the lighthouse developed from open fires to automatic beacons",
+    "paragraphs": [
+      {
+        "text": "For as long as people have travelled by sea, they have needed some way of finding a safe route to the shore at night. The earliest aids to navigation were simply fires lit on hilltops near harbours, and for many centuries the technology changed very little. Yet between the late seventeenth and the early twentieth centuries the lighthouse was transformed, first by engineers who learned how to build on exposed rocks and then by scientists who discovered how to make a small flame visible from many kilometres away."
+      },
+      {
+        "text": "The most famous lighthouse of the ancient world stood on the island of Pharos, at the entrance to the harbour of Alexandria in Egypt. Completed in the third century BCE, it was probably more than 100 metres tall, and ancient writers describe a fire burning at its summit. It survived for well over a thousand years before a series of earthquakes left it in ruins. Few later structures came close to its size. Throughout the medieval period, most lights were modest towers on headlands or harbour walls, often maintained by monks or by local merchants who charged passing ships a small fee."
+      },
+      {
+        "text": "The greatest challenge was not marking harbours but warning ships away from rocks far out at sea. The Eddystone reef, about 20 kilometres south-west of the port of Plymouth in England, had wrecked so many vessels that in the 1690s Henry Winstanley, a designer who had lost two of his own ships there, decided to build a light on it. His elaborate wooden tower, decorated with carvings and iron ornaments, was lit in 1698. Five years later, a violent storm swept the whole structure into the sea, and Winstanley, who was on the rock at the time carrying out repairs, was never seen again. A second tower, also made largely of timber, stood for almost half a century until it was destroyed by fire in 1755."
+      },
+      {
+        "text": "The engineer given the task of replacing it, John Smeaton, took a very different approach. Smeaton studied the shape of an oak tree, which stays upright in high winds because it is wide at the base and narrows as it rises. He designed a curved tower of granite and limestone blocks, each cut so that it locked into its neighbours like the pieces of a puzzle, and he experimented with a type of lime mortar that would set hard even under water. His tower was completed in 1759 and stood firm for well over a century. When it was finally replaced, the reason was not any weakness in the building but the fact that the rock beneath it had begun to crack. The upper part was taken down and rebuilt on land in Plymouth, where visitors can still climb it today."
+      },
+      {
+        "text": "Strong towers solved only half of the problem, because the lights themselves remained weak. Candles and oil lamps produced little light, and much of it was wasted as it spread in every direction. Mirrors placed behind the lamps helped, but they tarnished quickly and had to be polished constantly. The decisive improvement came in the 1820s from Augustin Fresnel, a French physicist who had been appointed to a commission responsible for the lighthouses of France. Instead of a single thick glass lens, which would have been extremely heavy, Fresnel arranged many thin rings of glass around a central lens. Each ring bent the light by a slightly different amount, so that almost all of it left the lighthouse as a narrow, powerful beam. The first of his lenses was installed in 1823 at the Cordouan lighthouse, near the mouth of the Gironde river, and the design was soon adopted around the world. A large Fresnel lens could make a beam visible more than 30 kilometres away."
+      },
+      {
+        "text": "Because many lighthouses were now built along the same stretch of coast, sailors needed a way to tell one from another. Engineers therefore gave each light its own 'character'. Some lights flashed in a particular pattern, produced by rotating the lens on a mechanism driven by clockwork weights; others used coloured glass to show red or green in certain directions. A captain who counted the seconds between flashes could identify the lighthouse from a printed list and so work out the position of his ship."
+      },
+      {
+        "text": "For most of their history, lighthouses depended on keepers, who lived at the station, trimmed the wicks, wound the clockwork and kept the glass clean. The work was lonely and, on isolated rocks, sometimes dangerous; keepers on offshore towers were often cut off by bad weather for weeks. During the twentieth century, electric lamps and automatic equipment gradually made keepers unnecessary, and the last staffed lighthouse in the United Kingdom was automated in 1998. Today, satellite navigation means that most ships could find their way without lighthouses at all. Nevertheless, many coastal authorities have chosen to keep them working, partly as a back-up in case electronic systems fail and partly because, for small boats in particular, a light on the horizon remains the simplest guide of all."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "tfng",
+        "instructions": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          {
+            "id": "q1",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Some medieval lights were paid for by charging ships that sailed past them.",
+            "answer": "TRUE",
+            "evidence": "local merchants who charged passing ships a small fee",
+            "explanation": "'Charging ships that sailed past' paraphrases 'charged passing ships a small fee'. The statement says 'some' lights, which matches 'often maintained by ... local merchants', so it is TRUE."
+          },
+          {
+            "id": "q2",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Winstanley's tower was destroyed less than ten years after it was first lit.",
+            "answer": "TRUE",
+            "evidence": "was lit in 1698. Five years later, a violent storm swept the whole structure into the sea",
+            "explanation": "The tower was lit in 1698 and swept away 'five years later' (1703). Five years is less than ten, so the statement is TRUE. Do not confuse it with the second tower, which stood for almost half a century."
+          },
+          {
+            "id": "q3",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Smeaton's tower cost more to build than the two earlier Eddystone towers.",
+            "answer": "NOT GIVEN",
+            "explanation": "The passage describes Smeaton's design (the oak-tree shape, interlocking blocks, special mortar) and how long it lasted, but says nothing at all about the cost of any of the towers. With no information on cost, the answer is NOT GIVEN, not FALSE."
+          },
+          {
+            "id": "q4",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Smeaton's tower was eventually replaced because its stonework had become unsafe.",
+            "answer": "FALSE",
+            "evidence": "the reason was not any weakness in the building but the fact that the rock beneath it had begun to crack",
+            "explanation": "The passage directly contradicts the statement: the problem was 'not any weakness in the building' but the cracking rock underneath. Because the text gives a different reason, the answer is FALSE rather than NOT GIVEN."
+          },
+          {
+            "id": "q5",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Fresnel's lens was heavier than a single solid lens doing the same job would have been.",
+            "answer": "FALSE",
+            "evidence": "Instead of a single thick glass lens, which would have been extremely heavy",
+            "explanation": "The single thick lens 'would have been extremely heavy'; Fresnel used thin rings instead of it. The text therefore presents his design as the lighter one, which contradicts the statement: FALSE."
+          },
+          {
+            "id": "q6",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Keepers working on offshore towers received higher pay than keepers on the mainland.",
+            "answer": "NOT GIVEN",
+            "explanation": "We are told offshore work was lonely, sometimes dangerous and that keepers could be cut off for weeks, but there is no information about pay. It is tempting to assume harder work meant better pay, but the passage never says so: NOT GIVEN."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "table-completion",
+        "instructions": "Questions 7–13\nComplete the table below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 7–13 on your answer sheet.",
+        "title": "Key stages in the development of the lighthouse",
+        "template": "| Date | Place / person | Main features | What happened later |\n| --- | --- | --- | --- |\n| 3rd century BCE | Pharos, Alexandria | over 100 metres tall, with a {{q7}} at the top | ruined by {{q8}} |\n| 1698 | Eddystone: Winstanley | elaborate {{q9}} tower with carvings | swept into the sea by a storm |\n| 1759 | Eddystone: Smeaton | shape copied from an {{q10}} tree; blocks fitted together; lime {{q11}} that set under water | rebuilt on land after the {{q12}} under it cracked |\n| 1823 | Cordouan: Fresnel | thin {{q13}} of glass around a central lens | beam visible over 30 km away |",
+        "items": [
+          {
+            "id": "q7",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["fire"],
+            "maxWords": 1,
+            "evidence": "ancient writers describe a fire burning at its summit",
+            "explanation": "'At the top' paraphrases 'at its summit'. The ancient Pharos used a fire, not a lens or a lamp."
+          },
+          {
+            "id": "q8",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["earthquakes"],
+            "maxWords": 1,
+            "evidence": "a series of earthquakes left it in ruins",
+            "explanation": "'Ruined by' = 'left it in ruins'. The cause was 'a series of earthquakes'; 'storm' and 'fire' belong to the Eddystone towers."
+          },
+          {
+            "id": "q9",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["wooden"],
+            "maxWords": 1,
+            "evidence": "His elaborate wooden tower, decorated with carvings and iron ornaments",
+            "explanation": "The table copies the phrase 'elaborate ___ tower', so the missing word is the adjective 'wooden'. 'Timber' describes the second tower, not Winstanley's, and 'wood' does not fit grammatically before 'tower' as written in the passage."
+          },
+          {
+            "id": "q10",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["oak"],
+            "maxWords": 1,
+            "evidence": "Smeaton studied the shape of an oak tree",
+            "explanation": "Smeaton based his curved design on 'the shape of an oak tree', wide at the base and narrower higher up."
+          },
+          {
+            "id": "q11",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["mortar"],
+            "maxWords": 1,
+            "evidence": "a type of lime mortar that would set hard even under water",
+            "explanation": "'Lime ___ that set under water' matches 'lime mortar that would set hard even under water'. Only one word is allowed, and 'lime' is already in the table."
+          },
+          {
+            "id": "q12",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["rock"],
+            "maxWords": 1,
+            "evidence": "the rock beneath it had begun to crack",
+            "explanation": "'The ___ under it cracked' paraphrases 'the rock beneath it had begun to crack'. The building itself was not weak."
+          },
+          {
+            "id": "q13",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["rings"],
+            "maxWords": 1,
+            "evidence": "Fresnel arranged many thin rings of glass around a central lens",
+            "explanation": "The table repeats 'thin ___ of glass around a central lens', so the answer is 'rings' (plural, because 'many' rings are described)."
+          }
+        ]
+      }
+    ]
+  }
+]

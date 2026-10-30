@@ -1,0 +1,38 @@
+[
+  {
+    "id": "toefl-repeat-m1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "context": "You are training to work as a guide at the university's history museum. Listen to the museum director and repeat what she says.",
+    "visual": "A museum gallery with glass cases of ancient pottery and coins and an old map on the wall.",
+    "speaker": { "id": "dir", "name": "Dr. Laura Evans", "role": "Museum director", "gender": "f", "accent": "en-US" },
+    "sentences": [
+      "This gallery shows ancient objects.",
+      "Most of the pottery is very fragile.",
+      "These coins were discovered near the river last year.",
+      "Each display case is kept at a constant temperature and humidity.",
+      "The map on the wall shows the trade routes used by early merchants.",
+      "Archaeology students from our university helped to clean and catalogue many of the items you see here.",
+      "If visitors want more information about a particular object, they can scan the code printed on the label beside it."
+    ]
+  },
+  {
+    "id": "toefl-repeat-m2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "context": "You have a new job helping at the university's student health center. Listen to the clinic administrator and repeat what he says.",
+    "visual": "A clean waiting room with chairs, a reception window, health posters on the wall and a hand sanitizer station.",
+    "speaker": { "id": "adm", "name": "Mark Robinson", "role": "Clinic administrator", "gender": "m", "accent": "en-GB" },
+    "sentences": [
+      "Please take a seat here.",
+      "The nurse will call your name soon.",
+      "Appointments can be made online or by phone.",
+      "Students must bring their health insurance card to every visit.",
+      "Flu vaccinations are offered free of charge during October and November.",
+      "Anyone who arrives without an appointment may have to wait for up to an hour on busy days.",
+      "For emergencies that happen outside our opening hours, students should go directly to the city hospital on Park Road."
+    ]
+  }
+]

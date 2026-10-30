@@ -1,0 +1,140 @@
+[
+  {
+    "id": "toefl-repeat-17",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You have a part-time job at the city's public transit information center. Listen to the customer service supervisor and repeat what he says.",
+    "visual": "A busy counter in a train station with a large route map on the wall and screens showing departure times.",
+    "speaker": {
+      "id": "trn",
+      "name": "Mr. Robert Ashby",
+      "role": "Customer service supervisor",
+      "gender": "m",
+      "accent": "en-GB"
+    },
+    "sentences": [
+      "Most questions are about delays.",
+      "Weekly passes are sold at window three.",
+      "Trains to the airport leave every fifteen minutes until midnight.",
+      "Passengers who lose a ticket must fill out a form before receiving a replacement.",
+      "The route map shows all twelve lines, which are marked with different colors and numbers.",
+      "Students who show a valid university card can buy a monthly pass for forty-five pounds instead of sixty.",
+      "If passengers ask about the night buses, explain that they run only on Fridays and Saturdays, from one until five."
+    ]
+  },
+  {
+    "id": "toefl-repeat-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You are volunteering at the information desk of a university hospital. Listen to the volunteer coordinator and repeat what she says.",
+    "visual": "A hospital lobby with a reception desk, a row of elevators and colored lines on the floor leading to different departments.",
+    "speaker": {
+      "id": "hos",
+      "name": "Ms. Danielle Price",
+      "role": "Volunteer coordinator",
+      "gender": "f",
+      "accent": "en-US"
+    },
+    "sentences": [
+      "Visiting hours begin at noon.",
+      "Always wear your badge where patients can see it.",
+      "The colored lines on the floor lead visitors to each department.",
+      "The children's ward, which is on the fourth floor, has its own separate entrance.",
+      "Never give out information about a patient's condition, even to people who say they are close family members.",
+      "Visitors who arrive after eight in the evening must sign in with the security guard at the main door.",
+      "When the lobby gets crowded, which usually happens around two o'clock, guide visitors toward the stairs instead of the elevators."
+    ]
+  },
+  {
+    "id": "toefl-repeat-19",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You are training as a guide at a railway museum located in a historic train station. Listen to the museum curator and repeat what he says.",
+    "visual": "A large hall with a glass roof, an old green steam locomotive and wooden benches from the original station.",
+    "speaker": {
+      "id": "rlw",
+      "name": "Dr. Angus Reid",
+      "role": "Museum curator",
+      "gender": "m",
+      "accent": "en-AU"
+    },
+    "sentences": [
+      "This station opened in eighteen eighty-two.",
+      "The glass roof was restored after the war.",
+      "Over two hundred trains a day once stopped at these platforms.",
+      "The steam locomotive in the center of the hall weighs nearly ninety tons.",
+      "These wooden benches, which were made by local carpenters, are the only original furniture that survived.",
+      "During the nineteen thirties, the station employed about six hundred workers, many of whom lived in the streets nearby.",
+      "Children may climb into the driver's cabin of the locomotive, but only when a trained member of staff is beside them."
+    ]
+  },
+  {
+    "id": "toefl-repeat-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You have started working in the special collections room of the university library, where rare books and old documents are kept. Listen to the archivist and repeat what she says.",
+    "visual": "A quiet reading room with long tables, foam book supports, white cotton gloves and shelves of old leather-bound books behind glass.",
+    "speaker": {
+      "id": "arc",
+      "name": "Dr. Helen Marsh",
+      "role": "Archivist",
+      "gender": "f",
+      "accent": "en-GB"
+    },
+    "sentences": [
+      "Pens are not allowed in this room.",
+      "Readers must use pencils to take notes.",
+      "Each book must be placed on a foam support while it is open.",
+      "Our oldest manuscript, which dates from the twelfth century, is kept in a separate vault.",
+      "Readers can request up to five items at a time, but they must return each one before leaving.",
+      "The temperature in this room is kept at eighteen degrees, which protects the paper from damage caused by heat and humidity.",
+      "If readers want to photograph a document published less than seventy years ago, they need written permission from the copyright holder."
+    ]
+  },
+  {
+    "id": "toefl-repeat-21",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You are helping to organize a regional high school science fair hosted by your university. Listen to the head judge and repeat what he says.",
+    "visual": "A gymnasium filled with rows of tables and colorful poster boards, with students standing beside their projects.",
+    "speaker": {
+      "id": "sci",
+      "name": "Professor Daniel Ortega",
+      "role": "Head judge",
+      "gender": "m",
+      "accent": "en-US"
+    },
+    "sentences": [
+      "Judging starts at ten o'clock.",
+      "Each judge will receive a scoring sheet.",
+      "There are one hundred and twenty projects in this year's competition.",
+      "Every project must be evaluated by at least three judges working independently.",
+      "Students whose projects involve live animals need to show a signed approval form from their teacher.",
+      "The judges will spend about eight minutes at each table, which includes time for the student to answer questions.",
+      "The three projects that receive the highest average scores will be invited to the national competition, which takes place next spring."
+    ]
+  },
+  {
+    "id": "toefl-repeat-22",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You have a summer job at the visitor center of a coastal wind farm. Listen to the site engineer and repeat what she says.",
+    "visual": "A row of tall white wind turbines along a cliff above the sea, with a small visitor center and a viewing platform in front.",
+    "speaker": {
+      "id": "wnd",
+      "name": "Ms. Fiona Grant",
+      "role": "Site engineer",
+      "gender": "f",
+      "accent": "en-CA"
+    },
+    "sentences": [
+      "Visitors must stay behind the fence.",
+      "Each turbine is one hundred meters tall.",
+      "The blades turn more slowly than most people expect.",
+      "Together, the thirty turbines produce enough electricity for about forty thousand homes.",
+      "The turbines stop automatically when the wind speed reaches ninety kilometers per hour, which protects the blades.",
+      "The viewing platform, which was built last spring, offers the best view of the turbines that stand closest to the sea.",
+      "Guests who want to see inside a turbine can join the guided tour that leaves the visitor center at eleven and three."
+    ]
+  }
+]

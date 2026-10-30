@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "toefl-talk-09",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "The spacing effect",
+    "context": "Listen to part of a talk in a psychology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Diaz",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today I want to talk about something that can directly help you as students. It's called the spacing effect."
+        },
+        {
+          "s": "p",
+          "t": "The spacing effect is the finding that we remember information better when we study it in several shorter sessions spread out over time, rather than in one long session. That one long session is what we usually call cramming."
+        },
+        {
+          "s": "p",
+          "t": "This was first described more than a hundred years ago by a German researcher, Hermann Ebbinghaus. He tested himself by memorizing lists of nonsense syllables, short made-up words like dax or wib. He used nonsense words on purpose, so that his earlier knowledge couldn't help him remember."
+        },
+        {
+          "s": "p",
+          "t": "He found that if he spread his practice over several days, he needed fewer total repetitions to learn a list than if he did all his practice on one day."
+        },
+        {
+          "s": "p",
+          "t": "Why does spacing work? One explanation is that when you return to material after a break, you have partly forgotten it. Having to work a little to remember it again actually makes the memory stronger."
+        },
+        {
+          "s": "p",
+          "t": "So here's a practical tip. Instead of studying for six hours the night before the exam, try one hour a day for six days. It's the same total time, but you'll probably remember much more."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why studying in several short sessions improves memory",
+          "The life of a German psychologist",
+          "How to create nonsense words for experiments",
+          "Why students forget information during exams"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The talk defines and explains the spacing effect.",
+          "Ebbinghaus is mentioned only for his experiment.",
+          "Nonsense words are a detail of the method.",
+          "Forgetting during exams is not discussed."
+        ],
+        "explanation": "The professor explains the spacing effect, its discovery and why it works."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why did Ebbinghaus use nonsense syllables?",
+        "options": [
+          "They were easier to pronounce than real words.",
+          "He wanted to test a new language.",
+          "He wanted to prevent his existing knowledge from helping him.",
+          "Real words were too easy to forget."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Pronunciation is not mentioned.",
+          "No new language is involved.",
+          "Correct. Made-up words have no meaning he already knew.",
+          "The point was to avoid prior knowledge, not ease of forgetting."
+        ],
+        "explanation": "Nonsense words ensured that earlier knowledge could not affect the results.",
+        "evidence": "so that his earlier knowledge couldn't help him remember"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to one explanation, why does spacing make memory stronger?",
+        "options": [
+          "Breaks allow students to read more material.",
+          "Shorter sessions are less tiring.",
+          "Students sleep better when they study less.",
+          "The effort of recalling partly forgotten material strengthens the memory."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Reading more material is not mentioned; total time is the same.",
+          "Tiredness is not mentioned.",
+          "Sleep is not mentioned.",
+          "Correct. Working to remember something again strengthens it."
+        ],
+        "explanation": "After a break, you have to work to recall the material, and that effort strengthens memory.",
+        "evidence": "Having to work a little to remember it again actually makes the memory stronger."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Which study plan would the professor most likely recommend for a test next week?",
+        "options": [
+          "Studying for six hours the night before the test",
+          "Studying a little every day until the test",
+          "Studying with a group of classmates",
+          "Studying only the most difficult chapter"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "This is cramming, which she advises against.",
+          "Correct. She suggests one hour a day for six days.",
+          "Group study is not discussed.",
+          "Choosing chapters is not discussed."
+        ],
+        "explanation": "Her tip is to spread the same total time over several days.",
+        "evidence": "try one hour a day for six days"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-10",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Finding planets by transit",
+    "context": "Listen to part of a talk in an astronomy class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Hughes",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "For most of history, we had no direct evidence that planets existed outside our solar system. Today we know of thousands. So how do astronomers find planets that are far too small and dim to see directly? I'll focus on the most productive technique, the transit method."
+        },
+        {
+          "s": "p",
+          "t": "A transit happens when a planet passes in front of its star from our point of view. The planet blocks a tiny fraction of the star's light, so the star appears to dim very slightly, and then returns to normal once the planet has moved on."
+        },
+        {
+          "s": "p",
+          "t": "How slight? If a distant observer watched Earth cross in front of the Sun, the Sun would dim by less than one hundredth of one percent. That's why space telescopes are so valuable: above the atmosphere, they can measure brightness extremely precisely."
+        },
+        {
+          "s": "p",
+          "t": "From a transit, we can learn quite a lot. The amount of dimming tells us the planet's size relative to its star: a bigger planet blocks more light. And the time between transits tells us how long the planet takes to complete an orbit."
+        },
+        {
+          "s": "p",
+          "t": "But there's a major limitation. A transit only occurs if the planet's orbit is lined up almost exactly edge-on from our viewpoint. Most planetary systems are tilted at some other angle, so their planets never pass in front of their stars as seen from Earth. That means for every planet we detect this way, there are many others we simply miss."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How the Sun's brightness changes over time",
+          "Why space telescopes are expensive to build",
+          "A method for detecting planets around distant stars",
+          "How Earth's orbit was first measured"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The Sun is used only as an example of dimming.",
+          "Telescope costs are not discussed.",
+          "Correct. The talk explains the transit method, what it reveals and its limits.",
+          "Earth's orbit is not discussed."
+        ],
+        "explanation": "The professor explains how the transit method finds planets and what its limitations are."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor describe a distant observer watching Earth pass in front of the Sun?",
+        "options": [
+          "To show how small the change in brightness during a transit is",
+          "To suggest that life may exist on other planets",
+          "To explain why Earth's orbit is edge-on",
+          "To compare Earth's size with Jupiter's"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Earth would dim the Sun by less than a hundredth of a percent.",
+          "Life on other planets is not discussed.",
+          "Orbit alignment is discussed later and not in connection with this example.",
+          "Jupiter is not mentioned."
+        ],
+        "explanation": "The example illustrates how tiny the dimming is, which is why precise space telescopes are needed.",
+        "evidence": "the Sun would dim by less than one hundredth of one percent"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, what does the amount of dimming reveal?",
+        "options": [
+          "The planet's distance from Earth",
+          "The planet's size compared with its star",
+          "The temperature of the star",
+          "The time the planet takes to orbit"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Distance from Earth is not mentioned.",
+          "Correct. A bigger planet blocks more light.",
+          "Star temperature is not mentioned.",
+          "The orbit time comes from the time between transits."
+        ],
+        "explanation": "More dimming means a larger planet relative to its star.",
+        "evidence": "The amount of dimming tells us the planet's size relative to its star"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What can be inferred about the planets found with the transit method?",
+        "options": [
+          "They are all larger than Earth.",
+          "They were all discovered from the ground.",
+          "They all orbit stars similar to the Sun.",
+          "They represent only a small part of the planets that exist."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Planet sizes in general are not discussed.",
+          "He stresses the value of space telescopes.",
+          "Star types are not discussed.",
+          "Correct. Most systems are tilted, so many planets are missed."
+        ],
+        "explanation": "Because only edge-on systems produce transits, many planets go undetected.",
+        "evidence": "for every planet we detect this way, there are many others we simply miss"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-11",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Tree-ring dating",
+    "context": "Listen to part of a talk in an archaeology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Martin",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today's topic is a dating method that comes not from a laboratory but from trees. It's called dendrochronology, which simply means tree-ring dating."
+        },
+        {
+          "s": "p",
+          "t": "You probably know that many trees add one growth ring each year. What's less well known is that the rings aren't all the same width. In a warm, wet year, a tree grows a lot and produces a wide ring. In a cold or dry year, the ring is narrow."
+        },
+        {
+          "s": "p",
+          "t": "Because the weather affects all the trees in a region in a similar way, trees growing in the same area during the same years share the same pattern of wide and narrow rings. It's a bit like a barcode for a particular stretch of years."
+        },
+        {
+          "s": "p",
+          "t": "Researchers have built long master sequences by overlapping these patterns. They start with living trees, whose outer rings can be dated exactly, then match their inner rings to the outer rings of older timber, say from an old barn, and then match that to even older wood from archaeological sites. In some regions, these chains reach back more than ten thousand years."
+        },
+        {
+          "s": "p",
+          "t": "So if archaeologists find a wooden beam in an ancient house, they can compare its rings to the master sequence and often identify the exact year the tree was cut down."
+        },
+        {
+          "s": "p",
+          "t": "Notice, though, that this tells us when the tree died, not when the house was built. Builders sometimes reused old timber, so archaeologists have to be careful in interpreting the dates."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How weather affects the growth of forests",
+          "How tree rings can be used to date wooden objects",
+          "Why ancient builders reused old timber",
+          "How laboratories measure the age of rocks"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Weather is discussed only as the cause of ring patterns.",
+          "Correct. The talk explains dendrochronology and how it dates wood.",
+          "Reuse of timber is a final caution.",
+          "He says this method does not come from a laboratory, and rocks are not discussed."
+        ],
+        "explanation": "The talk explains how ring patterns are matched to a master sequence to date wood."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, what does a narrow tree ring indicate?",
+        "options": [
+          "The tree was very young.",
+          "The tree was cut down that year.",
+          "The year was cold or dry.",
+          "The year was warm and wet."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Age is not linked to ring width.",
+          "Cutting down is not linked to ring width.",
+          "Correct. Poor growing conditions produce narrow rings.",
+          "Warm, wet years produce wide rings."
+        ],
+        "explanation": "Narrow rings form in cold or dry years.",
+        "evidence": "In a cold or dry year, the ring is narrow."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor compare tree-ring patterns to a barcode?",
+        "options": [
+          "To show that each pattern identifies a specific period of years",
+          "To explain how trees are labeled in a laboratory",
+          "To suggest that tree rings can be read by machines",
+          "To show that every tree has a completely unique pattern"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. A shared pattern of wide and narrow rings identifies a particular stretch of years.",
+          "Labeling trees is not discussed.",
+          "Machines are not mentioned.",
+          "The point is that trees in the same area share the same pattern."
+        ],
+        "explanation": "Like a barcode, the sequence of wide and narrow rings identifies a particular set of years.",
+        "evidence": "It's a bit like a barcode for a particular stretch of years."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why might the date of a beam be earlier than the date a house was built?",
+        "options": [
+          "The master sequence for that region is incomplete.",
+          "Builders always used very old trees.",
+          "Beams grow new rings after they are cut.",
+          "The beam may have come from an older building."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Gaps in the sequence would prevent dating, not produce an early date.",
+          "He says 'sometimes', not 'always', and the issue is reuse, not tree age.",
+          "Cut wood does not grow.",
+          "Correct. Builders sometimes reused old timber."
+        ],
+        "explanation": "The method dates the tree's death; reused timber can be older than the house.",
+        "evidence": "Builders sometimes reused old timber"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-12",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Keystone species",
+    "context": "Listen to part of a talk in an ecology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Collins",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today we're going to talk about keystone species. The term comes from architecture. In a stone arch, the keystone is the wedge-shaped stone at the very top. If you remove it, the whole arch falls down."
+        },
+        {
+          "s": "p",
+          "t": "In ecology, a keystone species is a species that has a much bigger effect on its environment than you'd expect from its numbers. Remove it, and the whole ecosystem can change dramatically."
+        },
+        {
+          "s": "p",
+          "t": "A well-known example is the sea otter on the Pacific coast of North America. Sea otters eat sea urchins. Sea urchins eat kelp, which is a large seaweed that forms underwater forests."
+        },
+        {
+          "s": "p",
+          "t": "In the eighteenth and nineteenth centuries, sea otters were hunted for their fur until they almost disappeared from many areas. Without otters, sea urchin populations exploded. The urchins ate the kelp, and in many places the kelp forests were replaced by bare rocky areas."
+        },
+        {
+          "s": "p",
+          "t": "This mattered because kelp forests are home to many fish and other animals. So losing one species, the otter, led to the loss of a whole habitat."
+        },
+        {
+          "s": "p",
+          "t": "When otters were protected and returned to some areas in the twentieth century, the urchins declined and the kelp forests grew back. That recovery is strong evidence that the otters really were playing a keystone role."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Species that have an unusually large effect on their ecosystems",
+          "Why sea otters were hunted for their fur",
+          "How stone arches are built",
+          "The different kinds of seaweed in the Pacific"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The talk defines keystone species and illustrates the idea with otters.",
+          "Hunting is part of the example, not the main topic.",
+          "Arches only explain where the term comes from.",
+          "Only kelp is mentioned."
+        ],
+        "explanation": "The professor defines keystone species and uses sea otters as an example."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor talk about a stone arch?",
+        "options": [
+          "To show how otters build their homes",
+          "To describe the rocky areas left by urchins",
+          "To explain where the term keystone comes from",
+          "To compare kelp forests with buildings"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Otters don't build homes from stone.",
+          "The rocky areas are not compared to arches.",
+          "Correct. The term is borrowed from the keystone at the top of an arch.",
+          "Kelp forests are not compared with buildings."
+        ],
+        "explanation": "The arch explains the origin of the term: remove one key piece and everything collapses.",
+        "evidence": "The term comes from architecture."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What happened when sea otters almost disappeared?",
+        "options": [
+          "Kelp forests grew larger.",
+          "Hunters began to protect the kelp.",
+          "Fish began eating the sea urchins.",
+          "The number of sea urchins increased greatly."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The opposite: kelp forests were replaced by bare rock.",
+          "Hunters did not protect kelp.",
+          "Fish eating urchins is not mentioned.",
+          "Correct. Without otters, urchin populations exploded."
+        ],
+        "explanation": "With their predator gone, sea urchins multiplied and ate the kelp.",
+        "evidence": "Without otters, sea urchin populations exploded."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why does the professor consider the return of the otters important?",
+        "options": [
+          "It shows that fur hunting has stopped completely.",
+          "It supports the claim that otters control the ecosystem.",
+          "It shows that urchins are a keystone species.",
+          "It proves that kelp can grow without sunlight."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Hunting is not discussed in this part.",
+          "Correct. When otters returned, the kelp recovered, confirming their keystone role.",
+          "The keystone species in the example is the otter, not the urchin.",
+          "Sunlight is not mentioned."
+        ],
+        "explanation": "The recovery after the otters returned is evidence that otters really were a keystone species.",
+        "evidence": "That recovery is strong evidence that the otters really were playing a keystone role."
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-13",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Rethinking the first-mover advantage",
+    "context": "Listen to part of a talk in a business class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Brooks",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "There's a widely held belief in business that the first company to enter a new market has a decisive advantage. It's called the first-mover advantage, and the reasoning sounds compelling."
+        },
+        {
+          "s": "p",
+          "t": "A first mover can build brand recognition before anyone else, secure the best suppliers and locations, and, in some industries, create switching costs, meaning customers find it inconvenient or expensive to change to a competitor once they've adopted a product."
+        },
+        {
+          "s": "p",
+          "t": "But when researchers actually examined market histories, the picture turned out to be far more mixed. Many pioneers failed outright, and in quite a few markets the eventual leader was a later entrant. Think of internet search. Several search engines were operating before the company that came to dominate the market even existed."
+        },
+        {
+          "s": "p",
+          "t": "Why might arriving second be an advantage? For one thing, late entrants can learn from the pioneer's mistakes without paying for them. The pioneer bears the cost of educating customers about an unfamiliar product, of testing which features matter, and of discovering what doesn't work. A follower can observe all of that and enter with a more refined product."
+        },
+        {
+          "s": "p",
+          "t": "There's also the matter of technology. A pioneer may lock itself into an early design, while a follower can adopt a newer one."
+        },
+        {
+          "s": "p",
+          "t": "So the more accurate lesson isn't that being first is good or bad. It's that timing alone rarely determines success. Execution, meaning how well a company actually delivers its product, tends to matter more."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the main purpose of the talk?",
+        "options": [
+          "To question a common belief about entering markets first",
+          "To explain how internet search engines work",
+          "To show that later entrants always succeed",
+          "To describe how companies build brand recognition"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. He challenges the idea that being first gives a decisive advantage.",
+          "Search engines are only an example.",
+          "He says being first is neither good nor bad; 'always' is too strong.",
+          "Brand recognition is one claimed benefit, not the focus."
+        ],
+        "explanation": "The professor presents the first-mover advantage and then shows that evidence for it is mixed."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the professor mean by switching costs?",
+        "options": [
+          "The money a company spends to enter a new market",
+          "The price a follower pays to copy a product",
+          "The difficulty or expense customers face in changing to another company",
+          "The cost of replacing an early design with a newer one"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "This is not how he defines the term.",
+          "Copying costs are not mentioned.",
+          "Correct. Customers find it inconvenient or expensive to change to a competitor.",
+          "Design lock-in is a separate point."
+        ],
+        "explanation": "Switching costs make it inconvenient or expensive for customers to move to a competitor.",
+        "evidence": "meaning customers find it inconvenient or expensive to change to a competitor"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention internet search?",
+        "options": [
+          "To show how pioneers create switching costs",
+          "To give an example of a market led by a later entrant",
+          "To explain how customers learn about new products",
+          "To give an example of a pioneer that locked itself into an early design"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Switching costs are not linked to this example.",
+          "Correct. The company that came to dominate did not even exist when others were operating.",
+          "Educating customers comes up later, separately.",
+          "Design lock-in is not linked to this example."
+        ],
+        "explanation": "Internet search illustrates a market where the eventual leader entered later than the pioneers.",
+        "evidence": "Several search engines were operating before the company that came to dominate the market even existed."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's view of the first-mover advantage?",
+        "options": [
+          "It is the most important factor in business success.",
+          "It is a myth that has no basis at all.",
+          "It applies only to technology companies.",
+          "It is overstated, since how well a company performs matters more than timing."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "He argues the opposite.",
+          "He acknowledges real benefits, such as brand recognition; he just says they are not decisive.",
+          "He does not limit it to technology.",
+          "Correct. He concludes that timing rarely determines success and execution matters more."
+        ],
+        "explanation": "He concludes that timing alone rarely decides success; execution matters more.",
+        "evidence": "timing alone rarely determines success"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-14",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Flying buttresses and Gothic light",
+    "context": "Listen to part of a talk in an architecture class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Price",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "In our last session we looked at Romanesque churches, with their thick walls and small windows. Today we'll see how Gothic builders solved the problem that made those walls necessary."
+        },
+        {
+          "s": "p",
+          "t": "The problem is this. A stone vault, the arched ceiling of a church, is extremely heavy, and it doesn't just push straight down. It also pushes outward, against the tops of the walls. Romanesque builders resisted that outward push with sheer mass. Their walls were thick, and they couldn't cut large openings in them without weakening them."
+        },
+        {
+          "s": "p",
+          "t": "Gothic builders took a different approach. They used the pointed arch, which directs more of the weight downward than a rounded arch does. And they added the flying buttress: an external arm of stone that reaches from the upper wall out to a heavy pier standing away from the building. The buttress catches the outward push and carries it down to the ground outside."
+        },
+        {
+          "s": "p",
+          "t": "Once the walls no longer had to carry all that force, they could be thinner and taller, and much of their surface could be given over to windows. That's what made the enormous stained-glass windows of the great cathedrals possible."
+        },
+        {
+          "s": "p",
+          "t": "So when you look at a Gothic cathedral, the light inside and the forest of stone arms outside are really two sides of the same engineering solution."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The religious meaning of light in cathedrals",
+          "Why Romanesque churches were more beautiful than Gothic ones",
+          "How stained glass was made in the Middle Ages",
+          "How Gothic builders supported heavy ceilings while opening up the walls"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Religious meaning is not discussed.",
+          "No aesthetic comparison is made.",
+          "Glass-making is not discussed.",
+          "Correct. The talk explains the pointed arch and flying buttress and their effect on walls."
+        ],
+        "explanation": "The professor explains how Gothic engineering handled the vault's outward push, allowing large windows."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why did Romanesque churches have thick walls?",
+        "options": [
+          "To keep the inside of the church warm",
+          "To support the flying buttresses",
+          "To resist the outward push of the vault",
+          "To protect the stained-glass windows"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Temperature is not mentioned.",
+          "Flying buttresses were a later Gothic solution.",
+          "Correct. They used sheer mass against the vault's outward force.",
+          "Romanesque churches had small windows."
+        ],
+        "explanation": "Romanesque builders countered the vault's outward push with massive walls.",
+        "evidence": "Romanesque builders resisted that outward push with sheer mass."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What is the function of a flying buttress?",
+        "options": [
+          "It holds the stained-glass windows in place.",
+          "It carries the outward push of the vault down to the ground outside.",
+          "It turns rounded arches into pointed ones.",
+          "It makes the vault lighter."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Windows are a result of buttresses, not something they hold.",
+          "Correct. It catches the outward push and transfers it to the ground.",
+          "The pointed arch is a separate feature.",
+          "The vault's weight does not change."
+        ],
+        "explanation": "The buttress transfers the vault's outward thrust to the ground outside the building.",
+        "evidence": "The buttress catches the outward push and carries it down to the ground outside."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the professor mean when she says the light inside and the stone arms outside are \"two sides of the same engineering solution\"?",
+        "options": [
+          "The large windows were possible because the buttresses took the force off the walls.",
+          "Both were added to cathedrals at a later date.",
+          "The buttresses were designed mainly to reflect light into the building.",
+          "Both features were copied from Romanesque churches."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Buttresses relieved the walls, so the walls could hold large windows.",
+          "No later additions are mentioned.",
+          "Buttresses handle structural force, not light.",
+          "These were Gothic innovations, contrasted with Romanesque practice."
+        ],
+        "explanation": "Because the buttresses carried the force, the walls could be thinner and filled with windows.",
+        "evidence": "Once the walls no longer had to carry all that force, they could be thinner and taller"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-15",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "The tragedy of the commons",
+    "context": "Listen to part of a talk in an economics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Wilson",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today I want to discuss an idea called the tragedy of the commons. Imagine a pasture that's open to all the herders in a village. Each herder gains the full benefit of adding one more cow, but the cost, the damage to the grass, is shared by everyone. So each person has a reason to add more cows, and eventually the pasture is overgrazed and becomes useless to all of them."
+        },
+        {
+          "s": "p",
+          "t": "For a long time, many economists concluded that there were only two solutions: either the government controls the resource, or it's divided into private property."
+        },
+        {
+          "s": "p",
+          "t": "But the political scientist Elinor Ostrom challenged that conclusion. She studied real communities around the world, fishing villages, mountain pastures in Switzerland, irrigation systems in Nepal, and found that many of them had managed shared resources successfully for centuries without either solution."
+        },
+        {
+          "s": "p",
+          "t": "What did these communities have in common? Among other things, clear boundaries about who could use the resource, rules created by the users themselves, monitoring by people who were accountable to the community, and penalties that started small and increased for repeat offenders."
+        },
+        {
+          "s": "p",
+          "t": "Ostrom's work earned her the Nobel Prize in economics in two thousand nine. Her main point was not that the tragedy never happens. It's that it isn't inevitable."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How to calculate the number of cows a pasture can feed",
+          "Why governments should control all natural resources",
+          "A challenge to the idea that shared resources are always overused",
+          "The history of the Nobel Prize in economics"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The pasture is a thought experiment, not a calculation.",
+          "This is one of the two traditional solutions that Ostrom questioned.",
+          "Correct. Ostrom showed that communities can manage shared resources well.",
+          "The prize is a minor detail."
+        ],
+        "explanation": "The talk presents the tragedy of the commons and Ostrom's evidence that it is not inevitable."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, why does each herder add more cows?",
+        "options": [
+          "The village requires each herder to own a certain number.",
+          "The herder gets all the benefit while the cost is shared.",
+          "The grass grows back faster when more cows graze.",
+          "The government pays herders for each cow."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "No such requirement is mentioned.",
+          "Correct. The benefit is private, but the damage is shared by everyone.",
+          "The opposite: the pasture becomes overgrazed.",
+          "Government payments are not mentioned."
+        ],
+        "explanation": "Each herder keeps the full gain from an extra cow but shares the cost with everyone.",
+        "evidence": "Each herder gains the full benefit of adding one more cow"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention mountain pastures in Switzerland and irrigation systems in Nepal?",
+        "options": [
+          "To give examples of communities that managed shared resources successfully",
+          "To show where the government took control of resources",
+          "To give examples of resources that were destroyed by overuse",
+          "To compare farming methods in Europe and Asia"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. They are examples from Ostrom's research of long-term success.",
+          "They succeeded without government control or private property.",
+          "These communities avoided the tragedy.",
+          "Farming methods are not compared."
+        ],
+        "explanation": "They illustrate Ostrom's finding that communities can manage commons without either traditional solution.",
+        "evidence": "found that many of them had managed shared resources successfully for centuries"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What was Ostrom's main conclusion?",
+        "options": [
+          "Penalties do not help communities manage resources.",
+          "The tragedy of the commons never really happens.",
+          "Private property is the best way to protect resources.",
+          "The overuse of shared resources can be avoided."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Gradually increasing penalties were one of the shared features.",
+          "The professor explicitly says this was not her point.",
+          "Her communities used neither government control nor private property.",
+          "Correct. Her point is that the tragedy isn't inevitable."
+        ],
+        "explanation": "Ostrom argued that the tragedy can happen but is not inevitable.",
+        "evidence": "It's that it isn't inevitable."
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-16",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "How infants tune in to speech sounds",
+    "context": "Listen to part of a talk in a linguistics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Evans",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        },
+        {
+          "id": "s",
+          "name": "Student",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Let's turn to a striking finding about how infants perceive speech. Every language relies on a particular set of sound distinctions. English distinguishes r and l, for example, while Japanese doesn't treat them as separate sounds. Hindi, on the other hand, distinguishes two t sounds that English speakers typically hear as identical."
+        },
+        {
+          "s": "p",
+          "t": "So researchers asked: are babies born tuned to their parents' language, or do they start out more open?"
+        },
+        {
+          "s": "p",
+          "t": "Since infants can't tell us what they hear, researchers used an ingenious technique. A baby learns that when a sound changes, an interesting toy lights up nearby. If the baby turns toward the toy right as the sound changes, we can infer that it noticed the change."
+        },
+        {
+          "s": "p",
+          "t": "The results were remarkable. At six to eight months, English-learning infants distinguished the Hindi sounds about as well as Hindi-learning infants did. By ten to twelve months, however, their performance had dropped sharply, while the Hindi-learning babies remained accurate."
+        },
+        {
+          "s": "s",
+          "t": "So the babies are actually losing an ability?"
+        },
+        {
+          "s": "p",
+          "t": "In a sense, yes, though I'd frame it as specialization rather than loss. The brain is committing its resources to the contrasts that matter in the language around it. That makes perception of the native language faster and more efficient, at the cost of sensitivity to contrasts that, for that child, carry no meaning. And it's not irreversible. Adults can regain some sensitivity with training, though usually with considerably more effort."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why Japanese speakers find English sounds difficult",
+          "How infants' ability to distinguish speech sounds changes in their first year",
+          "How toys can be used to teach babies new words",
+          "Why adults cannot learn the sounds of a second language"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Japanese is only an example of a language's sound system.",
+          "Correct. The talk describes how sensitivity to non-native contrasts declines by about twelve months.",
+          "The toy is part of the testing method, not a teaching tool.",
+          "She says adults can regain some sensitivity."
+        ],
+        "explanation": "The professor describes research showing infants start out sensitive to many contrasts and then specialize."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "How did researchers know that a baby noticed a change in sound?",
+        "options": [
+          "The baby turned toward a toy when the sound changed.",
+          "The baby repeated the new sound.",
+          "The baby started to cry.",
+          "The baby's parents reported it."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Turning toward the toy at the moment of change showed the baby noticed.",
+          "Babies of that age are not asked to repeat sounds.",
+          "Crying is not mentioned.",
+          "Parents' reports are not mentioned."
+        ],
+        "explanation": "A head turn toward the toy at the moment of the sound change showed the baby detected it.",
+        "evidence": "If the baby turns toward the toy right as the sound changes"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What happened to English-learning infants between six and twelve months?",
+        "options": [
+          "They became better at hearing the Hindi sounds.",
+          "They began to confuse r and l.",
+          "Their ability to tell the Hindi sounds apart declined sharply.",
+          "They performed the same as before."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The opposite happened.",
+          "r and l are an English contrast, so they would keep it.",
+          "Correct. By ten to twelve months, their performance dropped sharply.",
+          "Their performance changed significantly."
+        ],
+        "explanation": "English-learning babies lost much of their ability to distinguish the Hindi contrast.",
+        "evidence": "By ten to twelve months, however, their performance had dropped sharply"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "How does the professor respond to the student's question?",
+        "options": [
+          "She says that the student has misunderstood the results.",
+          "She agrees that the change is harmful to the child.",
+          "She says that the research is not yet reliable.",
+          "She partly agrees but describes the change as a useful adaptation."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "She says 'In a sense, yes', so she doesn't reject his interpretation.",
+          "She stresses the benefits: faster, more efficient native-language perception.",
+          "She doesn't question the research.",
+          "Correct. She prefers 'specialization' to 'loss' because the brain becomes more efficient."
+        ],
+        "explanation": "She accepts the point in part but reframes it as specialization that benefits native-language perception.",
+        "evidence": "I'd frame it as specialization rather than loss"
+      }
+    ]
+  }
+]

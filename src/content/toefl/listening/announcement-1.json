@@ -1,0 +1,658 @@
+[
+  {
+    "id": "toefl-ann-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Thursday lab moves to the library annex",
+    "context": "Listen to an announcement in a biology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Hayes",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Good morning, everyone. Before we start, I have a quick change to announce about this Thursday's lab session."
+        },
+        {
+          "s": "p",
+          "t": "Because the heating system in the science building is being repaired, our lab will not meet in room 210 as usual. Instead, we'll use the teaching lab on the ground floor of the library annex."
+        },
+        {
+          "s": "p",
+          "t": "The time stays the same, two to four in the afternoon. Please bring your lab notebooks and your safety goggles, since the annex doesn't keep extra goggles for students."
+        },
+        {
+          "s": "p",
+          "t": "And one more thing: the dissection we planned is postponed until next week, so this Thursday we'll focus on the microscope exercise from chapter six."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To introduce a new safety rule for the science building",
+          "To cancel this week's lab session",
+          "To explain a change in where a lab session will take place",
+          "To assign a reading from chapter six"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Goggles are mentioned, but no new safety rule is introduced.",
+          "The lab still happens; only the place (and the activity) changes.",
+          "Correct. The lab moves from room 210 to the library annex.",
+          "Chapter six is mentioned for the microscope exercise, not a reading assignment."
+        ],
+        "explanation": "The professor's main message is that Thursday's lab will be held in the library annex instead of room 210 because of heating repairs.",
+        "evidence": "our lab will not meet in room 210 as usual"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the professor ask students to bring?",
+        "options": [
+          "Their own microscopes",
+          "Their textbooks and a pen",
+          "Dissection kits",
+          "Lab notebooks and safety goggles"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The microscope exercise is mentioned, but students are not told to bring microscopes.",
+          "Textbooks are not mentioned.",
+          "The dissection is postponed until next week.",
+          "Correct. She says this directly, because the annex has no extra goggles."
+        ],
+        "explanation": "She asks for lab notebooks and safety goggles because the annex does not keep extra goggles.",
+        "evidence": "Please bring your lab notebooks and your safety goggles"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-02",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Library hours during exams",
+    "context": "Listen to an announcement on a university campus.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Library staff member",
+          "role": "Librarian",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hello, this is an announcement from the main library."
+        },
+        {
+          "s": "a",
+          "t": "Starting next Monday, and for the two weeks of final exams, the library will stay open until two in the morning instead of midnight."
+        },
+        {
+          "s": "a",
+          "t": "During this period, the third floor will be a silent study area. Phone calls and group discussions are not allowed there, even in a low voice."
+        },
+        {
+          "s": "a",
+          "t": "If you need to work with classmates, you can reserve one of the group study rooms on the second floor. Bookings must be made online, at least one day in advance, and each booking is limited to three hours."
+        },
+        {
+          "s": "a",
+          "t": "Thank you, and good luck with your exams."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What change will begin next Monday?",
+        "options": [
+          "The library will stay open later than usual.",
+          "The library will close at midnight.",
+          "Group study rooms will no longer need a booking.",
+          "The third floor will be closed to students."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. It will close at two in the morning instead of midnight.",
+          "Midnight is the normal closing time, not the new one.",
+          "Bookings are still required, at least one day in advance.",
+          "The third floor stays open as a silent study area."
+        ],
+        "explanation": "During the exam period the library closes at 2 a.m. rather than midnight.",
+        "evidence": "the library will stay open until two in the morning instead of midnight"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What should students who want to study in a group do?",
+        "options": [
+          "Use the third floor and speak quietly",
+          "Ask a librarian for a room when they arrive",
+          "Book a room online at least a day ahead",
+          "Come to the library after midnight"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Group discussions are not allowed on the third floor, even quietly.",
+          "Rooms are booked online, not at the desk on arrival.",
+          "Correct. Group rooms on the second floor must be reserved online one day in advance.",
+          "Late hours are mentioned, but not as a solution for group work."
+        ],
+        "explanation": "Group work belongs in the second-floor rooms, which must be booked online at least one day in advance.",
+        "evidence": "Bookings must be made online, at least one day in advance"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-03",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Field trip to the maritime museum",
+    "context": "Listen to an announcement in a history class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Walsh",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "All right, before you leave, let me go over the details for next Friday's trip to the State Maritime Museum."
+        },
+        {
+          "s": "p",
+          "t": "The bus will leave from the parking lot behind the student center at eight fifteen sharp. If you're late, we can't wait for you, because the museum has given us a guided tour slot at nine."
+        },
+        {
+          "s": "p",
+          "t": "The trip itself is free, but lunch is not included, so either pack something or bring money for the museum café."
+        },
+        {
+          "s": "p",
+          "t": "While we're there, each of you should choose one object from the exhibition on early shipbuilding. You'll write a two-page description of it, and that will replace the reading response that was due next week."
+        },
+        {
+          "s": "p",
+          "t": "If you have any questions, email me before Wednesday."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why will the bus not wait for students who are late?",
+        "options": [
+          "The driver has another trip later that morning.",
+          "The group must arrive in time for a scheduled tour.",
+          "The museum closes early on Fridays.",
+          "The parking lot cannot be used after eight o'clock."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The driver's schedule is never mentioned.",
+          "Correct. The museum gave the class a guided tour slot at nine.",
+          "Nothing is said about the museum's closing time.",
+          "No restriction on the parking lot is mentioned."
+        ],
+        "explanation": "The bus cannot wait because the class has a fixed guided tour time at nine.",
+        "evidence": "because the museum has given us a guided tour slot at nine"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What assignment does the professor mention?",
+        "options": [
+          "A two-page description of one object in the exhibition",
+          "A group presentation about the museum",
+          "A reading response about early shipbuilding",
+          "A review of the museum café"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Each student chooses one object and describes it in two pages.",
+          "No group presentation is mentioned.",
+          "The reading response is being replaced, so it is no longer due.",
+          "The café is mentioned only as a place to buy lunch."
+        ],
+        "explanation": "Students will describe one object from the shipbuilding exhibition; this replaces next week's reading response.",
+        "evidence": "You'll write a two-page description of it, and that will replace the reading response"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-04",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "New chemistry lab safety rules",
+    "context": "Listen to an announcement in a chemistry lab.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "i",
+          "name": "Dr. Moreau",
+          "role": "Lab instructor",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "i",
+          "t": "Before anyone touches the equipment today, I need to remind you of a new safety rule in this lab."
+        },
+        {
+          "s": "i",
+          "t": "From now on, long hair must be tied back, and open-toed shoes are not permitted at all, not even sandals with straps. If you arrive wearing them, you won't be allowed to take part in the experiment, and you'll have to make it up during the Friday session."
+        },
+        {
+          "s": "i",
+          "t": "Also, the eyewash station has been moved. It's now next to the sink by the back door, not by the front entrance."
+        },
+        {
+          "s": "i",
+          "t": "Please take thirty seconds now to locate it. In an emergency, you won't have time to look for it."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the instructor ask students to take thirty seconds?",
+        "options": [
+          "To find where the eyewash station is now",
+          "To tie back their hair",
+          "To read the instructions for the experiment",
+          "To check whether their shoes are allowed"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The eyewash station has moved, and he wants everyone to know where it is before an emergency.",
+          "Hair is part of the new rule, but the thirty seconds are for something else.",
+          "The instructions are not mentioned.",
+          "Shoes are mentioned earlier, but not in connection with the thirty seconds."
+        ],
+        "explanation": "Right after saying the eyewash station moved, he asks students to take thirty seconds to locate it.",
+        "evidence": "Please take thirty seconds now to locate it."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What will happen to a student who comes to the lab wearing sandals?",
+        "options": [
+          "The student will receive a lower grade.",
+          "The student will have to stand near the back door.",
+          "The student may participate if the sandals have straps.",
+          "The student will have to do the experiment on Friday."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "No grade penalty is mentioned.",
+          "The back door is where the eyewash station is; it has nothing to do with sandals.",
+          "He specifically says that sandals with straps are not allowed either.",
+          "Correct. The student must make up the experiment during the Friday session."
+        ],
+        "explanation": "Students in open-toed shoes cannot do the experiment and must make it up on Friday.",
+        "evidence": "you'll have to make it up during the Friday session"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-05",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Spring registration deadline",
+    "context": "Listen to an announcement on a university campus.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "r",
+          "name": "Registrar's Office staff",
+          "role": "Administrator",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "r",
+          "t": "Attention, students. This is a reminder from the Registrar's Office."
+        },
+        {
+          "s": "r",
+          "t": "The deadline to register for spring semester courses is this Friday at five p.m. After that, you can still add a course, but you'll need written permission from the instructor, and you'll pay a late fee of twenty-five dollars."
+        },
+        {
+          "s": "r",
+          "t": "If you have a hold on your account, for example an unpaid parking ticket or a missing medical form, the system will not let you register until the hold is cleared."
+        },
+        {
+          "s": "r",
+          "t": "You can check for holds by logging in to the student portal and clicking on My Account. Please don't wait until Friday afternoon, when the office is always busiest."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the announcement mainly about?",
+        "options": [
+          "How to pay a parking ticket",
+          "A deadline for signing up for courses",
+          "New courses offered in the spring",
+          "Changes to the student portal"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "A parking ticket is only an example of a hold.",
+          "Correct. The whole announcement is a reminder about the registration deadline.",
+          "No specific new courses are mentioned.",
+          "The portal is mentioned only as the place to check for holds; it isn't changing."
+        ],
+        "explanation": "The speaker reminds students that spring registration closes on Friday and explains what happens after that.",
+        "evidence": "The deadline to register for spring semester courses is this Friday at five p.m."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the speaker imply about Friday afternoon?",
+        "options": [
+          "The late fee will increase then.",
+          "The student portal will not be available.",
+          "Instructors will refuse to give permission.",
+          "Students may have to wait a long time at the office."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The fee is twenty-five dollars; no increase is mentioned.",
+          "Nothing suggests the portal will be down.",
+          "Instructor permission is needed only after the deadline.",
+          "Correct. If the office is busiest then, students will likely face long waits."
+        ],
+        "explanation": "Saying the office is 'always busiest' on Friday afternoon implies long lines, so students should not wait until then.",
+        "evidence": "when the office is always busiest"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-06",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Office hours and the midterm",
+    "context": "Listen to an announcement in a psychology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Clarke",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Before we begin today's lecture on memory, two quick things."
+        },
+        {
+          "s": "p",
+          "t": "First, my office hours are changing. I used to be available on Tuesday mornings, but I've been asked to join a department committee that meets then, so from next week I'll be in my office on Wednesday afternoons from one to three instead."
+        },
+        {
+          "s": "p",
+          "t": "Second, a number of you asked whether the midterm will be cumulative. It won't. It will cover only chapters four through seven."
+        },
+        {
+          "s": "p",
+          "t": "However, the final exam will include everything from the whole semester, so don't throw away your early notes."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why is the professor changing her office hours?",
+        "options": [
+          "Students asked for a more convenient time.",
+          "She now teaches another class on Tuesdays.",
+          "She has a committee meeting at the old time.",
+          "Her office is being moved to another building."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Students asked about the midterm, not about office hours.",
+          "Another class is never mentioned.",
+          "Correct. The new committee meets on Tuesday mornings.",
+          "No office move is mentioned."
+        ],
+        "explanation": "She joined a department committee that meets on Tuesday mornings, her old office-hour time.",
+        "evidence": "I've been asked to join a department committee that meets then"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What can be inferred about chapters one through three?",
+        "options": [
+          "They will be the focus of the midterm.",
+          "They will be tested on the final exam.",
+          "They will not be tested at all.",
+          "They will be reviewed during Wednesday office hours."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The midterm covers only chapters four through seven.",
+          "Correct. The final covers everything, which is why she says to keep early notes.",
+          "The final includes the whole semester, so they will be tested.",
+          "Office hours are not linked to any review of these chapters."
+        ],
+        "explanation": "The midterm skips the early chapters, but the final covers the whole semester, so chapters one to three will appear on the final.",
+        "evidence": "the final exam will include everything from the whole semester"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-07",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Astronomy Club stargazing night",
+    "context": "Listen to an announcement at the start of a physics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Liam",
+          "role": "Student, Astronomy Club",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Hi everyone, I'm Liam from the Astronomy Club, and I'd like to take one minute to invite you to our stargazing night."
+        },
+        {
+          "s": "s",
+          "t": "It's this Saturday on the roof of the physics building, starting at nine p.m. We'll have four telescopes set up, and club members will help you find Saturn and the Andromeda galaxy."
+        },
+        {
+          "s": "s",
+          "t": "You don't need any experience, and you don't need to own equipment. The only thing we ask is that you sign up on our website, because the roof can hold only forty people for safety reasons."
+        },
+        {
+          "s": "s",
+          "t": "If the sky is cloudy, we'll move indoors and show a short film about the night sky instead, so the evening won't be cancelled."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the speaker mention the number forty?",
+        "options": [
+          "To describe how many members the club has",
+          "To say how many telescopes the club owns",
+          "To explain why students need to sign up in advance",
+          "To say what time the event will end"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The size of the club is not mentioned.",
+          "There are four telescopes, not forty.",
+          "Correct. Sign-up is required because only forty people can be on the roof.",
+          "No end time is given."
+        ],
+        "explanation": "Forty is the safety limit for the roof, which is why registration on the website is required.",
+        "evidence": "because the roof can hold only forty people for safety reasons"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will happen if the weather is cloudy on Saturday?",
+        "options": [
+          "Participants will watch a film indoors.",
+          "The event will be cancelled.",
+          "The event will be moved to Sunday.",
+          "Club members will give a talk about telescopes."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. They will move inside and show a short film about the night sky.",
+          "He says clearly that the evening won't be cancelled.",
+          "No other date is mentioned.",
+          "A talk about telescopes is not mentioned."
+        ],
+        "explanation": "In cloudy weather the group moves indoors to watch a short film instead.",
+        "evidence": "we'll move indoors and show a short film about the night sky instead"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-08",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Submitting the research paper online",
+    "context": "Listen to an announcement in an economics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Grant",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Before we get into today's material, I want to clarify the policy on the research paper, because there seems to be some confusion."
+        },
+        {
+          "s": "p",
+          "t": "The paper is still due on November twelfth. What's changed is the way you submit it. Rather than handing in a printed copy in class, you'll upload it to the course website, where it will automatically be checked for citation errors."
+        },
+        {
+          "s": "p",
+          "t": "The system will flag sources that are missing from your reference list, but it won't fix them for you. So if you upload early, say a few days before the deadline, you'll have time to correct anything it finds."
+        },
+        {
+          "s": "p",
+          "t": "You can upload as many times as you like until midnight on the twelfth. Only the last version counts."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To change the due date of the research paper",
+          "To describe possible research topics",
+          "To introduce a new citation style",
+          "To explain a new way of handing in the research paper"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The due date has not changed: it is still November twelfth.",
+          "Topics are not discussed.",
+          "Citations are checked, but no new style is introduced.",
+          "Correct. Papers are now uploaded to the website instead of handed in on paper."
+        ],
+        "explanation": "The professor clarifies that the deadline is the same but submission is now online, with an automatic citation check.",
+        "evidence": "What's changed is the way you submit it."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why does the professor recommend uploading the paper a few days early?",
+        "options": [
+          "Students will have time to fix problems the system finds.",
+          "The website may stop working near the deadline.",
+          "Papers submitted early receive extra credit.",
+          "Only the first version uploaded will be graded."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The system flags missing sources but doesn't fix them, so students need time to correct them.",
+          "Website problems are not mentioned.",
+          "No extra credit is mentioned.",
+          "The opposite: only the last version counts."
+        ],
+        "explanation": "Because the check flags errors without fixing them, uploading early gives students time to make corrections.",
+        "evidence": "you'll have time to correct anything it finds"
+      }
+    ]
+  }
+]

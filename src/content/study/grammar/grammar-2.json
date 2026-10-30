@@ -1,0 +1,246 @@
+[
+  {
+    "id": "hedging",
+    "title": "Hedging and cautious language",
+    "titleEs": "Lenguaje prudente y matización (hedging)",
+    "level": "C1",
+    "why": "En inglés académico las afirmaciones absolutas (All people…, This always…) se consideran poco rigurosas. Matizar con tend to, it could be argued, appears to… demuestra pensamiento crítico y un registro adecuado. Los descriptores de IELTS Task 2 (Band 7+) y las rúbricas de TOEFL valoran posiciones bien desarrolladas y precisas, no generalizaciones.",
+    "explanation": "## Herramientas de matización\n\n| Recurso | Ejemplos |\n|---|---|\n| Verbos modales | *may, might, could, would* |\n| Verbos introductorios | *seem, appear, tend, suggest, indicate* |\n| Adverbios | *probably, possibly, arguably, generally, largely, to some extent* |\n| Adjetivos | *likely, possible, probable* |\n| Sustantivos | *possibility, likelihood, tendency* |\n| Cuantificadores | *many, most, some* (en lugar de *all*), *a majority of* |\n| Fórmulas impersonales | *It could be argued that..., It is generally accepted that..., There is some evidence that...* |\n\n## Antes y después\n\n- ~~*Video games make children violent.*~~\n- *There is some evidence that violent video games **may** contribute to aggressive behaviour in **some** children.*\n\n- ~~*Everyone uses social media.*~~\n- ***The vast majority of** young people **appear to** use social media daily.*\n\n## Estructuras\n\n- *seem / appear / tend + to-infinitivo*: *Older people **tend to** be more cautious.*\n- *be likely / unlikely + to-infinitivo*: *Prices **are likely to** rise.*\n- *It + seems/appears + that*: *It **appears that** the policy has failed.*\n\n## Ojo: no te pases\n\nDemasiado hedging (*It might possibly perhaps be...*) suena inseguro. En la conclusión de un ensayo de opinión la postura debe ser clara: matiza los datos, no tu tesis.",
+    "examples": [
+      { "en": "It could be argued that university education should be free for all.", "note": "Introduce una postura sin asumirla como verdad absoluta." },
+      { "en": "Children who read regularly tend to perform better at school.", "note": "Tend to: generalización prudente." },
+      { "en": "The data appear to suggest a link between sleep and memory.", "note": "Doble matización propia de textos científicos." },
+      { "en": "Unemployment is likely to remain high in the short term.", "note": "Be likely to + infinitivo." },
+      { "en": "To some extent, technology has made us less patient.", "note": "Acotación del alcance de la afirmación." }
+    ],
+    "mistakes": [
+      { "wrong": "All the people think that money is important.", "right": "Most people would agree that money is important.", "why": "Generalización absoluta; además, all the people no se usa para gente en general." },
+      { "wrong": "It is probable that prices will probably rise.", "right": "Prices will probably rise. / It is probable that prices will rise.", "why": "Doble matización redundante: basta con una." },
+      { "wrong": "People tend to be agree with this idea.", "right": "People tend to agree with this idea.", "why": "Agree es verbo; no lleva be (calco de «estar de acuerdo»)." },
+      { "wrong": "The prices are likely rise.", "right": "Prices are likely to rise.", "why": "Be likely va seguido de to-infinitivo." }
+    ],
+    "exercises": [
+      { "id": "hedge-ex-1", "type": "gap", "prompt": "Older adults ___ to be less comfortable with new technology.", "answers": ["tend", "seem", "appear"], "explanation": "Tend/seem/appear + to-infinitivo matizan la generalización.", "tags": ["hedging"], "level": "B2" },
+      { "id": "hedge-ex-2", "type": "gap", "prompt": "House prices are ___ to fall if interest rates rise.", "answers": ["likely"], "explanation": "Be likely to + infinitivo = es probable que.", "tags": ["hedging"], "level": "B2" },
+      { "id": "hedge-ex-3", "type": "transform", "prompt": "Social media causes loneliness. → (hedge using 'may' and 'contribute to')", "answers": ["Social media may contribute to loneliness.", "Social media may contribute to loneliness in some people."], "explanation": "May + contribute to suaviza la relación causal directa.", "tags": ["hedging"], "level": "C1" },
+      { "id": "hedge-ex-4", "type": "transform", "prompt": "Tourism damages local cultures. → It could be argued ...", "answers": ["It could be argued that tourism damages local cultures.", "It could be argued that tourism can damage local cultures.", "It could be argued that tourism may damage local cultures."], "explanation": "It could be argued that + oración: fórmula impersonal de matización.", "tags": ["hedging"], "level": "C1" },
+      { "id": "hedge-ex-5", "type": "error", "prompt": "The results seem indicate that the drug is effective.", "answers": ["The results seem to indicate that the drug is effective."], "explanation": "Seem + to-infinitivo.", "tags": ["hedging", "verb-patterns"], "level": "B2" },
+      { "id": "hedge-ex-6", "type": "mcq", "prompt": "Which sentence is the most appropriate for an academic essay?", "options": ["Rising temperatures are likely to affect crop yields in many regions.", "Rising temperatures will destroy all crops everywhere.", "Rising temperatures maybe could possibly perhaps affect crops.", "Everybody knows rising temperatures kill crops."], "answers": ["Rising temperatures are likely to affect crop yields in many regions."], "explanation": "Matiza lo justo (likely, many regions) sin exagerar ni sonar inseguro.", "tags": ["hedging", "register"], "level": "B2" }
+    ]
+  },
+  {
+    "id": "comparatives-data",
+    "title": "Comparatives and superlatives for describing data",
+    "titleEs": "Comparativos y superlativos para describir datos",
+    "level": "B2",
+    "why": "IELTS Writing Task 1 exige comparar cifras (Task Achievement: make comparisons where relevant). Estructuras como twice as many as, considerably higher than o the more…, the more… permiten comparaciones precisas y variadas, mientras que los errores de comparativo son de los más visibles para el examinador.",
+    "explanation": "## Básico\n\n| Adjetivo | Comparativo | Superlativo |\n|---|---|---|\n| corto: *high* | *higher than* | *the highest* |\n| largo: *expensive* | *more expensive than* | *the most expensive* |\n| irregular: *good / bad / far* | *better / worse / further* | *the best / the worst / the furthest* |\n\n## Graduar la diferencia\n\n- Grande: *considerably, significantly, substantially, far, much* + comparativo: *considerably higher than*\n- Pequeña: *slightly, marginally, a little* + comparativo: *slightly lower than*\n- ¡Nunca ~~*very higher*~~!\n\n## Multiplicadores\n\n- *twice / three times **as** many/much/high **as***: *Men spent **twice as much as** women.*\n- *three times **more** than* (también aceptado, menos preciso)\n- *half as many as*, *double / triple the number of*\n\n## Igualdad y diferencia\n\n- *as + adj + as*: *as popular as*; *not as/so... as*\n- *the same **as***, *similar **to***, *different **from***\n\n## Many / much / fewer / less\n\n- Contables: *more, fewer, as many as*: ***fewer** cars*\n- Incontables: *more, less, as much as*: ***less** energy*\n\n## Comparativo correlativo\n\n***The** higher the income, **the** more people spend on leisure.*\n\n## Superlativos con matiz\n\n*the second largest*, *by far the most popular*, *one of the highest*, *the least common*.",
+    "examples": [
+      { "en": "The USA consumed twice as much energy as China in 1990.", "note": "Twice as much as (energía es incontable)." },
+      { "en": "Spending on housing was considerably higher than spending on food.", "note": "Considerably para graduar la diferencia." },
+      { "en": "Car ownership in Germany was slightly lower than in France.", "note": "Diferencia pequeña." },
+      { "en": "The more people earn, the more they tend to save.", "note": "Comparativo correlativo." },
+      { "en": "Japan had by far the highest proportion of elderly citizens.", "note": "By far + superlativo." }
+    ],
+    "mistakes": [
+      { "wrong": "The number was more high than in 2010.", "right": "The number was higher than in 2010.", "why": "Adjetivos cortos forman el comparativo con -er (en español «más alto» siempre lleva más)." },
+      { "wrong": "Women spent the double than men.", "right": "Women spent twice as much as men. / Women spent double the amount men did.", "why": "Calco de «el doble que»; la estructura inglesa es twice as much/many as." },
+      { "wrong": "There were less students in 2020.", "right": "There were fewer students in 2020.", "why": "Students es contable: fewer (less es para incontables)." },
+      { "wrong": "The figure was very higher than expected.", "right": "The figure was much/far/considerably higher than expected.", "why": "Very no modifica comparativos; se usa much, far, considerably." },
+      { "wrong": "It was the most big increase.", "right": "It was the biggest increase.", "why": "Adjetivo corto: -est (doble consonante: biggest)." }
+    ],
+    "exercises": [
+      { "id": "comp-ex-1", "type": "gap", "prompt": "In 2020, Spain received ___ many tourists as Italy. (el doble)", "answers": ["twice as"], "explanation": "Twice as many as para sustantivos contables (tourists).", "tags": ["comparatives", "data"], "level": "B2" },
+      { "id": "comp-ex-2", "type": "gap", "prompt": "There were ___ cars on the road in 2020 than in 2019 because of lockdowns.", "answers": ["fewer"], "explanation": "Cars es contable: fewer.", "tags": ["comparatives", "countable"], "level": "B1" },
+      { "id": "comp-ex-3", "type": "gap", "prompt": "The ___ (old) people get, the less they tend to sleep.", "answers": ["older"], "explanation": "The + comparativo..., the + comparativo.", "tags": ["comparatives"], "level": "B2" },
+      { "id": "comp-ex-4", "type": "transform", "prompt": "Rent in London is 3,000 pounds; rent in Leeds is 1,500 pounds. → Rent in London is twice ...", "answers": ["Rent in London is twice as high as in Leeds.", "Rent in London is twice as high as rent in Leeds.", "Rent in London is twice as expensive as in Leeds.", "Rent in London is twice as high as that in Leeds.", "Rent in London is twice as much as in Leeds.", "Rent in London is twice that in Leeds.", "Rent in London is twice the rent in Leeds."], "explanation": "Twice as + adjetivo + as.", "tags": ["comparatives", "data"], "level": "B2" },
+      { "id": "comp-ex-5", "type": "error", "prompt": "The percentage of women was very lower than that of men.", "answers": ["The percentage of women was much lower than that of men.", "The percentage of women was far lower than that of men.", "The percentage of women was considerably lower than that of men.", "The percentage of women was significantly lower than that of men.", "The percentage of women was a lot lower than that of men.", "The percentage of women was substantially lower than that of men."], "explanation": "Very no gradúa comparativos: much/far/considerably/significantly.", "tags": ["comparatives", "data"], "level": "B2" },
+      { "id": "comp-ex-6", "type": "mcq", "prompt": "Brazil produced ___ coffee of all the countries shown.", "options": ["the most", "the more", "most of", "more"], "answers": ["the most"], "explanation": "Superlativo con incontable: the most.", "tags": ["comparatives", "data"], "level": "B1" },
+      { "id": "comp-ex-7", "type": "mcq", "prompt": "The figure for 2015 was ___ than the figure for 2014 (45.3% vs 45.1%).", "options": ["marginally higher", "considerably higher", "very higher", "more higher"], "answers": ["marginally higher"], "explanation": "Una diferencia de 0,2% es pequeña: marginally/slightly.", "tags": ["comparatives", "data"], "level": "B2" }
+    ]
+  },
+  {
+    "id": "articles",
+    "title": "Articles: a / an / the / zero article",
+    "titleEs": "Artículos: a / an / the / sin artículo",
+    "level": "B2",
+    "why": "Los errores de artículos son los más frecuentes en hispanohablantes y aparecen en casi cada frase. Una densidad alta de errores impide llegar a Band 7 (frequent error-free sentences) y en TOEFL afecta a la puntuación de precisión. Dominar el artículo cero con generalizaciones es la mejora más rápida y rentable.",
+    "explanation": "## La gran diferencia con el español\n\nEn español usamos el artículo para **generalizar**: *La educación es importante*. En inglés, para hablar de algo **en general** con plurales e incontables, **no se usa artículo**:\n\n- ***Education** is important.* (NO ~~*The education*~~)\n- ***Children** need **love**.* \n- ***Technology** has changed **society**.*\n\n## Cuándo usar *the*\n\n- Algo concreto/ya identificado: ***The** education I received was excellent.*\n- Único: *the sun, the internet, the government, the environment*\n- Superlativos y ordinales: *the best, the first*\n- Con *of* que especifica: ***the** cost **of** living*, ***the** number **of** students*\n- Nombres de ríos, mares, cadenas montañosas y países con nombre plural o con *States/Kingdom/Republic*: *the Thames, the Alps, the USA, the UK*\n- Instrumentos musicales y *the + adj* para grupos: *the elderly, the poor*\n- Décadas y periodos: *in the 1990s*, *over the period*\n\n## Cuándo usar *a/an*\n\n- Primera mención de un contable singular: *I read **an** article.*\n- Profesiones: *She is **an** engineer.* (en español sin artículo)\n- *a/an* por sonido: ***an** hour, **a** university, **an** MBA*\n- Expresiones: *a lot of, a number of, a variety of, a rise, a decline*\n\n## Sin artículo (zero)\n\n- Generalizaciones con plurales/incontables (ver arriba)\n- La mayoría de países, ciudades, continentes: *Spain, Asia*\n- Comidas, deportes, idiomas, asignaturas: *have lunch, play tennis, study Chinese*\n- *at school, at university, in hospital, by car, at work, go home* (sentido institucional)\n\n## Truco\n\nPregúntate: ¿hablo de **todos en general** (sin artículo) o de **unos concretos** (*the*)?",
+    "examples": [
+      { "en": "Unemployment is a serious problem in many countries.", "note": "Generalización con incontable: sin artículo; a + contable singular." },
+      { "en": "The unemployment rate rose to 12% in 2012.", "note": "Algo concreto: the + rate." },
+      { "en": "The number of students fell, while a number of schools closed.", "note": "The number of (la cifra) vs a number of (varios)." },
+      { "en": "Governments should provide free healthcare for the elderly.", "note": "Plural general sin artículo; the + adjetivo = grupo." },
+      { "en": "She is an architect and works in the UK.", "note": "Profesión con a/an; the con UK." }
+    ],
+    "mistakes": [
+      { "wrong": "The technology has changed the society.", "right": "Technology has changed society.", "why": "Generalización: sin artículo (en español «la tecnología ha cambiado la sociedad»)." },
+      { "wrong": "My sister is doctor.", "right": "My sister is a doctor.", "why": "En inglés las profesiones llevan a/an." },
+      { "wrong": "The people are worried about the climate change.", "right": "People are worried about climate change.", "why": "People y climate change en sentido general: sin artículo." },
+      { "wrong": "Number of tourists increased.", "right": "The number of tourists increased.", "why": "The number of + plural (la cifra concreta) necesita the." },
+      { "wrong": "I study in the university.", "right": "I study at university. / I'm at university.", "why": "Uso institucional: sin artículo (at university, at school)." }
+    ],
+    "exercises": [
+      { "id": "art-ex-1", "type": "gap", "prompt": "___ education is the key to reducing poverty. (escribe 'x' si no hace falta artículo)", "answers": ["x", "0", "no article", "zero"], "explanation": "Generalización con incontable: sin artículo.", "tags": ["articles"], "level": "B1" },
+      { "id": "art-ex-2", "type": "gap", "prompt": "___ number of people living alone has doubled since 1980.", "answers": ["The"], "explanation": "The number of = la cifra (verbo en singular: has).", "tags": ["articles"], "level": "B1" },
+      { "id": "art-ex-3", "type": "gap", "prompt": "She has been working as ___ university lecturer for ten years.", "answers": ["a"], "explanation": "Profesión: a; university empieza con sonido /j/, por eso a y no an.", "tags": ["articles"], "level": "B1" },
+      { "id": "art-ex-4", "type": "error", "prompt": "The pollution is one of the biggest problems facing the humanity.", "answers": ["Pollution is one of the biggest problems facing humanity."], "explanation": "Pollution y humanity en sentido general: sin artículo. The biggest sí lleva the (superlativo).", "tags": ["articles"], "level": "B2" },
+      { "id": "art-ex-5", "type": "error", "prompt": "Many young people dream of moving to United States.", "answers": ["Many young people dream of moving to the United States.", "Many young people dream of moving to the US.", "Many young people dream of moving to the USA."], "explanation": "Países con nombre plural o con States/Kingdom/Republic llevan the.", "tags": ["articles"], "level": "B1" },
+      { "id": "art-ex-6", "type": "mcq", "prompt": "___ elderly often feel isolated in modern cities.", "options": ["The", "An", "A", "Some"], "answers": ["The"], "explanation": "The + adjetivo designa a un grupo de personas (the elderly, the poor).", "tags": ["articles"], "level": "B2" },
+      { "id": "art-ex-7", "type": "mcq", "prompt": "Choose the best sentence for a general statement about children.", "options": ["Children who eat breakfast concentrate better.", "The children who eat breakfast concentrate better in general.", "The children eat breakfast concentrate better.", "A children who eat breakfast concentrate better."], "answers": ["Children who eat breakfast concentrate better."], "explanation": "Generalización sobre niños en general: plural sin artículo.", "tags": ["articles"], "level": "B2" }
+    ]
+  },
+  {
+    "id": "countable-uncountable",
+    "title": "Countable and uncountable nouns",
+    "titleEs": "Sustantivos contables e incontables (information, research, advice, evidence)",
+    "level": "B1",
+    "why": "Palabras académicas muy frecuentes como research, evidence, information, advice o knowledge son incontables en inglés pero contables en español. Escribir researches o an evidence es un error que el examinador detecta enseguida y que se repite a lo largo del texto, bajando Accuracy y Lexical Resource.",
+    "explanation": "## Incontables típicos en el examen\n\n| Incontable | Para contarlo |\n|---|---|\n| *information* | *a piece of information* |\n| *advice* | *a piece of advice, some advice* |\n| *research* | *a study, a research project* |\n| *evidence* | *a piece of evidence* |\n| *knowledge* | *an area of knowledge* |\n| *equipment* | *a piece of equipment* |\n| *furniture, luggage/baggage* | *an item of furniture* |\n| *traffic, transport, accommodation* | *a vehicle, a flat* |\n| *news* | *a piece of news* (¡verbo singular!) |\n| *homework, work* | *a task, a job* |\n| *progress, feedback, damage, pollution* | — |\n\n## Reglas\n\n- No llevan **a/an** ni **plural**: ~~*an advice*, *informations*~~\n- Verbo en **singular**: *The information **is** useful.* / *The news **was** shocking.*\n- Cuantificadores: ***much**, **little**, **a little**, **less**, **an amount of***\n- Contables: ***many**, **few**, **a few**, **fewer**, **a number of***\n- Con ambos: *some, any, a lot of, more, most, plenty of*\n\n## Cambio de significado\n\n- *paper* (material) / *a paper* (artículo académico, periódico)\n- *experience* (experiencia acumulada) / *an experience* (una vivencia)\n- *work* (trabajo) / *a work* (obra de arte)\n- *time* (tiempo) / *three times* (veces)\n\n## Data\n\n*Data* es técnicamente plural (*these data show*), pero hoy *the data shows* también se acepta. Sé coherente.",
+    "examples": [
+      { "en": "Recent research has shown that exercise improves memory.", "note": "Research: incontable, verbo en singular." },
+      { "en": "There is little evidence that the policy has worked.", "note": "Little con incontables." },
+      { "en": "She gave me a useful piece of advice about the interview.", "note": "Para contar: a piece of." },
+      { "en": "The news about the economy was encouraging.", "note": "News termina en -s pero es singular." },
+      { "en": "Several studies have examined this issue.", "note": "Si quieres plural, usa studies, no researches." }
+    ],
+    "mistakes": [
+      { "wrong": "Many researches show that...", "right": "Much research shows that... / Many studies show that...", "why": "Research es incontable en inglés (en español «investigaciones» es plural)." },
+      { "wrong": "He gave me an advice.", "right": "He gave me some advice. / He gave me a piece of advice.", "why": "Advice es incontable: no lleva a/an." },
+      { "wrong": "The informations are on the website.", "right": "The information is on the website.", "why": "Information no tiene plural y va con verbo singular." },
+      { "wrong": "There are many evidences.", "right": "There is a lot of evidence.", "why": "Evidence es incontable." },
+      { "wrong": "The news are bad.", "right": "The news is bad.", "why": "News es singular." }
+    ],
+    "exercises": [
+      { "id": "count-ex-1", "type": "gap", "prompt": "The teacher gave us some useful ___ (advice) on time management.", "answers": ["advice"], "explanation": "Advice es incontable: nunca advices.", "tags": ["countable"], "level": "B1" },
+      { "id": "count-ex-2", "type": "gap", "prompt": "There ___ (be) a lot of evidence that sugar is harmful.", "answers": ["is"], "explanation": "Evidence es incontable: there is.", "tags": ["countable", "agreement"], "level": "B1" },
+      { "id": "count-ex-3", "type": "gap", "prompt": "How ___ information do we need before making a decision?", "answers": ["much"], "explanation": "Information es incontable: how much.", "tags": ["countable"], "level": "B1" },
+      { "id": "count-ex-4", "type": "error", "prompt": "Several researches have been carried out on this topic.", "answers": ["Several studies have been carried out on this topic.", "Several research projects have been carried out on this topic.", "Several pieces of research have been carried out on this topic.", "A lot of research has been carried out on this topic.", "Much research has been carried out on this topic."], "explanation": "Research no tiene plural: usa studies o research projects.", "tags": ["countable"], "level": "B2" },
+      { "id": "count-ex-5", "type": "error", "prompt": "We bought new furnitures for the office.", "answers": ["We bought new furniture for the office.", "We bought some new furniture for the office."], "explanation": "Furniture es incontable.", "tags": ["countable"], "level": "B1" },
+      { "id": "count-ex-6", "type": "mcq", "prompt": "Students made ___ progress during the course.", "options": ["considerable", "a considerable", "many", "several"], "answers": ["considerable"], "explanation": "Progress es incontable: sin a, sin many/several.", "tags": ["countable"], "level": "B2" },
+      { "id": "count-ex-7", "type": "mcq", "prompt": "There were ___ cars in the city centre after the congestion charge was introduced.", "options": ["fewer", "less", "little", "much"], "answers": ["fewer"], "explanation": "Cars es contable: fewer.", "tags": ["countable", "comparatives"], "level": "B1" }
+    ]
+  },
+  {
+    "id": "verb-patterns",
+    "title": "Verb patterns: -ing vs to-infinitive",
+    "titleEs": "Patrones verbales: -ing o to-infinitivo",
+    "level": "B2",
+    "why": "Errores como I suggest you to…, avoid to do o look forward to hear aparecen continuamente en emails (TOEFL Write an Email) y ensayos. Son errores de precisión fácilmente evitables que restan en Grammatical Accuracy; dominarlos da frases limpias y naturales.",
+    "explanation": "## Verbo + -ing\n\n*avoid, consider, enjoy, finish, mind, suggest, recommend, risk, deny, involve, keep, practise, admit, delay, miss, can't help, it's worth*\n\n- *The government should **consider introducing** a tax.*\n\n## Verbo + to-infinitivo\n\n*afford, agree, aim, attempt, decide, expect, fail, hope, manage, offer, plan, refuse, seem, tend, want, would like, learn, promise*\n\n- *Many families cannot **afford to buy** a house.*\n\n## Verbo + objeto + to-infinitivo\n\n*advise, allow, encourage, enable, force, invite, persuade, remind, require, teach, tell, want, ask*\n\n- *Technology **enables people to work** remotely.*\n\n## Preposición + -ing\n\nTras cualquier preposición va -ing. ¡Cuidado con **to** preposición!\n\n- *look forward **to hearing***, *be used **to working***, *object **to paying***, *contribute **to improving***, *be committed **to reducing***\n- *instead of driving, by investing, interested in learning*\n\n## Cambian de significado\n\n| Verbo | + -ing | + to |\n|---|---|---|\n| *stop* | dejar de: *stop smoking* | parar para: *stop to rest* |\n| *remember* | recordar algo pasado | acordarse de hacer |\n| *try* | probar | intentar |\n| *regret* | arrepentirse | lamentar informar: *regret to inform* |\n\n## Suggest / recommend\n\n- *I suggest **taking** the train.* / *I suggest **that** he **take/takes/should take** the train.*\n- NUNCA ~~*I suggest you to take*~~.",
+    "examples": [
+      { "en": "I look forward to hearing from you.", "note": "To es preposición: -ing. Fórmula clave para emails." },
+      { "en": "Online courses enable students to learn at their own pace.", "note": "Enable + objeto + to-infinitivo." },
+      { "en": "The council is considering building a new bridge.", "note": "Consider + -ing." },
+      { "en": "Many graduates fail to find jobs in their field.", "note": "Fail + to-infinitivo." },
+      { "en": "I would recommend visiting the museum in the morning.", "note": "Recommend + -ing." }
+    ],
+    "mistakes": [
+      { "wrong": "I suggest you to apply early.", "right": "I suggest (that) you apply early. / I suggest applying early.", "why": "Calco de «te sugiero solicitar». Suggest no admite objeto + to-infinitivo." },
+      { "wrong": "I look forward to hear from you.", "right": "I look forward to hearing from you.", "why": "To aquí es preposición, así que va -ing." },
+      { "wrong": "Technology allows to work from home.", "right": "Technology allows people to work from home. / Technology allows working from home.", "why": "Allow necesita objeto antes de to-infinitivo (en español «permite trabajar» no lo necesita)." },
+      { "wrong": "You should avoid to eat junk food.", "right": "You should avoid eating junk food.", "why": "Avoid + -ing." },
+      { "wrong": "I am used to wake up early.", "right": "I am used to waking up early.", "why": "Be used to (estar acostumbrado) + -ing; used to + infinitivo es «solía»." }
+    ],
+    "exercises": [
+      { "id": "vp-ex-1", "type": "gap", "prompt": "Many young people cannot afford ___ (buy) a home.", "answers": ["to buy"], "explanation": "Afford + to-infinitivo.", "tags": ["verb-patterns"], "level": "B1" },
+      { "id": "vp-ex-2", "type": "gap", "prompt": "The government should consider ___ (raise) the minimum wage.", "answers": ["raising"], "explanation": "Consider + -ing.", "tags": ["verb-patterns"], "level": "B1" },
+      { "id": "vp-ex-3", "type": "gap", "prompt": "Governments should encourage people ___ (use) public transport.", "answers": ["to use"], "explanation": "Encourage + objeto + to-infinitivo.", "tags": ["verb-patterns"], "level": "B1" },
+      { "id": "vp-ex-4", "type": "gap", "prompt": "The company is committed to ___ (reduce) its carbon footprint.", "answers": ["reducing"], "explanation": "Committed to: to es preposición → -ing.", "tags": ["verb-patterns"], "level": "B2" },
+      { "id": "vp-ex-5", "type": "error", "prompt": "My tutor suggested me to read more academic articles.", "answers": ["My tutor suggested that I read more academic articles.", "My tutor suggested I read more academic articles.", "My tutor suggested reading more academic articles.", "My tutor suggested that I should read more academic articles.", "My tutor advised me to read more academic articles."], "explanation": "Suggest + that-clause o + -ing; nunca + objeto + to.", "tags": ["verb-patterns"], "level": "B2" },
+      { "id": "vp-ex-6", "type": "transform", "prompt": "Thanks to the internet, people can work from anywhere. → The internet enables ...", "answers": ["The internet enables people to work from anywhere."], "explanation": "Enable + objeto + to-infinitivo.", "tags": ["verb-patterns"], "level": "B2" },
+      { "id": "vp-ex-7", "type": "mcq", "prompt": "He stopped ___ when the doctor warned him about his lungs.", "options": ["smoking", "to smoke", "smoke", "to smoking"], "answers": ["smoking"], "explanation": "Stop + -ing = dejar de hacer algo.", "tags": ["verb-patterns"], "level": "B1" }
+    ]
+  },
+  {
+    "id": "subject-verb-agreement",
+    "title": "Subject–verb agreement and there is / there are",
+    "titleEs": "Concordancia sujeto-verbo y there is / there are",
+    "level": "B1",
+    "why": "Los fallos de concordancia (The number of students have…, There is many reasons…) son errores básicos que el examinador penaliza en cualquier nivel. En frases largas académicas, con sujetos complejos, es fácil perder la concordancia: controlarla es imprescindible para pasar de Band 6 a 7.",
+    "explanation": "## Regla básica\n\nEl verbo concuerda con el **núcleo** del sujeto, no con el sustantivo más cercano:\n\n- *The **impact** of new technologies on young people **is** significant.*\n- *The **quality** of the products **has** improved.*\n\n## Casos complicados\n\n| Sujeto | Verbo | Ejemplo |\n|---|---|---|\n| *The number of + plural* | singular | *The number of cars **has** risen.* |\n| *A number of + plural* | plural | *A number of problems **have** emerged.* |\n| *The proportion / percentage of* | según el sustantivo (normalmente singular) | *The percentage of women **was** 40%.* |\n| *Each / every / either / neither* | singular | *Each student **has** a laptop.* |\n| *One of the + plural* | singular | *One of the main reasons **is**...* |\n| *Gerundio como sujeto* | singular | *Reading books **improves** vocabulary.* |\n| *Incontables* | singular | *The information **is**...* |\n| *People, police* | plural | *People **are**...* |\n| *Two nouns with and* | plural | *Cost and time **are** factors.* |\n\n## There is / there are\n\nConcuerda con el sustantivo que va **detrás**:\n\n- *There **is** a problem.* / *There **are** many problems.*\n- *There **has been** an increase* / *There **have been** several changes.*\n- Lista: concuerda con el primer elemento: *There **is** a library and two cafés.*\n\n## Recuerda la -s\n\nEn presente, 3.ª persona singular: *The graph **shows**...*, *Society **benefits**...*",
+    "examples": [
+      { "en": "The number of international students has increased dramatically.", "note": "The number of: verbo singular." },
+      { "en": "A number of factors have contributed to this trend.", "note": "A number of: verbo plural." },
+      { "en": "One of the most serious problems is air pollution.", "note": "El núcleo es one." },
+      { "en": "There have been significant changes in the labour market.", "note": "There have been + plural." },
+      { "en": "Learning a foreign language requires patience.", "note": "Gerundio sujeto: singular." }
+    ],
+    "mistakes": [
+      { "wrong": "The number of students have increased.", "right": "The number of students has increased.", "why": "El núcleo es number (singular), no students." },
+      { "wrong": "There is many reasons for this.", "right": "There are many reasons for this.", "why": "There are + plural (en español «hay» no cambia)." },
+      { "wrong": "People is worried about the future.", "right": "People are worried about the future.", "why": "People es plural en inglés (en español «la gente» es singular)." },
+      { "wrong": "One of the reasons are the cost.", "right": "One of the reasons is the cost.", "why": "El sujeto es one: singular." },
+      { "wrong": "The graph show the population.", "right": "The graph shows the population.", "why": "Tercera persona singular en presente: -s." }
+    ],
+    "exercises": [
+      { "id": "sva-ex-1", "type": "gap", "prompt": "The number of people living in cities ___ (be) growing every year.", "answers": ["is"], "explanation": "The number of → singular.", "tags": ["agreement"], "level": "B1" },
+      { "id": "sva-ex-2", "type": "gap", "prompt": "There ___ (be) several advantages to studying abroad.", "answers": ["are"], "explanation": "There are + plural (several advantages).", "tags": ["agreement"], "level": "B1" },
+      { "id": "sva-ex-3", "type": "gap", "prompt": "The effects of climate change on agriculture ___ (be) becoming more severe.", "answers": ["are"], "explanation": "El núcleo es effects (plural), no agriculture.", "tags": ["agreement"], "level": "B2" },
+      { "id": "sva-ex-4", "type": "gap", "prompt": "Each of the participants ___ (receive) a questionnaire.", "answers": ["receives", "received"], "explanation": "Each of → singular (receives / received).", "tags": ["agreement"], "level": "B2" },
+      { "id": "sva-ex-5", "type": "error", "prompt": "People in my country is very friendly.", "answers": ["People in my country are very friendly."], "explanation": "People es plural.", "tags": ["agreement"], "level": "B1" },
+      { "id": "sva-ex-6", "type": "error", "prompt": "There has been many changes since 2000.", "answers": ["There have been many changes since 2000."], "explanation": "There have been + plural.", "tags": ["agreement"], "level": "B1" },
+      { "id": "sva-ex-7", "type": "mcq", "prompt": "Using smartphones before bed ___ sleep quality.", "options": ["reduces", "reduce", "are reducing", "have reduced"], "answers": ["reduces"], "explanation": "Un gerundio como sujeto es singular.", "tags": ["agreement"], "level": "B2" }
+    ]
+  },
+  {
+    "id": "tense-consistency",
+    "title": "Tense consistency: present perfect vs past simple",
+    "titleEs": "Coherencia de tiempos: present perfect frente a past simple",
+    "level": "B2",
+    "why": "En IELTS Task 1 los datos pasados exigen past simple, mientras que en Task 2 y en TOEFL se habla de tendencias que llegan al presente con present perfect. Mezclar tiempos sin motivo confunde al lector y penaliza Accuracy y Coherence. En español usamos «he hecho» y «hice» de forma distinta según la región, lo que provoca errores.",
+    "explanation": "## Past simple\n\nAcción terminada en un momento pasado **concreto** o con expresión de tiempo terminada: *in 2010, last year, ago, when I was a child, between 1990 and 2000*.\n\n- *Sales **fell** in 2009.*\n- *The figure **reached** a peak in 1995.*\n\n## Present perfect\n\nConexión con el presente, periodo **no terminado**, o sin momento concreto: *since, for, so far, recently, in recent years, over the last decade, ever, yet, already*.\n\n- *Online shopping **has grown** rapidly **in recent years**.*\n- *Unemployment **has fallen since** 2015.*\n\n## Señales clave\n\n| Past simple | Present perfect |\n|---|---|\n| *in 2010, last year, two years ago, in the 1990s* | *since 2010, for ten years, recently, so far, over the past decade* |\n| *between 1990 and 2000* | *in the last few years, up to now* |\n\n## IELTS Task 1\n\n- Datos pasados → **past simple** en todo el informe.\n- Datos futuros (proyecciones) → *is expected to / is predicted to / will*.\n- Mezcla (1990–2030): pasado para lo pasado, *is projected to* para lo futuro.\n- Describiendo la gráfica en sí → presente: *The chart **shows**...*\n\n## Ensayos\n\n- Presente simple para hechos generales; present perfect para cambios recientes; past simple para ejemplos concretos del pasado.\n\n## Coherencia en narración (Speaking Part 2)\n\nSi cuentas una historia pasada, mantén el past simple y usa past perfect sólo para lo anterior: *When I **arrived**, the class **had** already **started**.*",
+    "examples": [
+      { "en": "The number of visitors rose from 2 million in 2000 to 5 million in 2010.", "note": "Periodo terminado: past simple." },
+      { "en": "Over the past decade, renewable energy has become much cheaper.", "note": "Periodo hasta ahora: present perfect." },
+      { "en": "I have lived in Madrid since 2018.", "note": "Since + punto de inicio: present perfect." },
+      { "en": "The bar chart shows how much water was used in 2015.", "note": "Presente para la gráfica; pasado para los datos." },
+      { "en": "By 2030, the figure is expected to exceed 10 million.", "note": "Proyección futura." }
+    ],
+    "mistakes": [
+      { "wrong": "The population has increased in 2005.", "right": "The population increased in 2005.", "why": "Con un año concreto terminado se usa past simple, aunque en algunas zonas de España se diga «ha aumentado en 2005»." },
+      { "wrong": "I live here since three years.", "right": "I have lived here for three years.", "why": "Calco de «vivo aquí desde hace tres años»: present perfect + for." },
+      { "wrong": "Technology changed our lives in recent years.", "right": "Technology has changed our lives in recent years.", "why": "In recent years conecta con el presente: present perfect." },
+      { "wrong": "Since 2010 the prices rose.", "right": "Since 2010 prices have risen.", "why": "Since exige present perfect (y prices sin artículo en general)." }
+    ],
+    "exercises": [
+      { "id": "tense-ex-1", "type": "gap", "prompt": "Coal consumption ___ (fall) by 20% between 1990 and 2000.", "answers": ["fell"], "explanation": "Periodo pasado terminado: past simple.", "tags": ["tenses", "data"], "level": "B1" },
+      { "id": "tense-ex-2", "type": "gap", "prompt": "Since the introduction of smartphones, the way we communicate ___ (change) dramatically.", "answers": ["has changed"], "explanation": "Since → present perfect.", "tags": ["tenses"], "level": "B1" },
+      { "id": "tense-ex-3", "type": "gap", "prompt": "When we reached the station, the train ___ (already / leave).", "answers": ["had already left"], "explanation": "Acción anterior a otra pasada: past perfect.", "tags": ["tenses"], "level": "B2" },
+      { "id": "tense-ex-4", "type": "error", "prompt": "The company has opened its first store in 1998.", "answers": ["The company opened its first store in 1998."], "explanation": "In 1998 (momento terminado) → past simple.", "tags": ["tenses"], "level": "B1" },
+      { "id": "tense-ex-5", "type": "transform", "prompt": "I started studying English five years ago and I still study it. → I have ...", "answers": ["I have studied English for five years.", "I have been studying English for five years.", "I've been studying English for five years.", "I've studied English for five years."], "explanation": "Acción que empezó en el pasado y sigue: present perfect (simple o continuo) + for.", "tags": ["tenses"], "level": "B1" },
+      { "id": "tense-ex-6", "type": "mcq", "prompt": "Over the last twenty years, the cost of university education ___ significantly.", "options": ["has risen", "rose", "rises", "was rising"], "answers": ["has risen"], "explanation": "Over the last twenty years llega hasta hoy: present perfect.", "tags": ["tenses"], "level": "B2" },
+      { "id": "tense-ex-7", "type": "mcq", "prompt": "The line graph ___ the number of cinema visits between 1980 and 2000.", "options": ["shows", "showed", "has shown", "had shown"], "answers": ["shows"], "explanation": "Para describir la gráfica en sí usamos presente simple (los datos van en pasado).", "tags": ["tenses", "data"], "level": "B1" }
+    ]
+  },
+  {
+    "id": "reported-speech",
+    "title": "Reported speech and reporting verbs",
+    "titleEs": "Estilo indirecto y verbos para citar (argue, claim, suggest…)",
+    "level": "B2",
+    "why": "En TOEFL (Academic Discussion, preguntas sobre conferencias) y en IELTS Task 2 discussion essays hay que presentar opiniones ajenas: Some argue that…, Critics claim… Variar los verbos de cita (argue, claim, maintain, acknowledge, deny) y usar sus patrones correctos demuestra amplitud léxica y gramatical.",
+    "explanation": "## Cambios en el estilo indirecto\n\nCuando el verbo introductor va en pasado, los tiempos suelen retroceder:\n\n| Directo | Indirecto |\n|---|---|\n| *I **am** tired.* | *She said (that) she **was** tired.* |\n| *We **will** help.* | *They said they **would** help.* |\n| *I **have finished**.* | *He said he **had finished**.* |\n| *I **saw** it.* | *He said he **had seen** it.* |\n| *I **can** come.* | *She said she **could** come.* |\n\nTambién cambian referencias: *today → that day, tomorrow → the next day, here → there*.\n\nSi lo dicho **sigue siendo verdad**, no hace falta retroceder: *She said that water **boils** at 100°C.*\n\n## Preguntas indirectas\n\nOrden de afirmación, sin *do/does/did*:\n\n- *Where **do you live**?* → *He asked me where **I lived**.*\n- *Are you a student?* → *She asked **if/whether** I was a student.*\n\n## Say vs tell\n\n- *say (something) (to somebody)*: *He said that...*\n- *tell **somebody** (something)*: *He told **me** that...*\n\n## Verbos de cita y sus patrones\n\n| Patrón | Verbos |\n|---|---|\n| + *that* | *argue, claim, maintain, state, suggest, acknowledge, point out, insist, admit, deny* |\n| + objeto + *to* | *advise, warn, urge, encourage, persuade, remind* |\n| + *to* | *agree, refuse, promise, threaten, offer* |\n| + *-ing* | *deny, admit, recommend, suggest* |\n| + preposición + *-ing* | *accuse sb of, blame sb for, apologise for, insist on* |\n\nEn ensayos se usa el **presente**: *Some economists **argue** that...*, *Critics **claim** that...*",
+    "examples": [
+      { "en": "Some experts argue that homework should be abolished.", "note": "Argue + that en presente (ensayo)." },
+      { "en": "The professor pointed out that the sample size was too small.", "note": "Point out + that." },
+      { "en": "She asked me whether I had ever been to Japan.", "note": "Pregunta indirecta: orden afirmativo." },
+      { "en": "The minister denied making any mistakes.", "note": "Deny + -ing." },
+      { "en": "Doctors urge people to reduce their salt intake.", "note": "Urge + objeto + to-infinitivo." }
+    ],
+    "mistakes": [
+      { "wrong": "He said me that he was tired.", "right": "He told me that he was tired. / He said that he was tired.", "why": "Say no lleva objeto de persona directamente; tell sí." },
+      { "wrong": "She asked me where did I live.", "right": "She asked me where I lived.", "why": "Las preguntas indirectas no invierten ni usan did." },
+      { "wrong": "Some people argue to ban cars.", "right": "Some people argue that cars should be banned.", "why": "Argue va con that-clause, no con to-infinitivo." },
+      { "wrong": "He explained me the problem.", "right": "He explained the problem to me.", "why": "Explain no lleva objeto de persona directo (calco de «me explicó»)." }
+    ],
+    "exercises": [
+      { "id": "rep-ex-1", "type": "transform", "prompt": "'I will finish the report tomorrow,' she said. → She said ...", "answers": ["She said she would finish the report the next day.", "She said that she would finish the report the next day.", "She said she would finish the report the following day.", "She said that she would finish the report the following day."], "explanation": "Will → would; tomorrow → the next/following day.", "tags": ["reported-speech"], "level": "B1" },
+      { "id": "rep-ex-2", "type": "transform", "prompt": "'Where do you work?' he asked me. → He asked me ...", "answers": ["He asked me where I worked."], "explanation": "Pregunta indirecta: sin do, orden sujeto + verbo, tiempo retrocede.", "tags": ["reported-speech"], "level": "B1" },
+      { "id": "rep-ex-3", "type": "gap", "prompt": "The lecturer ___ us that the exam would be in May.", "answers": ["told", "reminded", "informed", "warned", "assured"], "explanation": "Con objeto de persona (us): told/reminded/informed, no said.", "tags": ["reported-speech"], "level": "B1" },
+      { "id": "rep-ex-4", "type": "gap", "prompt": "The doctor warned him ___ (not / smoke).", "answers": ["not to smoke"], "explanation": "Warn + objeto + not to-infinitivo.", "tags": ["reported-speech", "verb-patterns"], "level": "B2" },
+      { "id": "rep-ex-5", "type": "error", "prompt": "Critics argue to raise the age limit.", "answers": ["Critics argue that the age limit should be raised.", "Critics argue for raising the age limit.", "Critics argue that the age limit should be increased.", "Critics argue in favour of raising the age limit."], "explanation": "Argue + that-clause (o argue for + -ing).", "tags": ["reported-speech"], "level": "B2" },
+      { "id": "rep-ex-6", "type": "mcq", "prompt": "The CEO ___ that mistakes had been made but refused to resign.", "options": ["acknowledged", "told", "refused", "urged"], "answers": ["acknowledged"], "explanation": "Acknowledge + that = reconocer. Told necesita objeto; refused y urged no van con that en este sentido.", "tags": ["reported-speech"], "level": "C1" },
+      { "id": "rep-ex-7", "type": "mcq", "prompt": "The student was accused ___ the essay from the internet.", "options": ["of copying", "to copy", "for copy", "of copy"], "answers": ["of copying"], "explanation": "Accuse somebody of + -ing.", "tags": ["reported-speech", "prepositions"], "level": "B2" }
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "ielts-r-pa-04",
+    "difficulty": "medium",
+    "usage": "practice",
+    "passageNo": 2,
+    "title": "Rebuilding the Reef",
+    "subtitle": "Can scientists grow coral faster than the ocean destroys it?",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Coral reefs cover less than one per cent of the ocean floor, yet they provide a home for roughly a quarter of all known marine species. They also protect coastlines from storm waves, support fisheries that feed hundreds of millions of people and attract tourists whose spending is vital to many island economies. Over the past few decades, however, reefs have suffered severe losses. Rising sea temperatures cause corals to expel the tiny algae that live inside their tissues and supply most of their food, a process known as bleaching. If high temperatures persist, the bleached corals starve. Pollution, overfishing and destructive fishing methods have added to the damage, and on many reefs the area covered by living coral has fallen by half or more."
+      },
+      {
+        "label": "B",
+        "text": "Faced with these losses, scientists and conservation groups have turned to active restoration: growing new corals and returning them to damaged reefs. The most widespread method is coral gardening, which borrows its basic idea from forestry. Small fragments are broken from healthy colonies and hung on underwater frames, often shaped like trees made of plastic pipe, where they are cleaned regularly and protected from predators. After six to twelve months the fragments have grown large enough to be attached to the reef with cement, cable ties or nails. Branching corals, which grow quickly, are especially suited to this approach."
+      },
+      {
+        "label": "C",
+        "text": "A second technique, known as micro-fragmentation, was discovered by accident. A marine biologist working in a laboratory in Florida broke a piece of slow-growing coral into several tiny pieces while moving it between tanks. To his surprise, the small fragments grew far faster than the original piece had. Researchers now know that when coral is cut into pieces of only one or two square centimetres, each piece grows rapidly outwards, as if trying to repair the damage. Fragments of the same colony placed close together on a rock eventually fuse into one, producing in two or three years a colony that would normally take decades to form. The method is particularly valuable for massive, boulder-shaped corals, which are slow to grow but form the solid structure of a reef."
+      },
+      {
+        "label": "D",
+        "text": "Both methods, however, rely on cloning: every fragment is genetically identical to its parent. A reef rebuilt from only a few parent colonies would lack the genetic variety that allows natural populations to adapt to change. To address this, some projects work with coral larvae. Many corals reproduce by releasing eggs and sperm into the water on a few nights each year, usually soon after a full moon. Teams collect this spawn, raise the resulting larvae in floating pools or tanks until they are ready to settle, and then release them over damaged areas, or allow them to attach to small ceramic tiles that can be placed on the reef. Survival rates of young corals in the wild are extremely low, often well under one per cent, but because a single spawning can produce millions of larvae, even a small proportion represents a large number of new corals."
+      },
+      {
+        "label": "E",
+        "text": "Restoration is expensive, and its scale is tiny compared with the problem. Estimates of the cost of restoring a single hectare of reef vary enormously, from a few thousand dollars in countries where labour is cheap to well over a million in others. Even the largest projects have restored areas measured in hectares, whereas the world's reefs cover more than a quarter of a million square kilometres. Critics also point out that many projects measure success by the number of corals planted rather than by how many are still alive several years later, and that long-term monitoring is rare."
+      },
+      {
+        "label": "F",
+        "text": "Some scientists are therefore focusing on corals that can survive the conditions of the future rather than those of the past. In a strategy sometimes called assisted evolution, researchers identify colonies that survived recent heatwaves and breed them, hoping to produce offspring with greater heat tolerance. Others expose young corals to gradually rising temperatures in the laboratory, a form of training that appears to improve their resistance. These approaches remain experimental, and some biologists worry that corals selected for heat tolerance may grow more slowly or be weaker in other ways."
+      },
+      {
+        "label": "G",
+        "text": "Almost all researchers agree on one point: restoration cannot save reefs on its own. Corals planted on a reef will die in the next marine heatwave if ocean temperatures continue to rise, and they will struggle wherever water quality is poor or fishing removes the plant-eating fish that keep algae under control. Restoration, in this view, is a way of buying time, keeping reefs and their genetic diversity alive until the reductions in greenhouse gas emissions on which corals ultimately depend can take effect."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-info",
+        "instructions": "Questions 1–5\nReading Passage 2 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G.\nNB You may use any letter more than once.",
+        "options": [
+          { "key": "A", "text": "Paragraph A" },
+          { "key": "B", "text": "Paragraph B" },
+          { "key": "C", "text": "Paragraph C" },
+          { "key": "D", "text": "Paragraph D" },
+          { "key": "E", "text": "Paragraph E" },
+          { "key": "F", "text": "Paragraph F" },
+          { "key": "G", "text": "Paragraph G" }
+        ],
+        "items": [
+          {
+            "id": "q1",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "an account of an unexpected discovery",
+            "answer": "C",
+            "evidence": "A second technique, known as micro-fragmentation, was discovered by accident.",
+            "explanation": "'Discovered by accident' and 'to his surprise' in paragraph C = an unexpected discovery."
+          },
+          {
+            "id": "q2",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a comparison between a restoration method and the management of trees",
+            "answer": "B",
+            "evidence": "which borrows its basic idea from forestry",
+            "explanation": "Paragraph B says coral gardening 'borrows its basic idea from forestry' (the management of trees), and the frames are 'shaped like trees'."
+          },
+          {
+            "id": "q3",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a reference to when corals reproduce",
+            "answer": "D",
+            "evidence": "Many corals reproduce by releasing eggs and sperm into the water on a few nights each year, usually soon after a full moon.",
+            "explanation": "Paragraph D gives the timing: 'a few nights each year, usually soon after a full moon'."
+          },
+          {
+            "id": "q4",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a criticism of how some projects measure what they have achieved",
+            "answer": "E",
+            "evidence": "many projects measure success by the number of corals planted rather than by how many are still alive several years later",
+            "explanation": "Paragraph E reports that critics object to measuring success by corals planted instead of corals surviving."
+          },
+          {
+            "id": "q5",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a possible drawback of breeding corals to cope with heat",
+            "answer": "F",
+            "evidence": "some biologists worry that corals selected for heat tolerance may grow more slowly or be weaker in other ways",
+            "explanation": "In paragraph F, growing 'more slowly' or being 'weaker' is the possible drawback ('worry') of selecting corals for heat tolerance."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "tfng",
+        "instructions": "Questions 6–11\nDo the following statements agree with the information given in Reading Passage 2?\nWrite\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          {
+            "id": "q6",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Coral reefs occupy only a small part of the sea bed.",
+            "answer": "TRUE",
+            "evidence": "Coral reefs cover less than one per cent of the ocean floor",
+            "explanation": "'Less than one per cent of the ocean floor' = 'a small part of the sea bed'. TRUE."
+          },
+          {
+            "id": "q7",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Coral gardening was first developed in South-East Asia.",
+            "answer": "NOT GIVEN",
+            "explanation": "Paragraph B explains how coral gardening works and that it is 'the most widespread method', but it says nothing about where or when it was first developed. NOT GIVEN. (Florida is mentioned only for micro-fragmentation.)"
+          },
+          {
+            "id": "q8",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Branching corals are not well suited to coral gardening because of their slow growth.",
+            "answer": "FALSE",
+            "evidence": "Branching corals, which grow quickly, are especially suited to this approach.",
+            "explanation": "The text says branching corals grow quickly and are 'especially suited' to gardening: the statement says the opposite on both points. FALSE."
+          },
+          {
+            "id": "q9",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Small pieces from one colony can join together if they are placed near each other.",
+            "answer": "TRUE",
+            "evidence": "Fragments of the same colony placed close together on a rock eventually fuse into one",
+            "explanation": "'Placed close together' = 'placed near each other'; 'fuse into one' = 'join together'. TRUE."
+          },
+          {
+            "id": "q10",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "The majority of coral larvae released onto reefs survive.",
+            "answer": "FALSE",
+            "evidence": "Survival rates of young corals in the wild are extremely low, often well under one per cent",
+            "explanation": "'Well under one per cent' survive, which contradicts 'the majority'. FALSE. (The large number of larvae compensates, but most still die.)"
+          },
+          {
+            "id": "q11",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Restoration is cheapest on reefs that are close to the shore.",
+            "answer": "NOT GIVEN",
+            "explanation": "Paragraph E links cost differences to the price of labour in different countries, not to distance from the shore. Distance is never mentioned, so NOT GIVEN."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "multi",
+        "instructions": "Questions 12 and 13\nChoose TWO letters, A–E.",
+        "items": [
+          {
+            "id": "q12-13",
+            "kind": "multi",
+            "qtype": "multi",
+            "prompt": "Which TWO limitations of reef restoration does the writer mention?",
+            "options": [
+              "The area restored is very small compared with the total area of reefs.",
+              "The cement used to attach corals harms nearby marine life.",
+              "Corals grown from fragments have little genetic variation.",
+              "Tourists frequently damage newly restored sites.",
+              "Ceramic tiles are too costly for most projects to use."
+            ],
+            "answers": [0, 2],
+            "evidence": "Even the largest projects have restored areas measured in hectares, whereas the world's reefs cover more than a quarter of a million square kilometres.",
+            "explanation": "A: paragraph E contrasts restored 'hectares' with 'a quarter of a million square kilometres' of reefs. C: paragraph D says fragments are clones, so a reef rebuilt from them 'would lack the genetic variety'. Cement, tourists damaging sites and the price of ceramic tiles are never presented as problems.",
+            "optionNotes": [
+              "Correct (paragraph E).",
+              "Cement is mentioned only as a way of attaching corals.",
+              "Correct (paragraph D: 'every fragment is genetically identical to its parent').",
+              "Tourists are mentioned only for their spending.",
+              "Tiles are mentioned, but not their cost."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

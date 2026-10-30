@@ -1,0 +1,500 @@
+[
+  {
+    "id": "toefl-ann-m1-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "module": "router",
+    "task": "announcement",
+    "title": "Concert rehearsal moved",
+    "context": "Listen to an announcement in a music class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Ortiz",
+          "role": "Music director",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Good afternoon, everyone. I want to give you an update on the spring concert."
+        },
+        {
+          "s": "p",
+          "t": "Because the main auditorium is being used for graduation preparations, our dress rehearsal has been moved from Thursday evening to Wednesday evening, at seven. The concert itself is still on Friday."
+        },
+        {
+          "s": "p",
+          "t": "The rehearsal is not optional. Anyone who misses it won't be allowed to perform, because we'll be checking where everyone stands on stage and how long each piece takes."
+        },
+        {
+          "s": "p",
+          "t": "Please wear the black clothing you'll perform in, so we can check the lighting. And if you have a conflict on Wednesday, come and see me after class today, not later in the week."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why has the dress rehearsal been moved?",
+        "options": [
+          "The date of the concert has changed.",
+          "The stage lighting is being repaired.",
+          "The auditorium is needed for another event.",
+          "Many students have a conflict on Thursday."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The concert is still on Friday.",
+          "Lighting will be checked, not repaired.",
+          "Correct. The auditorium is being used for graduation preparations.",
+          "Conflicts are mentioned for Wednesday, not as the reason for the change."
+        ],
+        "explanation": "The rehearsal moves because the auditorium is being used to prepare for graduation.",
+        "evidence": "the main auditorium is being used for graduation preparations"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why does the professor want students to wear black clothing at the rehearsal?",
+        "options": [
+          "To save time getting dressed on Friday",
+          "So he can see how the lights look on the performers",
+          "So that a group photograph can be taken",
+          "Because the auditorium will be cold"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Saving time is not mentioned.",
+          "Correct. Wearing the concert clothes lets them check the lighting.",
+          "No photograph is mentioned.",
+          "Temperature is not mentioned."
+        ],
+        "explanation": "Students should wear their performance clothes so the lighting can be tested under real conditions.",
+        "evidence": "so we can check the lighting"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m1-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 1,
+    "module": "lower",
+    "task": "announcement",
+    "title": "Statistics textbook sold out",
+    "context": "Listen to an announcement on a university campus.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "b",
+          "name": "Bookstore staff",
+          "role": "Campus staff",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "b",
+          "t": "Hello, everyone. This is a message from the campus bookstore."
+        },
+        {
+          "s": "b",
+          "t": "Some students have told us that the textbook for Introduction to Statistics is sold out. A new shipment will arrive on Tuesday. Until then, you can read the first three chapters for free on the library website."
+        },
+        {
+          "s": "b",
+          "t": "If you would like to buy a used copy, they cost about half the price of a new book. We also rent textbooks for the semester."
+        },
+        {
+          "s": "b",
+          "t": "Please bring your student ID card when you come to the store."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To give information about a textbook that is sold out",
+          "To advertise a new statistics course",
+          "To announce new opening hours for the bookstore",
+          "To explain the library's rules for borrowing books"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The message explains what students can do while the statistics book is sold out.",
+          "The course already exists; only its textbook is discussed.",
+          "Opening hours are not mentioned.",
+          "The library website is mentioned only as a place to read three chapters."
+        ],
+        "explanation": "The bookstore explains when new copies arrive and what options students have meanwhile.",
+        "evidence": "the textbook for Introduction to Statistics is sold out"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What must students bring to the store?",
+        "options": [
+          "Cash only",
+          "Their student ID card",
+          "A receipt from the library",
+          "A used textbook to exchange"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Payment method is not mentioned.",
+          "Correct. The speaker asks students to bring their student ID card.",
+          "No receipt is mentioned.",
+          "Exchanging books is not mentioned."
+        ],
+        "explanation": "The final instruction is to bring a student ID card to the store.",
+        "evidence": "Please bring your student ID card when you come to the store."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m1-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 1,
+    "module": "upper",
+    "task": "announcement",
+    "title": "Visit to the regional archive",
+    "context": "Listen to an announcement in an anthropology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Nguyen",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Before we break, a word about next week's visit to the regional archive, since the arrangements are more involved than our usual outings."
+        },
+        {
+          "s": "p",
+          "t": "The archive holds the original field diaries of the expedition we've been reading about, and the staff have agreed to let us examine them directly, which is quite unusual. In exchange, they've asked that we follow their handling rules precisely."
+        },
+        {
+          "s": "p",
+          "t": "That means no pens of any kind in the reading room, bags left in the lockers downstairs, and hands washed rather than gloved, as gloves actually make it harder to turn fragile pages without tearing them."
+        },
+        {
+          "s": "p",
+          "t": "Since only twelve people can be in the room at once, I'll split you into two groups. Check the course page tonight to see which session you're in."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the professor imply about the archive's decision to let the class examine the diaries?",
+        "options": [
+          "It is a routine service the archive offers.",
+          "It is a special privilege for the class.",
+          "It requires the class to pay a fee.",
+          "It was made reluctantly after a long delay."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The opposite: she says it is unusual.",
+          "Correct. Calling it 'quite unusual' signals that this access is a rare privilege.",
+          "No fee is mentioned; the condition is following handling rules.",
+          "Nothing suggests delay or reluctance."
+        ],
+        "explanation": "By saying the direct access is 'quite unusual', the professor implies the class is being given a special opportunity.",
+        "evidence": "which is quite unusual"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why are students told not to wear gloves?",
+        "options": [
+          "Gloves make it more likely that delicate pages will tear.",
+          "The archive does not provide gloves.",
+          "Gloves can leave ink marks on the diaries.",
+          "Students will already have washed their hands."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Gloves make it harder to turn fragile pages without tearing them.",
+          "Supply of gloves is not mentioned.",
+          "Ink is linked to the no-pens rule, not to gloves.",
+          "Hand-washing is the alternative, not the reason gloves are banned."
+        ],
+        "explanation": "Gloves reduce sensitivity, making fragile pages easier to tear.",
+        "evidence": "gloves actually make it harder to turn fragile pages without tearing them"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m2-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "module": "router",
+    "task": "announcement",
+    "title": "Free flu vaccinations",
+    "context": "Listen to an announcement on a university campus.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "h",
+          "name": "Health Center nurse",
+          "role": "Campus staff",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "h",
+          "t": "Good morning. This is an announcement from the Student Health Center."
+        },
+        {
+          "s": "h",
+          "t": "Free flu vaccinations will be offered next week, Monday through Thursday, in the lobby of the Student Union. No appointment is necessary, but the lines tend to be shortest before ten in the morning."
+        },
+        {
+          "s": "h",
+          "t": "Please bring your student ID and wear a short-sleeved shirt or something with loose sleeves, so the nurse can reach your upper arm easily."
+        },
+        {
+          "s": "h",
+          "t": "If you are feeling sick on the day you plan to come, with a fever for example, please wait until you've recovered. The vaccine will still be available at the Health Center itself until the end of December."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Where will the vaccinations be given next week?",
+        "options": [
+          "At the Student Health Center",
+          "In each residence hall",
+          "In the lobby of the Student Union",
+          "At a nearby hospital"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The Health Center offers the vaccine later, until December, but next week's event is elsewhere.",
+          "Residence halls are not mentioned.",
+          "Correct. Next week's free vaccinations are in the Student Union lobby.",
+          "No hospital is mentioned."
+        ],
+        "explanation": "Next week's vaccinations take place in the Student Union lobby, Monday to Thursday.",
+        "evidence": "in the lobby of the Student Union"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What should a student who has a fever next week do?",
+        "options": [
+          "Come to the Student Union before ten",
+          "Get vaccinated at the Health Center after recovering",
+          "Make an appointment with a nurse",
+          "Bring a note from a doctor"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Sick students are asked to wait, not to come early.",
+          "Correct. They should wait until they recover; the vaccine stays available at the Health Center until December.",
+          "No appointment is needed or mentioned for sick students.",
+          "A doctor's note is not mentioned."
+        ],
+        "explanation": "Sick students should wait to recover and can then get the vaccine at the Health Center before the end of December.",
+        "evidence": "The vaccine will still be available at the Health Center itself until the end of December."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m2-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 2,
+    "module": "lower",
+    "task": "announcement",
+    "title": "The Math Help Center",
+    "context": "Listen to an announcement in a mathematics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Adams",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Hi, everyone. Before we begin, I want to tell you about the Math Help Center."
+        },
+        {
+          "s": "p",
+          "t": "Starting this week, it is open Monday to Friday, from four to eight p.m., on the second floor of Baker Hall. Tutors there can help you with homework from any math class."
+        },
+        {
+          "s": "p",
+          "t": "You don't need to make an appointment. Just come in and write your name on the list at the door. Please bring your textbook and the problems you are working on."
+        },
+        {
+          "s": "p",
+          "t": "And the best part is that tutoring is free for all students."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the announcement mainly about?",
+        "options": [
+          "A place where students can get free help with math",
+          "A new math course in Baker Hall",
+          "A change in the time of the math class",
+          "Jobs for students who want to be tutors"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The professor describes the Math Help Center and its free tutoring.",
+          "No new course is mentioned.",
+          "The class time does not change.",
+          "Tutors are mentioned, but not as job openings."
+        ],
+        "explanation": "The professor introduces the Math Help Center, where tutors help with homework for free.",
+        "evidence": "Tutors there can help you with homework from any math class."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What should students do when they arrive at the center?",
+        "options": [
+          "Show their student ID",
+          "Write their name on a list",
+          "Pay a small fee",
+          "Call to make an appointment"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "An ID is not mentioned.",
+          "Correct. They write their name on the list at the door.",
+          "Tutoring is free.",
+          "No appointment is needed."
+        ],
+        "explanation": "Students simply come in and write their name on the list at the door.",
+        "evidence": "write your name on the list at the door"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m2-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 2,
+    "module": "upper",
+    "task": "announcement",
+    "title": "A new seminar format",
+    "context": "Listen to an announcement in a philosophy seminar.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Hale",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Before we begin, I'd like to propose a change to how we run the second half of these seminars, and I'd appreciate your honest reactions."
+        },
+        {
+          "s": "p",
+          "t": "Up to now, I've been opening the discussion with a question of my own. The trouble is that the same four or five people tend to respond, while the rest of you, understandably, wait to see where things go."
+        },
+        {
+          "s": "p",
+          "t": "So starting next week, each of you will submit one short question on the reading by nine the night before. I'll select three that pull in different directions, and we'll begin with those."
+        },
+        {
+          "s": "p",
+          "t": "Your questions won't be judged on how clever they are. What I'm after is evidence that you've wrestled with the text, so a question about a passage you found genuinely confusing is perfectly acceptable."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why is the professor changing the format of the seminar?",
+        "options": [
+          "Only a small group of students has been taking part in discussions.",
+          "Students have complained that his questions are too difficult.",
+          "The assigned readings have been too long.",
+          "He wants to grade students on their questions."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The same four or five people respond while the rest wait.",
+          "No complaints are mentioned.",
+          "Reading length is not mentioned.",
+          "He says the questions won't be judged on cleverness; grading is not the reason."
+        ],
+        "explanation": "The change is meant to involve more students, since discussion has been dominated by a few.",
+        "evidence": "the same four or five people tend to respond"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the professor indicate about the questions students will submit?",
+        "options": [
+          "They must show original philosophical insight.",
+          "They will count heavily toward the final grade.",
+          "A question showing honest confusion is acceptable.",
+          "They should all focus on the same passage."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "He says the questions won't be judged on how clever they are.",
+          "Grading weight is not mentioned.",
+          "Correct. A question about a genuinely confusing passage is 'perfectly acceptable'.",
+          "He will choose questions that 'pull in different directions'."
+        ],
+        "explanation": "What matters is evidence of engagement with the text, so a question about real confusion is fine.",
+        "evidence": "a question about a passage you found genuinely confusing is perfectly acceptable"
+      }
+    ]
+  }
+]

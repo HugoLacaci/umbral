@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ielts-l-p4-03",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 4,
+    "title": "Self-healing concrete",
+    "context": "You will hear part of a materials science lecture about concrete that can repair its own cracks.",
+    "audio": {
+      "speakers": [
+        { "id": "lec", "name": "Dr Kate Morrison", "role": "lecturer", "gender": "f", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "lec", "t": "Good afternoon. Today's topic is one of the most active areas in construction materials research at the moment, and that's self-healing concrete. After water, concrete is the most widely used substance on the planet. Roughly three tonnes of it are produced every year for every person alive, so even a small improvement in how long it lasts could make a huge difference. To understand why so much money is going into this field, we first need to look at the weakness that it's trying to solve." },
+        { "s": "lec", "t": "Concrete is extremely strong when it's squeezed, but it's relatively weak when it's stretched, and so it almost always develops small cracks over time. On their own, these cracks aren't usually dangerous. The real problem is what gets into them. Most structural concrete contains steel bars for reinforcement, and when water and salt find their way through a crack and reach that steel, the result is rust. Now, rust takes up considerably more space than the original steel, so as it forms it pushes the surrounding concrete apart, and the cracks get wider. It's a vicious circle." },
+        { "s": "lec", "t": "Dealing with this is enormously expensive. Structures have to be inspected regularly, and the inspection of bridges in particular is costly, because it often means closing roads and bringing in specialist access equipment. In some countries, more is now spent on maintaining existing concrete than on building new structures." },
+        { "s": "lec", "t": "Interestingly, concrete does have a limited natural ability to heal itself. When water gets into a very narrow crack, it reacts with cement that didn't fully react when the concrete was first poured, and this forms crystals that gradually seal the gap. But this only works for hairline cracks, roughly a tenth of a millimetre wide. Anything bigger, and the natural process simply can't keep up." },
+        { "s": "lec", "t": "So researchers have been looking for ways to give concrete a helping hand, and the best known of these uses bacteria. You might wonder how anything could live inside concrete. The answer is that concrete is extremely alkaline, which kills most organisms, so the researchers had to search for species that naturally live in highly alkaline environments, such as certain lakes. They found bacteria that can lie dormant, in a kind of sleeping state, for decades." },
+        { "s": "lec", "t": "These bacteria, together with a supply of food, are placed inside tiny clay pellets, which are then mixed into the concrete. The pellets protect them while the concrete is being mixed and poured. When a crack eventually forms and water seeps in, the bacteria wake up, consume the food and, as a by-product, produce limestone. The limestone fills the crack and seals it against further water. It's a rather elegant solution, and it's already been used in some water tanks and tunnels." },
+        { "s": "lec", "t": "Bacteria aren't the only option, though, so let me run through three other approaches more briefly. The first uses capsules. Tiny capsules filled with a liquid healing agent are mixed into the concrete. When a crack runs through a capsule, it breaks open and the liquid flows out and hardens. The limitation is obvious when you think about it: each capsule can only be used once, so if the same spot cracks again, there's nothing left to repair it." },
+        { "s": "lec", "t": "The second approach tries to overcome that by using a network of thin tubes running through the concrete, rather like the blood vessels in the human body. Healing agent can be pumped through the tubes again and again, so repeated cracks can be dealt with. However, these networks are very difficult to install on a normal building site, and so far they've only really been tested in laboratory samples." },
+        { "s": "lec", "t": "The third approach uses fibres made from what are called shape memory polymers. These are materials that remember their original shape. Once the concrete has cracked, the fibres can be made to shrink back, pulling the two sides of the crack together, but this only happens when they're heated. So you need some kind of external heat source, which isn't very practical for, say, the foundations of a building." },
+        { "s": "lec", "t": "So which approach will win? At the moment, bacterial concrete is closest to commercial use, but it still costs significantly more than ordinary concrete. In the next part of the lecture, I want to look at whether that extra cost can be justified over the full lifetime of a structure." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–36\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Self-healing concrete",
+        "template": "The problem\n• water entering cracks reaches the steel and produces {{q1}}\n• this expands, so cracks widen\n• inspecting structures such as {{q2}} is especially expensive\n\nNatural healing\n• only possible in cracks of about 0.1 mm\n• leftover cement reacts with water to form {{q3}}\n\nBacterial concrete\n• uses bacteria able to live in very {{q4}} conditions\n• bacteria and food are held in small clay {{q5}}\n• when water enters, bacteria produce {{q6}}, which seals the crack",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "note-completion", "answers": ["rust"], "maxWords": 1, "allowNumber": false,
+            "explanation": "When water and salt reach the steel, 'the result is rust'.", "evidence": "reach that steel, the result is rust" },
+          { "id": "q2", "kind": "gap", "qtype": "note-completion", "answers": ["bridges"], "maxWords": 1, "allowNumber": false,
+            "explanation": "'The inspection of bridges in particular is costly'.", "evidence": "the inspection of bridges in particular is costly" },
+          { "id": "q3", "kind": "gap", "qtype": "note-completion", "answers": ["crystals"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Unreacted cement reacts with water and forms crystals.", "evidence": "this forms crystals that gradually seal the gap" },
+          { "id": "q4", "kind": "gap", "qtype": "note-completion", "answers": ["alkaline"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Concrete is extremely alkaline, so they needed species from highly alkaline environments.", "evidence": "species that naturally live in highly alkaline environments" },
+          { "id": "q5", "kind": "gap", "qtype": "note-completion", "answers": ["pellets"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Bacteria and food are placed inside tiny clay pellets.", "evidence": "placed inside tiny clay pellets" },
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["limestone"], "maxWords": 1, "allowNumber": false,
+            "explanation": "As a by-product the bacteria produce limestone, which fills the crack.", "evidence": "as a by-product, produce limestone" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "table-completion",
+        "instructions": "Questions 37–40\nComplete the table below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Other self-healing methods",
+        "template": "| Method | How it works | Limitation |\n|---|---|---|\n| Capsules | break and release a liquid that hardens | each one works only {{q7}} |\n| Tubes | network similar to blood {{q8}} | difficult to {{q9}} on site |\n| Polymer fibres | shrink back when {{q10}} to close the crack | require an outside heat source |",
+        "items": [
+          { "id": "q7", "kind": "gap", "qtype": "table-completion", "answers": ["once"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Each capsule can only be used once, so a second crack in the same place cannot be repaired.", "evidence": "each capsule can only be used once" },
+          { "id": "q8", "kind": "gap", "qtype": "table-completion", "answers": ["vessels"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The tubes are 'rather like the blood vessels in the human body'.", "evidence": "rather like the blood vessels in the human body" },
+          { "id": "q9", "kind": "gap", "qtype": "table-completion", "answers": ["install"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The networks are very difficult to install on a normal building site.", "evidence": "these networks are very difficult to install on a normal building site" },
+          { "id": "q10", "kind": "gap", "qtype": "table-completion", "answers": ["heated"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The fibres only shrink back when they are heated.", "evidence": "this only happens when they're heated" }
+        ]
+      }
+    ]
+  }
+]

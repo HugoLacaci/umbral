@@ -1,0 +1,568 @@
+[
+  {
+    "id": "toefl-dl-m3-router-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "module": "router",
+    "format": "text-messages",
+    "title": "Ride to the airport",
+    "task": "daily-life",
+    "text": "Maya (8:12 AM): Hey, are you still able to drive me to the airport on Friday? My flight leaves at 2:40.\n\nDaniel (8:20 AM): Yes, but I have a class until 11:30. I could pick you up at 11:45 at the earliest.\n\nMaya (8:22 AM): That should work. The airline says to arrive two hours early for international flights, and it's about a 40-minute drive.\n\nDaniel (8:25 AM): OK. Traffic can be bad around noon, though, so have your bags by the door so we can leave right away.\n\nMaya (8:26 AM): Will do. I'll pay for parking if you want to come in and have lunch with me first.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Why does Daniel ask Maya to have her bags by the door?",
+        "options": [
+          "His car does not have enough space for many bags.",
+          "There is not much extra time before Maya needs to be at the airport.",
+          "He has to go back to class after the drive.",
+          "Maya often forgets to pack her bags in time."
+        ],
+        "answer": 1,
+        "explanation": "Daniel no puede salir antes de las 11:45, el trayecto dura unos 40 minutos y Maya debe llegar dos horas antes (12:40). Con poco margen y tráfico al mediodía, no pueden perder tiempo.",
+        "evidence": "Traffic can be bad around noon, though, so have your bags by the door so we can leave right away.",
+        "optionNotes": [
+          "No se habla del tamaño del coche.",
+          "Correcta: 11:45 + 40 min = 12:25; tiene que llegar a las 12:40 (dos horas antes de las 2:40). Hay sólo 15 minutos de margen y puede haber tráfico.",
+          "Su clase termina a las 11:30, antes del viaje.",
+          "Nada indica que Maya sea olvidadiza."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What does Maya offer to do?",
+        "options": [
+          "Pay Daniel for the gas",
+          "Take a taxi if Daniel is late",
+          "Leave earlier in the morning",
+          "Pay for parking at the airport"
+        ],
+        "answer": 3,
+        "explanation": "Maya ofrece pagar el aparcamiento si Daniel quiere entrar a comer con ella.",
+        "evidence": "I'll pay for parking if you want to come in and have lunch with me first.",
+        "optionNotes": [
+          "No menciona la gasolina.",
+          "No menciona un taxi.",
+          "Daniel no puede antes de las 11:45.",
+          "Correcta: lo dice en su último mensaje."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m3-router-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "module": "router",
+    "format": "notice",
+    "title": "Elevator replacement",
+    "task": "daily-life",
+    "text": "NOTICE TO RESIDENTS — Harbor View Apartments\n\nThe east elevator will be replaced beginning Monday, March 3. The work is expected to take three weeks. During this time, only the west elevator will be available, so please expect longer wait times, especially between 7:30 and 9:00 AM.\n\nResidents who need to move large furniture during the project must reserve the west elevator at the front desk at least 48 hours in advance. Reservations are limited to two hours per apartment.\n\nResidents with mobility difficulties who live above the fifth floor may request assistance with groceries and packages by calling the management office at 555-0182.\n\nWe apologize for the inconvenience and thank you for your patience.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the notice?",
+        "options": [
+          "To inform residents about a temporary change in elevator service",
+          "To announce that the building will hire new staff",
+          "To ask residents to stop moving furniture",
+          "To explain why the west elevator is broken"
+        ],
+        "answer": 0,
+        "explanation": "El aviso informa de que el ascensor este se sustituirá durante tres semanas y explica cómo afecta a los residentes.",
+        "evidence": "The east elevator will be replaced beginning Monday, March 3.",
+        "optionNotes": [
+          "Correcta: un ascensor se sustituye durante tres semanas y sólo funcionará el otro.",
+          "No se menciona personal nuevo.",
+          "Se puede mover muebles reservando el ascensor.",
+          "El que se cambia es el este; el oeste funciona."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What must residents do if they want to move a sofa during the project?",
+        "options": [
+          "Use the stairs between 7:30 and 9:00 AM",
+          "Call the management office for help",
+          "Reserve the west elevator at least two days ahead",
+          "Wait until the work is finished"
+        ],
+        "answer": 2,
+        "explanation": "Para mover muebles grandes hay que reservar el ascensor oeste en recepción con al menos 48 horas de antelación.",
+        "evidence": "must reserve the west elevator at the front desk at least 48 hours in advance",
+        "optionNotes": [
+          "Es la franja con más espera, no una norma de mudanza.",
+          "Ese número es para ayuda con compras y paquetes.",
+          "Correcta: 48 horas = dos días de antelación, en recepción.",
+          "No es obligatorio esperar: se puede reservar."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Who could ask the management office for help carrying packages?",
+        "options": [
+          "A resident on the third floor who uses a wheelchair",
+          "A resident on the eighth floor who uses a wheelchair",
+          "Any resident who is moving large furniture",
+          "A resident on the ninth floor who is very busy"
+        ],
+        "answer": 1,
+        "explanation": "Hay que cumplir dos condiciones a la vez: dificultades de movilidad y vivir por encima del quinto piso.",
+        "evidence": "Residents with mobility difficulties who live above the fifth floor may request assistance with groceries and packages",
+        "optionNotes": [
+          "Tiene movilidad reducida, pero vive por debajo del quinto piso.",
+          "Correcta: vive por encima del quinto piso y tiene dificultades de movilidad.",
+          "La ayuda es para compras y paquetes, no para muebles.",
+          "Vive arriba, pero estar ocupado no es una dificultad de movilidad."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m3-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 3,
+    "module": "lower",
+    "format": "ad",
+    "title": "Beginner pottery class",
+    "task": "daily-life",
+    "text": "Beginner Pottery — Saturday Mornings\n\nHave you always wanted to make your own bowls and cups? Join our four-week beginner class at Clayworks Studio, 210 Pine Street. Classes run every Saturday from 10:00 AM to 12:00 PM, starting April 5.\n\nThe price is $120, which includes all clay, tools, and firing of your finished pieces. No experience is needed. Please wear clothes that can get dirty!\n\nClasses are limited to eight students. To sign up, visit our website or call 555-0147.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the purpose of this advertisement?",
+        "options": [
+          "To sell bowls and cups made by artists",
+          "To hire a new pottery teacher",
+          "To announce that a studio is moving",
+          "To attract people to a class for beginners"
+        ],
+        "answer": 3,
+        "explanation": "Es un anuncio de un curso de cerámica de cuatro semanas para principiantes.",
+        "evidence": "Join our four-week beginner class at Clayworks Studio",
+        "optionNotes": [
+          "No vende piezas; enseña a hacerlas.",
+          "No busca profesores.",
+          "Sólo da la dirección; no habla de mudanza.",
+          "Correcta: anuncia un curso de iniciación."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is included in the price of the class?",
+        "options": [
+          "Materials, tools, and firing",
+          "Lunch after each class",
+          "A set of work clothes",
+          "A private lesson"
+        ],
+        "answer": 0,
+        "explanation": "El precio incluye la arcilla, las herramientas y la cocción de las piezas.",
+        "evidence": "which includes all clay, tools, and firing of your finished pieces",
+        "optionNotes": [
+          "Correcta: clay, tools y firing.",
+          "No se menciona comida.",
+          "Los alumnos traen su propia ropa.",
+          "No se mencionan clases privadas."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Why might someone want to sign up soon?",
+        "options": [
+          "The price will go up in April.",
+          "Experienced students get priority.",
+          "The number of places is small.",
+          "The class meets only once."
+        ],
+        "answer": 2,
+        "explanation": "Como las clases están limitadas a ocho alumnos, conviene inscribirse pronto.",
+        "evidence": "Classes are limited to eight students.",
+        "optionNotes": [
+          "No se dice que el precio vaya a subir.",
+          "No hace falta experiencia; no hay prioridades.",
+          "Correcta: sólo hay ocho plazas, así que pueden agotarse.",
+          "Son cuatro semanas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m3-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 3,
+    "module": "upper",
+    "format": "email",
+    "title": "Internship start date",
+    "task": "daily-life",
+    "text": "From: Priya Raman, HR Coordinator, Lindqvist Engineering\nTo: Tomás Ortega\nSubject: Your summer internship — start date\n\nDear Tomás,\n\nThank you for returning your signed offer letter. I'm writing about a change to your start date. Because our office is moving to a new building during the first week of June, we have decided to postpone the start of all summer internships from June 2 to June 9. The internship will still end on August 15, as originally planned.\n\nWe understand that this shortens the program by a week. To make up for this, interns may choose to complete an optional online orientation during the week of June 2; those who do will be paid for 15 hours of work.\n\nIf the new date creates a serious problem for you, for example because of housing arrangements, please let me know by May 20 and we will try to find a solution.\n\nBest regards,\nPriya Raman",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why did Priya Raman write to Tomás?",
+        "options": [
+          "To offer him a position after his internship ends",
+          "To ask him to sign and return his offer letter",
+          "To explain a delay to his internship and the options related to it",
+          "To tell him that the internship will end later than planned"
+        ],
+        "answer": 2,
+        "explanation": "El correo comunica que el inicio pasa del 2 al 9 de junio y describe la orientación opcional y la posibilidad de pedir una solución.",
+        "evidence": "we have decided to postpone the start of all summer internships from June 2 to June 9",
+        "optionNotes": [
+          "No se habla de un puesto posterior.",
+          "Ya la devolvió firmada: le da las gracias por ello.",
+          "Correcta: el inicio se retrasa una semana y explica la orientación opcional y qué hacer si hay problemas.",
+          "La fecha de fin no cambia: sigue siendo el 15 de agosto."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred about interns who do not complete the online orientation?",
+        "options": [
+          "They will have to start the internship on June 2.",
+          "They will not be paid for any work during the week of June 2.",
+          "They will lose their internship offer.",
+          "They will need to work until August 22."
+        ],
+        "answer": 1,
+        "explanation": "La orientación es opcional y sólo se pagan esas 15 horas a quien la hace. Como el trabajo empieza el 9 de junio, quien no la haga no cobrará nada esa semana.",
+        "evidence": "those who do will be paid for 15 hours of work",
+        "optionNotes": [
+          "Todas las prácticas empiezan ya el 9 de junio.",
+          "Correcta: sólo quienes hacen la orientación cobran esas 15 horas; las prácticas empiezan el 9.",
+          "La orientación es opcional; no hay penalización.",
+          "El final sigue siendo el 15 de agosto."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What should Tomás do if the new date causes a problem with his housing?",
+        "options": [
+          "Contact Priya Raman by May 20",
+          "Find a new apartment near the new building",
+          "Complete the online orientation",
+          "Start the internship on June 2 anyway"
+        ],
+        "answer": 0,
+        "explanation": "Si la nueva fecha le crea un problema serio, por ejemplo de alojamiento, debe avisar antes del 20 de mayo.",
+        "evidence": "please let me know by May 20 and we will try to find a solution",
+        "optionNotes": [
+          "Correcta: debe avisarla antes del 20 de mayo.",
+          "No se le pide eso.",
+          "La orientación no está relacionada con el alojamiento.",
+          "Nadie empieza el 2; la oficina se está mudando."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m4-router-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "format": "social-post",
+    "title": "Park cleanup moved",
+    "task": "daily-life",
+    "text": "Oakridge Neighbors Group\nPosted by Lena Fischer\n\nThanks to everyone who signed up for Saturday's park cleanup! The forecast now shows heavy rain on Saturday, so we're moving the event to Sunday at the same time, 9 AM. If you can't make it on Sunday, no worries — just reply here so I can update the list. The city is still providing gloves and trash bags, but we're short on rakes, so please bring one if you have one. Coffee and pastries are on me!",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why did Lena write this post?",
+        "options": [
+          "To invite neighbors to a breakfast party",
+          "To ask the city for more gloves",
+          "To cancel the park cleanup completely",
+          "To tell volunteers that an event has been rescheduled"
+        ],
+        "answer": 3,
+        "explanation": "Lena avisa de que la limpieza del parque se traslada al domingo por la previsión de lluvia.",
+        "evidence": "we're moving the event to Sunday at the same time, 9 AM",
+        "optionNotes": [
+          "El café y los dulces son un detalle, no el motivo.",
+          "La ciudad ya proporciona guantes.",
+          "No se cancela; se cambia de día.",
+          "Correcta: por la lluvia, la limpieza pasa del sábado al domingo."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What are volunteers asked to bring, if possible?",
+        "options": [
+          "A rake",
+          "Gloves",
+          "Trash bags",
+          "Coffee"
+        ],
+        "answer": 0,
+        "explanation": "La ciudad da guantes y bolsas, pero faltan rastrillos, así que pide traer uno.",
+        "evidence": "we're short on rakes, so please bring one if you have one",
+        "optionNotes": [
+          "Correcta: faltan rastrillos.",
+          "Los guantes los da la ciudad.",
+          "Las bolsas también las da la ciudad.",
+          "El café lo pone Lena."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m4-router-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "format": "webpage",
+    "title": "Campus Print Center FAQ",
+    "task": "daily-life",
+    "text": "Campus Print Center — Frequently Asked Questions\n\nHow much does printing cost?\nBlack-and-white pages cost $0.08 each, and color pages cost $0.35 each. Double-sided pages are charged as two pages.\n\nHow do I pay?\nPrinting is charged to your student ID card. You can add money to your card online or at any library kiosk. Cash is not accepted at the Print Center.\n\nCan I print large posters?\nYes. Poster orders must be submitted online at least two business days before you need them. Posters are printed on weekdays only.\n\nWhere do I pick up my order?\nSmall orders can be collected from any campus printer. Posters must be picked up at the Print Center desk in the basement of Hale Library.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "How much would it cost to print 10 sheets of paper in black and white, using both sides of each sheet?",
+        "options": [
+          "$0.80",
+          "$1.60",
+          "$3.50",
+          "$7.00"
+        ],
+        "answer": 1,
+        "explanation": "Cada hoja a doble cara cuenta como dos páginas: 20 × $0.08 = $1.60.",
+        "evidence": "Double-sided pages are charged as two pages.",
+        "optionNotes": [
+          "Es el precio de 10 páginas a una cara.",
+          "Correcta: 10 hojas a doble cara = 20 páginas × $0.08 = $1.60.",
+          "Es el precio de 10 páginas en color.",
+          "Es el precio de 20 páginas en color."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is true about paying for printing?",
+        "options": [
+          "Students can pay with cash at the Print Center desk.",
+          "Payment is made when an order is picked up.",
+          "Only library kiosks accept payment.",
+          "Money must first be added to a student ID card."
+        ],
+        "answer": 3,
+        "explanation": "La impresión se carga a la tarjeta de estudiante; el efectivo no se acepta.",
+        "evidence": "Printing is charged to your student ID card.",
+        "optionNotes": [
+          "Falso: no se acepta efectivo.",
+          "No se dice; se carga a la tarjeta.",
+          "También se puede recargar en línea.",
+          "Correcta: se cobra a la tarjeta de estudiante, que se recarga en línea o en un quiosco."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A student submits a poster order on Friday evening and needs the poster at 9 AM on Monday. What is the problem?",
+        "options": [
+          "Posters cannot be ordered online.",
+          "The poster must be picked up from a campus printer.",
+          "The order was not submitted early enough.",
+          "Posters are too expensive to print in color."
+        ],
+        "answer": 2,
+        "explanation": "Hay que pedir los pósteres con al menos dos días laborables de antelación y sólo se imprimen entre semana, así que un pedido del viernes por la noche no estará para el lunes a primera hora.",
+        "evidence": "Poster orders must be submitted online at least two business days before you need them.",
+        "optionNotes": [
+          "Al contrario: los pedidos se hacen en línea.",
+          "Los pósteres se recogen en el mostrador del Print Center.",
+          "Correcta: hacen falta dos días laborables y entre el viernes por la noche y el lunes a las 9 no hay ninguno completo (no se imprime en fin de semana).",
+          "No se da el precio de los pósteres."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m4-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "format": "sign",
+    "title": "Silent study floor",
+    "task": "daily-life",
+    "text": "THIRD FLOOR — SILENT STUDY AREA\n\n• No phone calls. Please take calls to the stairwell.\n• Group study is not allowed on this floor. Group rooms are available on the second floor.\n• Drinks in closed containers are allowed. No food.\n• Laptops are welcome, but please turn off the sound.\n\nThis floor is open until 11 PM Sunday through Thursday and until 8 PM on Friday and Saturday.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the purpose of this sign?",
+        "options": [
+          "To advertise new group study rooms",
+          "To explain the rules for using a study area",
+          "To tell students that the library is closing",
+          "To ask students to buy drinks"
+        ],
+        "answer": 1,
+        "explanation": "El cartel explica las normas de la tercera planta, zona de estudio en silencio.",
+        "evidence": "THIRD FLOOR — SILENT STUDY AREA",
+        "optionNotes": [
+          "Sólo menciona dónde están las salas de grupo.",
+          "Correcta: enumera normas de la planta de estudio en silencio.",
+          "Da el horario, no anuncia un cierre.",
+          "Sólo dice qué bebidas se permiten."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Where should students go if they want to study with friends?",
+        "options": [
+          "The third floor",
+          "The stairwell",
+          "The front desk",
+          "The second floor"
+        ],
+        "answer": 3,
+        "explanation": "Las salas para grupos están en la segunda planta.",
+        "evidence": "Group rooms are available on the second floor.",
+        "optionNotes": [
+          "En la tercera planta no se permite estudiar en grupo.",
+          "La escalera es para hablar por teléfono.",
+          "No se menciona.",
+          "Correcta: allí están las salas de grupo."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Which of the following is allowed on the third floor?",
+        "options": [
+          "Drinking coffee from a cup with a lid",
+          "Eating a sandwich",
+          "Making a short phone call",
+          "Watching a video with the sound on"
+        ],
+        "answer": 0,
+        "explanation": "Se permiten bebidas en recipientes cerrados; un vaso con tapa cumple la norma.",
+        "evidence": "Drinks in closed containers are allowed.",
+        "optionNotes": [
+          "Correcta: una bebida en recipiente cerrado está permitida.",
+          "No se permite comida.",
+          "Las llamadas, en la escalera.",
+          "Hay que quitar el sonido."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m4-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "format": "schedule",
+    "title": "Winter ferry timetable",
+    "task": "daily-life",
+    "text": "Island Ferry — Winter Timetable (November 1 – March 31)\n\nDeparts Port Ellis: 6:45 AM* | 9:30 AM | 12:15 PM | 3:00 PM | 5:45 PM**\nDeparts Gull Island: 7:40 AM* | 10:30 AM | 1:15 PM | 4:00 PM | 6:40 PM**\n\n* Weekdays only. Does not run on public holidays.\n** Fridays and Saturdays only.\n\nCrossing time is approximately 45 minutes. Vehicles must check in at least 30 minutes before departure; foot passengers, 10 minutes. Vehicle reservations are required on all sailings marked with an asterisk. During storms, sailings may be canceled with little notice; check the website before traveling.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Someone on Gull Island wants to return to Port Ellis as late as possible on a Sunday. Which ferry should they take?",
+        "options": [
+          "The 6:40 PM ferry",
+          "The 7:40 AM ferry",
+          "The 4:00 PM ferry",
+          "The 5:45 PM ferry"
+        ],
+        "answer": 2,
+        "explanation": "Hay que mirar la columna de Gull Island y las notas: el de las 6:40 PM sólo opera viernes y sábados, así que el domingo el último es el de las 4:00 PM.",
+        "evidence": "** Fridays and Saturdays only.",
+        "optionNotes": [
+          "Sólo viernes y sábados (**).",
+          "Sólo entre semana, y además es por la mañana.",
+          "Correcta: el de las 6:40 PM sólo sale viernes y sábado, así que el último del domingo es el de las 4:00.",
+          "Ese sale de Port Ellis, no de Gull Island."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "A driver plans to take the 6:45 AM ferry with her car on a Tuesday that is not a holiday. What must she do?",
+        "options": [
+          "Reserve a place in advance and check in by 6:35 AM",
+          "Arrive by 6:15 AM; no reservation is needed",
+          "Buy her ticket on the ferry",
+          "Reserve a place in advance and check in by 6:15 AM"
+        ],
+        "answer": 3,
+        "explanation": "El de las 6:45 lleva un asterisco, así que los vehículos necesitan reserva; además deben hacer el check-in 30 minutos antes (6:15).",
+        "evidence": "Vehicle reservations are required on all sailings marked with an asterisk.",
+        "optionNotes": [
+          "10 minutos antes es para pasajeros a pie.",
+          "Sí hace falta reserva: lleva asterisco.",
+          "No se dice nada de comprar a bordo.",
+          "Correcta: ese barco lleva asterisco (reserva obligatoria para vehículos) y los vehículos deben llegar 30 minutos antes."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why does the timetable tell passengers to check the website?",
+        "options": [
+          "Because sailings may be canceled due to bad weather",
+          "Because tickets can be bought only online",
+          "Because the timetable changes every week",
+          "Because reservations are required for foot passengers"
+        ],
+        "answer": 0,
+        "explanation": "Se recomienda consultar la web porque, con tormentas, los barcos pueden cancelarse con poca antelación.",
+        "evidence": "During storms, sailings may be canceled with little notice; check the website before traveling.",
+        "optionNotes": [
+          "Correcta: con temporal se pueden cancelar con poco aviso.",
+          "No se dice cómo se compran billetes.",
+          "El horario de invierno es fijo del 1 de noviembre al 31 de marzo.",
+          "La reserva es sólo para vehículos."
+        ]
+      }
+    ]
+  }
+]

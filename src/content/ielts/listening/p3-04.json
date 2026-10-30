@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ielts-l-p3-04",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 3,
+    "title": "Museums and young visitors",
+    "context": "You will hear two arts management students, Hannah and Daniel, comparing how two local museums have tried to attract younger visitors.",
+    "audio": {
+      "speakers": [
+        { "id": "hannah", "name": "Hannah", "role": "student", "gender": "f", "accent": "en-AU" },
+        { "id": "daniel", "name": "Daniel", "role": "student", "gender": "m", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "hannah", "t": "So, our case study compares how the Riverside Museum and the Castle Gallery have tried to attract younger visitors. Shall we go through the features first, and then do the analysis?" },
+        { "s": "daniel", "t": "Sure. Let's start with opening hours. The Riverside used to open late on Thursdays, didn't it?" },
+        { "s": "hannah", "t": "It did, for about a year, but they stopped because the staffing costs were too high. The Castle Gallery still opens late every Friday, until ten." },
+        { "s": "daniel", "t": "Right, so that's just the Castle now. What about technology? I read that they both had apps." },
+        { "s": "hannah", "t": "The Castle started developing one, but they ran out of money before it was finished. The Riverside's app is really good, though. You scan the labels and hear the curators talking about the objects." },
+        { "s": "daniel", "t": "OK. And entry charges. I thought the Castle charged?" },
+        { "s": "hannah", "t": "It used to, but it's been free since last spring, same as the Riverside, which has never charged anything." },
+        { "s": "daniel", "t": "Both of them, then. Now, the Riverside uses students as guides, doesn't it?" },
+        { "s": "hannah", "t": "That's right, they recruit volunteers from the history department. At the Castle, the guides are all professional staff." },
+        { "s": "daniel", "t": "Then there's the exhibition space. The Castle Gallery actually closed two of its rooms, didn't it?" },
+        { "s": "hannah", "t": "Yes, which surprised me. They said fewer objects, displayed better, would hold people's attention for longer. The Riverside talked about doing the same but decided against it." },
+        { "s": "daniel", "t": "And the last feature, letting visitors choose what's on." },
+        { "s": "hannah", "t": "That's the Castle. Every year, visitors vote online for the theme of the summer exhibition. The Riverside asks for feedback, but they don't let the public decide anything." },
+        { "s": "daniel", "t": "Good. So, why do you think the Riverside has done so well? Visitor numbers among under twenty-fives have doubled in three years." },
+        { "s": "hannah", "t": "Everyone says it's their social media, and they are very active online. Or maybe the café, which is really cheap." },
+        { "s": "daniel", "t": "The café helps, I'm sure. But lots of museums are active online, and they haven't seen anything like that increase. I think the explanation is much simpler. It's a five minute walk from the main campus." },
+        { "s": "hannah", "t": "Hmm, I hadn't thought of it that way, but you're right. The Castle is right out on the edge of town. That has to be the biggest factor." },
+        { "s": "daniel", "t": "We'll need numbers to back that up, though. Should we use the figures in the museums' annual reports?" },
+        { "s": "hannah", "t": "Those are a bit suspect. The Riverside counts everyone who walks through the door, including people who are just using the café or the toilets." },
+        { "s": "daniel", "t": "And that newspaper article only interviewed a handful of visitors." },
+        { "s": "hannah", "t": "I think our best option is the city council's cultural survey. It asks exactly the same questions about both museums, and it's carried out by an independent company." },
+        { "s": "daniel", "t": "Agreed. That's the fairest comparison we've got." },
+        { "s": "hannah", "t": "Now, for the recommendations section, I was thinking the Castle should run a free bus from the campus." },
+        { "s": "daniel", "t": "That would be expensive, and they've just had budget cuts. What about recommending they finish the app? They've already done half the work." },
+        { "s": "hannah", "t": "Maybe, but an app doesn't solve the real issue, which is distance. What if they took part of their collection into the city centre? A small pop-up display in the central library, for example." },
+        { "s": "daniel", "t": "Oh, that's clever. It wouldn't cost much, and it brings the gallery to the students instead of the other way round. Let's go with that." },
+        { "s": "hannah", "t": "Great. So what's the next step?" },
+        { "s": "daniel", "t": "I could write to the Castle's education officer and ask whether they've ever considered something like it." },
+        { "s": "hannah", "t": "I'd hold off on that until the analysis is done, or we won't know what to ask. Could you track down the council survey first? I'm not sure it's online." },
+        { "s": "daniel", "t": "OK, I'll ask at the library tomorrow and see if they've got a copy." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching",
+        "instructions": "Questions 21–26\nWhich museum does each statement apply to?\nWrite the correct letter, A, B or C, next to Questions 21–26.\nYou may use any letter more than once.",
+        "options": [
+          { "key": "A", "text": "the Riverside Museum" },
+          { "key": "B", "text": "the Castle Gallery" },
+          { "key": "C", "text": "both museums" }
+        ],
+        "items": [
+          { "id": "q1", "kind": "match", "qtype": "matching", "prompt": "currently opens late one evening a week", "answer": "B",
+            "explanation": "The Riverside stopped its late opening; only the Castle still opens late on Fridays.", "evidence": "The Castle Gallery still opens late every Friday, until ten." },
+          { "id": "q2", "kind": "match", "qtype": "matching", "prompt": "has an app with recorded commentary", "answer": "A",
+            "explanation": "The Castle never finished its app; the Riverside's app lets you hear the curators.", "evidence": "The Riverside's app is really good, though." },
+          { "id": "q3", "kind": "match", "qtype": "matching", "prompt": "offers free entry", "answer": "C",
+            "explanation": "The Castle has been free since last spring, and the Riverside has never charged.", "evidence": "it's been free since last spring, same as the Riverside" },
+          { "id": "q4", "kind": "match", "qtype": "matching", "prompt": "uses students to show visitors around", "answer": "A",
+            "explanation": "The Riverside recruits volunteers from the history department; the Castle uses professional staff.", "evidence": "they recruit volunteers from the history department" },
+          { "id": "q5", "kind": "match", "qtype": "matching", "prompt": "has reduced its display area", "answer": "B",
+            "explanation": "The Castle closed two rooms; the Riverside decided against it.", "evidence": "The Castle Gallery actually closed two of its rooms" },
+          { "id": "q6", "kind": "match", "qtype": "matching", "prompt": "lets the public choose an exhibition topic", "answer": "B",
+            "explanation": "Castle visitors vote for the summer theme; the Riverside only asks for feedback.", "evidence": "visitors vote online for the theme of the summer exhibition" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 27–30\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q7", "kind": "mcq", "qtype": "mcq",
+            "prompt": "The students agree that the Riverside's success is mainly due to",
+            "options": ["its activity on social media.", "its inexpensive café.", "its closeness to the university."],
+            "answer": 2,
+            "optionNotes": ["Many museums are active online without similar results.", "Daniel says the café 'helps' but it isn't the main reason.", "Correct: a five-minute walk from campus; Hannah agrees it is the biggest factor."],
+            "explanation": "Hannah first suggests social media or the café, but Daniel argues it is the location, and Hannah agrees.",
+            "evidence": "That has to be the biggest factor."
+          },
+          {
+            "id": "q8", "kind": "mcq", "qtype": "mcq",
+            "prompt": "Which source of data will the students use?",
+            "options": ["the museums' annual reports", "a newspaper article", "a survey by the city council"],
+            "answer": 2,
+            "optionNotes": ["The Riverside's counting method makes these unreliable.", "Too few visitors interviewed.", "Correct: same questions for both museums, independent company."],
+            "explanation": "The reports and the article are rejected; the council survey is the fairest comparison.",
+            "evidence": "I think our best option is the city council's cultural survey."
+          },
+          {
+            "id": "q9", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What will the students recommend for the Castle Gallery?",
+            "options": ["providing transport from the campus", "completing its mobile app", "holding a display in a central location"],
+            "answer": 2,
+            "optionNotes": ["Too expensive after budget cuts.", "Doesn't solve the problem of distance.", "Correct: a pop-up display in the central library."],
+            "explanation": "The bus and the app are both rejected; they choose a pop-up display in the city centre.",
+            "evidence": "A small pop-up display in the central library"
+          },
+          {
+            "id": "q10", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What will Daniel do next?",
+            "options": ["contact a member of staff at the Castle Gallery", "find a copy of a report", "write the recommendations section"],
+            "answer": 1,
+            "optionNotes": ["Hannah tells him to wait until the analysis is done.", "Correct: he will look for the council survey at the library.", "Not mentioned as his next task."],
+            "explanation": "Daniel offers to write to the education officer, but Hannah asks him to track down the council survey first.",
+            "evidence": "Could you track down the council survey first?"
+          }
+        ]
+      }
+    ]
+  }
+]

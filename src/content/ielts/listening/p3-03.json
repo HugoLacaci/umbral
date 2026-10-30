@@ -1,0 +1,120 @@
+[
+  {
+    "id": "ielts-l-p3-03",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 3,
+    "title": "Microplastics field project",
+    "context": "You will hear three geography students, Lena, Callum and Josh, planning a group project on microplastics in a local river.",
+    "audio": {
+      "speakers": [
+        { "id": "lena", "name": "Lena", "role": "student", "gender": "f", "accent": "en-US" },
+        { "id": "callum", "name": "Callum", "role": "student", "gender": "m", "accent": "en-NZ" },
+        { "id": "josh", "name": "Josh", "role": "student", "gender": "m", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "lena", "t": "OK, so we need to finalise the sampling procedure today, otherwise we'll never get started. We agreed on four sites along the river, right?" },
+        { "s": "callum", "t": "Yes, but I've been looking at the map again, and the one upstream of the town is a problem. There's no proper way down to the water, just a steep bank." },
+        { "s": "josh", "t": "I'd suggest choosing sites near the bridges, because they're easy to find." },
+        { "s": "lena", "t": "Easy to find, maybe, but you can't stand on a bridge and collect a sample properly. I think the rule should be that every site has to be close to a footpath. That way we can get there safely, even in bad weather." },
+        { "s": "callum", "t": "That's sensible. I'll pick four that fit." },
+        { "s": "josh", "t": "Then there's the collection itself. I still think the simplest thing is to fill some glass jars directly from the river." },
+        { "s": "lena", "t": "The trouble is, a jar only holds about a litre, and microplastics are spread pretty thinly. We'd hardly find anything. We need to filter a much larger volume of water." },
+        { "s": "callum", "t": "So we use the fine mesh net from the department. You hold it in the current for ten minutes and it catches everything bigger than a third of a millimetre." },
+        { "s": "josh", "t": "Fair enough, the net it is. Then we rinse what's in the net into a container." },
+        { "s": "lena", "t": "And it has to be a glass container, not a plastic one. Otherwise we'd risk contamination, and the whole thing would be pointless." },
+        { "s": "callum", "t": "Good point. Back in the lab we pass the sample through filter paper. Then the paper needs to dry. I thought we could just leave it on a windowsill overnight." },
+        { "s": "josh", "t": "Dust would get onto it though, and some of that dust could be synthetic fibres from clothing. I'd rather put it in the oven in lab three. It's only forty degrees, so it won't damage anything." },
+        { "s": "lena", "t": "Agreed. And the last step is counting the particles under the microscope and noting the colour and shape of each one." },
+        { "s": "callum", "t": "Great. You know, people keep asking why we chose this topic. Everyone assumes it's because of that article in the local paper last month." },
+        { "s": "josh", "t": "Which was a nice coincidence. But honestly, the main reason was that the department already had all the equipment we needed, so we didn't have to spend anything." },
+        { "s": "lena", "t": "True. And Dr Moss had suggested a soil project, remember, which we weren't keen on. Now, timing. When do we actually go out?" },
+        { "s": "josh", "t": "I'd like to sample straight after heavy rain, because that's when rubbish gets washed off the roads into the river." },
+        { "s": "lena", "t": "But we can't plan our lives around the forecast. It's been wrong all week. I'd rather go on the same day every week for four weeks. If one of those happens to follow rain, we just make a note of it." },
+        { "s": "josh", "t": "I suppose that's more systematic. OK, once a week for a month." },
+        { "s": "callum", "t": "Then who does what? I don't mind doing the data analysis." },
+        { "s": "lena", "t": "Actually, Callum, you're the best writer of the three of us. Josh did the advanced statistics module, so wouldn't it make more sense if he did the analysis and you wrote it up?" },
+        { "s": "josh", "t": "I'm happy with that. I'll take the analysis." },
+        { "s": "callum", "t": "Fine, I'll write the report, then. Should we end it with some recommendations for the council?" },
+        { "s": "josh", "t": "From four weeks of data? I think that's a bit ambitious. What would be useful is to compare our results with a published study on a similar river. There's one from Scotland that used the same mesh size." },
+        { "s": "lena", "t": "Yes, that would give our numbers some context. Let's do that. I'd love to include photos of the particles as well, but the camera on the microscope is broken." },
+        { "s": "callum", "t": "Oh well. Is there anything I need to do before Monday? Do we need to book the lab?" },
+        { "s": "lena", "t": "I booked it yesterday. And the department lends out waterproof boots, so we don't need to buy those. But someone has to get the risk assessment signed by the technician before we're allowed near the water." },
+        { "s": "callum", "t": "I'll do that tomorrow morning, then." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "flowchart-completion",
+        "instructions": "Questions 21–25\nComplete the flow-chart below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Procedure for collecting microplastics",
+        "template": "Select four sites that are near a {{q1}}\n↓\nHold a {{q2}} in the river for ten minutes\n↓\nRinse the sample into a glass container to prevent {{q3}}\n↓\nFilter the sample and dry the paper in an {{q4}}\n↓\nCount particles using a {{q5}} and record colour and shape",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "flowchart-completion", "answers": ["footpath"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Josh suggests bridges, but Lena rejects this: each site must be close to a footpath. Callum agrees.", "evidence": "every site has to be close to a footpath" },
+          { "id": "q2", "kind": "gap", "qtype": "flowchart-completion", "answers": ["net"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Glass jars are rejected (too little water); they use the fine mesh net.", "evidence": "Fair enough, the net it is." },
+          { "id": "q3", "kind": "gap", "qtype": "flowchart-completion", "answers": ["contamination"], "maxWords": 1, "allowNumber": false,
+            "explanation": "A plastic container would risk contamination.", "evidence": "Otherwise we'd risk contamination" },
+          { "id": "q4", "kind": "gap", "qtype": "flowchart-completion", "answers": ["oven"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Callum suggests a windowsill, but Josh prefers the oven because of dust; Lena agrees.", "evidence": "I'd rather put it in the oven in lab three" },
+          { "id": "q5", "kind": "gap", "qtype": "flowchart-completion", "answers": ["microscope"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The final step is counting particles under the microscope.", "evidence": "counting the particles under the microscope" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 26–30\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q6", "kind": "mcq", "qtype": "mcq",
+            "prompt": "Why did the students choose this topic?",
+            "options": ["It had been in the local news.", "The necessary equipment was already available.", "Their tutor had recommended it."],
+            "answer": 1,
+            "optionNotes": ["The article was 'a nice coincidence', not the reason.", "Correct.", "Dr Moss suggested a soil project instead."],
+            "explanation": "Josh says the main reason was that the department already had all the equipment.",
+            "evidence": "the main reason was that the department already had all the equipment we needed"
+          },
+          {
+            "id": "q7", "kind": "mcq", "qtype": "mcq",
+            "prompt": "When will the students collect their samples?",
+            "options": ["immediately after periods of heavy rain", "once a week for four weeks", "on a single day at all four sites"],
+            "answer": 1,
+            "optionNotes": ["Josh's idea, rejected because the forecast is unreliable.", "Correct: Josh accepts Lena's plan.", "Not suggested."],
+            "explanation": "Josh wants to sample after rain, but Lena argues for the same day each week for four weeks, and Josh agrees.",
+            "evidence": "OK, once a week for a month."
+          },
+          {
+            "id": "q8", "kind": "mcq", "qtype": "mcq",
+            "prompt": "Who will analyse the data?",
+            "options": ["Lena", "Callum", "Josh"],
+            "answer": 2,
+            "optionNotes": ["She doesn't volunteer for this.", "He offers, but will write the report instead.", "Correct: he did the advanced statistics module."],
+            "explanation": "Callum offers, but Lena suggests Josh, who did advanced statistics; Callum will write the report.",
+            "evidence": "I'm happy with that. I'll take the analysis."
+          },
+          {
+            "id": "q9", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What do the students agree to include in their report?",
+            "options": ["recommendations for the local council", "a comparison with another study", "photographs of the particles"],
+            "answer": 1,
+            "optionNotes": ["Josh says this is too ambitious with four weeks of data.", "Correct: a Scottish study that used the same mesh size.", "The microscope camera is broken."],
+            "explanation": "Recommendations are rejected and photos are impossible; they will compare results with a published study.",
+            "evidence": "What would be useful is to compare our results with a published study on a similar river."
+          },
+          {
+            "id": "q10", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What does Callum need to do before Monday?",
+            "options": ["book the laboratory", "buy waterproof boots", "get a safety document approved"],
+            "answer": 2,
+            "optionNotes": ["Lena has already booked it.", "The department lends them.", "Correct: the risk assessment must be signed by the technician."],
+            "explanation": "The lab is booked and boots are lent; someone must get the risk assessment signed, and Callum will do it.",
+            "evidence": "someone has to get the risk assessment signed by the technician"
+          }
+        ]
+      }
+    ]
+  }
+]

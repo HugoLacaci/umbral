@@ -1,0 +1,171 @@
+[
+  {
+    "id": "conn-addition",
+    "function": "addition",
+    "title": "Adding ideas",
+    "titleEs": "Añadir ideas",
+    "items": [
+      { "phrase": "Moreover", "register": "formal", "pattern": "Sentence. Moreover, clause.", "example": "Remote work reduces commuting time. Moreover, it allows companies to cut office costs.", "warning": "Úsalo para añadir un argumento MÁS fuerte o del mismo peso, no para cualquier detalle. No lo repitas en cada párrafo." },
+      { "phrase": "Furthermore", "register": "formal", "pattern": "Sentence. Furthermore, clause.", "example": "Public transport reduces congestion. Furthermore, it is accessible to people who cannot drive." },
+      { "phrase": "In addition", "register": "neutral", "pattern": "Sentence. In addition, clause. / In addition to + noun / -ing", "example": "In addition to lowering emissions, cycling improves public health.", "warning": "'In addition to' va con sustantivo o -ing: ✗ 'In addition to lower emissions'." },
+      { "phrase": "What is more", "register": "neutral", "pattern": "Sentence. What is more, clause.", "example": "The scheme is cheap. What is more, it can be introduced immediately." },
+      { "phrase": "Besides", "register": "informal", "pattern": "Sentence. Besides, clause. / Besides + noun / -ing", "example": "I don't want to move to the city. Besides, the rents there are crazy.", "warning": "Es conversacional: bien en Speaking, evítalo en el essay. Y no confundir con 'beside' (= al lado de)." },
+      { "phrase": "Also", "register": "neutral", "pattern": "subject + also + verb / be + also", "example": "Online courses are also cheaper than traditional ones.", "warning": "Mejor en medio de la frase. 'Also,' al principio de frase suena informal en Writing." },
+      { "phrase": "as well as", "register": "neutral", "pattern": "+ noun phrase / -ing", "example": "The policy benefits the elderly as well as young families." },
+      { "phrase": "Not only... but also", "register": "formal", "pattern": "Not only + auxiliary + subject + verb, but + subject + also + verb", "example": "Not only does tourism create jobs, but it also helps preserve local traditions.", "warning": "Al inicio de frase exige inversión: ✗ 'Not only tourism creates jobs'." },
+      { "phrase": "Additionally", "register": "formal", "pattern": "Sentence. Additionally, clause.", "example": "Additionally, the government could offer tax incentives to small businesses.", "warning": "Correcto pero algo pesado; alterna con 'In addition' o 'Furthermore'." }
+    ]
+  },
+  {
+    "id": "conn-contrast",
+    "function": "contrast",
+    "title": "Contrasting ideas",
+    "titleEs": "Contrastar ideas",
+    "items": [
+      { "phrase": "However", "register": "neutral", "pattern": "Sentence. However, clause. / clause; however, clause.", "example": "Many people support the tax. However, few are willing to pay more themselves.", "warning": "No une dos frases con coma: ✗ 'It is cheap, however it is slow.' Usa punto o punto y coma." },
+      { "phrase": "On the other hand", "register": "neutral", "pattern": "Sentence. On the other hand, clause.", "example": "Living in the city is exciting. On the other hand, it can be very stressful.", "warning": "Puede usarse sin 'On the one hand', pero SIEMPRE debe introducir el otro lado de la misma cuestión, no un dato nuevo cualquiera. ✗ 'in the other hand'." },
+      { "phrase": "whereas / while", "register": "neutral", "pattern": "clause, whereas clause", "example": "Older people tend to read newspapers, whereas younger people get their news online." },
+      { "phrase": "By contrast / In contrast", "register": "formal", "pattern": "Sentence. By contrast, clause. / In contrast to + noun", "example": "Car use fell by 10%. By contrast, cycling doubled.", "warning": "Para comparar dos cosas distintas (A vs B), no para una concesión." },
+      { "phrase": "but", "register": "neutral", "pattern": "clause, but clause", "example": "The plan is ambitious, but it is achievable.", "warning": "Evita empezar frases con 'But' en el essay; usa 'However'." },
+      { "phrase": "Conversely", "register": "formal", "pattern": "Sentence. Conversely, clause.", "example": "Higher taxes may reduce consumption. Conversely, lower taxes may encourage spending.", "warning": "Sólo para relaciones inversas (A→B / no A → no B); no es un sinónimo general de 'however'." },
+      { "phrase": "Nevertheless / Nonetheless", "register": "formal", "pattern": "Sentence. Nevertheless, clause.", "example": "The project was expensive. Nevertheless, it proved extremely popular.", "warning": "Significa 'aun así': la segunda idea ocurre A PESAR de la primera." },
+      { "phrase": "Instead", "register": "neutral", "pattern": "Sentence. Instead, clause. / instead of + noun / -ing", "example": "Instead of building more roads, the city should invest in trams.", "warning": "✗ 'instead of build': después de 'of' va -ing." },
+      { "phrase": "Unlike", "register": "neutral", "pattern": "Unlike + noun, clause", "example": "Unlike traditional exams, coursework rewards consistent effort.", "warning": "Va con sustantivo, no con frase: ✗ 'Unlike exams are stressful...'." }
+    ]
+  },
+  {
+    "id": "conn-cause",
+    "function": "cause",
+    "title": "Giving causes and reasons",
+    "titleEs": "Expresar causa",
+    "items": [
+      { "phrase": "because", "register": "neutral", "pattern": "clause because clause", "example": "Many young people rent because house prices are too high." },
+      { "phrase": "because of", "register": "neutral", "pattern": "+ noun phrase", "example": "Flights were cancelled because of the storm.", "warning": "✗ 'because of the prices are high': 'because of' + sustantivo; 'because' + frase." },
+      { "phrase": "due to", "register": "formal", "pattern": "+ noun phrase / be due to + noun", "example": "The rise in obesity is largely due to sedentary lifestyles.", "warning": "✗ 'due to people eat badly'. Para frase completa: 'due to the fact that'." },
+      { "phrase": "owing to", "register": "formal", "pattern": "+ noun phrase", "example": "Owing to a lack of funding, the museum closed in 2019." },
+      { "phrase": "since / as", "register": "neutral", "pattern": "Since / As + clause, clause", "example": "As the population is ageing, healthcare costs will continue to rise.", "warning": "Indican una causa ya conocida; pon la frase de causa al principio." },
+      { "phrase": "as a result of", "register": "formal", "pattern": "+ noun phrase", "example": "As a result of automation, many factory jobs have disappeared." },
+      { "phrase": "This is because", "register": "neutral", "pattern": "Sentence. This is because + clause.", "example": "Online shopping has grown rapidly. This is because it is convenient and often cheaper.", "warning": "Muy útil en TOEFL Academic Discussion para desarrollar razones. ✗ 'This is due to people prefer...'." },
+      { "phrase": "given that", "register": "formal", "pattern": "Given that + clause, clause", "example": "Given that most jobs now require digital skills, coding should be taught in schools." },
+      { "phrase": "on account of", "register": "formal", "pattern": "+ noun phrase", "example": "The match was postponed on account of heavy rain.", "warning": "Bastante formal y poco frecuente; 'because of' o 'due to' son más seguros." }
+    ]
+  },
+  {
+    "id": "conn-consequence",
+    "function": "consequence",
+    "title": "Results and consequences",
+    "titleEs": "Expresar consecuencia",
+    "items": [
+      { "phrase": "Therefore", "register": "formal", "pattern": "Sentence. Therefore, clause. / subject + therefore + verb", "example": "The population is ageing. Therefore, governments need to plan for higher pension costs.", "warning": "No une frases con coma: ✗ 'It is cheap, therefore it is popular.'" },
+      { "phrase": "As a result", "register": "neutral", "pattern": "Sentence. As a result, clause.", "example": "Fuel prices rose sharply. As a result, more people switched to public transport." },
+      { "phrase": "Consequently", "register": "formal", "pattern": "Sentence. Consequently, clause.", "example": "Many rural schools have closed. Consequently, children travel long distances to study." },
+      { "phrase": "Thus / Hence", "register": "formal", "pattern": "Sentence. Thus, clause. / Hence + noun", "example": "Fewer cars enter the centre; air quality has thus improved significantly.", "warning": "Muy formales: dosifícalos. 'Hence' suele ir con sustantivo: 'hence the need for reform'." },
+      { "phrase": "so", "register": "neutral", "pattern": "clause, so clause", "example": "Rents are high, so many graduates live with their parents.", "warning": "Bien en Speaking y TOEFL; en IELTS Task 2 alterna con 'therefore' / 'as a result'." },
+      { "phrase": "so ... that / such ... that", "register": "neutral", "pattern": "so + adj + that clause / such + (a) adj + noun + that clause", "example": "The city has become so expensive that teachers cannot afford to live there.", "warning": "✗ 'such expensive that' / ✗ 'so expensive city that'." },
+      { "phrase": "lead to / result in", "register": "neutral", "pattern": "cause + lead to / result in + noun / -ing", "example": "Poor diets can lead to serious health problems.", "warning": "✗ 'lead to increase' (verbo): 'lead to an increase' o 'lead to people eating more'." },
+      { "phrase": "For this reason", "register": "neutral", "pattern": "Sentence. For this reason, clause.", "example": "Children learn languages quickly. For this reason, schools should start teaching them early." },
+      { "phrase": "This means that", "register": "neutral", "pattern": "Sentence. This means that + clause.", "example": "Many jobs are now online. This means that workers can live far from big cities.", "warning": "Muy natural para explicar consecuencias en Speaking y en el TOEFL Discussion." }
+    ]
+  },
+  {
+    "id": "conn-example",
+    "function": "example",
+    "title": "Giving examples",
+    "titleEs": "Dar ejemplos",
+    "items": [
+      { "phrase": "For example / For instance", "register": "neutral", "pattern": "Sentence. For example, clause.", "example": "Some countries have reduced plastic waste. For example, Kenya banned plastic bags in 2017.", "warning": "Tras 'For example,' va una frase completa, no sólo una lista: ✗ 'For example, Kenya.'" },
+      { "phrase": "such as", "register": "neutral", "pattern": "noun + such as + noun(s)", "example": "Renewable sources such as wind and solar power are becoming cheaper.", "warning": "Va con sustantivos, no con frases. ✗ 'such as the government should...'." },
+      { "phrase": "including", "register": "neutral", "pattern": "noun + including + noun(s)", "example": "Several factors, including cost and safety, affect people's choice of transport." },
+      { "phrase": "e.g.", "register": "informal", "pattern": "(e.g. + noun)", "example": "Bring basic equipment (e.g. a torch and water).", "warning": "Abreviatura: evítala en el essay IELTS; escribe 'for example' o 'such as'." },
+      { "phrase": "To illustrate", "register": "formal", "pattern": "Sentence. To illustrate, clause.", "example": "Technology can widen inequality. To illustrate, rural students often lack fast internet." },
+      { "phrase": "A good example of this is", "register": "neutral", "pattern": "A good example of this is + noun", "example": "A good example of this is Copenhagen, where over 40% of commuters cycle.", "warning": "Muy útil en TOEFL Academic Discussion para aportar un ejemplo concreto." },
+      { "phrase": "In particular / particularly", "register": "neutral", "pattern": "In particular, clause. / particularly + noun / adj", "example": "Older people, in particular, benefit from free public transport." },
+      { "phrase": "like", "register": "informal", "pattern": "noun + like + noun", "example": "Apps like Duolingo make language learning more accessible.", "warning": "Coloquial; en Writing formal prefiere 'such as'." },
+      { "phrase": "namely", "register": "formal", "pattern": "noun, namely + noun(s)", "example": "Two groups are most affected, namely the elderly and the unemployed.", "warning": "Sirve para especificar TODOS los elementos, no para dar un ejemplo entre muchos." }
+    ]
+  },
+  {
+    "id": "conn-sequence",
+    "function": "sequence",
+    "title": "Sequencing and ordering",
+    "titleEs": "Ordenar y secuenciar",
+    "items": [
+      { "phrase": "First / Firstly", "register": "neutral", "pattern": "First(ly), clause.", "example": "Firstly, public transport is cheaper than running a car.", "warning": "Evita el esquema mecánico 'Firstly... Secondly... Thirdly... Lastly' en todos los párrafos: los examinadores lo ven como enlace mecánico (limita Coherence & Cohesion)." },
+      { "phrase": "Second / Secondly", "register": "neutral", "pattern": "Second(ly), clause.", "example": "Secondly, it reduces pollution in city centres." },
+      { "phrase": "Then / Next", "register": "neutral", "pattern": "Then / Next, clause.", "example": "The leaves are dried. Next, they are crushed and packed.", "warning": "Ideal para procesos (Task 1); en el essay suena a lista." },
+      { "phrase": "After that / Afterwards", "register": "neutral", "pattern": "After that, clause.", "example": "We visited the museum. Afterwards, we had lunch by the river.", "warning": "✗ 'After, we had lunch': 'after' solo no funciona como conector." },
+      { "phrase": "Subsequently", "register": "formal", "pattern": "Sentence. Subsequently, clause.", "example": "The data were collected in 2020 and subsequently analysed by two researchers." },
+      { "phrase": "Meanwhile", "register": "neutral", "pattern": "Sentence. Meanwhile, clause.", "example": "Car sales fell. Meanwhile, bicycle sales reached a record high." },
+      { "phrase": "Finally / Lastly", "register": "neutral", "pattern": "Finally, clause.", "example": "Finally, the government should consider the long-term costs.", "warning": "'Finally' = último punto de una lista. 'At last' = por fin (tras esperar): ✗ 'At last, I will conclude...'." },
+      { "phrase": "To begin with", "register": "neutral", "pattern": "To begin with, clause.", "example": "To begin with, the cost of living in big cities is extremely high." },
+      { "phrase": "Another / A further reason", "register": "neutral", "pattern": "Another reason is that + clause / A further point is + noun", "example": "Another reason is that cities offer better access to healthcare.", "warning": "Alternativa natural a 'Secondly' que mejora la cohesión." },
+      { "phrase": "The main reason", "register": "neutral", "pattern": "The main reason (why...) is that + clause", "example": "The main reason why I prefer trains is that I can work during the journey.", "warning": "✗ 'The main reason is because': mejor 'is that'." }
+    ]
+  },
+  {
+    "id": "conn-conclusion",
+    "function": "conclusion",
+    "title": "Concluding and summarising",
+    "titleEs": "Concluir y resumir",
+    "items": [
+      { "phrase": "In conclusion", "register": "formal", "pattern": "In conclusion, clause.", "example": "In conclusion, while technology has disadvantages, its benefits for education are greater.", "warning": "Perfecto para el último párrafo de IELTS Task 2, pero NO lo uses en el TOEFL Email ni en el Academic Discussion (son textos breves, no essays)." },
+      { "phrase": "To conclude", "register": "formal", "pattern": "To conclude, clause.", "example": "To conclude, both individuals and governments must act on climate change." },
+      { "phrase": "To sum up / To summarise", "register": "neutral", "pattern": "To sum up, clause.", "example": "To sum up, the advantages of remote work clearly outweigh the drawbacks." },
+      { "phrase": "Overall", "register": "neutral", "pattern": "Overall, clause.", "example": "Overall, the number of tourists increased, while average spending fell.", "warning": "Es LA palabra para abrir el overview de IELTS Task 1. ✗ 'In conclusion' en Task 1 (no hay opinión que concluir)." },
+      { "phrase": "All in all", "register": "informal", "pattern": "All in all, clause.", "example": "All in all, it was a great experience.", "warning": "Conversacional: bien en Speaking, demasiado informal para el essay." },
+      { "phrase": "In short / In brief", "register": "neutral", "pattern": "In short, clause.", "example": "In short, cities need better planning, not just more roads." },
+      { "phrase": "On balance", "register": "formal", "pattern": "On balance, clause.", "example": "On balance, I believe the benefits of tourism outweigh its costs.", "warning": "Ideal para cerrar essays de discusión o ventajas/desventajas, porque indica que has sopesado ambos lados." },
+      { "phrase": "For these reasons", "register": "neutral", "pattern": "For these reasons, clause.", "example": "For these reasons, I think universities should be free.", "warning": "Buen cierre para el TOEFL Academic Discussion en lugar de 'In conclusion'." }
+    ]
+  },
+  {
+    "id": "conn-concession",
+    "function": "concession",
+    "title": "Conceding a point",
+    "titleEs": "Conceder (aunque, a pesar de)",
+    "items": [
+      { "phrase": "Although / Even though", "register": "neutral", "pattern": "Although + clause, clause", "example": "Although electric cars are expensive, they are cheaper to run.", "warning": "✗ 'Although..., but...': en inglés no se combinan 'although' y 'but'." },
+      { "phrase": "Despite / In spite of", "register": "neutral", "pattern": "+ noun phrase / -ing / the fact that + clause", "example": "Despite its high cost, the project was approved.", "warning": "✗ 'Despite of' (incorrecto) ✗ 'Despite it is expensive'. Correcto: 'Despite being expensive' / 'Despite the fact that it is expensive' / 'In spite of'." },
+      { "phrase": "While / Whilst", "register": "neutral", "pattern": "While + clause, clause", "example": "While some argue that zoos are cruel, others see them as vital for conservation.", "warning": "Excelente para abrir párrafos de essays de discusión. 'Whilst' es británico y más formal." },
+      { "phrase": "Admittedly", "register": "formal", "pattern": "Admittedly, clause. However, clause.", "example": "Admittedly, online learning can be isolating. However, it gives students more flexibility.", "warning": "Concede un punto del otro lado; suele ir seguido de 'However' para volver a tu argumento." },
+      { "phrase": "It is true that ... ; however,", "register": "neutral", "pattern": "It is true that + clause. However, clause.", "example": "It is true that tourism can damage the environment. However, it also funds conservation." },
+      { "phrase": "Even so", "register": "neutral", "pattern": "Sentence. Even so, clause.", "example": "The plan has some flaws. Even so, it is better than doing nothing." },
+      { "phrase": "Granted", "register": "informal", "pattern": "Granted, clause, but clause.", "example": "Granted, the city is expensive, but the salaries are higher too.", "warning": "Bastante conversacional; en Writing formal usa 'Admittedly'." },
+      { "phrase": "Regardless of", "register": "formal", "pattern": "+ noun phrase / wh-clause", "example": "Everyone should have access to healthcare, regardless of their income.", "warning": "✗ 'Irregardless': no es estándar." }
+    ]
+  },
+  {
+    "id": "conn-emphasis",
+    "function": "emphasis",
+    "title": "Adding emphasis",
+    "titleEs": "Enfatizar",
+    "items": [
+      { "phrase": "Indeed", "register": "formal", "pattern": "Sentence. Indeed, clause.", "example": "Air pollution is a serious problem. Indeed, it causes millions of deaths each year.", "warning": "Refuerza o amplía la idea anterior con algo más fuerte; no lo uses como simple relleno." },
+      { "phrase": "In fact", "register": "neutral", "pattern": "Sentence. In fact, clause.", "example": "The scheme was not a failure. In fact, it exceeded its targets.", "warning": "Puede corregir una idea anterior o reforzarla. Recuerda: 'actually' = 'in fact', no 'actualmente'." },
+      { "phrase": "Clearly / Obviously", "register": "neutral", "pattern": "Clearly, clause.", "example": "Clearly, more needs to be done to protect endangered species.", "warning": "'Obviously' puede sonar arrogante en un essay; 'Clearly' es más seguro." },
+      { "phrase": "Above all", "register": "neutral", "pattern": "Above all, clause.", "example": "Above all, children need to feel safe at school.", "warning": "Sólo para el punto MÁS importante de una lista." },
+      { "phrase": "Particularly / Especially", "register": "neutral", "pattern": "particularly + adj / noun / prep phrase", "example": "This is especially true in developing countries.", "warning": "✗ 'Specially' en este sentido; y no al principio de frase: ✗ 'Especially, children...'." },
+      { "phrase": "It is worth noting that", "register": "formal", "pattern": "It is worth noting that + clause", "example": "It is worth noting that most of this growth occurred after 2010." },
+      { "phrase": "Undoubtedly / Without doubt", "register": "formal", "pattern": "Undoubtedly, clause.", "example": "Undoubtedly, the internet has transformed the way we work.", "warning": "Úsalo con moderación: afirmaciones demasiado absolutas debilitan el argumento académico." },
+      { "phrase": "Not to mention", "register": "informal", "pattern": "clause, not to mention + noun", "example": "Driving in the city is stressful, not to mention expensive.", "warning": "Muy natural en Speaking; algo coloquial para Task 2." },
+      { "phrase": "Significantly", "register": "formal", "pattern": "Significantly, clause.", "example": "Significantly, the number of female engineers has doubled in a decade." }
+    ]
+  },
+  {
+    "id": "conn-clarification",
+    "function": "clarification",
+    "title": "Clarifying and rephrasing",
+    "titleEs": "Aclarar y reformular",
+    "items": [
+      { "phrase": "In other words", "register": "neutral", "pattern": "Sentence. In other words, clause.", "example": "The city has a housing deficit. In other words, there are not enough homes for everyone.", "warning": "Úsalo para simplificar una idea compleja, no para repetir lo mismo con otras palabras sin aportar nada." },
+      { "phrase": "That is (to say) / i.e.", "register": "formal", "pattern": "noun, that is, + clarification", "example": "The policy targets low-income households, that is, those earning under £20,000.", "warning": "'i.e.' = 'es decir' (≠ 'e.g.' = por ejemplo). Evita la abreviatura en el essay." },
+      { "phrase": "To put it another way", "register": "neutral", "pattern": "Sentence. To put it another way, clause.", "example": "Prices are rising faster than wages. To put it another way, people are getting poorer." },
+      { "phrase": "Specifically", "register": "neutral", "pattern": "Sentence. Specifically, clause.", "example": "The report highlights one problem in particular. Specifically, schools lack trained teachers." },
+      { "phrase": "What I mean is", "register": "informal", "pattern": "What I mean is (that) + clause", "example": "I'm not against tourism. What I mean is that it should be better managed.", "warning": "Excelente en Speaking para reformular sin bloquearte; demasiado oral para Writing." },
+      { "phrase": "To be more precise", "register": "formal", "pattern": "To be more precise, clause.", "example": "Sales increased considerably. To be more precise, they rose by 37% in three years." },
+      { "phrase": "Namely", "register": "formal", "pattern": "noun, namely + noun", "example": "One factor stands out, namely the cost of housing." },
+      { "phrase": "In this sense / In this respect", "register": "formal", "pattern": "In this sense, clause.", "example": "Social media connects people. In this sense, it can reduce loneliness.", "warning": "✗ 'In this sense' como calco de 'en este sentido' para cambiar de tema: sólo para matizar en qué aspecto es cierta la idea." },
+      { "phrase": "I mean", "register": "informal", "pattern": "I mean, clause.", "example": "It's a nice town. I mean, there's not much to do, but people are friendly.", "warning": "Natural en Speaking si lo usas con moderación; abusar de él suena a muletilla." }
+    ]
+  }
+]

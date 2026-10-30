@@ -1,0 +1,198 @@
+[
+  {
+    "id": "ielts-r-m2-p1",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 2,
+    "passageNo": 1,
+    "title": "The Return of the Beaver",
+    "subtitle": "After centuries of absence, an animal engineer is reshaping Europe's rivers",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "For most of the twentieth century, the Eurasian beaver was absent from much of the continent where it had once been common. Hunted for its fur, for its meat and for castoreum, an oily substance used in perfume and medicine, the animal had been reduced by 1900 to perhaps 1,200 individuals scattered across a handful of isolated populations, from southern Norway to Mongolia. In Britain it had disappeared entirely, probably by the sixteenth century. Today, following legal protection and a long series of reintroductions, Europe's beavers number well over a million, and their return is forcing scientists, farmers and governments to reconsider what a healthy river looks like."
+      },
+      {
+        "label": "B",
+        "text": "Beavers are often described as 'ecosystem engineers', because few animals other than humans alter their surroundings so dramatically. Using their powerful front teeth, they fell trees and use the branches, together with mud and stones, to build dams across streams. The pond that forms behind a dam serves as a refuge: beavers are clumsy on land but excellent swimmers, and deep water allows them to escape predators and reach their homes, known as lodges, through underwater entrances. A family usually consists of an adult pair and their offspring, which stay with their parents until they are around two years old. The family will maintain and extend its dams continuously, sometimes for decades."
+      },
+      {
+        "label": "C",
+        "text": "The effects of this activity extend far beyond the pond itself. Dams slow the flow of water, so that a straight, fast stream is gradually transformed into a complex wetland of pools, channels and marshy ground. This mosaic supports a remarkable variety of other life. Studies comparing streams with and without beavers have found greater numbers of aquatic insects, frogs and wading birds at beaver sites, and the dead trees left standing in flooded areas provide nesting holes for woodpeckers and roosts for bats. Fish populations generally benefit too, although dams can occasionally block migrating species such as salmon in years of low rainfall."
+      },
+      {
+        "label": "D",
+        "text": "Perhaps the most important effects, from a human point of view, concern the movement of water. In a five-year study on a fenced site in south-west England, researchers measured the water leaving an area of farmland before and after a pair of beavers was released there. During heavy storms, peak flows downstream were reduced by an average of around 30 per cent, because the network of ponds held back water and released it gradually. In dry periods, the same ponds helped to keep the stream flowing. The wetlands also acted as filters: water leaving the site carried considerably less soil and agricultural fertiliser than the water entering it, as sediment settled in the still pools."
+      },
+      {
+        "label": "E",
+        "text": "Not everyone welcomes the beaver's return. Farmers whose fields lie close to rivers have reported waterlogged land and damaged crops, and beavers sometimes fell valuable trees in orchards and gardens. Burrows dug into riverbanks can weaken them, and blocked drainage ditches can flood roads and paths. In parts of central Europe, where beavers are now numerous, authorities pay compensation for some kinds of damage and, in certain cases, permit animals to be removed or culled. Some anglers also worry that dams will make it harder for fish to reach the gravel beds where they lay their eggs, although most studies so far suggest that the overall effect on fish is positive."
+      },
+      {
+        "label": "F",
+        "text": "Wildlife managers have developed a range of techniques to reduce these conflicts. One of the most effective is the 'flow device', a pipe that passes through a dam and allows the water level of a pond to be controlled without destroying the structure. Because the inlet of the pipe is placed well upstream and protected by a cage, beavers cannot detect the sound of running water that normally prompts them to repair leaks. Individual trees can be protected with wire mesh or with a paint mixed with sand, which beavers find unpleasant to chew. Where problems cannot be solved on site, animals may be trapped and moved elsewhere."
+      },
+      {
+        "label": "G",
+        "text": "In Britain, the return of the beaver has been gradual and, at times, unplanned. A population on the River Tay in Scotland appears to have originated from animals that escaped from captivity or were released illegally, while an official trial in Argyll began in 2009. In England, a wild population discovered on the River Otter in Devon in 2013 was allowed to remain after a five-year monitoring programme concluded that its benefits outweighed its costs. Supporters argue that beavers can provide flood protection and wildlife habitat more cheaply than any engineered alternative. Critics are less certain, and the debate over how far the animal should be allowed to spread is likely to continue for some time."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "tfng",
+        "instructions": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          {
+            "id": "q1",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "By 1900, the remaining Eurasian beavers all lived in a single region.",
+            "answer": "FALSE",
+            "evidence": "scattered across a handful of isolated populations, from southern Norway to Mongolia",
+            "explanation": "The survivors were 'scattered across a handful of isolated populations' from Norway to Mongolia - several separate places, not one region. The text contradicts the statement, so FALSE."
+          },
+          {
+            "id": "q2",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Beavers move more easily in water than on land.",
+            "answer": "TRUE",
+            "evidence": "beavers are clumsy on land but excellent swimmers",
+            "explanation": "'Clumsy on land but excellent swimmers' is paraphrased as moving more easily in water."
+          },
+          {
+            "id": "q3",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Young beavers normally leave their family before they are one year old.",
+            "answer": "FALSE",
+            "evidence": "which stay with their parents until they are around two years old",
+            "explanation": "Young beavers stay with their parents until they are around two years old, which contradicts leaving before the age of one."
+          },
+          {
+            "id": "q4",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Woodpeckers are the most common birds found at beaver sites.",
+            "answer": "NOT GIVEN",
+            "explanation": "Woodpeckers and wading birds are both mentioned, but the passage never says which birds are most common. NOT GIVEN."
+          },
+          {
+            "id": "q5",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Beavers dislike chewing trees that have been painted with a mixture containing sand.",
+            "answer": "TRUE",
+            "evidence": "a paint mixed with sand, which beavers find unpleasant to chew",
+            "explanation": "'Find unpleasant to chew' is paraphrased as 'dislike chewing'."
+          },
+          {
+            "id": "q6",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "The beavers on the River Tay were released as part of an official programme.",
+            "answer": "FALSE",
+            "evidence": "appears to have originated from animals that escaped from captivity or were released illegally",
+            "explanation": "The Tay beavers escaped or were released illegally; the official trial was in Argyll. The text contradicts the statement."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "table-completion",
+        "instructions": "Questions 7–10\nComplete the table below.\nChoose ONE WORD AND/OR A NUMBER from the passage for each answer.\nWrite your answers in boxes 7–10 on your answer sheet.",
+        "title": "Beavers: effects and management",
+        "template": "| Topic | Details |\n|---|---|\n| Storms | peak flows downstream reduced by about {{q7}} per cent |\n| Water quality | ponds act as {{q8}}, so less soil and fertiliser leave the site |\n| Pond levels | controlled with a pipe whose inlet is protected by a {{q9}} |\n| Valuable trees | protected by wire mesh or by paint mixed with {{q10}} |",
+        "items": [
+          {
+            "id": "q7",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["30", "thirty"],
+            "maxWords": 1,
+            "allowNumber": true,
+            "evidence": "peak flows downstream were reduced by an average of around 30 per cent",
+            "explanation": "During heavy storms, peak flows were reduced by around 30 per cent."
+          },
+          {
+            "id": "q8",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["filters"],
+            "maxWords": 1,
+            "allowNumber": true,
+            "evidence": "The wetlands also acted as filters",
+            "explanation": "The wetlands 'acted as filters', which is why the water leaving the site carried less soil and fertiliser."
+          },
+          {
+            "id": "q9",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["cage"],
+            "maxWords": 1,
+            "allowNumber": true,
+            "evidence": "the inlet of the pipe is placed well upstream and protected by a cage",
+            "explanation": "The inlet of the flow device is protected by a cage so beavers cannot detect running water."
+          },
+          {
+            "id": "q10",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": ["sand"],
+            "maxWords": 1,
+            "allowNumber": true,
+            "evidence": "with a paint mixed with sand",
+            "explanation": "Trees are protected 'with wire mesh or with a paint mixed with sand'."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "short-answer",
+        "instructions": "Questions 11–13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nWrite your answers in boxes 11–13 on your answer sheet.",
+        "items": [
+          {
+            "id": "q11",
+            "kind": "gap",
+            "qtype": "short-answer",
+            "prompt": "What substance obtained from beavers was used in perfume? ___",
+            "answers": ["castoreum"],
+            "maxWords": 2,
+            "allowNumber": true,
+            "evidence": "castoreum, an oily substance used in perfume and medicine",
+            "explanation": "Beavers were hunted partly for castoreum, an oily substance used in perfume and medicine."
+          },
+          {
+            "id": "q12",
+            "kind": "gap",
+            "qtype": "short-answer",
+            "prompt": "In which year did the official beaver trial in Argyll start? ___",
+            "answers": ["2009"],
+            "maxWords": 2,
+            "allowNumber": true,
+            "evidence": "an official trial in Argyll began in 2009",
+            "explanation": "The Argyll trial began in 2009. 2013 is a distractor: it is when the River Otter population was discovered."
+          },
+          {
+            "id": "q13",
+            "kind": "gap",
+            "qtype": "short-answer",
+            "prompt": "What sound usually causes beavers to repair leaks in a dam? ___",
+            "answers": ["running water"],
+            "maxWords": 2,
+            "allowNumber": true,
+            "evidence": "the sound of running water that normally prompts them to repair leaks",
+            "explanation": "'Prompts them to repair leaks' = causes them to repair leaks; the trigger is the sound of running water."
+          }
+        ]
+      }
+    ]
+  }
+]

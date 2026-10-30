@@ -1,0 +1,90 @@
+[
+  {
+    "id": "toefl-cr-m1-router-1", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "choose-response", "title": "Volunteer trip",
+    "audio": { "speakers": [{ "id": "s1", "name": "Megan", "gender": "f", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "Are you planning to sign up for the volunteer trip?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["The sign is near the entrance.", "I'd like to, but it clashes with my finals.", "The trip took about three hours.", "I'm planning a party for Saturday."],
+      "answer": 1,
+      "optionNotes": ["Plays on 'sign up / sign'.", "Correct: answers the question and explains the problem.", "Wrong tense: talks about a past trip.", "Repeats 'planning' but changes the topic."],
+      "explanation": "B answers about the speaker's plans: they want to go but there's a conflict. The others reuse words (sign, trip, planning)."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-router-2", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "choose-response", "title": "Spare key",
+    "audio": { "speakers": [{ "id": "s1", "name": "Thomas", "gender": "m", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "Where did you put the spare key to the apartment?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Yesterday, right after I locked up.", "I'll put it on my list.", "It's under the plant by the door.", "The apartment's on the fourth floor."],
+      "answer": 2,
+      "optionNotes": ["Answers 'when', not 'where'.", "Repeats 'put' with a different meaning.", "Correct: gives the key's location.", "Gives the location of the apartment, not the key."],
+      "explanation": "'Where did you put the key' needs the key's location: C. D is a location too, but of the wrong thing."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-router-3", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "choose-response", "title": "Lab closure",
+    "audio": { "speakers": [{ "id": "s1", "name": "Ruby", "gender": "f", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Why was the chemistry lab closed this afternoon?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It closes at five every day.", "Because I finished my experiment early.", "Yes, I closed the window before I left.", "They were fixing a gas leak, apparently."],
+      "answer": 3,
+      "optionNotes": ["Gives regular hours, not the reason for today's closure.", "Starts with 'because' but the reason doesn't explain the closure.", "A yes/no answer that repeats 'closed'.", "Correct: gives a believable reason."],
+      "explanation": "'Why' needs a reason for the closure. D gives one. B is a trap: it begins with 'because' but the reason makes no sense."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-router-4", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "choose-response", "title": "Potluck dinner",
+    "audio": { "speakers": [{ "id": "s1", "name": "Nathan", "gender": "m", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "Should I bring anything to the potluck on Friday?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I brought it back last Friday.", "Maybe a salad? We've got plenty of desserts.", "It starts at six at Maya's place.", "I'm not sure I should go, actually."],
+      "answer": 1,
+      "optionNotes": ["Repeats 'bring/brought' and 'Friday' in the wrong tense.", "Correct: suggests what to bring.", "Gives time and place, not what to bring.", "Talks about the listener's own attendance."],
+      "explanation": "The speaker asks what to contribute. B suggests something specific and explains why."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-router-5", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "choose-response", "title": "Changing majors",
+    "audio": { "speakers": [{ "id": "s1", "name": "Charlotte", "gender": "f", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "I'm thinking of switching my major to economics." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Really? What made you change your mind?", "Just flip the switch on the left.", "My major exam is on Monday.", "The economics department is on the third floor."],
+      "answer": 0,
+      "optionNotes": ["Correct: shows interest and asks a natural follow-up question.", "Plays on 'switching/switch'.", "Uses 'major' with a different meaning.", "Repeats 'economics' but just gives a location."],
+      "explanation": "The speaker shares news. A natural reply shows interest: A asks why. B and C are word-play traps."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-router-6", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "choose-response", "title": "Long line",
+    "audio": { "speakers": [{ "id": "s1", "name": "Tyler", "gender": "m", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "How much longer do you think this line will take?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It's longer than the one at the bank.", "At least another twenty minutes, by the look of it.", "I think so, yes.", "I don't think I'll take it."],
+      "answer": 1,
+      "optionNotes": ["Compares length instead of estimating time.", "Correct: gives a time estimate.", "A yes/no answer to a 'how much' question.", "Repeats 'think' and 'take' with a different meaning."],
+      "explanation": "'How much longer' asks for an amount of time. B gives an estimate."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-router-7", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "choose-response", "title": "Broken projector",
+    "audio": { "speakers": [{ "id": "s1", "name": "Natalie", "gender": "f", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "The projector in the seminar room isn't working again." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I'm working again this summer.", "Yes, it's a really interesting seminar.", "I'll call IT and ask them to send someone over.", "The seminar's on Thursday again."],
+      "answer": 2,
+      "optionNotes": ["Repeats 'working' and 'again' about a job.", "Comments on the seminar, not the problem.", "Correct: offers to solve the problem.", "Repeats 'seminar' and 'again' but ignores the problem."],
+      "explanation": "The speaker reports a problem. C responds with a solution. The rest recycle words."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-router-8", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "choose-response", "title": "Sharing a taxi",
+    "audio": { "speakers": [{ "id": "s1", "name": "Mitchell", "gender": "m", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Do you want to split a taxi to the airport tomorrow?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I split my time between work and school.", "The airport's about forty minutes away.", "I took a taxi there last week.", "That'd be great. What time's your flight?"],
+      "answer": 3,
+      "optionNotes": ["Repeats 'split' with a different meaning.", "Gives a distance, but doesn't accept or refuse.", "Wrong tense: talks about the past.", "Correct: accepts the offer and asks a useful follow-up."],
+      "explanation": "This is an offer. D accepts and asks about timing, which is a natural next step."
+    }]
+  }
+]

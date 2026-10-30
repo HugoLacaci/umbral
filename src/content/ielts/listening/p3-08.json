@@ -1,0 +1,332 @@
+[
+  {
+    "id": "ielts-l-p3-08",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 3,
+    "title": "Analysing a four-day week trial",
+    "context": "You will hear two students, Leo and Priya, discussing their analysis of a four-day working week trial with their tutor, Dr Hart.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "leo",
+          "name": "Leo",
+          "role": "student",
+          "gender": "m",
+          "accent": "en-US"
+        },
+        {
+          "id": "pri",
+          "name": "Priya",
+          "role": "student",
+          "gender": "f",
+          "accent": "en-AU"
+        },
+        {
+          "id": "har",
+          "name": "Dr Hart",
+          "role": "tutor",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "har",
+          "t": "Hello, Leo, Priya. Sit down. So, you're analysing the data from the regional four-day week trial. How's it going?"
+        },
+        {
+          "s": "leo",
+          "t": "Slowly. Forty companies took part for six months, and we've got their reports. My first worry was that some firms dropped out, but in fact only two left early, so that's not really a problem."
+        },
+        {
+          "s": "pri",
+          "t": "The bigger headache is productivity. Each company measured it in its own way. A software firm counted projects completed, and a bakery counted loaves sold, so it's almost impossible to compare them."
+        },
+        {
+          "s": "har",
+          "t": "That's a common weakness in these trials. Did they rely only on staff surveys for everything else?"
+        },
+        {
+          "s": "pri",
+          "t": "No, they also sent in their sickness records and staff turnover figures, so we have some hard data as well."
+        },
+        {
+          "s": "har",
+          "t": "Good. And what did the sickness records show?"
+        },
+        {
+          "s": "pri",
+          "t": "Sick days fell by about a third compared with the six months before the trial."
+        },
+        {
+          "s": "leo",
+          "t": "I wasn't convinced by that at first. The trial ran through the winter, so I thought the before and after periods weren't comparable."
+        },
+        {
+          "s": "pri",
+          "t": "But the organisers anticipated that. They compared the trial months with the same months the year before, and the fall was still there."
+        },
+        {
+          "s": "leo",
+          "t": "Yes, I checked, and she's right. It's a genuine drop."
+        },
+        {
+          "s": "har",
+          "t": "Excellent. Now, there were interviews with employees too, weren't there? How many?"
+        },
+        {
+          "s": "leo",
+          "t": "A hundred and twenty. I wanted to analyse every single one, because otherwise we might miss something."
+        },
+        {
+          "s": "pri",
+          "t": "That would take us months. I suggested we just look at the managers' interviews, since they'd have the overview."
+        },
+        {
+          "s": "har",
+          "t": "Then you'd only hear one side of the story. Managers and staff often see these things very differently."
+        },
+        {
+          "s": "pri",
+          "t": "OK, that's fair. So what if we picked thirty interviews at random from the whole set?"
+        },
+        {
+          "s": "har",
+          "t": "That's the most sensible solution. It's manageable and fair."
+        },
+        {
+          "s": "leo",
+          "t": "Agreed, a random sample of thirty, then. And for presenting the results, I'd thought of a single summary table with all forty companies."
+        },
+        {
+          "s": "har",
+          "t": "That would be very hard to read. My first thought was charts comparing different sectors. But actually, with only forty firms, some sectors would have just two or three companies, which isn't meaningful. I'd go for three or four detailed case studies of individual firms instead."
+        },
+        {
+          "s": "pri",
+          "t": "That would let us show what actually changed day to day. Let's do that."
+        },
+        {
+          "s": "har",
+          "t": "Right. What difficulties did the firms report?"
+        },
+        {
+          "s": "leo",
+          "t": "You'd expect overtime costs to go up, but in most firms they actually fell. And only a few made their staff work longer days. Most cut out unnecessary meetings instead, which was more of a solution than a problem."
+        },
+        {
+          "s": "pri",
+          "t": "The real problems were in businesses that deal with the public. Customers still expected someone to answer the phone on the fifth day, so those firms had to set up rotas. And in several companies, there was resentment between departments, because some teams got the extra day off and others couldn't."
+        },
+        {
+          "s": "har",
+          "t": "That's important. Now, your conclusions. Leo, what's your overall view?"
+        },
+        {
+          "s": "leo",
+          "t": "Honestly, I think the newspapers made the results sound much more impressive than they were. The headlines talked about a revolution in productivity, but as we said, productivity is the weakest part of the data."
+        },
+        {
+          "s": "pri",
+          "t": "I thought that too at first, but some of the coverage was quite careful."
+        },
+        {
+          "s": "har",
+          "t": "My concern is a different one. These firms volunteered to take part. Companies that sign up for a trial like this are usually already quite flexible and forward-looking, so they're not typical of the economy as a whole."
+        },
+        {
+          "s": "leo",
+          "t": "I'd assumed they were a fairly random group, but I suppose you're right."
+        },
+        {
+          "s": "pri",
+          "t": "Another thing I'd want to discuss is that in firms that kept the same total hours over four days, the working day got longer. For parents who have to collect children from school, that could actually be harder to manage."
+        },
+        {
+          "s": "leo",
+          "t": "And the other point we need to make is that six months is simply too short. A lot of the improvement could be novelty. We'd need a trial lasting several years to know whether the benefits really last."
+        },
+        {
+          "s": "har",
+          "t": "Good. Those are all strong points for the discussion. Send me a draft when you're ready."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–24\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q21",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What is the main problem with the companies' data?",
+            "options": [
+              "Several companies left the trial before the end.",
+              "The companies measured productivity in different ways.",
+              "The data came only from staff surveys."
+            ],
+            "answer": 1,
+            "optionNotes": [
+              "Only two left early, which Leo says is not a problem.",
+              "Correct: each company used its own measure.",
+              "They also sent sickness and turnover records."
+            ],
+            "explanation": "Priya calls productivity \"the bigger headache\" because each company measured it in its own way.",
+            "evidence": "Each company measured it in its own way."
+          },
+          {
+            "id": "q22",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What do the students conclude about staff sickness?",
+            "options": [
+              "It fell during the trial.",
+              "It showed no real change.",
+              "It increased because of the season."
+            ],
+            "answer": 0,
+            "optionNotes": [
+              "Correct.",
+              "Leo doubted the fall at first, but he accepts it.",
+              "Leo worried about winter, but the comparison used the same months of the previous year."
+            ],
+            "explanation": "Sick days fell by about a third; the comparison with the same months of the previous year confirmed it. Leo: \"It's a genuine drop.\"",
+            "evidence": "It's a genuine drop."
+          },
+          {
+            "id": "q23",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "How will the students deal with the employee interviews?",
+            "options": [
+              "They will analyse all of them.",
+              "They will analyse a random selection.",
+              "They will analyse only the managers' interviews."
+            ],
+            "answer": 1,
+            "optionNotes": [
+              "Leo's idea, rejected because it would take months.",
+              "Correct: thirty chosen at random.",
+              "Priya's idea, rejected by Dr Hart as one-sided."
+            ],
+            "explanation": "After two rejected suggestions, they agree on a random sample of thirty.",
+            "evidence": "a random sample of thirty"
+          },
+          {
+            "id": "q24",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "How does Dr Hart recommend presenting the results?",
+            "options": [
+              "in one summary table",
+              "as charts comparing sectors",
+              "as case studies of particular companies"
+            ],
+            "answer": 2,
+            "optionNotes": [
+              "Leo's idea; she says it would be hard to read.",
+              "Her first thought, which she rejects because some sectors are too small.",
+              "Correct."
+            ],
+            "explanation": "She changes her mind about sector charts and recommends three or four case studies of individual firms.",
+            "evidence": "I'd go for three or four detailed case studies of individual firms instead."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "multi",
+        "instructions": "Questions 25 and 26\nChoose TWO letters, A–E.",
+        "items": [
+          {
+            "id": "q25",
+            "kind": "multi",
+            "qtype": "multi",
+            "prompt": "Which TWO difficulties did the companies report?",
+            "options": [
+              "meeting customers' expectations on the fifth day",
+              "higher overtime costs",
+              "staff becoming tired from longer working days",
+              "having to shorten meetings",
+              "bad feeling between different groups of staff"
+            ],
+            "answers": [
+              0,
+              4
+            ],
+            "optionNotes": [
+              "Correct: firms dealing with the public needed rotas.",
+              "Overtime costs actually fell in most firms.",
+              "Only a few firms lengthened the day; tiredness is not mentioned.",
+              "Cutting meetings was a solution, not a problem.",
+              "Correct: resentment between departments."
+            ],
+            "explanation": "The real problems were customers expecting service on the fifth day and resentment between departments.",
+            "evidence": "there was resentment between departments"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching",
+        "instructions": "Questions 27–30\nWho expresses each of the following opinions?\nWrite the correct letter, A, B or C, next to Questions 27–30.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Leo"
+          },
+          {
+            "key": "B",
+            "text": "Priya"
+          },
+          {
+            "key": "C",
+            "text": "Dr Hart"
+          }
+        ],
+        "items": [
+          {
+            "id": "q27",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "The media exaggerated the success of the trial.",
+            "answer": "A",
+            "explanation": "Leo says the newspapers made the results sound more impressive. Priya initially agreed but now thinks some coverage was careful.",
+            "evidence": "I think the newspapers made the results sound much more impressive than they were"
+          },
+          {
+            "id": "q28",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "The companies in the trial were not representative.",
+            "answer": "C",
+            "explanation": "Dr Hart says volunteering firms are not typical; Leo had assumed they were random.",
+            "evidence": "they're not typical of the economy as a whole"
+          },
+          {
+            "id": "q29",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "Longer working days could cause problems for parents.",
+            "answer": "B",
+            "explanation": "Priya raises the issue of collecting children from school.",
+            "evidence": "For parents who have to collect children from school, that could actually be harder to manage."
+          },
+          {
+            "id": "q30",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "The trial was not long enough to show lasting effects.",
+            "answer": "A",
+            "explanation": "Leo says six months is too short and a trial of several years is needed.",
+            "evidence": "six months is simply too short"
+          }
+        ]
+      }
+    ]
+  }
+]

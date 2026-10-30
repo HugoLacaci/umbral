@@ -1,0 +1,74 @@
+[
+  {
+    "id": "toefl-build-17", "difficulty": "hard", "usage": "practice",
+    "context": { "name": "Helen", "text": "Did the committee approve the new class schedule?" },
+    "respondent": "Victor",
+    "prefix": "They", "suffix": "next week.",
+    "answer": ["won't", "announce", "whether", "it", "has been", "approved", "until"],
+    "distractors": ["was being"],
+    "explanation": "Pregunta indirecta con «whether» + pasiva en present perfect («it has been approved»). «Until next week» cierra la frase y depende de «won't announce»."
+  },
+  {
+    "id": "toefl-build-18", "difficulty": "hard", "usage": "practice",
+    "context": { "name": "Julia", "text": "Why did you switch your major to economics?" },
+    "respondent": "Andre",
+    "prefix": "I", "suffix": "than in literature.",
+    "answer": ["realized", "that", "I", "was", "more interested", "in data"],
+    "distractors": ["most interested"],
+    "explanation": "Oración completiva con «that» + comparativo de adjetivo largo («more interested … than»). «Most» es superlativo y no combina con «than»."
+  },
+  {
+    "id": "toefl-build-19", "difficulty": "hard", "usage": "practice",
+    "context": { "name": "Ingrid", "text": "The museum's guided tour was fully booked when I called." },
+    "respondent": "Felix",
+    "prefix": "If we had", "suffix": "the tour.",
+    "answer": ["booked", "a week", "earlier,", "we", "could have", "joined"],
+    "distractors": ["can have"],
+    "explanation": "Tercer condicional: «If + past perfect, … could/would have + participio». «Can have» no se usa para situaciones hipotéticas en el pasado."
+  },
+  {
+    "id": "toefl-build-20", "difficulty": "hard", "usage": "practice",
+    "context": { "name": "Mateo", "text": "What did the dean say about next year's budget?" },
+    "respondent": "Sara",
+    "prefix": "She", "suffix": ".",
+    "answer": ["said", "that", "funding for", "student clubs", "would", "be reduced"],
+    "distractors": ["will"],
+    "explanation": "Estilo indirecto: tras «said» en pasado, «will» retrocede a «would» («would be reduced»). Además es una pasiva: los fondos reciben la acción."
+  },
+  {
+    "id": "toefl-build-21", "difficulty": "hard", "usage": "practice",
+    "context": { "name": "Lena", "text": "Do you think the professor will extend the deadline?" },
+    "respondent": "Hugo",
+    "prefix": "It", "suffix": ".",
+    "answer": ["depends", "on", "how many", "students", "ask", "for one"],
+    "distractors": ["do"],
+    "explanation": "«Depend on» + pregunta indirecta («how many students ask for one»): orden de afirmación, sin auxiliar «do». «Ask for something» es un verbo preposicional (pedir algo)."
+  },
+  {
+    "id": "toefl-build-22", "difficulty": "hard", "usage": "practice",
+    "context": { "name": "Zoe", "text": "Why are you taking the stairs? It's six floors!" },
+    "respondent": "Martin",
+    "prefix": "The elevator", "suffix": ".",
+    "answer": ["hasn't", "been", "working", "since", "the power", "went out"],
+    "distractors": ["didn't"],
+    "explanation": "Present perfect continuo con «since» + momento en pasado («since the power went out»): una situación que empezó en el pasado y sigue. «Go out» (irse la luz) es phrasal verb en pasado simple."
+  },
+  {
+    "id": "toefl-build-23", "difficulty": "hard", "usage": "practice",
+    "context": { "name": "Nadia", "text": "Is the undergraduate research grant still open?" },
+    "respondent": "Owen",
+    "prefix": "Yes, but applications", "suffix": "of the month.",
+    "answer": ["must", "be", "submitted", "no later", "than", "the end"],
+    "distractors": ["submit"],
+    "explanation": "Pasiva con modal: «must be + participio» («must be submitted»). Las solicitudes no envían nada, así que la forma activa «submit» no encaja. «No later than» = como muy tarde."
+  },
+  {
+    "id": "toefl-build-24", "difficulty": "hard", "usage": "practice",
+    "context": { "name": "Elif", "text": "I didn't understand the last chapter at all." },
+    "respondent": "Simon",
+    "prefix": "Neither did I. Should we ask the professor", "suffix": "in that chapter?",
+    "answer": ["what", "the author", "was", "trying", "to argue"],
+    "distractors": ["did"],
+    "explanation": "Pregunta indirecta como objeto de «ask the professor» (Elif tampoco lo entendió, así que proponen preguntárselo al profesor): orden sujeto + verbo («what the author was trying to argue»), sin inversión ni «did». La interrogación final pertenece a la pregunta directa «Should we ask…?»."
+  }
+]

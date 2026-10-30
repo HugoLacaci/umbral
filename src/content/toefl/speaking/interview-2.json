@@ -1,0 +1,162 @@
+[
+  {
+    "id": "toefl-interview-09",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Travel and tourism",
+    "intro": "Hi, thanks for joining me. I host a podcast about travel, and this week we're asking students about their travel experiences and opinions on tourism.",
+    "interviewer": { "id": "int", "name": "Ben Fletcher", "role": "Podcast host", "gender": "m", "accent": "en-AU" },
+    "questions": [
+      "Tell me about a trip you really enjoyed. Where did you go?",
+      "When you travel, do you prefer to plan everything in advance or to be spontaneous? Why?",
+      "Some people say that tourism damages the places that tourists visit. Do you agree? Why or why not?",
+      "Do you think it is better to travel to many different countries or to get to know your own country well first? Explain your view."
+    ],
+    "sampleAnswers": [
+      "One trip I really enjoyed was a week in Portugal with two friends after we finished high school. We spent a few days in Lisbon and then took a train to a small town on the coast. What I loved was the mix of things to do. In Lisbon we walked up and down the steep streets, tried lots of seafood, and listened to traditional music in a tiny restaurant. Then on the coast we just relaxed on the beach and went surfing for the first time, which was hilarious because none of us could stand up on the board. It was a perfect first trip without our parents.",
+      "I'm somewhere in the middle, but I lean towards planning. I like to book my transport and accommodation in advance, because it's usually cheaper and I don't want to waste time searching for a place to sleep when I arrive. But I don't plan every hour of the day. I prefer to leave the afternoons free so I can explore and follow recommendations from locals. For example, in Portugal, a waiter told us about a viewpoint that wasn't in any guidebook, and it ended up being the best sunset of the trip. So plan the basics, but stay flexible.",
+      "I agree to some extent. When too many tourists visit one place, it can cause real problems: overcrowding, pollution, and higher prices for local residents. I've read that in some popular cities, apartments are rented to tourists instead of locals, so people who've lived there all their lives can't afford rent anymore. But tourism also brings jobs and money, especially to poorer regions. Without it, many small towns would struggle. So I'd say the problem isn't tourism itself, but badly managed tourism. Things like limiting cruise ships or charging tourist taxes that go to local communities can help a lot.",
+      "Personally, I think it's valuable to know your own country well, but I wouldn't say you need to do it first. Travelling abroad teaches you different things, like adapting to a new language and culture, which really opens your mind. On the other hand, exploring your own country is cheaper, often more environmentally friendly, and helps you appreciate your own culture. I realised recently that I've been to four foreign cities but never visited the mountains in the north of my own country, which everyone says are beautiful. So I'd suggest a mix of both, depending on your budget and interests."
+    ]
+  },
+  {
+    "id": "toefl-interview-10",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Social media",
+    "intro": "Hello. I'm a sociology graduate student, and I'm researching how social media affects relationships and communication. I'd like to hear your thoughts.",
+    "interviewer": { "id": "int", "name": "Natalie Brooks", "role": "Sociology graduate student", "gender": "f", "accent": "en-US" },
+    "questions": [
+      "Which social media platforms do you use, and what do you use them for?",
+      "Has social media ever helped you in a practical way? Please give an example.",
+      "Do you think social media brings people closer together or makes them feel more isolated? Why?",
+      "Should social media companies be legally responsible for false information posted on their platforms? Explain your opinion."
+    ],
+    "sampleAnswers": [
+      "I mainly use two platforms. The first is a messaging app that I use to chat with friends and family, including my grandparents, who live in another country. It's basically free and it lets us video call every Sunday. The second is a photo-sharing app, which I mostly use to follow photographers and travel accounts, and to see what my friends are up to. I don't post much myself, maybe once a month. I deleted another platform last year because I felt it was full of arguments and it was making me anxious, and honestly I haven't missed it at all.",
+      "Yes, definitely. When I moved to this city for university, I didn't know anyone and I needed to find a room to rent. I joined a local housing group on social media, and within two days I found a shared apartment with other students. Later, I used the same kind of group to find people to play basketball with on weekends. Some of those people are now my close friends. So in my case, social media was really useful for building a new life in a place where I had no connections at all.",
+      "I think it can do both, depending on how people use it. If you use it to stay in touch with people you already know, or to find communities with similar interests, it can bring you closer to others. My grandparents, for instance, feel much more connected to us because of video calls. But if you spend hours passively scrolling and comparing your life to other people's perfect photos, you can end up feeling lonely and inadequate. Studies seem to show that active use, like messaging, is healthier than passive use. So the tool itself is neutral, and it's our habits that matter.",
+      "I think they should have some responsibility, though not for every single post. These companies earn huge profits, and their algorithms often promote shocking or false content because it gets more clicks. So they're not just neutral platforms. I think the law should require them to remove clearly false and harmful information quickly once it's reported, for example dangerous medical advice, and to be transparent about how their algorithms work. But making them responsible for every post might lead them to censor too much, which would hurt free speech. So I'd support clear rules with reasonable limits."
+    ]
+  },
+  {
+    "id": "toefl-interview-11",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Teamwork and group projects",
+    "intro": "Hi, I'm a professor in the business school. We're researching how students experience teamwork, and I'd like to ask you a few questions about group projects.",
+    "interviewer": { "id": "int", "name": "Professor Alan Hughes", "role": "Business school professor", "gender": "m", "accent": "en-GB" },
+    "questions": [
+      "Can you tell me about a group project you've worked on recently?",
+      "In a group, what role do you usually take, and why?",
+      "Some students complain that group work is unfair because not everyone contributes equally. How do you think teachers should deal with this problem?",
+      "Many employers say teamwork is one of the most important skills. Do you think universities prepare students well for working in teams? Why or why not?"
+    ],
+    "sampleAnswers": [
+      "Last semester I worked with three classmates on a marketing project. We had to create a promotion plan for a real local bakery that wanted to attract more students. We interviewed the owner, ran a short online survey with about a hundred students, and then designed a social media campaign and a loyalty card idea. At the end we presented it to the owner and our professor. The best part was that the bakery actually used our loyalty card idea, and the owner told us a month later that student customers had increased. That made the project feel really meaningful.",
+      "I usually end up being the organiser. I'm the person who creates the shared document, sets deadlines, and sends reminders. I think I take this role because I get stressed when things are disorganised, so it's easier for me to take control of the planning. For example, in the bakery project, I made a simple timeline on the first day, divided the tasks, and scheduled a short check-in every Monday. It worked well, although I've learned that I need to be careful not to be too controlling. Now I try to ask others what they'd like to do before assigning tasks.",
+      "I think teachers should make individual contributions more visible. One way is to ask each member to submit a short reflection explaining what they did, or to use peer evaluations, where group members rate each other confidentially. Another idea is to have regular check-ins with the teacher, so problems are spotted early instead of at the end. In one of my courses, the professor gave part of the grade for the group result and part for each person's own section, and I thought that was very fair. Nobody could hide behind the others, but we still had to cooperate.",
+      "I think universities try, but they could do better. We do a lot of group projects, which is good practice. But usually nobody teaches us how to work in a team, for example how to deal with conflict, how to give feedback, or how to run an efficient meeting. We just figure it out ourselves, and sometimes the experience is so frustrating that students learn to avoid teamwork. In a real company, teams are also more diverse, with people of different ages and backgrounds. So I'd suggest that universities include some short training on team skills before assigning big projects."
+    ]
+  },
+  {
+    "id": "toefl-interview-12",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Food and cooking",
+    "intro": "Hello! I work for the university's dining services, and we're interviewing students about their eating and cooking habits so we can improve our menus.",
+    "interviewer": { "id": "int", "name": "Carla Mendes", "role": "Dining services coordinator", "gender": "f", "accent": "en-CA" },
+    "questions": [
+      "How often do you cook for yourself, and what do you usually make?",
+      "What is a dish from your home country that you would recommend to someone who has never tried it?",
+      "Do you think it is important for young people to learn how to cook? Why or why not?",
+      "Some people believe that fast food restaurants should not be allowed near schools. What is your opinion?"
+    ],
+    "sampleAnswers": [
+      "I cook for myself about four or five times a week, usually dinner. I'm not an amazing cook, so I tend to make simple things that don't take long, like pasta with vegetables, rice with chicken, or omelettes. On Sundays I usually cook a bigger meal, like a stew or a curry, and I keep the leftovers for lunch on Monday and Tuesday. That saves me time and money during the week. I learned most of these recipes from my mum before I moved out, and the rest from short cooking videos online.",
+      "I'd definitely recommend a Spanish dish called tortilla, which is a thick potato omelette. It's made with just a few ingredients: potatoes, eggs, olive oil, salt, and usually onion, although people argue a lot about whether onion should be included. The potatoes are cooked slowly in the oil and then mixed with beaten eggs and fried on both sides. It sounds simple, but a good one is soft and creamy in the middle. You can eat it hot or cold, so it's perfect for picnics. Every family has their own version, and of course everyone thinks theirs is the best.",
+      "Yes, I think it's really important. First, it's a basic life skill. If you can cook, you can eat more healthily, because you know exactly what's in your food, instead of depending on processed meals and takeaways. Second, it saves a lot of money, which matters for students. I have a friend who couldn't cook at all when he started university, and he spent most of his budget on delivery apps. After I taught him a few basic recipes, he said he was saving almost a hundred dollars a month. And cooking for friends is also a great way to socialise.",
+      "I think it's a reasonable idea, though it might not solve the problem by itself. Children and teenagers are easily influenced, and if there's a burger place right next to the school, many of them will go there every day after class, which isn't good for their health. Keeping these restaurants a certain distance away makes unhealthy food a little less convenient. However, kids can still buy snacks in supermarkets or order food online. So I think it should be combined with other measures, like better school meals and nutrition education, so that students actually choose healthier options."
+    ]
+  },
+  {
+    "id": "toefl-interview-13",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Museums and culture",
+    "intro": "Good morning. I'm a researcher for a national arts council, and we're studying how young adults engage with museums and cultural events.",
+    "interviewer": { "id": "int", "name": "Dr. Helen Ward", "role": "Arts council researcher", "gender": "f", "accent": "en-GB" },
+    "questions": [
+      "When was the last time you visited a museum or gallery, and what did you see?",
+      "What could museums do to attract more young people like you?",
+      "Some people think museums should be free for everyone. Do you agree? Why or why not?",
+      "Should governments spend public money on the arts and culture when there are other needs, such as healthcare and housing? Explain your view."
+    ],
+    "sampleAnswers": [
+      "The last time was about two months ago, when I visited a science and technology museum with my younger cousin. There was a special exhibition about space exploration, with real pieces of rockets and a model of a space station that you could walk through. My favourite part was a simulator where you could try to land a spacecraft on the moon. I failed three times, but it was really fun. I usually think of museums as quiet places, but this one was noisy and interactive, which I think is why both of us enjoyed it so much.",
+      "I think interactivity is the key. Many young people are used to engaging with content actively, so just looking at objects behind glass can feel a bit passive. Museums could use things like augmented reality apps, games, and hands-on activities. Another idea is to organise evening events, for example late openings with music and food, which feel more like a social activity. A gallery in my city started doing this once a month, and it's always packed with students. Finally, museums could use social media more creatively, for example by sharing the strange stories behind objects in their collections.",
+      "Mostly, yes. I think free admission makes museums accessible to everyone, regardless of income, and culture and history shouldn't only be for people who can afford expensive tickets. When museums in some countries became free, the number of visitors increased considerably, especially among families. However, museums need money to survive, so if they're free, the government has to fund them properly. A good compromise might be to keep permanent collections free, but charge for special temporary exhibitions. That's how the museum I visited works, and it seemed to balance access and funding quite well.",
+      "This is a difficult question, but I believe some public spending on the arts is justified, even when other needs are urgent. Of course, healthcare and housing should come first, and I wouldn't support huge spending on art while hospitals are struggling. But culture isn't just a luxury. It creates jobs, attracts tourists, and helps communities feel a sense of identity. Also, the amount spent on the arts is usually tiny compared with the health budget. For example, a small grant can keep a local theatre open, which might provide activities for hundreds of young people. So I'd say a modest, well-targeted investment is worthwhile."
+    ]
+  },
+  {
+    "id": "toefl-interview-14",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Public transport",
+    "intro": "Hi, I'm doing a survey for the city transport authority. We'd like to understand how residents travel and what they think about public transport.",
+    "interviewer": { "id": "int", "name": "Tom Bradley", "role": "Transport survey officer", "gender": "m", "accent": "en-US" },
+    "questions": [
+      "How do you usually get around in your city, and why do you choose that way?",
+      "What is one thing that would make public transport better where you live?",
+      "Some cities have made public transport completely free. Do you think this is a good idea? Why or why not?",
+      "In the future, do you think private cars will become less important in cities? Explain your prediction."
+    ],
+    "sampleAnswers": [
+      "Most of the time I take the bus, because there's a stop right in front of my building and it takes me straight to campus in about twenty minutes. I have a student pass, so it's quite cheap compared with driving and paying for parking. When the weather's nice, I sometimes use the city's bike-sharing system instead, because it's healthier and sometimes faster in rush hour. I don't own a car, and to be honest, I don't really need one. The only time I miss having a car is when I want to visit friends who live outside the city.",
+      "The biggest improvement would be more frequent buses in the evenings. During the day, buses come every ten minutes, but after nine p.m. you sometimes wait half an hour, which isn't pleasant, especially in winter. For example, last week I finished a group project meeting late and I stood at the bus stop for almost forty minutes in the cold. If the service were more frequent at night, I think more people would leave their cars at home when they go out in the evening, and it would also feel safer.",
+      "I think it's an interesting idea, but it has advantages and disadvantages. On the positive side, free transport helps low-income people and encourages others to stop driving, which reduces traffic and pollution. On the other hand, someone has to pay for it, usually through taxes. And if the service becomes overcrowded because it's free, quality might drop. I think a better approach might be to make it very cheap, especially for students, the elderly, and people with low incomes, while investing the money in better and more frequent services. Reliability probably matters more to most passengers than price.",
+      "Yes, I think private cars will become less important, at least in big cities. Many cities are already creating low-emission zones, reducing parking, and building more bike lanes. At the same time, young people seem less interested in owning cars than previous generations. Lots of my friends don't even have a driving licence. Technologies like car-sharing apps also mean you can use a car only when you need one, instead of owning it. Of course, in rural areas cars will still be essential for a long time. But in city centres, I can imagine streets with far fewer cars in twenty years."
+    ]
+  },
+  {
+    "id": "toefl-interview-15",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Volunteering",
+    "intro": "Hello, I coordinate the student volunteer program on campus. We're interviewing students to understand their attitudes towards volunteering and community service.",
+    "interviewer": { "id": "int", "name": "Rebecca Stone", "role": "Volunteer program coordinator", "gender": "f", "accent": "en-AU" },
+    "questions": [
+      "Have you ever done any volunteer work? Tell me about it.",
+      "What kinds of skills do you think people can develop through volunteering?",
+      "Some schools require students to complete a certain number of volunteer hours to graduate. Do you think this is a good idea? Why or why not?",
+      "Some people argue that relying on volunteers allows governments to avoid paying for important services. Do you agree? Explain your view."
+    ],
+    "sampleAnswers": [
+      "Yes, for about two years I volunteered at a food bank in my hometown, usually on Saturday mornings. My job was to sort donated food, check expiry dates, and pack boxes for families. Later I also helped at the distribution desk, where people came to collect their boxes. At first I felt a bit awkward, because I didn't know how to talk to people in a difficult situation, but I learned to be friendly and respectful without asking too many questions. It really changed my perspective, because I saw that many of the families had jobs but still couldn't afford enough food.",
+      "I think volunteering develops a lot of soft skills that are hard to learn in a classroom. Communication is an obvious one, especially talking to people from different backgrounds. You also learn teamwork, because you usually work with people you didn't choose. Another important skill is reliability. If you don't show up, someone might not get help. And sometimes you learn practical skills too. For example, at the food bank I was eventually asked to manage the stock spreadsheet, so I improved my computer skills and learned basic logistics. I actually mentioned that experience in a job interview, and the interviewer was very interested.",
+      "I have mixed feelings about it. On one hand, compulsory volunteering introduces students to causes they might never have discovered, and some of them continue volunteering afterwards. On the other hand, there's something contradictory about forcing people to volunteer. Some students just do the minimum hours to tick a box, and they might not be very helpful to the organisation. I think a better approach is to make it part of a course, where students choose a project, reflect on what they learned, and get credit for it. That way, it becomes a learning experience rather than just an obligation.",
+      "I think there's some truth in that argument. If essential services like caring for elderly people or feeding families in poverty depend mainly on volunteers, it may mean the government isn't doing enough. Volunteers can also be less consistent than paid staff, because they have other commitments. However, I don't think volunteering itself is the problem. Volunteers often add something extra, like companionship or community spirit, that paid services can't always provide. So the ideal situation is that the government guarantees the basic services with professional staff, and volunteers complement them, rather than replacing them."
+    ]
+  },
+  {
+    "id": "toefl-interview-16",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Sleep and time management",
+    "intro": "Hi, I'm a researcher at the student wellbeing center. We're investigating how students manage their time and how much they sleep. I'd like to ask you some questions.",
+    "interviewer": { "id": "int", "name": "Dr. Chris Nolan", "role": "Student wellbeing researcher", "gender": "m", "accent": "en-CA" },
+    "questions": [
+      "Can you describe your typical daily routine during the semester?",
+      "How do you organise your time when you have a lot of deadlines?",
+      "Many students sleep much less than experts recommend. Why do you think this happens?",
+      "Some universities are considering starting morning classes later so that students can sleep more. Do you think this is a good idea? Why or why not?"
+    ],
+    "sampleAnswers": [
+      "During the semester I usually wake up at around seven thirty, have a quick breakfast, and cycle to campus for my first class at nine. Most days I have classes until about two, and then I spend the afternoon in the library working on assignments. Three evenings a week I work at a restaurant until ten, so on those days I get home quite late and I'm pretty tired. On the other evenings I try to relax, cook dinner, and maybe watch a series. I aim to go to bed before midnight, but to be honest, that doesn't always happen.",
+      "When I have lots of deadlines, the first thing I do is write all of them on one list, with the dates and how much each assignment is worth. Then I break the big tasks into smaller steps, like find sources, write an outline, and write the introduction, and I put those steps into my calendar. That makes the work feel less overwhelming. I also try to start with the most difficult task in the morning, when I have the most energy. During my last exam period, this system helped me finish three essays on time without staying up all night, which used to happen a lot.",
+      "I think there are several reasons. One is that students simply have too many responsibilities: classes, part-time jobs, social life, and sometimes family obligations. Sleep is often the first thing they sacrifice. Another reason is technology. Many people use their phones in bed, and one more video easily turns into an hour. Also, there's a kind of culture where staying up all night to study is seen as a sign of hard work. I've had classmates who were almost proud of sleeping only four hours before an exam, even though research shows that sleep is essential for memory.",
+      "I think it's a good idea, at least partly. Research suggests that young people's body clocks naturally shift later, so it's hard for them to fall asleep early and wake up early. If the first classes started at ten instead of eight, students might be more alert and learn more. I definitely notice that I understand much less in eight a.m. lectures. However, it could create problems too. Classes would finish later, which might clash with part-time jobs or evening activities. So maybe a flexible solution, like recording early lectures or offering both morning and afternoon sections, would work better."
+    ]
+  }
+]

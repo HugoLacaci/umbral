@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ielts-l-p2-03",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 2,
+    "title": "Radio preview of a local food festival",
+    "context": "You will hear a presenter on a local radio station talking about a food festival.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Ray", "role": "Radio presenter", "gender": "m", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good morning, and welcome back to Port Ellery Weekend. Now, if you like food, and let's face it, who doesn't, you'll want to hear about this. The Harvest Festival is back next Saturday and Sunday, and I've got all the details for you." },
+        { "s": "a", "t": "First, the location. For the last ten years the festival has been held down on the harbor front. But this year, as many of you know, the harbor is being rebuilt, so the festival is moving to the old rail yard on Station Street. The organizers were thinking about Fairview Park at one point, but there just wasn't enough space for all the stalls." },
+        { "s": "a", "t": "Now, tickets. Adults pay eight dollars, and children under twelve get in free. In previous years everyone got in free if they arrived before eleven in the morning, but sadly that offer has ended, because it caused huge lines at the gates first thing." },
+        { "s": "a", "t": "So, what's the festival all about? Well, a lot of people think it's mainly a way to bring tourists into town, and it certainly does that. And there's a raffle, with all the money going to the children's hospital. But the organizers told me that the main aim has always been to support the farmers in our region, by giving them a chance to sell directly to the public." },
+        { "s": "a", "t": "There's one big change this year. Every drink will be served in a reusable cup. You pay a dollar deposit for the cup, and you get your dollar back when you return it. The cooking competition for teenagers is back again, by the way, but unfortunately the night market, which was so popular last year, won't be happening, because the rail yard has no lighting." },
+        { "s": "a", "t": "The festival site is divided into six zones, so let me give you a quick tour. Starting at the main entrance, you'll come to the Orchard. This is where all the fruit growers are, and if you're not sure what to buy, just ask, because every stall has free samples." },
+        { "s": "a", "t": "Next to that is the Dairy Barn, with cheese, yogurt and ice cream. That's where you'll find the kids' activity tent, where children can learn to make butter. My daughter did it last year and she still talks about it." },
+        { "s": "a", "t": "Then there's the Spice Tent. If you want to learn something, this is the place. Chefs from local restaurants will be giving demonstrations every hour, showing you how to cook with spices from around the world." },
+        { "s": "a", "t": "The Bakehouse is next. You might expect demonstrations there too, but no. What they're offering is a bargain. From 4pm each day, all the bread and cakes are half price, because the bakers don't want to take anything home." },
+        { "s": "a", "t": "The Fish Quay is the zone closest to the old station building, and it's where you'll find live music. There'll be a different band every afternoon, so grab some fish tacos and enjoy." },
+        { "s": "a", "t": "And finally, the Green Corner. This zone is entirely vegan, so there's no meat, fish, eggs or dairy anywhere. Even the desserts are plant-based. I tried the chocolate cake there last year, and I honestly couldn't tell the difference." },
+        { "s": "a", "t": "One last thing. Seating is limited, and there isn't any covered seating this year, so if the weather looks bad, bring an umbrella. Right, after the break we'll be talking to the author of a new book about local history. Stay with us." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 11–14\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q11", "kind": "mcq", "qtype": "mcq", "prompt": "Where will the festival be held this year?",
+            "options": ["on the harbor front", "at the old rail yard", "in Fairview Park"], "answer": 1,
+            "explanation": "The harbor is being rebuilt, and Fairview Park was too small, so it is moving to the old rail yard.",
+            "evidence": "the festival is moving to the old rail yard on Station Street",
+            "optionNotes": ["The usual location, but it is being rebuilt.", "Correct.", "Considered but rejected for lack of space."] },
+          { "id": "q12", "kind": "mcq", "qtype": "mcq", "prompt": "Who can enter the festival free of charge?",
+            "options": ["children under twelve", "anyone arriving before 11 am", "local residents"], "answer": 0,
+            "explanation": "Children under twelve get in free. The early-arrival offer has ended.",
+            "evidence": "children under twelve get in free",
+            "optionNotes": ["Correct.", "This offer has ended.", "Not mentioned."] },
+          { "id": "q13", "kind": "mcq", "qtype": "mcq", "prompt": "According to the organizers, the main aim of the festival is to",
+            "options": ["attract tourists to the town.", "raise money for the children's hospital.", "help local farmers."], "answer": 2,
+            "explanation": "It attracts tourists and the raffle helps the hospital, but the main aim is to support regional farmers.",
+            "evidence": "the main aim has always been to support the farmers in our region",
+            "optionNotes": ["A side effect that people assume is the main aim.", "Only the raffle money goes to the hospital.", "Correct."] },
+          { "id": "q14", "kind": "mcq", "qtype": "mcq", "prompt": "What is new at this year's festival?",
+            "options": ["a cooking competition for teenagers", "a night market", "reusable cups for drinks"], "answer": 2,
+            "explanation": "The reusable cup scheme is the big change. The teen competition is returning (not new), and the night market is cancelled.",
+            "evidence": "Every drink will be served in a reusable cup.",
+            "optionNotes": ["It is 'back again', so not new.", "Cancelled this year.", "Correct."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching",
+        "instructions": "Questions 15–20\nWhich feature does each zone of the festival have?\nChoose SIX answers from the box and write the correct letter, A–H, next to Questions 15–20.",
+        "options": [
+          { "key": "A", "text": "live music" },
+          { "key": "B", "text": "free samples" },
+          { "key": "C", "text": "an activity for children" },
+          { "key": "D", "text": "cooking demonstrations" },
+          { "key": "E", "text": "covered seating" },
+          { "key": "F", "text": "reduced prices late in the day" },
+          { "key": "G", "text": "only vegan food" },
+          { "key": "H", "text": "a talk by an author" }
+        ],
+        "items": [
+          { "id": "q15", "kind": "match", "qtype": "matching", "prompt": "The Orchard", "answer": "B",
+            "explanation": "Every fruit stall in the Orchard offers free samples.",
+            "evidence": "every stall has free samples" },
+          { "id": "q16", "kind": "match", "qtype": "matching", "prompt": "The Dairy Barn", "answer": "C",
+            "explanation": "The kids' activity tent, where children make butter, is in the Dairy Barn.",
+            "evidence": "That's where you'll find the kids' activity tent" },
+          { "id": "q17", "kind": "match", "qtype": "matching", "prompt": "The Spice Tent", "answer": "D",
+            "explanation": "Local chefs give demonstrations every hour.",
+            "evidence": "Chefs from local restaurants will be giving demonstrations every hour" },
+          { "id": "q18", "kind": "match", "qtype": "matching", "prompt": "The Bakehouse", "answer": "F",
+            "explanation": "No demonstrations here; bread and cakes are half price from 4pm.",
+            "evidence": "From 4pm each day, all the bread and cakes are half price" },
+          { "id": "q19", "kind": "match", "qtype": "matching", "prompt": "The Fish Quay", "answer": "A",
+            "explanation": "A different band plays every afternoon at the Fish Quay.",
+            "evidence": "it's where you'll find live music" },
+          { "id": "q20", "kind": "match", "qtype": "matching", "prompt": "The Green Corner", "answer": "G",
+            "explanation": "The Green Corner is entirely vegan. There is no covered seating anywhere this year, and the author talk is on the radio, not at the festival.",
+            "evidence": "This zone is entirely vegan" }
+        ]
+      }
+    ]
+  }
+]

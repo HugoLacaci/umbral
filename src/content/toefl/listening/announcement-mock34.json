@@ -1,0 +1,488 @@
+[
+  {
+    "id": "toefl-ann-m3-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "module": "router",
+    "task": "announcement",
+    "title": "Evening shuttle stop moves",
+    "context": "Listen to an announcement on a university campus.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Aroha Wiremu",
+          "role": "Campus Transport",
+          "gender": "f",
+          "accent": "en-NZ"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Good afternoon, everyone. This is a message from Campus Transport about the evening shuttle. Starting Monday, because of roadwork on Hillcrest Avenue, the shuttle will no longer stop outside the science library after six p.m."
+        },
+        {
+          "s": "s",
+          "t": "Instead, the nearest evening stop will be at the north entrance of the sports center, about a five-minute walk away. Daytime service is not affected."
+        },
+        {
+          "s": "s",
+          "t": "We also know that some of you rely on the late shuttle after lab sessions, so we're adding an extra run at ten forty-five on weeknights."
+        },
+        {
+          "s": "s",
+          "t": "If you use the shuttle app, please update it, because older versions will still show the library stop and may give you the wrong arrival times."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Starting Monday, where should students catch the shuttle after six p.m.?",
+        "options": [
+          "Outside the science library",
+          "On Hillcrest Avenue",
+          "At the north entrance of the sports center",
+          "At the main lab building"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The library stop is exactly what is being cancelled in the evening.",
+          "Hillcrest Avenue is where the roadwork is, not a stop.",
+          "Correct. The new evening stop is at the north entrance of the sports center.",
+          "Labs are mentioned only to explain the extra late run."
+        ],
+        "explanation": "The speaker says the nearest evening stop will be at the north entrance of the sports center.",
+        "evidence": "the nearest evening stop will be at the north entrance of the sports center"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why does the speaker ask students to update the shuttle app?",
+        "options": [
+          "The old app will stop working on Monday.",
+          "The new version allows students to book seats.",
+          "The app now shows the extra weeknight run only to lab students.",
+          "Older versions contain information that is no longer correct."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "She does not say the old app stops working, only that it shows outdated information.",
+          "Booking seats is never mentioned.",
+          "The extra run is for everyone; nothing restricts it to lab students.",
+          "Correct. Old versions still show the library stop and may give wrong times."
+        ],
+        "explanation": "Old versions of the app still show the cancelled library stop and may give wrong arrival times, so students need the update.",
+        "evidence": "older versions will still show the library stop and may give you the wrong arrival times"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m3-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 3,
+    "module": "lower",
+    "task": "announcement",
+    "title": "The ticket office moves",
+    "context": "Listen to an announcement at a student center.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Kevin Brooks",
+          "role": "Student Center staff",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Hi everyone, a quick announcement from the Student Center. The ticket office, where you buy tickets for concerts and sports games, is moving. Until now it's been in the main office on the first floor, but from next week it will be at the information counter by the east doors."
+        },
+        {
+          "s": "s",
+          "t": "The hours stay the same, nine to five, Monday through Friday."
+        },
+        {
+          "s": "s",
+          "t": "Also, tickets for the spring concert go on sale next Monday, and the first one hundred tickets are half price for students, so come early. You'll need to show your student ID to get the student price."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the main purpose of the announcement?",
+        "options": [
+          "To ask students to perform at the spring concert",
+          "To tell students the ticket office has a new location",
+          "To announce new opening hours for the Student Center",
+          "To explain how to get a new student ID"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Students are not asked to perform; the concert is mentioned only for ticket sales.",
+          "Correct. The main news is that the ticket office is moving to the information counter.",
+          "He says the hours stay the same.",
+          "The ID is only needed to get the student price."
+        ],
+        "explanation": "The announcement is mainly about the ticket office moving from the main office to the information counter by the east doors.",
+        "evidence": "The ticket office, where you buy tickets for concerts and sports games, is moving"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What is special about the first one hundred tickets for the spring concert?",
+        "options": [
+          "They are free for students.",
+          "They are sold only at the main office.",
+          "They are half price for students.",
+          "They are sold only online."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "They are half price, not free.",
+          "The main office is the old location of the ticket office.",
+          "Correct. The first one hundred tickets are half price for students.",
+          "Online sales are not mentioned."
+        ],
+        "explanation": "The first one hundred tickets for the spring concert are half price for students who show their ID.",
+        "evidence": "the first one hundred tickets are half price for students"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m3-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 3,
+    "module": "upper",
+    "task": "announcement",
+    "title": "Online peer review of lab reports",
+    "context": "Listen to an announcement in a chemistry class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Leblanc",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Before you go, one change to how we're handling the peer review of your lab reports. Originally, I'd said you would exchange reports with a partner in class on Thursday. However, several of you pointed out that Thursday is also the day the field data are due, so instead, the exchange will happen online."
+        },
+        {
+          "s": "p",
+          "t": "Upload your draft by Wednesday at noon, and the system will randomly assign you two classmates' reports, not one. Your comments are due Friday."
+        },
+        {
+          "s": "p",
+          "t": "Now, your reviews won't be graded on whether you agree with the author, but on how specific your suggestions are. Comments like good job won't earn credit."
+        },
+        {
+          "s": "p",
+          "t": "And if your draft isn't finished by Wednesday, upload what you have anyway, since the system can't assign you reports to review unless you've submitted something yourself."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why did the professor change the peer review plan?",
+        "options": [
+          "The online system grades reviews automatically.",
+          "Too few students had a partner in class.",
+          "She wanted each student to receive more feedback.",
+          "Students had another assignment due on the same day."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The system assigns reports; she grades the reviews herself on specificity.",
+          "Partners were never the problem.",
+          "Getting two reports is a consequence, not the stated reason.",
+          "Correct. Thursday was also the deadline for the field data."
+        ],
+        "explanation": "Students pointed out that the field data were due on Thursday, the same day as the planned exchange.",
+        "evidence": "Thursday is also the day the field data are due"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What can be inferred about a student who uploads nothing by Wednesday at noon?",
+        "options": [
+          "The student will be given extra time until Friday.",
+          "The student will not be able to take part in reviewing others' work.",
+          "The student will be paired with a partner in class instead.",
+          "The student will receive only one report to review."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "No extension is offered; Friday is the comment deadline.",
+          "Correct. The system can't assign reports to students who haven't submitted anything.",
+          "The in-class exchange has been cancelled.",
+          "Reports are assigned only to those who submitted, so the student gets none, not one."
+        ],
+        "explanation": "Since reports are assigned only to students who have submitted something, a student who uploads nothing cannot review, and therefore cannot earn the review credit.",
+        "evidence": "the system can't assign you reports to review unless you've submitted something yourself"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m4-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "announcement",
+    "title": "Textbook buyback week",
+    "context": "Listen to an announcement on a university campus.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Liam Fraser",
+          "role": "Campus Bookstore",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Attention, students. The campus bookstore's textbook buyback week begins next Tuesday and runs through Saturday. You can sell back used textbooks for up to half of the original price, but only if the book will be used in a course again next term."
+        },
+        {
+          "s": "s",
+          "t": "To check, scan the barcode with the bookstore app before you come in, so you don't carry heavy books across campus for nothing. Books with heavy highlighting or missing pages won't be accepted."
+        },
+        {
+          "s": "s",
+          "t": "Payment will be added to your student card rather than given in cash this year, and you can spend it at any campus shop or café."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What determines whether the bookstore will buy back a textbook?",
+        "options": [
+          "Whether it was bought at the campus bookstore",
+          "Whether it is less than a year old",
+          "Whether a course will use it again next term",
+          "Whether the student still has the receipt"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Where the book was bought is not mentioned.",
+          "The book's age is not mentioned.",
+          "Correct. Books are bought back only if they will be used in a course next term.",
+          "Receipts are not mentioned."
+        ],
+        "explanation": "The speaker says books can be sold back only if they will be used in a course again next term.",
+        "evidence": "only if the book will be used in a course again next term"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "How will students be paid for their books this year?",
+        "options": [
+          "Money will be added to their student card.",
+          "They will receive cash at the bookstore.",
+          "They will get a discount on next term's books.",
+          "They will receive a payment through the app."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Payment goes onto the student card.",
+          "Cash is specifically ruled out this year.",
+          "No discount on future books is mentioned.",
+          "The app is used only to check the barcode."
+        ],
+        "explanation": "Payment is added to the student card and can be spent at campus shops and cafés.",
+        "evidence": "Payment will be added to your student card rather than given in cash"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m4-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "announcement",
+    "title": "Longer Writing Centre hours",
+    "context": "Listen to an announcement at the start of a class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Harriet Cole",
+          "role": "Writing Centre tutor",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Hello everyone. I'm Harriet from the Writing Centre, and I've got some good news. Because so many students asked for help in the evenings, we're extending our hours."
+        },
+        {
+          "s": "s",
+          "t": "From next week, we'll be open until nine p.m., Monday to Thursday, instead of closing at five. Appointments are still thirty minutes long, and you can book them on our website."
+        },
+        {
+          "s": "s",
+          "t": "Walk-in visits are welcome too, but students with a booking are seen first, so if you need help before a deadline, it's best to book ahead."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why is the Writing Centre extending its hours?",
+        "options": [
+          "It has hired more tutors.",
+          "Appointments are now longer.",
+          "It wants to reduce the number of walk-in visits.",
+          "Many students asked for help in the evening."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "New tutors are not mentioned.",
+          "Appointments are still thirty minutes long.",
+          "Walk-ins are still welcome.",
+          "Correct. Students asked for evening help."
+        ],
+        "explanation": "The speaker says the change is because so many students asked for help in the evenings.",
+        "evidence": "Because so many students asked for help in the evenings"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the speaker recommend for students with a deadline?",
+        "options": [
+          "Coming on a Friday",
+          "Booking an appointment in advance",
+          "Visiting without an appointment",
+          "Sending their work by email"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Friday hours are not mentioned.",
+          "Correct. Booked students are seen first, so she recommends booking ahead.",
+          "Walk-ins are seen after booked students, so this is risky.",
+          "Email is not mentioned."
+        ],
+        "explanation": "Because booked students are seen first, she advises booking ahead before a deadline.",
+        "evidence": "it's best to book ahead"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-m4-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "announcement",
+    "title": "Design showcase moved",
+    "context": "Listen to an announcement in an engineering class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Okafor",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "One more thing about the design showcase. It was scheduled for the main hall on the twelfth, but the hall has been booked for an admissions event, so we're moving to the atrium of the engineering building on the fourteenth."
+        },
+        {
+          "s": "p",
+          "t": "That has two consequences. First, the atrium has no display stands, so prototypes will be shown on tables, and the department can only supply forty of them. If you're presenting with a partner, you'll share one table."
+        },
+        {
+          "s": "p",
+          "t": "Second, the fourteenth is a Friday, and I know a few of you have a field course that day. If that's you, don't skip the field course. Email me by Monday, and you'll present a short video of your prototype in our Tuesday class instead."
+        },
+        {
+          "s": "p",
+          "t": "Everyone else, the deadline for your written design report doesn't move. It's still the tenth."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Which students will present in the Tuesday class?",
+        "options": [
+          "Students on a Friday field course who contact the professor by Monday",
+          "Students who are presenting with a partner",
+          "Students who miss the report deadline",
+          "Students who cannot get a table"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Students with the Friday field course who email by Monday will present a video version on Tuesday.",
+          "Partners simply share one table.",
+          "Nothing is offered to students who miss the report deadline.",
+          "Tables are limited, but partners share; no one is sent to Tuesday for that reason."
+        ],
+        "explanation": "Only students with a conflicting field course who email the professor by Monday will present a video on Tuesday.",
+        "evidence": "Email me by Monday, and you'll present a short video of your prototype in our Tuesday class instead"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What remains the same despite the changes?",
+        "options": [
+          "The location of the session",
+          "The date of the session",
+          "The deadline for the written design report",
+          "The way projects will be displayed"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The showcase moves from the main hall to the atrium.",
+          "It moves from the twelfth to the fourteenth.",
+          "Correct. The report deadline is still the tenth.",
+          "Prototypes will now be shown on tables because the atrium has no display stands."
+        ],
+        "explanation": "The professor says the report deadline doesn't move; it's still the tenth.",
+        "evidence": "the deadline for your written design report doesn't move"
+      }
+    ]
+  }
+]

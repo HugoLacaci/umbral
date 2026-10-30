@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ielts-l-m3-p3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "part": 3,
+    "title": "A presentation on citizen science",
+    "context": "You will hear two students, Hannah and Marcus, planning a presentation about citizen science projects.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "han",
+          "name": "Hannah",
+          "role": "student",
+          "gender": "f",
+          "accent": "en-GB"
+        },
+        {
+          "id": "mar",
+          "name": "Marcus",
+          "role": "student",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "han",
+          "t": "Hi Marcus. Have you got a few minutes to talk about our presentation on citizen science? It's due a week on Thursday, and I'd like to get the plan sorted today."
+        },
+        {
+          "s": "mar",
+          "t": "Sure. I've been going through the articles Professor Grant put on the reading list. I must admit, before I started, I thought citizen science was mainly a way for researchers to get free labour."
+        },
+        {
+          "s": "han",
+          "t": "A lot of people say that. But the article by Okafor argues that the main benefit isn't the money that's saved at all. She says it's really about scale. Volunteers can collect observations across an entire continent, which no research team could ever manage on its own."
+        },
+        {
+          "s": "mar",
+          "t": "Yes, that convinced me too. She also mentions that it gets the public more interested in science, but she treats that as a kind of bonus rather than the main point."
+        },
+        {
+          "s": "han",
+          "t": "Right. So the first section should be about data quality, because that's the obvious criticism. I expected the biggest problem to be volunteers getting the species wrong."
+        },
+        {
+          "s": "mar",
+          "t": "That does happen, but the studies show it's surprisingly rare once people have had even a short training session. The more serious issue is where people choose to look. Volunteers tend to record wildlife near roads and towns, so remote areas end up hardly being covered at all."
+        },
+        {
+          "s": "han",
+          "t": "So the bias is about geography rather than skill. OK, that's a much better point to make. Now, how should we present all this? I was thinking of putting quite a lot of statistics on the slides."
+        },
+        {
+          "s": "mar",
+          "t": "Remember our last presentation, though. The feedback said the audience couldn't take all the numbers in. Why don't we look at one project in depth and only mention the others briefly?"
+        },
+        {
+          "s": "han",
+          "t": "Hmm. I'd also thought about doing a live demonstration of one of the recording apps, but the wi-fi in that seminar room is so unreliable. Your idea's safer. Let's concentrate on a single project."
+        },
+        {
+          "s": "mar",
+          "t": "Fine. And who's going to be in the audience? Just our seminar group?"
+        },
+        {
+          "s": "han",
+          "t": "No, that's the thing. Professor Grant told me that students from the education department have been invited as well, because they're thinking about using these projects in schools. So we'll need to explain any technical terms really carefully, because they won't have done any ecology."
+        },
+        {
+          "s": "mar",
+          "t": "Good to know. What about a handout? Should we print copies, or just email it to everyone?"
+        },
+        {
+          "s": "han",
+          "t": "The department's trying to cut down on paper, and emails tend to get lost. I'll put it on the course website the day before, and people can look at it on their laptops."
+        },
+        {
+          "s": "mar",
+          "t": "Perfect. So, shall we go through the projects we're going to mention?"
+        },
+        {
+          "s": "han",
+          "t": "Yes. First, the Garden Bird Count."
+        },
+        {
+          "s": "mar",
+          "t": "That's the one where people watch their garden for an hour and record every bird that lands. It's been running for over forty years. What struck me was who actually takes part. The great majority of the volunteers are retired people, and the organisers are finding it very hard to get younger people involved."
+        },
+        {
+          "s": "han",
+          "t": "OK. Next, Galaxy Sorters, where people classify photos of galaxies online."
+        },
+        {
+          "s": "mar",
+          "t": "I love that one. A teacher who was taking part in her spare time noticed a strange green shape in one of the images, and it turned out to be a type of object that astronomers had never seen before. Nobody had expected anything like it."
+        },
+        {
+          "s": "han",
+          "t": "Brilliant. Then there's River Watch. People assume you'd need a laboratory to test water, but the kit only costs a few pounds."
+        },
+        {
+          "s": "mar",
+          "t": "Yes, and the volunteers' measurements showed such high pollution levels downstream from some farms that the regional government actually changed its regulations on fertiliser use. That's a real achievement."
+        },
+        {
+          "s": "han",
+          "t": "Impressive. What about the Ladybird Survey? I know the organisers wanted to produce a version for primary schools."
+        },
+        {
+          "s": "mar",
+          "t": "They did, but they never got the funding for it. The real story there is that it started with thousands of volunteers in its first summer, but the number taking part has dropped every year since."
+        },
+        {
+          "s": "han",
+          "t": "That's a shame. And finally, Night Sky Monitor."
+        },
+        {
+          "s": "mar",
+          "t": "That's the light pollution project. You just go outside on a clear night, find a particular group of stars and count how many you can see. The whole thing takes about five minutes, which is probably why it's so popular."
+        },
+        {
+          "s": "han",
+          "t": "Great. I think we've got plenty of material. Let's meet on Monday and put the slides together."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–25\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q21",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "According to Okafor, the main benefit of citizen science is that",
+            "options": [
+              "it reduces the cost of research.",
+              "it makes it possible to collect data over very large areas.",
+              "it increases public interest in science."
+            ],
+            "answer": 1,
+            "optionNotes": [
+              "Marcus's first idea; Okafor says it is not about the money saved.",
+              "Correct: \"it's really about scale\".",
+              "Okafor treats this as a bonus, not the main point."
+            ],
+            "explanation": "Okafor argues the key benefit is scale: volunteers can observe across a whole continent. Money and public interest are mentioned but rejected as the main point.",
+            "evidence": "She says it's really about scale."
+          },
+          {
+            "id": "q22",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What does Marcus think is the most serious problem with volunteer data?",
+            "options": [
+              "Volunteers often identify species incorrectly.",
+              "Volunteers receive too little training.",
+              "Some locations are poorly covered."
+            ],
+            "answer": 2,
+            "optionNotes": [
+              "Marcus says this is surprisingly rare.",
+              "Even a short training session is enough.",
+              "Correct: remote areas are hardly covered."
+            ],
+            "explanation": "Volunteers record wildlife near roads and towns, so remote areas are under-recorded: a geographical bias.",
+            "evidence": "remote areas end up hardly being covered at all"
+          },
+          {
+            "id": "q23",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "How do the students decide to organise the presentation?",
+            "options": [
+              "by presenting detailed statistics",
+              "by focusing on one project in particular",
+              "by demonstrating an app live"
+            ],
+            "answer": 1,
+            "optionNotes": [
+              "The last feedback said the audience could not take the numbers in.",
+              "Correct.",
+              "Rejected because the wi-fi is unreliable."
+            ],
+            "explanation": "Marcus suggests looking at one project in depth, and Hannah agrees: \"Let's concentrate on a single project.\"",
+            "evidence": "Let's concentrate on a single project."
+          },
+          {
+            "id": "q24",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Why will the students need to explain technical terms carefully?",
+            "options": [
+              "Professor Grant has asked all groups to do this.",
+              "Some of the audience will be from a different department.",
+              "The topic is new to their seminar group."
+            ],
+            "answer": 1,
+            "optionNotes": [
+              "Professor Grant only told Hannah about the invitation.",
+              "Correct: education students have been invited.",
+              "Not stated."
+            ],
+            "explanation": "Students from the education department are coming and will not have studied ecology.",
+            "evidence": "students from the education department have been invited as well"
+          },
+          {
+            "id": "q25",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What will Hannah do with the handout?",
+            "options": [
+              "print copies for everyone",
+              "send it to everyone by email",
+              "make it available online"
+            ],
+            "answer": 2,
+            "optionNotes": [
+              "The department wants to cut down on paper.",
+              "Emails tend to get lost.",
+              "Correct: she will put it on the course website."
+            ],
+            "explanation": "Printing and email are both rejected; she will upload it to the course website.",
+            "evidence": "I'll put it on the course website the day before"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching",
+        "instructions": "Questions 26–30\nWhat do the students say about each project?\nChoose FIVE answers from the box and write the correct letter, A–G, next to Questions 26–30.",
+        "options": [
+          {
+            "key": "A",
+            "text": "It has led to an unexpected discovery."
+          },
+          {
+            "key": "B",
+            "text": "It requires expensive equipment."
+          },
+          {
+            "key": "C",
+            "text": "Most of its participants are older people."
+          },
+          {
+            "key": "D",
+            "text": "A version has been developed for schools."
+          },
+          {
+            "key": "E",
+            "text": "Its results have influenced official rules."
+          },
+          {
+            "key": "F",
+            "text": "Fewer people are taking part than before."
+          },
+          {
+            "key": "G",
+            "text": "It takes very little of participants' time."
+          }
+        ],
+        "items": [
+          {
+            "id": "q26",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "the Garden Bird Count",
+            "answer": "C",
+            "explanation": "Most volunteers are retired people. It takes an hour, so G does not fit.",
+            "evidence": "The great majority of the volunteers are retired people"
+          },
+          {
+            "id": "q27",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "Galaxy Sorters",
+            "answer": "A",
+            "explanation": "A volunteer spotted a type of object astronomers had never seen before and nobody had expected.",
+            "evidence": "it turned out to be a type of object that astronomers had never seen before"
+          },
+          {
+            "id": "q28",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "River Watch",
+            "answer": "E",
+            "explanation": "The kit is cheap (not B). The pollution data made the regional government change its regulations.",
+            "evidence": "the regional government actually changed its regulations on fertiliser use"
+          },
+          {
+            "id": "q29",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "the Ladybird Survey",
+            "answer": "F",
+            "explanation": "The schools version (D) was never funded. Participation has fallen every year.",
+            "evidence": "the number taking part has dropped every year since"
+          },
+          {
+            "id": "q30",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "Night Sky Monitor",
+            "answer": "G",
+            "explanation": "The whole activity takes about five minutes.",
+            "evidence": "The whole thing takes about five minutes"
+          }
+        ]
+      }
+    ]
+  }
+]

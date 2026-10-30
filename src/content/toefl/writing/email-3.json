@@ -1,0 +1,182 @@
+[
+  {
+    "id": "toefl-email-17",
+    "difficulty": "hard",
+    "usage": "practice",
+    "scenario": "You have rented an apartment from Mrs. Duarte for the past two years and have always paid on time. Yesterday she told you that your rent will increase by fifteen percent when your lease is renewed next month. You would like to stay in the apartment, but you think the increase is too large, and you know that similar apartments nearby cost less. Write an email to Mrs. Duarte.",
+    "to": "Mrs. Duarte, Landlord",
+    "subject": "Lease renewal and proposed rent increase",
+    "tasks": [
+      "Explain why you would like to continue renting the apartment.",
+      "Explain politely why you think the increase is too high.",
+      "Propose an arrangement that could work for both of you."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Mrs. Duarte,\n\nThank you for letting me know in advance about the new rent for next year. I have been very happy in the apartment for the past two years: it is close to my workplace, the building is quiet, and you have always responded quickly whenever something needed fixing. I would very much like to renew the lease.\n\nHowever, I must admit that a fifteen percent increase would be difficult for me to manage. I have looked at several similar two-bedroom apartments in the neighborhood, and most are advertised for around eight to ten percent less than the new amount. I fully understand that your costs, such as taxes and maintenance, have gone up, so I do not expect the rent to stay the same.\n\nWould you consider an increase of seven percent if I signed a two-year lease instead of one? This would guarantee you a reliable tenant and save you the time and cost of finding someone new. I would also be happy to take care of small repairs myself.\n\nI hope we can find a solution that works for both of us.\n\nKind regards,\nLaura Mendes",
+        "commentary": "Nivel 5: negocia con mucha diplomacia: agradece, valora a la casera y reconoce sus costes antes de discrepar. Justifica con datos (precios de pisos similares) y ofrece una contrapropuesta concreta que beneficia a ambas partes (siete por ciento a cambio de dos años de contrato). Lenguaje de cortesía avanzado («I must admit», «Would you consider…if I signed…»), estructura impecable."
+      },
+      {
+        "level": "4",
+        "text": "Dear Mrs. Duarte,\n\nThank you for telling me about the new rent. I really like living in the apartment because it is near my job and the neighbors are quiet. Also, you always fix problems fast, so I would like to stay for another year.\n\nBut I think fifteen percent is too much for me. I checked some apartments in this area and they are cheaper than the new price. I understand that prices are increasing everywhere, but this change is very big.\n\nMaybe we can agree on a smaller increase, for example seven percent. If you accept, I can sign a contract for two years, so you don't need to look for a new tenant.\n\nI hope you can consider my proposal.\n\nBest regards,\nLaura Mendes",
+        "commentary": "Nivel 4: cumple las tres tareas con una propuesta clara y razonable, y el tono es educado. Sin embargo, el desacuerdo se expresa de forma algo directa («But I think fifteen percent is too much») y los datos de comparación son vagos («they are cheaper»). Gramática correcta pero sencilla; «fix problems fast» es algo coloquial para este contexto."
+      },
+      {
+        "level": "3",
+        "text": "Dear Mrs. Duarte,\n\nI like the apartment and I want to stay. But fifteen percent is too much, other apartments are more cheap. I always pay on time so is not fair.\n\nPlease make the rent lower, maybe five percent. Then I stay.\n\nThanks,\nLaura",
+        "commentary": "Nivel 3: menciona las tres tareas, pero sin desarrollo y con un tono que puede sonar exigente («is not fair», «Please make the rent lower… Then I stay»), poco adecuado para una negociación. Errores: «more cheap» (cheaper), «so is not fair» (falta «it»), «Then I stay» (then I will stay). No ofrece nada a cambio."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "scenario": "Your university charged you a late-payment fee of one hundred and fifty dollars because your tuition was paid two days after the deadline. You tried to pay on the deadline day, but the online payment system was not working, and you have a screenshot of the error message. When you called the finance office, a staff member told you that fees cannot be canceled. Write an email to Dr. Whitaker, the director of student finance.",
+    "to": "Dr. Whitaker, Director of Student Finance",
+    "subject": "Request to review a late-payment fee",
+    "tasks": [
+      "Explain what happened when you tried to pay.",
+      "Explain why you think the fee should not apply in your case.",
+      "Request a specific action and offer any information that could help."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Dr. Whitaker,\n\nI am writing to respectfully request a review of a late-payment fee of one hundred and fifty dollars that was added to my student account, number 2207415.\n\nOn September 1, the tuition deadline, I tried to pay through the online portal three times between four and seven in the evening. Each time, the system displayed an error message saying that the service was temporarily unavailable. I took a screenshot of the message, which I have attached. The portal was still not working the next morning, and I was finally able to complete the payment on September 3.\n\nI understand that deadlines must be applied consistently, and I appreciate that the staff member I spoke to on the phone was following the usual policy. However, in this case the delay was caused by a technical problem outside my control, not by a lack of planning on my part.\n\nI would therefore be grateful if the fee could be removed from my account. If necessary, I would be happy to provide my bank statement showing that the funds were available on the deadline day.\n\nThank you for your time and consideration.\n\nYours sincerely,\nKenji Watanabe",
+        "commentary": "Nivel 5: queja formal y respetuosa a una autoridad. Narra los hechos con precisión (fechas, horas, número de cuenta, captura adjunta), reconoce la política general y defiende al empleado antes de argumentar la excepción, lo que evita sonar acusador. Petición concreta y oferta de pruebas adicionales. Registro muy formal y bien controlado («I would be grateful if…»)."
+      },
+      {
+        "level": "4",
+        "text": "Dear Dr. Whitaker,\n\nI am writing about the late fee of one hundred and fifty dollars on my student account.\n\nOn September 1, which was the deadline, I tried to pay my tuition online several times, but the website showed an error message and the payment didn't work. I took a screenshot of the error. I paid on September 3, when the system was working again.\n\nI called the finance office, but they said the fee cannot be canceled. I think this is not fair because the problem was with the university's system and not my fault. I tried to pay on time.\n\nCould you please remove the fee from my account? I can send you the screenshot if you need it.\n\nThank you for your help.\n\nSincerely,\nKenji Watanabe",
+        "commentary": "Nivel 4: explica los hechos con claridad y hace una petición concreta. La argumentación es correcta pero algo menos matizada: «I think this is not fair» y la mención a la llamada pueden sonar a queja contra el personal. Faltan detalles útiles (número de cuenta, adjuntar directamente la prueba). Lenguaje claro con algunas estructuras simples."
+      },
+      {
+        "level": "3",
+        "text": "Dear Dr. Whitaker,\n\nI have a problem with a fee. I wanted to pay the tuition but the website don't work, so I paid two days late. This is your problem not my problem.\n\nThe person in the phone was not helpful. I want you remove the fee.\n\nThank you\nKenji",
+        "commentary": "Nivel 3: se entiende lo ocurrido y lo que pide, pero faltan fechas y pruebas, y el tono es inapropiado para escribir a una directora («This is your problem not my problem», crítica directa al empleado). Errores: «the website don't work», «in the phone» (on the phone), «I want you remove» (I would like you to remove)."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-19",
+    "difficulty": "hard",
+    "usage": "practice",
+    "scenario": "Professor Lindqvist, who taught you last year, has invited you to join her research team as a paid assistant next semester. You admire her work and feel honored by the offer. However, you have already accepted an internship that will take up most of your time next semester, and you do not want to do either job badly. Write an email to Professor Lindqvist.",
+    "to": "Professor Lindqvist",
+    "subject": "Your invitation to join the research team",
+    "tasks": [
+      "Thank her and show your appreciation for the offer.",
+      "Explain why you cannot accept it.",
+      "Suggest a way to stay involved with her work in the future."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Professor Lindqvist,\n\nThank you so much for inviting me to join your research team next semester. Your course on urban ecology was one of the most inspiring I have taken, and being offered a place on your project means a great deal to me.\n\nAfter thinking about it carefully, however, I am afraid I will have to decline. A few weeks ago I accepted an internship with the city's environmental planning office, which will require about twenty-five hours a week from January to May. With my regular courses as well, I would not be able to give your project the time and attention it deserves, and I would much rather say no now than let the team down later.\n\nI would still love to stay connected to your work. Would it be possible to attend the team's monthly meetings when my schedule allows, or to be considered for a position in the summer, once the internship has ended? I also think some of what I learn at the planning office could be useful for your fieldwork.\n\nThank you again for thinking of me.\n\nWarm regards,\nAmara Okafor",
+        "commentary": "Nivel 5: rechaza con elegancia: agradecimiento sincero y concreto, motivo claro con datos (veinticinco horas semanales) y una razón que demuestra responsabilidad («rather say no now than let the team down»). Propone dos formas concretas de seguir vinculada y aporta un posible beneficio para la profesora. Lenguaje cortés y natural («I am afraid I will have to decline»)."
+      },
+      {
+        "level": "4",
+        "text": "Dear Professor Lindqvist,\n\nThank you very much for inviting me to join your research team. I really enjoyed your class last year, and I am very happy that you thought of me for this position.\n\nUnfortunately, I cannot accept the offer. I have already accepted an internship for next semester, and it will take a lot of my time. I don't think I could do a good job on your project and at the internship at the same time.\n\nHowever, I am very interested in your research. Maybe I could join your team in the summer, after my internship finishes? Please let me know if there is any opportunity.\n\nThank you again, and I hope we can work together in the future.\n\nBest regards,\nAmara Okafor",
+        "commentary": "Nivel 4: tono amable y las tres tareas cumplidas. El rechazo es algo brusco («I cannot accept the offer») y la explicación es general (no dice cuántas horas ni dónde). La propuesta de futuro es válida pero menos elaborada. Gramática correcta con vocabulario sencillo."
+      },
+      {
+        "level": "3",
+        "text": "Dear Professor,\n\nThank you for the offer, is very nice. But I can't because I have internship next semester and I am very busy.\n\nMaybe in the future I can work with you. Tell me if you have other job.\n\nRegards\nAmara",
+        "commentary": "Nivel 3: responde a las tres tareas de forma mínima. El agradecimiento es superficial, el motivo apenas se explica y la última frase («Tell me if you have other job») suena demasiado directa para una profesora. Errores: «is very nice» (falta «it»), «I have internship» (falta «an»), «other job» (another job). Saludo sin el apellido."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "scenario": "You want to take Advanced Data Analysis next semester, a course taught by Dr. Reyes. Officially, students must first complete Introduction to Statistics, which you have not taken at your university. However, you completed a similar statistics course during an exchange semester abroad, and you have used statistical software in a part-time job. The registration system will not let you enroll without the professor's permission. Write an email to Dr. Reyes.",
+    "to": "Dr. Reyes",
+    "subject": "Request for permission to enroll in Advanced Data Analysis",
+    "tasks": [
+      "Explain why you want to take the course.",
+      "Explain why you believe you are prepared despite missing the prerequisite.",
+      "Ask for permission and offer a way to show that you are ready."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Dr. Reyes,\n\nMy name is Sofia Brandt, and I am a third-year sociology student. I am writing to ask whether you would consider allowing me to enroll in Advanced Data Analysis next semester, even though I have not completed Introduction to Statistics here.\n\nI am particularly interested in your course because I plan to write my senior thesis on housing inequality, and I will need to analyze large survey data sets. From the syllabus, the units on regression and data visualization seem directly relevant to my project.\n\nAlthough I have not taken the prerequisite at this university, I completed a one-semester course called Applied Statistics during my exchange at the University of Vienna last spring, where I earned the equivalent of an A. It covered probability, hypothesis testing and linear regression. In addition, I have spent the past year working part-time as a data assistant, where I use R every week to clean and summarize data.\n\nI would be glad to send you the course description and my transcript from Vienna. If it would help, I would also be happy to take a short placement test or meet with you during office hours.\n\nThank you very much for considering my request.\n\nBest regards,\nSofia Brandt",
+        "commentary": "Nivel 5: pide una excepción de forma convincente y respetuosa. Vincula el curso con un objetivo concreto (la tesis), demuestra preparación con pruebas verificables (contenidos del curso de Viena, nota, uso de R) y ofrece varias formas de demostrarlo. La petición se formula con cortesía indirecta («whether you would consider allowing me»). Organización y lenguaje excelentes."
+      },
+      {
+        "level": "4",
+        "text": "Dear Dr. Reyes,\n\nI am a third-year sociology student, and I would like to take your course Advanced Data Analysis next semester. I need these skills for my thesis, which will use a lot of survey data.\n\nI know that the course requires Introduction to Statistics, and I haven't taken it at this university. However, I took a similar statistics course when I was an exchange student in Vienna, and I got a very good grade. I also use the program R in my part-time job, so I have some practical experience.\n\nWould it be possible for you to give me permission to enroll? I can send you information about the course I took in Vienna if you want to check it.\n\nThank you for your time.\n\nBest regards,\nSofia Brandt",
+        "commentary": "Nivel 4: argumenta bien y la petición es clara y educada. Las pruebas son menos precisas que en el nivel 5 (no detalla qué temas cubría el curso ni la nota exacta) y la oferta final es más limitada. Lenguaje correcto, aunque con estructuras más simples y algo de repetición."
+      },
+      {
+        "level": "3",
+        "text": "Dear Dr. Reyes,\n\nI want to take your course next semester because is interesting and useful for me. I don't have Introduction to Statistics but I studied statistics in other country, so I know it.\n\nPlease can you let me enter in the course? I am a good student.\n\nThank you,\nSofia",
+        "commentary": "Nivel 3: las tres tareas aparecen, pero sin pruebas concretas: «so I know it» y «I am a good student» no convencen a un profesor. No ofrece ninguna forma de demostrar su nivel. Errores: «because is interesting» (falta «it»), «in other country» (in another country), «enter in the course» (enroll in the course). Tono demasiado simple."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-21",
+    "difficulty": "hard",
+    "usage": "practice",
+    "scenario": "A software company has offered you a summer internship, and you are excited to accept it. However, the offer says the internship starts on June 2, and your final exams end on June 10. The offer also says interns must work in the office five days a week, but the office is a ninety-minute commute from your home. Write an email to Ms. Hoffmann, the company's internship manager.",
+    "to": "Ms. Hoffmann, Internship Manager",
+    "subject": "Internship offer: start date and schedule",
+    "tasks": [
+      "Accept the offer and express your enthusiasm.",
+      "Explain the two difficulties you have with the conditions.",
+      "Propose changes and show that you are flexible."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Ms. Hoffmann,\n\nThank you very much for offering me the summer internship in your product design team. I am delighted to accept, and I am especially looking forward to working on the mobile app project that we discussed during my interview.\n\nBefore I sign the agreement, I would like to raise two practical issues. First, my final exams run until June 10, so I would not be able to start on June 2 without missing two of them. Second, the office is about ninety minutes from my home by public transport, which means roughly three hours of travel each day.\n\nWould it be possible for me to begin on June 11 instead? To make up for the lost time, I would be happy to extend the internship by a week at the end of the summer, or to complete any online training in advance. Regarding the schedule, could I work from home one or two days a week once I have settled in? I would, of course, come into the office every day during the first weeks and whenever the team needs me there.\n\nI hope these adjustments are possible, and I am very grateful for the opportunity.\n\nBest regards,\nTomás Rivera",
+        "commentary": "Nivel 5: acepta con entusiasmo concreto (menciona el proyecto) y plantea los problemas con tacto («I would like to raise two practical issues»). Cada dificultad lleva una propuesta y una compensación (alargar una semana, formación previa, ir a la oficina las primeras semanas), lo que demuestra flexibilidad real. Estructura muy clara con conectores («First», «Second», «Regarding»)."
+      },
+      {
+        "level": "4",
+        "text": "Dear Ms. Hoffmann,\n\nThank you for the internship offer. I am very happy to accept it, and I am excited to work with your team this summer.\n\nHowever, I have two problems with the conditions. My final exams finish on June 10, so I cannot start on June 2. Also, the office is ninety minutes from my house, so it would be very tiring to go there every day.\n\nCould I start on June 11? I can work one more week at the end of the summer if you need. I would also like to ask if it is possible to work from home two days a week. I am flexible, and I can come to the office more often if it is necessary.\n\nThank you for understanding.\n\nBest regards,\nTomás Rivera",
+        "commentary": "Nivel 4: cumple bien las tres tareas e incluye compensaciones. «I have two problems with the conditions» es algo directo para una negociación laboral, y la petición de teletrabajo podría matizarse más. Vocabulario adecuado pero menos preciso; «if you need» queda incompleto (if you need me to)."
+      },
+      {
+        "level": "3",
+        "text": "Dear Ms. Hoffmann,\n\nYes I accept the internship, thank you. But I can't start June 2 because I have exams. And the office is very far, ninety minutes.\n\nI want to start June 11 and work from home some days. I can be flexible.\n\nThank you\nTomás",
+        "commentary": "Nivel 3: menciona todo lo necesario, pero con frases muy cortas y sin explicación ni compensación concreta. «I want to start June 11 and work from home» suena a condición impuesta más que a propuesta. Faltan preposiciones («start on June 2») y el entusiasmo pedido en la primera tarea apenas aparece."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-22",
+    "difficulty": "hard",
+    "usage": "practice",
+    "scenario": "Your university residence hall closes for three weeks during the winter break, and all students must leave. You are an international student, and flying home would be very expensive this year. You also have a part-time job on campus that continues during the break. The housing website says exceptions are possible only in special circumstances. Write an email to Mr. Abernathy, the director of residential life.",
+    "to": "Mr. Abernathy, Director of Residential Life",
+    "subject": "Request to remain in residence during winter break",
+    "tasks": [
+      "Explain your situation and why you need to stay.",
+      "Show that you understand the reasons for the rule.",
+      "Make your request and offer to accept any conditions."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Mr. Abernathy,\n\nI am a second-year international student living in Maple Hall, room 314, and I am writing to ask whether I might be allowed to remain in residence during the winter break.\n\nThis year, a return flight to my home city of Lagos would cost more than two thousand dollars, which is far beyond what my family can afford at the moment. In addition, I work twelve hours a week at the campus IT help desk, and my supervisor has asked me to continue working throughout the break because many staff members will be away.\n\nI understand that the residence halls close so that maintenance can be carried out and so that the university does not need to provide staff and security for a nearly empty building. I would not want to create extra work for anyone.\n\nFor that reason, I would be glad to accept any conditions you consider necessary, such as moving temporarily to a different room or building, paying a fee for the extra weeks, or checking in regularly with security. I can also provide a letter from my supervisor confirming my work schedule.\n\nThank you very much for considering my request.\n\nYours sincerely,\nChidi Okonkwo",
+        "commentary": "Nivel 5: solicitud de excepción muy bien construida. Da datos concretos (habitación, coste del vuelo, horas de trabajo y motivo del supervisor), muestra que entiende las razones de la norma (mantenimiento, personal, seguridad) y ofrece condiciones específicas y una prueba documental. Tono humilde y formal, con estructuras complejas bien usadas («so that…», «whether I might be allowed»)."
+      },
+      {
+        "level": "4",
+        "text": "Dear Mr. Abernathy,\n\nI am an international student in Maple Hall, and I would like to ask if I can stay in my room during the winter break.\n\nThis year the plane tickets to my country are very expensive, and my family cannot pay for them. Also, I have a part-time job at the IT help desk on campus, and I need to work during the break.\n\nI understand that the university closes the buildings to clean and repair them, and that it is difficult to have staff there when most students are away.\n\nIf you allow me to stay, I am happy to move to another room or pay an extra fee. I can also send you a letter from my boss about my job.\n\nThank you for your time.\n\nSincerely,\nChidi Okonkwo",
+        "commentary": "Nivel 4: cubre las tres tareas con orden y un tono correcto. Los motivos son claros pero menos concretos (sin cifras ni horario) y la comprensión de la norma es más breve. Lenguaje sencillo y correcto; «my boss» es algo informal (mejor «my supervisor»)."
+      },
+      {
+        "level": "3",
+        "text": "Dear Mr. Abernathy,\n\nI need to stay in the residence in winter break. The tickets are too expensive and I have a job here.\n\nI know the rule but my situation is special. Please let me stay, I will do what you say.\n\nThank you\nChidi",
+        "commentary": "Nivel 3: la petición es comprensible, pero muy breve: «I know the rule» no demuestra que entienda sus motivos, y «I will do what you say» no concreta ninguna condición. «I need to stay» suena más a exigencia que a solicitud. Pocas estructuras y falta de detalles (habitación, horario de trabajo)."
+      }
+    ]
+  }
+]

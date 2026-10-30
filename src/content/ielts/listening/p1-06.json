@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ielts-l-p1-06",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 1,
+    "title": "Getting a quote from a removals company",
+    "context": "You will hear a woman phoning a removals company to arrange a house move.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Stuart", "role": "Removals adviser", "gender": "m", "accent": "en-GB" },
+        { "id": "b", "name": "Chloe", "role": "Customer", "gender": "f", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good morning, Swift and Steady Removals. Stuart speaking." },
+        { "s": "b", "t": "Hi, Stuart. I'm moving house next month and I'd like to get a quote, please." },
+        { "s": "a", "t": "Certainly. Can I start with your name?" },
+        { "s": "b", "t": "Chloe Brennan. That's B-R-E-N-N-A-N." },
+        { "s": "a", "t": "Thank you. And where are you moving from?" },
+        { "s": "b", "t": "From Flat 3, 22 Wyndham Road, here in Bristol. Wyndham is W-Y-N-D-H-A-M." },
+        { "s": "a", "t": "And where are you moving to?" },
+        { "s": "b", "t": "We spent ages looking at houses in Gloucester, but in the end we found something we liked better, so we're going to Cheltenham." },
+        { "s": "a", "t": "Cheltenham, lovely. That's about an hour's drive. Do you have a date in mind?" },
+        { "s": "b", "t": "We were going to move on the 16th of August, but our landlord has said we can stay a week longer, which takes a lot of pressure off. So the 23rd of August, please." },
+        { "s": "a", "t": "The 23rd. Now, it helps us to know about access. Is your flat on the ground floor?" },
+        { "s": "b", "t": "I wish. It's on the fourth floor. Oh, no, sorry, I always count the ground floor as the first, and it isn't. It's on the third floor, and there's no lift." },
+        { "s": "a", "t": "Third floor, no lift. We'll need an extra person for that. Are there any large or delicate items that need special care?" },
+        { "s": "b", "t": "Let me think. There's a sofa and a fridge-freezer, but they're nothing unusual. We did have my grandmother's piano, but we sold it last week, thank goodness. The thing I'm most worried about is a large mirror. It's very old, and it's nearly two metres tall." },
+        { "s": "a", "t": "We'll wrap that in a special protective case. Now, let me tell you about our extra services. Many customers use our packing service, where our team packs everything for you the day before the move. That costs £180, and it includes all the boxes and wrapping." },
+        { "s": "b", "t": "That sounds worth it. I'm really busy at work at the moment." },
+        { "s": "a", "t": "Next, storage. If your new house isn't ready, we can keep your things in our warehouse. It's £15 a week, but there's a minimum period of four weeks." },
+        { "s": "b", "t": "I don't think we'll need that, but it's good to know." },
+        { "s": "a", "t": "Insurance is included free of charge for goods up to a value of £50,000. If your belongings are worth more than that, you can pay for extra cover." },
+        { "s": "b", "t": "No, I'm sure we're well under that." },
+        { "s": "a", "t": "And finally, cleaning. We don't do it ourselves, but we work with a partner company called Gleam. They'll clean your old flat after you've left, so you get your deposit back." },
+        { "s": "b", "t": "Sorry, what was the name again?" },
+        { "s": "a", "t": "Gleam. G-L-E-A-M. I can send you their number." },
+        { "s": "b", "t": "Yes, please. Our landlord is very fussy about cleaning." },
+        { "s": "a", "t": "Right. I'll put all of this in an email this afternoon, with a full quote. One of our surveyors may also call you to arrange a quick video call, so they can see how much furniture you have." },
+        { "s": "b", "t": "That's fine. Will the same team do the packing and the move?" },
+        { "s": "a", "t": "Usually, yes. They'll arrive at about eight in the morning on both days, so it's a good idea to put your important documents somewhere safe before they start." },
+        { "s": "b", "t": "Good idea. Thanks so much for your help, Stuart." },
+        { "s": "a", "t": "My pleasure, Chloe. Speak to you soon." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–6\nComplete the form below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Swift and Steady Removals – Quote request",
+        "template": "Name: Chloe {{q1}}\nMoving from: Flat 3, 22 {{q2}} Road, Bristol\nMoving to: {{q3}}\nDate of move: {{q4}} August\nAccess: {{q5}} floor, no lift\nItem needing special care: a large {{q6}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Brennan"], "maxWords": 1, "allowNumber": true,
+            "explanation": "She spells it: B-R-E-N-N-A-N.", "evidence": "That's B-R-E-N-N-A-N." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["Wyndham"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The road name is spelt W-Y-N-D-H-A-M.", "evidence": "Wyndham is W-Y-N-D-H-A-M." },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["Cheltenham"], "maxWords": 1, "allowNumber": true,
+            "explanation": "They looked at Gloucester but chose Cheltenham.", "evidence": "so we're going to Cheltenham" },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["23", "23rd"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The 16th was the original plan; the landlord gave them an extra week, so it is the 23rd.", "evidence": "So the 23rd of August, please." },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["third", "3rd"], "maxWords": 1, "allowNumber": true,
+            "explanation": "She first says fourth (counting the ground floor as the first), then corrects herself: it is the third floor.", "evidence": "It's on the third floor, and there's no lift." },
+          { "id": "q6", "kind": "gap", "qtype": "form-completion", "answers": ["mirror"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The piano has been sold; the item that needs care is a large old mirror.", "evidence": "The thing I'm most worried about is a large mirror." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "table-completion",
+        "instructions": "Questions 7–10\nComplete the table below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Extra services",
+        "template": "| Service | Cost | Notes |\n|---|---|---|\n| Packing | £{{q7}} | includes boxes and wrapping |\n| Storage | £15 per week | minimum of {{q8}} weeks |\n| Insurance | free | covers goods worth up to £{{q9}} |\n| Cleaning | paid to partner company | company name: {{q10}} |",
+        "items": [
+          { "id": "q7", "kind": "gap", "qtype": "table-completion", "answers": ["180"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The packing service costs £180 including boxes.", "evidence": "That costs £180, and it includes all the boxes and wrapping." },
+          { "id": "q8", "kind": "gap", "qtype": "table-completion", "answers": ["4", "four"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Storage is £15 a week with a minimum of four weeks.", "evidence": "there's a minimum period of four weeks" },
+          { "id": "q9", "kind": "gap", "qtype": "table-completion", "answers": ["50,000", "50000"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Free insurance covers goods up to £50,000.", "evidence": "up to a value of £50,000" },
+          { "id": "q10", "kind": "gap", "qtype": "table-completion", "answers": ["Gleam"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The cleaning partner is called Gleam, spelt G-L-E-A-M.", "evidence": "Gleam. G-L-E-A-M." }
+        ]
+      }
+    ]
+  }
+]

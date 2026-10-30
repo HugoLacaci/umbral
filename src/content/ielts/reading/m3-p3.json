@@ -1,0 +1,245 @@
+[
+  {
+    "id": "ielts-r-m3-p3",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 3,
+    "passageNo": 3,
+    "title": "The Wisdom and Folly of Crowds",
+    "subtitle": "When does a group know more than its members, and when does it simply repeat their mistakes?",
+    "paragraphs": [
+      {
+        "text": "In 1906 the scientist Francis Galton visited a livestock fair in Plymouth, where visitors were paying to guess the weight of an ox once it had been slaughtered and prepared. Galton, who had little faith in the judgement of ordinary people, collected about 800 of the tickets afterwards, expecting to show how poor their estimates were. To his surprise, the middle value of all the guesses was within one per cent of the true weight - closer than the great majority of the individual guesses. Galton reported the result in a short article, and more than a century later it remains the founding story of what is now called the 'wisdom of crowds'."
+      },
+      {
+        "text": "The explanation usually offered is statistical. Each individual estimate contains some truth and some error. If people's errors are independent of one another - if one person's tendency to guess too high is unrelated to another's tendency to guess too low - then, as the number of estimates grows, the errors increasingly cancel out, while the truth that each contains remains. The crowd's average is therefore more accurate than a typical member of the crowd, and sometimes more accurate than its best member. On this view, the crowd is not wise because its members are wise; it is wise because its mistakes are uncoordinated."
+      },
+      {
+        "text": "It is this condition, rather than the size of the crowd, that I believe deserves far more attention than it usually receives. Enthusiasts for collective intelligence have tended to treat Galton's result as evidence that large groups are reliable in general, and the idea has been used to justify everything from online product ratings to the replacement of expert committees with public votes. But the arithmetic only works when judgements are made independently. As soon as people can see what others have said, their errors begin to move together, and averaging them achieves much less. A thousand people who have all read the same misleading headline are not a thousand independent witnesses; in a sense, they are one witness repeated a thousand times."
+      },
+      {
+        "text": "Experiments have made this danger concrete. In one study carried out by a team in Switzerland, participants answered factual questions, such as the population density of their country, over several rounds. Some groups worked without any information about each other's answers; others were told, between rounds, the average or the full set of answers given by the rest of the group. Being shown other people's estimates made the answers more similar to one another and made participants more confident, but it did not make the group's average more accurate. In other words, social influence reduced the diversity on which the crowd's accuracy depended while increasing everyone's sense that the answer was settled - perhaps the most troubling combination of all."
+      },
+      {
+        "text": "None of this means that groups should never communicate. Discussion can bring to light information that only one member possesses, and in problems that have a demonstrable solution - a logic puzzle, for example - a single person who finds the answer can often persuade the rest. The difficulty is that discussion and averaging are good at different things. Discussion is valuable when knowledge is unevenly distributed and correct answers can be recognised once they are stated; averaging is valuable when everyone has a little relevant knowledge and nobody can prove they are right. Problems arise when organisations confuse the two, holding meetings to estimate quantities that would be better estimated privately, or collecting votes on questions that require one person's specialist knowledge."
+      },
+      {
+        "text": "There are practical lessons here for anyone who must make decisions using the judgements of several people. The simplest is to collect estimates before discussion rather than after it, so that the first and most confident speaker does not anchor everyone else. Some forecasting organisations go further, asking members to record their independent estimates, then to discuss them, and finally to submit a second private estimate; the final figure is an average of the second round. Such procedures accept that people learn from each other while limiting the extent to which they simply copy each other. It seems to me unfortunate that they remain unusual, while the open show of hands - perhaps the least independent method ever devised - is still common in committees."
+      },
+      {
+        "text": "Finally, it is worth remembering who Galton's crowd actually were. The people at the fair were not a random sample of the population: many of them were farmers and butchers with years of experience of judging animals, and even those who were not had probably seen a great many cattle. Their collective accuracy depended on that shared background as well as on their independence. A crowd of people who know nothing about a subject will not become knowledgeable simply by being large; averaging ignorance produces ignorance. The wisdom of crowds, in short, is real but conditional, and the conditions are precisely the ones that modern communication tends to remove."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "ynng",
+        "instructions": "Questions 27–31\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–31 on your answer sheet, write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+        "items": [
+          {
+            "id": "q27",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "The need for people to judge independently has been given too little attention.",
+            "answer": "YES",
+            "evidence": "It is this condition, rather than the size of the crowd, that I believe deserves far more attention than it usually receives",
+            "explanation": "'This condition' refers back to independent errors (paragraph 2). The writer says it 'deserves far more attention than it usually receives', i.e. it has been given too little attention."
+          },
+          {
+            "id": "q28",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Online product ratings are generally more trustworthy than the opinions of experts.",
+            "answer": "NOT GIVEN",
+            "explanation": "Online ratings are mentioned only as something that the 'wisdom of crowds' idea has been used to justify. The writer never compares their reliability with expert opinion, so we cannot say what he or she thinks: NOT GIVEN. (A reader who assumes the writer is sceptical might choose NO, but no comparison is made.)"
+          },
+          {
+            "id": "q29",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Discussion within a group always makes its judgements less accurate.",
+            "answer": "NO",
+            "evidence": "None of this means that groups should never communicate",
+            "explanation": "The writer explicitly rejects this: discussion 'can bring to light information that only one member possesses' and helps with problems that have a demonstrable solution. The word 'always' contradicts the writer's view, so NO."
+          },
+          {
+            "id": "q30",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "It is regrettable that structured procedures for combining private estimates are not used more widely.",
+            "answer": "YES",
+            "evidence": "It seems to me unfortunate that they remain unusual",
+            "explanation": "'Regrettable' = 'unfortunate'; 'not used more widely' = 'remain unusual'. 'They' refers to procedures such as the two-round private estimates described just before."
+          },
+          {
+            "id": "q31",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "A sufficiently large group can produce accurate estimates even if its members know little about the subject.",
+            "answer": "NO",
+            "evidence": "A crowd of people who know nothing about a subject will not become knowledgeable simply by being large",
+            "explanation": "The writer insists that size alone cannot compensate for ignorance: 'averaging ignorance produces ignorance'. The statement contradicts this, so NO."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 32–35\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 32–35 on your answer sheet.",
+        "items": [
+          {
+            "id": "q32",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Why did Galton collect the tickets from the competition?",
+            "options": [
+              "to check that the competition had been run fairly",
+              "to demonstrate the weakness of ordinary people's judgement",
+              "to test a statistical theory he had already developed",
+              "to compare the guesses of experts with those of other visitors"
+            ],
+            "answer": 1,
+            "evidence": "expecting to show how poor their estimates were",
+            "explanation": "Galton 'had little faith in the judgement of ordinary people' and expected to show 'how poor their estimates were'. The result surprised him, so he was not testing a theory of crowd accuracy (C). Farmers and butchers are mentioned only at the end of the passage, by the writer, not as Galton's purpose (D).",
+            "optionNotes": [
+              "Fairness of the competition is never mentioned.",
+              "Correct: he expected the estimates to be poor.",
+              "The statistical explanation is offered later by others; Galton was surprised by the result.",
+              "The writer mentions the crowd's experience in the last paragraph, but this was not Galton's aim."
+            ]
+          },
+          {
+            "id": "q33",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "According to the explanation in the second paragraph, a crowd's average is accurate because",
+            "options": [
+              "most members of the crowd are well informed.",
+              "the best members' estimates have the greatest influence.",
+              "unrelated errors tend to balance each other out.",
+              "large crowds are likely to contain some experts."
+            ],
+            "answer": 2,
+            "evidence": "it is wise because its mistakes are uncoordinated",
+            "explanation": "The statistical explanation is that independent errors 'cancel out' as estimates are added. Option A is explicitly rejected in the same paragraph ('not wise because its members are wise'), and nothing suggests that the best estimates carry more weight (B).",
+            "optionNotes": [
+              "The paragraph says the crowd is NOT wise because its members are wise.",
+              "In an average every estimate counts equally.",
+              "Correct: uncoordinated (independent) errors cancel out.",
+              "Experts are not part of the statistical explanation."
+            ]
+          },
+          {
+            "id": "q34",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What does the writer mean by describing a thousand readers of the same headline as 'one witness repeated a thousand times'?",
+            "options": [
+              "Their judgements all depend on the same source and so add little to one another.",
+              "Most people do not read news reports carefully.",
+              "Journalists deliberately try to influence public opinion.",
+              "A single well-informed individual is as useful as a crowd."
+            ],
+            "answer": 0,
+            "evidence": "are not a thousand independent witnesses",
+            "explanation": "Because they all read the same headline, their errors 'move together'; their opinions are not independent, so averaging them is like hearing one witness many times. The writer does not accuse journalists of deliberate influence (C) — the headline is simply 'misleading'.",
+            "optionNotes": [
+              "Correct: shared source = not independent.",
+              "Careless reading is not the point being made.",
+              "'Misleading' does not mean deliberately manipulative; intention is not discussed.",
+              "The writer does not claim one expert equals a crowd here."
+            ]
+          },
+          {
+            "id": "q35",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What does the writer find most troubling about the results of the study carried out in Switzerland?",
+            "options": [
+              "Participants were unwilling to change their original answers.",
+              "The group's average became less accurate with each round.",
+              "Participants grew more certain although the group was no more accurate.",
+              "Participants who worked independently gave the most accurate answers."
+            ],
+            "answer": 2,
+            "evidence": "it did not make the group's average more accurate",
+            "explanation": "The troubling combination is reduced diversity plus increased confidence ('everyone's sense that the answer was settled') without any gain in accuracy. B goes too far: the text says accuracy did not improve, not that it got worse. A is the opposite of what happened (answers became more similar). D is not stated.",
+            "optionNotes": [
+              "Opposite: answers became more similar to each other.",
+              "Too strong: accuracy did not improve, but the text does not say it fell.",
+              "Correct: more confidence, no more accuracy.",
+              "The accuracy of individual groups is not compared in this way; the problem is that the average did not improve."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching-endings",
+        "instructions": "Questions 36–40\nComplete each sentence with the correct ending, A–H, below.\nWrite the correct letter, A–H, in boxes 36–40 on your answer sheet.",
+        "options": [
+          { "key": "A", "text": "information is held by only some members of a group and can be recognised as correct once it is stated." },
+          { "key": "B", "text": "every member has some relevant knowledge but nobody can show that they are right." },
+          { "key": "C", "text": "stop an early, confident speaker from influencing everyone else." },
+          { "key": "D", "text": "estimates that are given privately after a discussion has taken place." },
+          { "key": "E", "text": "the experience that many of its members had of judging animals." },
+          { "key": "F", "text": "the prizes offered to the most accurate competitors." },
+          { "key": "G", "text": "make participants feel more certain of their answers." },
+          { "key": "H", "text": "the opinions of the most senior members of a committee." }
+        ],
+        "items": [
+          {
+            "id": "q36",
+            "kind": "match",
+            "qtype": "matching-endings",
+            "prompt": "Group discussion is most likely to be useful when",
+            "answer": "A",
+            "evidence": "Discussion is valuable when knowledge is unevenly distributed and correct answers can be recognised once they are stated",
+            "explanation": "'Unevenly distributed' knowledge = information held by only some members; 'recognised once they are stated' = recognised as correct once stated. Ending B describes when averaging, not discussion, is valuable."
+          },
+          {
+            "id": "q37",
+            "kind": "match",
+            "qtype": "matching-endings",
+            "prompt": "Averaging people's estimates is most likely to be useful when",
+            "answer": "B",
+            "evidence": "averaging is valuable when everyone has a little relevant knowledge and nobody can prove they are right",
+            "explanation": "'Every member has some relevant knowledge' = 'everyone has a little relevant knowledge'; 'nobody can show that they are right' = 'nobody can prove they are right'. Both A and B fit the grammar, so you must check which activity each describes."
+          },
+          {
+            "id": "q38",
+            "kind": "match",
+            "qtype": "matching-endings",
+            "prompt": "Collecting estimates before a discussion begins can",
+            "answer": "C",
+            "evidence": "so that the first and most confident speaker does not anchor everyone else",
+            "explanation": "'Anchor everyone else' means influence their estimates. Ending G is a trap: increased confidence was the effect of seeing others' answers in the Swiss study, not of collecting estimates first."
+          },
+          {
+            "id": "q39",
+            "kind": "match",
+            "qtype": "matching-endings",
+            "prompt": "In some forecasting organisations, the final figure is an average of",
+            "answer": "D",
+            "evidence": "finally to submit a second private estimate; the final figure is an average of the second round",
+            "explanation": "The second round consists of private estimates made after the discussion. Ending H is wrong: senior members are never mentioned, and the show of hands in committees is criticised, not used in these procedures."
+          },
+          {
+            "id": "q40",
+            "kind": "match",
+            "qtype": "matching-endings",
+            "prompt": "The accuracy of the crowd at the Plymouth fair depended partly on",
+            "answer": "E",
+            "evidence": "many of them were farmers and butchers with years of experience of judging animals",
+            "explanation": "The writer says their accuracy 'depended on that shared background as well as on their independence'. Prizes (F) are not mentioned anywhere in the passage."
+          }
+        ]
+      }
+    ]
+  }
+]

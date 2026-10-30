@@ -1,0 +1,74 @@
+[
+  {
+    "id": "toefl-build-01", "difficulty": "easy", "usage": "practice",
+    "context": { "name": "Maya", "text": "I heard the library is closing early today." },
+    "respondent": "Leo",
+    "prefix": "Do", "suffix": "?",
+    "answer": ["you know", "what time", "it", "closes"],
+    "distractors": ["does it"],
+    "explanation": "Pregunta indirecta: tras «Do you know…» la parte incrustada lleva orden de afirmación (sujeto + verbo: «what time it closes»), sin auxiliar «does». Por eso «does it» sobra."
+  },
+  {
+    "id": "toefl-build-02", "difficulty": "easy", "usage": "practice",
+    "context": { "name": "Sam", "text": "The campus bookstore didn't have the textbook I needed." },
+    "respondent": "Nina",
+    "prefix": "Have", "suffix": "?",
+    "answer": ["you", "tried", "ordering", "it", "online"],
+    "distractors": ["order"],
+    "explanation": "Pregunta en present perfect (Have + sujeto + participio). El verbo «try» con el sentido de «probar a hacer algo» va seguido de gerundio: «tried ordering», no «tried order»."
+  },
+  {
+    "id": "toefl-build-03", "difficulty": "easy", "usage": "practice",
+    "context": { "name": "Priya", "text": "Why weren't you in class this morning?" },
+    "respondent": "Tom",
+    "prefix": "I", "suffix": ".",
+    "answer": ["missed", "the bus", "because", "my alarm", "didn't go off"],
+    "distractors": ["wasn't"],
+    "explanation": "Pasado simple + oración causal con «because». «Go off» es un phrasal verb (sonar una alarma); su negativa en pasado es «didn't go off». «Wasn't» no encaja con un verbo en forma base."
+  },
+  {
+    "id": "toefl-build-04", "difficulty": "easy", "usage": "practice",
+    "context": { "name": "Carlos", "text": "Is the new café on campus any good?" },
+    "respondent": "Emma",
+    "prefix": "The coffee there", "suffix": ".",
+    "answer": ["is", "much", "better", "than", "at the old one"],
+    "distractors": ["more"],
+    "explanation": "Comparativo irregular: «good → better» (nunca «more better»). «Much» intensifica el comparativo y va justo delante: «much better than…»."
+  },
+  {
+    "id": "toefl-build-05", "difficulty": "easy", "usage": "practice",
+    "context": { "name": "Hana", "text": "Can I borrow your notes from Monday's lecture?" },
+    "respondent": "Omar",
+    "prefix": "Sure,", "suffix": ".",
+    "answer": ["but", "I'll", "need", "them", "back by Friday"],
+    "distractors": ["it"],
+    "explanation": "Phrasal verb separable «need something back»: cuando el objeto es un pronombre («them») va entre el verbo y la partícula. «Notes» es plural, así que el pronombre es «them», no «it»."
+  },
+  {
+    "id": "toefl-build-06", "difficulty": "easy", "usage": "practice",
+    "context": { "name": "Lucas", "text": "I'm thinking about joining the photography club." },
+    "respondent": "Sofia",
+    "prefix": "Do", "suffix": "?",
+    "answer": ["you", "know", "when", "their next meeting", "is"],
+    "distractors": ["will"],
+    "explanation": "Pregunta indirecta con «be»: el verbo va al final, después del sujeto («when their next meeting is»), no «when is their next meeting». «Will» no tiene sitio sin un verbo principal en forma base."
+  },
+  {
+    "id": "toefl-build-07", "difficulty": "easy", "usage": "practice",
+    "context": { "name": "Ava", "text": "The professor moved the midterm exam to next week." },
+    "respondent": "Ben",
+    "prefix": "That", "suffix": "the material.",
+    "answer": ["gives", "us", "more", "time", "to review"],
+    "distractors": ["reviewing"],
+    "explanation": "Verbo con dos objetos: «give + persona + cosa» («gives us more time»). Después de «time» se usa el infinitivo de finalidad: «more time to review», no «reviewing»."
+  },
+  {
+    "id": "toefl-build-08", "difficulty": "easy", "usage": "practice",
+    "context": { "name": "Grace", "text": "Are you coming to the study group tonight?" },
+    "respondent": "Ethan",
+    "prefix": "Unfortunately, I", "suffix": ".",
+    "answer": ["have to", "cover", "a shift", "for", "my coworker"],
+    "distractors": ["must to"],
+    "explanation": "«Have to» + infinitivo sin «to» expresa obligación externa. «Must to» es incorrecto: «must» nunca lleva «to». «Cover a shift for someone» = hacer el turno de otra persona."
+  }
+]

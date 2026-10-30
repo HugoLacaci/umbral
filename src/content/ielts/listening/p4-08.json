@@ -1,0 +1,203 @@
+[
+  {
+    "id": "ielts-l-p4-08",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 4,
+    "title": "Turning seawater into drinking water",
+    "context": "You will hear part of a lecture on water resources about the technology and environmental impact of desalination.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "lec",
+          "name": "Professor Alan Hughes",
+          "role": "lecturer",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "lec",
+          "t": "Good morning. This week in our module on water resources, we're turning to desalination, the process of removing salt from seawater to make it drinkable. About ninety-seven per cent of the water on our planet is in the oceans, so it's easy to see why the idea is attractive, particularly for dry coastal regions. Desalination plants now supply drinking water to hundreds of millions of people, but the technology also raises some difficult questions, and I'll come to those in the second half."
+        },
+        {
+          "s": "lec",
+          "t": "Historically, the first large-scale plants relied on heat. The principle is the same one sailors used centuries ago. You heat seawater until it turns to vapour, leaving the salt behind, and then you cool the vapour so that it condenses as fresh water. This is known as distillation. It works very reliably, but heating such enormous volumes of water takes a vast amount of energy, which is why these plants were mainly built in countries with cheap oil and gas, especially around the Persian Gulf."
+        },
+        {
+          "s": "lec",
+          "t": "Engineers soon found ways to make the process more efficient. In what's called multi-stage flash, seawater passes through a series of chambers, and in each one the pressure is a little lower than in the one before. Because water boils at a lower temperature when the pressure is reduced, part of the water instantly flashes into steam in each chamber, without needing to be heated again."
+        },
+        {
+          "s": "lec",
+          "t": "In recent decades, however, most new plants have used a completely different method, reverse osmosis. Osmosis itself is a natural process. If you separate fresh water and salt water with a suitable barrier, water molecules will move towards the salty side. In reverse osmosis, we do the opposite. Seawater is forced at very high pressure through a membrane with extremely tiny pores. Water molecules can pass through, but the salt is held back. The great advantage is that there's no need to boil anything, so the energy demand is much lower than for thermal methods."
+        },
+        {
+          "s": "lec",
+          "t": "That said, it's still an energy-intensive process, and the bulk of the electricity is consumed by the high-pressure pumps that push the seawater through. One of the most important advances of the last thirty years has been the introduction of energy recovery devices. The very salty water that's left over after treatment is still under high pressure as it leaves the system, and these devices capture that pressure and transfer it to the incoming seawater. In modern plants, this can cut energy use by more than half."
+        },
+        {
+          "s": "lec",
+          "t": "The membranes themselves have one serious weakness. Seawater is full of living things, such as algae and bacteria, and these tend to settle and multiply on the membrane surface, gradually clogging it. Engineers refer to this as fouling, and it's the main reason why seawater has to go through careful pretreatment, filtering out particles and organisms before it ever reaches the membranes."
+        },
+        {
+          "s": "lec",
+          "t": "Right. Let's turn now to the environmental impacts, and some of the solutions being tested. The most obvious issue is the waste product, which is called brine. For every litre of fresh water produced, a typical plant discharges roughly one and a half litres of brine, with a salt concentration up to twice that of normal seawater. Because it's denser than seawater, it tends to sink and spread across the sea floor, where it can harm creatures that can't move away. The usual answer is to release it through diffusers, which are pipes with many small openings that mix the brine rapidly with the surrounding water."
+        },
+        {
+          "s": "lec",
+          "t": "The second problem concerns the intake, where seawater is drawn into the plant. Open intakes can suck in fish larvae, plankton and other small organisms, and very few survive. A promising alternative is to draw water from wells dug beneath the seabed, so that the sand acts as a natural filter. This also reduces the fouling problem I mentioned earlier, though such intakes are only suitable where the geology allows."
+        },
+        {
+          "s": "lec",
+          "t": "The third issue is, of course, carbon emissions, since many plants still run on electricity from fossil fuels. Here there's real progress. Several plants in the Middle East and North Africa are now powered by solar energy, which makes particular sense because the sunniest places are often the ones most short of water. The challenge is that plants work best when they run continuously, day and night, so they need storage or backup power."
+        },
+        {
+          "s": "lec",
+          "t": "Finally, some researchers argue that brine shouldn't be seen as waste at all. It contains valuable minerals, including magnesium and even small quantities of lithium, and pilot projects are trying to extract these and sell them, which could help cover the cost of the plant. Next time, we'll compare desalination with water recycling."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–36\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Desalination",
+        "template": "Thermal methods\n• seawater is heated and the vapour condensed: a process called {{q31}}\n• multi-stage flash: water boils at a lower temperature in chambers with reduced {{q32}}\n\nReverse osmosis\n• seawater is pushed through a {{q33}} that blocks salt\n• most of the electricity is used to drive {{q34}}\n• energy {{q35}} devices transfer pressure from waste water to incoming seawater\n• organisms building up on surfaces, known as {{q36}}, make pretreatment necessary",
+        "items": [
+          {
+            "id": "q31",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "distillation"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Heating seawater and condensing the vapour \"is known as distillation\".",
+            "evidence": "This is known as distillation."
+          },
+          {
+            "id": "q32",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "pressure"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Water boils at a lower temperature when the pressure is reduced.",
+            "evidence": "the pressure is a little lower than in the one before"
+          },
+          {
+            "id": "q33",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "membrane"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Seawater is forced through a membrane with tiny pores that hold back the salt.",
+            "evidence": "Seawater is forced at very high pressure through a membrane"
+          },
+          {
+            "id": "q34",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "pumps"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "The bulk of the electricity is consumed by the high-pressure pumps.",
+            "evidence": "the bulk of the electricity is consumed by the high-pressure pumps"
+          },
+          {
+            "id": "q35",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "recovery"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Energy recovery devices capture the pressure of the outgoing brine.",
+            "evidence": "the introduction of energy recovery devices"
+          },
+          {
+            "id": "q36",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "fouling"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Algae and bacteria clogging the membrane: \"Engineers refer to this as fouling\".",
+            "evidence": "Engineers refer to this as fouling"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "table-completion",
+        "instructions": "Questions 37–40\nComplete the table below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Environmental impacts of desalination",
+        "template": "| Problem | Details | Possible solution |\n|---|---|---|\n| Brine | dense, so it sinks and spreads over the sea floor | discharge through {{q37}} that mix it quickly |\n| Intakes | small marine organisms are drawn in | take water from wells under the {{q38}} |\n| Carbon emissions | many plants use fossil-fuel electricity | use {{q39}} power |\n| Brine as waste | contains magnesium and lithium | sell the extracted {{q40}} |",
+        "items": [
+          {
+            "id": "q37",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": [
+              "diffusers"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Brine is released through diffusers, pipes with many small openings.",
+            "evidence": "release it through diffusers"
+          },
+          {
+            "id": "q38",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": [
+              "seabed"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Water can be drawn from wells dug beneath the seabed.",
+            "evidence": "wells dug beneath the seabed"
+          },
+          {
+            "id": "q39",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": [
+              "solar"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Several plants are now powered by solar energy.",
+            "evidence": "are now powered by solar energy"
+          },
+          {
+            "id": "q40",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": [
+              "minerals"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Brine contains valuable minerals that pilot projects try to extract and sell.",
+            "evidence": "It contains valuable minerals"
+          }
+        ]
+      }
+    ]
+  }
+]

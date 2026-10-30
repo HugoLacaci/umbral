@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ielts-p2-m1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "topic": "A time you worked in a team",
+    "cue": "Describe a time when you worked in a team to achieve something.",
+    "bullets": ["what you had to achieve", "who was in the team", "what your role was"],
+    "closing": "and explain how you felt about working in this team.",
+    "followUps": ["Do you prefer working in a team or alone?"],
+    "sampleAnswer": "I'd like to talk about a time when I worked with a group of volunteers to turn an abandoned piece of land in my neighbourhood into a community garden. This was about two years ago. The land was a small, empty lot between two apartment buildings, full of rubbish and weeds, and it had been like that for as long as anyone could remember. A woman who lived in my building put up a notice asking if anyone wanted to help transform it, and about twelve of us turned up to the first meeting. The team was really mixed. There were a couple of retired people, a family with two teenage kids, a landscape architect, some students like me, and a guy who owned a hardware shop nearby. My role ended up being communication. Because I'm comfortable with social media and writing, I created a group chat to coordinate everyone, designed some posters, and wrote to the city council to ask for permission and a small grant. That part took months of emails and forms, and at one point I thought the council would never reply. Meanwhile, the others organised the physical work. Every Saturday morning for about three months, we cleared rubbish, built raised beds out of old wooden pallets, and planted vegetables, herbs and flowers. The hardware shop owner donated tools, and the architect drew up a simple plan. I found the experience incredibly rewarding. Of course, there were disagreements, for example about whether to put in a children's play area or more planting space, and some meetings got quite heated. But we learned to compromise and vote on decisions. What I liked most was that people who'd lived next to each other for years without speaking became friends. Today the garden is still going, and I still help there most weekends."
+  },
+  {
+    "id": "ielts-p2-m2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "topic": "A natural place you visited",
+    "cue": "Describe a natural place you visited, such as a park, a lake or a mountain.",
+    "bullets": ["where it is", "when you went there", "who you went with", "what you did there"],
+    "closing": "and explain why you liked or disliked this place.",
+    "followUps": ["Would you like to go back there?", "Do you prefer natural places or cities?"],
+    "sampleAnswer": "I'd like to talk about a lake high up in the mountains in the north of my country, which I visited last summer with two close friends. It's a glacial lake, which means it was formed thousands of years ago by a glacier, and it sits at about two thousand metres above sea level, surrounded by steep, rocky peaks. You can't drive there; you have to hike for about three hours from the nearest village, along a path that goes through pine forests and then across open meadows. We set off very early in the morning, around six, partly to avoid the heat and partly because we'd been told the lake looks magical in the morning light. The hike was tougher than we expected, especially the last section, which was very steep and rocky, and I remember complaining quite a lot. But when we finally reached the top and saw the lake, we all just stopped and stared. The water was completely still and incredibly clear, a kind of turquoise colour, and it reflected the mountains perfectly. There was nobody else there apart from a few cows grazing nearby. We spent the rest of the morning there. We had a picnic on some flat rocks, and my friends were brave enough to swim, although the water was absolutely freezing. I only managed to put my feet in, and even that was painful. Afterwards, we just lay in the sun and talked for hours. I loved this place mainly because of the sense of peace and remoteness. My daily life in the city is so noisy and rushed, and being somewhere so quiet and untouched made me feel genuinely calm in a way I rarely do. Also, the fact that we had to work hard to get there made reaching it feel like a real reward."
+  }
+]

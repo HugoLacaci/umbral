@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ielts-p3-m3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "topic": "Advice and guidance",
+    "linkedP2": "ielts-p2-m3",
+    "questions": [
+      "Who do young people usually go to for advice in your country?",
+      "Is it better to get advice from friends or from professionals?",
+      "Why do some people find it difficult to accept advice?",
+      "Do you think people rely too much on advice from the internet nowadays?",
+      "Should schools do more to give students advice about their careers?"
+    ],
+    "sampleAnswers": [
+      "It depends on the issue, but I'd say friends come first for most everyday problems, such as relationships or what to wear. For bigger decisions, like what to study, many young people still turn to their parents, even if they don't always follow what they're told. And increasingly, I think, they look online, watching videos by people who have been through similar situations.",
+      "I think each has its place. Friends know you well and can be honest with you in a way a stranger can't, so they're great for personal matters. But they're not experts, and they may simply tell you what you want to hear. For anything involving health, money or the law, a professional is far more reliable, because their advice is based on training rather than personal opinion.",
+      "Partly it's pride. Accepting advice can feel like admitting that you've made a mistake or that you can't cope on your own. Some people also resent advice they haven't asked for, because it feels like criticism. And sometimes the problem is the person giving it: if someone comes across as condescending, people tend to reject the message even when it's sensible.",
+      "To some extent, yes. The internet is incredibly useful for practical things, like fixing a bike or learning a recipe, but the danger is that people take advice on serious matters, especially health, from sources with no real expertise. Algorithms also tend to show people content that confirms what they already believe, so they may end up getting very one-sided advice without realising it.",
+      "Absolutely. Many students choose their subjects at sixteen with very little idea of what different jobs actually involve. Schools could invite people from a range of professions to talk about their work, or arrange short work placements. That would give students a much more realistic picture than simply looking at lists of university courses."
+    ]
+  },
+  {
+    "id": "ielts-p3-m4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "topic": "Change in towns and cities",
+    "linkedP2": "ielts-p2-m4",
+    "questions": [
+      "What are the most common changes that happen to towns and cities over time?",
+      "Who should decide how a city develops: the government or local residents?",
+      "Is it important to preserve old buildings, or should cities focus on new development?",
+      "Why do some people dislike change in the place where they live?",
+      "How do you think cities will change in the next fifty years?"
+    ],
+    "sampleAnswers": [
+      "I'd say the most obvious one is growth: cities spread outwards and new suburbs are built. At the same time, the centre changes function, so areas that used to be industrial become residential or commercial, like the old port in my city. Transport also changes a lot, for example when new metro lines open or when streets are pedestrianised.",
+      "Ideally, both. Governments have the overall view and the budget, and some decisions, such as where to build a hospital or a railway, have to be made at a city-wide level. But local residents understand their neighbourhoods better than any planner, so they should be properly consulted. When projects are imposed from above, they often fail to meet people's real needs and generate a lot of resentment.",
+      "I think a balance is essential. Historic buildings give a city its identity and attract tourists, and once they're demolished they can never be replaced. However, cities can't become museums; people need modern housing, offices and infrastructure. Often the best solution is to adapt old buildings for new uses, such as turning a factory into flats, which preserves the character while meeting current needs.",
+      "Partly because familiar places are tied to people's memories and sense of identity, so when a favourite café closes or a park is built over, it can feel like a personal loss. There are also very practical worries: new developments often bring higher rents, more traffic and noise, and long-term residents may feel they are being pushed out to make room for wealthier newcomers.",
+      "I imagine they'll become greener and less dominated by cars. Many cities are already creating more cycle lanes and pedestrian zones, and with climate change, they'll need far more trees and green roofs to stay cool. Remote working might also change things, because if fewer people commute every day, office districts could be converted into housing. But I suspect the challenge of affordable housing will still be with us."
+    ]
+  }
+]

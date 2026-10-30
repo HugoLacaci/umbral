@@ -1,0 +1,199 @@
+[
+  {
+    "id": "ielts-r-m3-p2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "passageNo": 2,
+    "title": "Banking on Seeds",
+    "subtitle": "Why the world stores millions of seeds, and what it takes to keep them alive",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Inside a mountain on the Norwegian island of Spitsbergen, roughly 1,300 kilometres from the North Pole, a tunnel leads deep into the rock. At its end are three chambers which together can hold some 4.5 million seed samples. The Svalbard Global Seed Vault, which opened in 2008, is often described in the press as a 'doomsday vault', a store that would allow humanity to restart agriculture after a global catastrophe. Its managers dislike the label. The vault, they point out, was designed for far more ordinary emergencies, and it is only one part of a worldwide network of collections whose main purpose is not to survive the end of the world but to be used."
+      },
+      {
+        "label": "B",
+        "text": "That network grew out of the realisation that crop diversity was disappearing. For thousands of years, farmers had grown local varieties, each adapted to particular soils, climates and diseases. During the twentieth century, as farmers across the world switched to a small number of high-yielding modern varieties, many of these traditional types were simply abandoned, and some survived only in the fields of a handful of elderly farmers. Plant breeders soon recognised that this was a serious loss. The genes that allowed an old variety of wheat to resist a fungus or survive a drought could not be recreated once the variety had gone, and such genes are the raw material breeders need to develop new crops. Collecting and storing seeds was therefore a way of protecting the future of farming itself."
+      },
+      {
+        "label": "C",
+        "text": "One of the first scientists to collect seeds on a large scale was the Russian botanist Nikolai Vavilov, who in the 1920s and 1930s led expeditions across five continents and assembled a collection of more than 200,000 samples in Leningrad. The collection is remembered as much for the courage of those who protected it as for its size. During the siege of the city in the Second World War, when food was desperately short, staff at the institute guarded the seeds and refused to eat them, and several of them died of hunger surrounded by sacks of rice and grain. Vavilov himself did not see the end of the war; he had been arrested in 1940 and died in prison three years later."
+      },
+      {
+        "label": "D",
+        "text": "Modern seed banks rely on a simple principle: most seeds can survive for very long periods if they are kept dry and cold. After collection, seeds are cleaned and slowly dried until only about five per cent of their weight is water. They are then sealed in moisture-proof packets and stored at around minus 18 degrees Celsius. Under these conditions, the seeds of many cereals are expected to remain alive for decades and, in some cases, for centuries. Even so, they do not last for ever. Every few years, a sample from each collection must be tested to see whether the seeds still germinate, and when the proportion that does so starts to fall, the seeds have to be planted, grown to maturity and harvested to produce a fresh supply - a slow and costly process that some smaller collections struggle to afford."
+      },
+      {
+        "label": "E",
+        "text": "Not every plant can be protected in this way. The seeds of a surprising number of species, including cocoa, avocado, mango and many tropical trees, are killed by drying, and so they cannot be kept in a conventional seed bank. Scientists call such seeds 'recalcitrant'. For these species, collections have to be maintained as living plants in fields, where they are vulnerable to pests, disease and extreme weather, or preserved by cryopreservation, in which small pieces of plant tissue are frozen in liquid nitrogen at about minus 196 degrees. This technique is promising, but it is technically demanding and has so far been used for only a small proportion of the species that need it."
+      },
+      {
+        "label": "F",
+        "text": "The Svalbard vault itself does not normally supply seeds to anyone. It acts as a back-up: national and regional seed banks send duplicate copies of their samples there, and the samples remain the property of the depositor. The value of this arrangement was demonstrated in 2015, when a research centre that had been forced by the war in Syria to abandon its main gene bank near Aleppo made the first withdrawal from the vault. Using the duplicates, the centre was able to rebuild its collections in Lebanon and Morocco, and it later sent fresh copies back to Svalbard. For the vault's managers, this was precisely the kind of 'ordinary emergency' they had in mind: not the end of civilisation, but the loss of a single collection through conflict, accident or natural disaster."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-headings",
+        "instructions": "Questions 14–19\nReading Passage 2 has six paragraphs, A–F.\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number, i–ix, in boxes 14–19 on your answer sheet.",
+        "title": "List of Headings",
+        "options": [
+          { "key": "i", "text": "A safety copy proves its worth" },
+          { "key": "ii", "text": "How farmers chose modern crop varieties" },
+          { "key": "iii", "text": "Plants that need a different approach" },
+          { "key": "iv", "text": "A popular name that gives the wrong impression" },
+          { "key": "v", "text": "The commercial value of seed collections" },
+          { "key": "vi", "text": "Loyalty to a collection in desperate times" },
+          { "key": "vii", "text": "Keeping stored seeds alive, and the cost of renewal" },
+          { "key": "viii", "text": "Why the loss of old varieties mattered" },
+          { "key": "ix", "text": "Disputes over who owns stored seeds" }
+        ],
+        "items": [
+          {
+            "id": "q14",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph A",
+            "answer": "iv",
+            "evidence": "Its managers dislike the label",
+            "explanation": "Paragraph A introduces the 'doomsday vault' nickname and explains that the managers dislike it because the vault was designed for ordinary emergencies: a popular name that gives the wrong impression. The physical description of the vault is only background."
+          },
+          {
+            "id": "q15",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph B",
+            "answer": "viii",
+            "evidence": "Plant breeders soon recognised that this was a serious loss",
+            "explanation": "The paragraph explains why abandoning traditional varieties was 'a serious loss': their genes could not be recreated and are needed to develop new crops. Heading ii is a trap: the switch to modern varieties is mentioned, but the paragraph does not explain how farmers chose them."
+          },
+          {
+            "id": "q16",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph C",
+            "answer": "vi",
+            "evidence": "staff at the institute guarded the seeds and refused to eat them",
+            "explanation": "The key idea is the courage of the staff during the siege, when food was 'desperately short' (= desperate times) and they protected the seeds rather than eat them (= loyalty to a collection)."
+          },
+          {
+            "id": "q17",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph D",
+            "answer": "vii",
+            "evidence": "a slow and costly process that some smaller collections struggle to afford",
+            "explanation": "Paragraph D covers storage conditions (dry and cold), regular germination tests and the need to regrow seeds, which is 'slow and costly'. Heading v is wrong: cost is discussed as a burden, not as commercial value."
+          },
+          {
+            "id": "q18",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph E",
+            "answer": "iii",
+            "evidence": "Not every plant can be protected in this way",
+            "explanation": "Recalcitrant seeds are killed by drying, so these species must be kept as living plants or by cryopreservation: plants that need a different approach."
+          },
+          {
+            "id": "q19",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph F",
+            "answer": "i",
+            "evidence": "The value of this arrangement was demonstrated in 2015",
+            "explanation": "The vault holds duplicate (safety) copies, and the 2015 withdrawal showed their value ('proves its worth'). Heading ix is a trap: ownership is mentioned ('remain the property of the depositor') but there is no dispute."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-info",
+        "instructions": "Questions 20–22\nReading Passage 2 has six paragraphs, A–F.\nWhich paragraph contains the following information?\nWrite the correct letter, A–F, in boxes 20–22 on your answer sheet.",
+        "options": [
+          { "key": "A", "text": "Paragraph A" },
+          { "key": "B", "text": "Paragraph B" },
+          { "key": "C", "text": "Paragraph C" },
+          { "key": "D", "text": "Paragraph D" },
+          { "key": "E", "text": "Paragraph E" },
+          { "key": "F", "text": "Paragraph F" }
+        ],
+        "items": [
+          {
+            "id": "q20",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "an account of people who chose not to eat food they were protecting",
+            "answer": "C",
+            "evidence": "refused to eat them, and several of them died of hunger surrounded by sacks of rice and grain",
+            "explanation": "The Leningrad staff 'refused to eat' the seeds they guarded, even though food was desperately short."
+          },
+          {
+            "id": "q21",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a reference to the financial difficulties of some collections",
+            "answer": "D",
+            "evidence": "some smaller collections struggle to afford",
+            "explanation": "'Financial difficulties' paraphrases 'struggle to afford' the costly process of regrowing seeds. Paragraph F lists ways a collection might be lost (conflict, accident, natural disaster) but does not mention money."
+          },
+          {
+            "id": "q22",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "an example of a collection being restored after it was lost",
+            "answer": "F",
+            "evidence": "the centre was able to rebuild its collections in Lebanon and Morocco",
+            "explanation": "'Restored' paraphrases 'rebuild'. The research centre lost access to its gene bank near Aleppo and rebuilt its collections using the Svalbard duplicates."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "summary-completion",
+        "instructions": "Questions 23–26\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 23–26 on your answer sheet.",
+        "title": "How seeds are stored",
+        "template": "Before storage, seeds are cleaned and dried until only about five per cent of their weight consists of {{q23}}. They are sealed in packets that are {{q24}} and kept at around minus 18 degrees Celsius. Because seeds gradually lose the ability to {{q25}}, samples are checked every few years. However, the seeds of some species, such as cocoa and avocado, die if they are dried; these seeds are known as {{q26}}.",
+        "items": [
+          {
+            "id": "q23",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["water"],
+            "maxWords": 2,
+            "evidence": "only about five per cent of their weight is water",
+            "explanation": "'Consists of' paraphrases 'is': only about five per cent of the seeds' weight is water after drying."
+          },
+          {
+            "id": "q24",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["moisture-proof", "moisture proof"],
+            "maxWords": 2,
+            "evidence": "sealed in moisture-proof packets",
+            "explanation": "The packets are 'moisture-proof'. 'Cold' or 'dry' describe the conditions, not the packets themselves."
+          },
+          {
+            "id": "q25",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["germinate"],
+            "maxWords": 2,
+            "evidence": "tested to see whether the seeds still germinate",
+            "explanation": "Seeds are tested to see whether they 'still germinate'; when the proportion that germinates falls, they must be regrown. The gap follows 'the ability to', so a verb is needed."
+          },
+          {
+            "id": "q26",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["recalcitrant"],
+            "maxWords": 2,
+            "evidence": "Scientists call such seeds 'recalcitrant'",
+            "explanation": "Seeds that are killed by drying are called 'recalcitrant'. 'Tropical' is wrong: it describes some of the trees, not the scientific name for this kind of seed."
+          }
+        ]
+      }
+    ]
+  }
+]

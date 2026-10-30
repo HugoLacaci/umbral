@@ -1,0 +1,568 @@
+[
+  {
+    "id": "toefl-dl-m1-router-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "module": "router",
+    "task": "daily-life",
+    "format": "email",
+    "title": "Chess club meeting",
+    "text": "From: Chess Club Officers\nTo: Club Members\nSubject: This week's meeting\n\nHi everyone,\n\nThis Thursday's meeting will be held in the Student Union, Room 3B, instead of our usual classroom, which is being used for exams. We'll still start at 6 p.m. Since we'll have more space, we're opening the meeting to non-members, so feel free to bring a friend who'd like to learn the game. Beginners will play on the boards near the window, where two experienced members will give tips.\n\nSee you there!",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Why has the meeting place changed?",
+        "options": [
+          "The club has too many members for its usual room.",
+          "The meeting will start at a different time.",
+          "The Student Union offers better boards.",
+          "The usual classroom is needed for exams."
+        ],
+        "answer": 3,
+        "explanation": "El aula habitual se está usando para exámenes.",
+        "evidence": "instead of our usual classroom, which is being used for exams",
+        "optionNotes": [
+          "El espacio extra es una consecuencia del cambio, no la causa.",
+          "La hora no cambia: «We'll still start at 6 p.m.»",
+          "No se compara la calidad de los tableros.",
+          "Correcta."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred about the club's usual meetings?",
+        "options": [
+          "They normally take place in the Student Union.",
+          "They are normally open only to club members.",
+          "They normally start at 7 p.m.",
+          "They are normally only for beginners."
+        ],
+        "answer": 1,
+        "explanation": "Dicen que «esta vez» abren la reunión a no socios porque hay más espacio, lo que implica que normalmente no lo hacen.",
+        "evidence": "Since we'll have more space, we're opening the meeting to non-members",
+        "optionNotes": [
+          "Normalmente se reúnen en un aula; la Student Union es sólo esta semana.",
+          "Correcta.",
+          "Siguen empezando a las 6, como siempre.",
+          "Los principiantes tendrán una zona, pero también hay jugadores con experiencia."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m1-router-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "module": "router",
+    "task": "daily-life",
+    "format": "notice",
+    "title": "Bulk item collection",
+    "text": "Bulk Item Collection — Pine Hill Neighborhood\n\nOnce a year, the city collects large household items that do not fit in regular trash bins. This year's collection will take place on Saturday, April 18.\n\nItems accepted: furniture, mattresses, carpets, and large appliances such as washing machines. Refrigerators and freezers are accepted only if a certificate shows that the cooling gas has been removed.\n\nItems not accepted: paint, car tires, building materials, and electronics. Electronics can be dropped off free of charge at the Recycling Center on Mill Road on any weekday.\n\nPlace items at the curb no earlier than 6 p.m. on Friday, April 17, and no later than 7 a.m. on the day of collection.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the notice?",
+        "options": [
+          "To announce a new recycling center on Mill Road",
+          "To ask residents to stop using regular trash bins",
+          "To warn residents about fines for leaving items on the street",
+          "To explain how residents can use a yearly collection service"
+        ],
+        "answer": 3,
+        "explanation": "Explica qué objetos se recogen, cuáles no y cuándo sacarlos en la recogida anual.",
+        "evidence": "Once a year, the city collects large household items that do not fit in regular trash bins.",
+        "optionNotes": [
+          "El centro de reciclaje se menciona como alternativa, no como novedad.",
+          "Los contenedores normales se siguen usando.",
+          "No se mencionan multas.",
+          "Correcta."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What should a resident do with an old television?",
+        "options": [
+          "Take it to the Recycling Center on a weekday",
+          "Get a certificate before putting it out",
+          "Leave it at the curb on Friday evening",
+          "Put it in a regular trash bin"
+        ],
+        "answer": 0,
+        "explanation": "Los aparatos electrónicos no se aceptan en la recogida, pero se pueden llevar gratis al centro de reciclaje entre semana.",
+        "evidence": "Electronics can be dropped off free of charge at the Recycling Center on Mill Road on any weekday.",
+        "optionNotes": [
+          "Correcta.",
+          "El certificado es para frigoríficos y congeladores.",
+          "Los electrónicos no se aceptan en esta recogida.",
+          "No se dice que puedan ir a la basura normal."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A resident puts an old sofa on the curb on Thursday evening, April 16. What is the problem?",
+        "options": [
+          "Sofas are not accepted in the collection.",
+          "She put it out too early.",
+          "She put it out too late.",
+          "She needs a certificate for it."
+        ],
+        "answer": 1,
+        "explanation": "No se puede sacar antes de las 18:00 del viernes 17; el jueves es demasiado pronto.",
+        "evidence": "no earlier than 6 p.m. on Friday, April 17",
+        "optionNotes": [
+          "Los muebles («furniture») sí se aceptan.",
+          "Correcta.",
+          "El límite tardío es las 7:00 del sábado.",
+          "El certificado sólo es para frigoríficos y congeladores."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m1-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 1,
+    "module": "lower",
+    "task": "daily-life",
+    "format": "text-messages",
+    "title": "Movie plans",
+    "text": "Nina (6:40 p.m.): Are we still on for the movie tonight?\n\nTom (6:42 p.m.): Yes! The 8:15 show at the Rialto, right?\n\nNina (6:43 p.m.): Actually, it's sold out. There are seats for the 9:30 show, though. Is that too late?\n\nTom (6:45 p.m.): No, that works. Let's get dinner first then. Pizza at Luigi's at 8?\n\nNina (6:46 p.m.): Perfect. I'll buy the tickets online now.\n\nTom (6:47 p.m.): Great. I'll pay you back at dinner.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Why do Nina and Tom choose the later show?",
+        "options": [
+          "Tom has to work until 8:15.",
+          "The Rialto is closed until 9:30.",
+          "The earlier show has no seats left.",
+          "Nina prefers to see movies late at night."
+        ],
+        "answer": 2,
+        "explanation": "La sesión de las 8:15 está agotada.",
+        "evidence": "Actually, it's sold out.",
+        "optionNotes": [
+          "No se menciona el trabajo de Tom.",
+          "El cine tiene una sesión a las 8:15, así que no está cerrado.",
+          "Correcta: «sold out» = no quedan entradas.",
+          "Nina incluso pregunta si 9:30 es demasiado tarde."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What will they do at 8:00?",
+        "options": [
+          "Eat at Luigi's",
+          "Buy tickets at the theater",
+          "Meet at the Rialto",
+          "Watch the movie"
+        ],
+        "answer": 0,
+        "explanation": "Tom propone cenar pizza en Luigi's a las 8 y Nina acepta.",
+        "evidence": "Pizza at Luigi's at 8?",
+        "optionNotes": [
+          "Correcta.",
+          "Nina compra las entradas por internet ahora.",
+          "Irán al cine más tarde.",
+          "La película es a las 9:30."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Who will pay for the tickets first?",
+        "options": [
+          "Each person will pay at the theater.",
+          "Tom",
+          "Nina",
+          "The restaurant will include them in the bill."
+        ],
+        "answer": 2,
+        "explanation": "Nina va a comprar las entradas y Tom se las devolverá en la cena, así que paga primero Nina.",
+        "evidence": "I'll pay you back at dinner.",
+        "optionNotes": [
+          "Las compra Nina por internet.",
+          "Tom pagará después, devolviéndole el dinero.",
+          "Correcta.",
+          "No tiene sentido."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m1-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 1,
+    "module": "upper",
+    "task": "daily-life",
+    "format": "webpage",
+    "title": "Travel grant eligibility",
+    "text": "Walker Travel Grant — Eligibility and Application\n\nThe Walker Travel Grant funds up to $1,500 for undergraduate students to present their research at academic conferences. Applicants must be enrolled full-time and have completed at least one year of study at the university. Students in their final semester are eligible only if the conference takes place before their graduation date.\n\nApplications must be submitted at least six weeks before the conference begins and must include a letter from a faculty supervisor. Students who received a Walker Grant in the past may apply again, but priority is given to first-time applicants.\n\nFunds are paid as a reimbursement: recipients pay their own expenses first and submit receipts within 30 days of returning.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Which student would NOT be eligible for the grant?",
+        "options": [
+          "A full-time second-year student presenting at a conference in three months",
+          "A full-time student who received the grant last year",
+          "A full-time third-year student whose supervisor has written a letter",
+          "A final-semester student whose conference is one month after graduation"
+        ],
+        "answer": 3,
+        "explanation": "Los estudiantes del último semestre sólo pueden optar si el congreso es antes de su graduación.",
+        "evidence": "Students in their final semester are eligible only if the conference takes place before their graduation date.",
+        "optionNotes": [
+          "Cumple: tiempo completo, más de un año y hay tiempo para pedirla con seis semanas.",
+          "Puede volver a pedirla; sólo tendrá menos prioridad.",
+          "Cumple todos los requisitos mencionados.",
+          "Correcta: el congreso es después de graduarse."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "How are grant funds provided?",
+        "options": [
+          "They are paid to students before they travel.",
+          "They are paid back to students after they submit receipts.",
+          "They are paid to the conference organizers directly.",
+          "They are given to the faculty supervisor to manage."
+        ],
+        "answer": 1,
+        "explanation": "Es un reembolso: el estudiante paga primero y presenta los recibos en los 30 días posteriores a la vuelta.",
+        "evidence": "recipients pay their own expenses first and submit receipts within 30 days of returning",
+        "optionNotes": [
+          "Es al revés: primero paga el estudiante.",
+          "Correcta.",
+          "No se menciona.",
+          "El supervisor sólo escribe la carta."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What is suggested about students who have received the grant before?",
+        "options": [
+          "They are not allowed to apply again.",
+          "They do not need a letter from a supervisor.",
+          "They can receive only half of the usual amount.",
+          "They may be less likely to receive it than new applicants."
+        ],
+        "answer": 3,
+        "explanation": "Pueden volver a solicitarla, pero los que la piden por primera vez tienen prioridad, así que sus posibilidades son menores.",
+        "evidence": "priority is given to first-time applicants",
+        "optionNotes": [
+          "Falso: «may apply again».",
+          "La carta es obligatoria para todas las solicitudes.",
+          "No se dice nada de cantidades reducidas.",
+          "Correcta."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m2-router-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "module": "router",
+    "task": "daily-life",
+    "format": "schedule",
+    "title": "Fall swimming lessons",
+    "text": "Lakeview Community Center — Fall Swimming Lessons\n\nLevel 1 (ages 4–6): Mondays and Wednesdays, 4:00–4:30 p.m.\nLevel 2 (ages 6–9): Tuesdays and Thursdays, 4:30–5:15 p.m.\nLevel 3 (ages 9–12): Saturdays, 10:00–11:00 a.m.\nAdult beginners: Thursdays, 7:00–8:00 p.m.\n\nEach course runs for eight weeks and costs $80 ($65 for community center members). Children placed in Level 2 or 3 for the first time must pass a short swimming test on September 6.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "When do the lessons for adult beginners take place?",
+        "options": [
+          "On Thursday evenings",
+          "On Saturday mornings",
+          "On Tuesday and Thursday afternoons",
+          "On Monday and Wednesday afternoons"
+        ],
+        "answer": 0,
+        "explanation": "Adultos principiantes: jueves de 7 a 8 de la tarde.",
+        "evidence": "Adult beginners: Thursdays, 7:00–8:00 p.m.",
+        "optionNotes": [
+          "Correcta.",
+          "Es el nivel 3.",
+          "Es el nivel 2.",
+          "Es el nivel 1."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred about a six-year-old child?",
+        "options": [
+          "The child is too young for any of the courses.",
+          "The child could be placed in either Level 1 or Level 2.",
+          "The child must join the Saturday course.",
+          "The child can take lessons only if a parent is a member."
+        ],
+        "answer": 1,
+        "explanation": "Los 6 años aparecen tanto en el nivel 1 (4–6) como en el nivel 2 (6–9).",
+        "evidence": "Level 1 (ages 4–6)",
+        "optionNotes": [
+          "Hay cursos desde los 4 años.",
+          "Correcta: la edad 6 está en los dos rangos.",
+          "El sábado es el nivel 3 (9–12).",
+          "Ser socio sólo abarata el precio."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m2-router-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "module": "router",
+    "task": "daily-life",
+    "format": "email",
+    "title": "Order problem reply",
+    "text": "From: Customer Care, BrightHome Store\nTo: Kevin Moss\nSubject: Re: Order #48213\n\nDear Mr. Moss,\n\nThank you for contacting us about your order. We're sorry that the desk lamp arrived with a cracked base. We have sent a replacement, which should reach you within 3–5 business days. There is no need to return the damaged lamp; you may recycle it or keep it for parts.\n\nYou also asked about the bookshelf from the same order. It is currently out of stock at our warehouse and is expected to ship on May 22. If you would prefer not to wait, you can cancel that item from your account page and receive a full refund.\n\nBest regards,\nCustomer Care Team",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the email?",
+        "options": [
+          "To ask a customer to send back a damaged product",
+          "To advertise a new line of desk lamps",
+          "To reply to a customer's complaint and question about an order",
+          "To confirm that a customer has cancelled an order"
+        ],
+        "answer": 2,
+        "explanation": "Responde a Kevin sobre la lámpara rota y sobre la estantería por la que preguntó.",
+        "evidence": "Thank you for contacting us about your order.",
+        "optionNotes": [
+          "Al contrario: no hace falta devolverla.",
+          "No es publicidad.",
+          "Correcta.",
+          "Sólo se le explica que PUEDE cancelar la estantería."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What does the store say about the damaged lamp?",
+        "options": [
+          "Kevin does not need to send it back.",
+          "Kevin must return it within 3–5 days.",
+          "The store will repair its base.",
+          "Kevin will receive a refund for it."
+        ],
+        "answer": 0,
+        "explanation": "No hace falta devolver la lámpara dañada; ya le han enviado otra.",
+        "evidence": "There is no need to return the damaged lamp",
+        "optionNotes": [
+          "Correcta.",
+          "3–5 días laborables es el plazo de llegada de la lámpara nueva.",
+          "Le envían una de repuesto, no la reparan.",
+          "El reembolso se ofrece para la estantería, no para la lámpara."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred about Kevin's earlier message to the store?",
+        "options": [
+          "He asked for his money back for the lamp.",
+          "He said he wanted to cancel the bookshelf.",
+          "He asked about the bookshelf he had ordered.",
+          "He asked for a lamp in a different color."
+        ],
+        "answer": 2,
+        "explanation": "La tienda dice «You also asked about the bookshelf», así que Kevin había preguntado por ella (probablemente porque no le había llegado).",
+        "evidence": "You also asked about the bookshelf from the same order.",
+        "optionNotes": [
+          "No se dice; la tienda le envía otra lámpara.",
+          "La cancelación se le ofrece como opción; no la pidió.",
+          "Correcta.",
+          "No se menciona el color."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m2-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 2,
+    "module": "lower",
+    "task": "daily-life",
+    "format": "ad",
+    "title": "Piano lessons",
+    "text": "Piano Lessons for Beginners\n\nExperienced teacher offers piano lessons for children and adults. Lessons take place in my home studio on Birch Street, or online for students who live outside the city.\n\n30-minute lesson: $25\n60-minute lesson: $45\nYour first lesson is free!\n\nAvailable Monday to Friday, 3–8 p.m. No weekend lessons. To book, email Clara at clara.keys@mail.com.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "How much does a one-hour lesson cost?",
+        "options": [
+          "$25",
+          "It is free.",
+          "$50",
+          "$45"
+        ],
+        "answer": 3,
+        "explanation": "La clase de 60 minutos cuesta 45 $.",
+        "evidence": "60-minute lesson: $45",
+        "optionNotes": [
+          "Es la clase de 30 minutos.",
+          "Sólo la primera clase es gratis.",
+          "Serían dos clases de 30 minutos, pero la de una hora es más barata.",
+          "Correcta."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Who can take lessons online?",
+        "options": [
+          "Only adult students",
+          "Students who live outside the city",
+          "Students who live on Birch Street",
+          "Students taking their first lesson"
+        ],
+        "answer": 1,
+        "explanation": "Las clases online son para quienes viven fuera de la ciudad.",
+        "evidence": "online for students who live outside the city",
+        "optionNotes": [
+          "Hay clases para niños y adultos; la condición es el lugar de residencia.",
+          "Correcta.",
+          "En Birch Street está el estudio donde se dan las clases presenciales.",
+          "La primera clase es gratis, pero no tiene que ser online."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A student can take lessons only on Saturdays. What can be inferred?",
+        "options": [
+          "His first Saturday lesson will be free.",
+          "He will have to pay a higher price.",
+          "He can take lessons only online.",
+          "Clara will not be able to teach him."
+        ],
+        "answer": 3,
+        "explanation": "Clara sólo da clase de lunes a viernes y no hay clases en fin de semana.",
+        "evidence": "No weekend lessons.",
+        "optionNotes": [
+          "No hay clases los sábados.",
+          "No hay tarifa de fin de semana.",
+          "Las clases online tampoco son en fin de semana.",
+          "Correcta."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-m2-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 2,
+    "module": "upper",
+    "task": "daily-life",
+    "format": "notice",
+    "title": "Coworking space policy update",
+    "text": "Updated Policy for Hot Desk Members — Hive Workspace\n\nEffective March 1, hot desk members may reserve a desk up to seven days in advance, rather than the current two days. Reservations not checked in by 10 a.m. will be released automatically so that other members can use the desk.\n\nMeeting rooms remain available to all members at no charge for the first two hours each month. Additional time is billed at $15 per hour, except for Premium members, who receive ten free hours.\n\nFinally, because of repeated complaints about noise, phone calls are no longer permitted in the open work area. Members may use the phone booths on each floor, which do not require a reservation.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What change is being made to desk reservations?",
+        "options": [
+          "Desks can now be reserved further in advance.",
+          "Members must now check in by 9 a.m.",
+          "Reservations will now require a fee.",
+          "Only Premium members will be able to reserve desks."
+        ],
+        "answer": 0,
+        "explanation": "Antes se podía reservar con dos días de antelación; ahora con hasta siete.",
+        "evidence": "may reserve a desk up to seven days in advance, rather than the current two days",
+        "optionNotes": [
+          "Correcta.",
+          "El límite para hacer el check-in es las 10:00.",
+          "No se menciona ningún pago por reservar mesa.",
+          "La norma es para todos los miembros de hot desk."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A member who is not a Premium member uses a meeting room for a total of five hours in March. How much will she be charged?",
+        "options": [
+          "$0",
+          "$30",
+          "$45",
+          "$75"
+        ],
+        "answer": 2,
+        "explanation": "Las dos primeras horas del mes son gratis; las tres restantes se cobran a 15 $: 3 × 15 = 45 $.",
+        "evidence": "Additional time is billed at $15 per hour",
+        "optionNotes": [
+          "Sólo los Premium tienen diez horas gratis.",
+          "Serían dos horas cobradas.",
+          "Correcta.",
+          "Olvida las dos horas gratuitas (5 × 15)."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What will a member who needs to make a phone call most likely do?",
+        "options": [
+          "Reserve a meeting room in advance",
+          "Go to a phone booth without booking it",
+          "Make the call quietly at her desk",
+          "Book a phone booth at least a day ahead"
+        ],
+        "answer": 1,
+        "explanation": "Ya no se permiten llamadas en la zona abierta, y las cabinas telefónicas no necesitan reserva.",
+        "evidence": "Members may use the phone booths on each floor, which do not require a reservation.",
+        "optionNotes": [
+          "Posible, pero no es la solución que propone el aviso, y cuesta horas de sala.",
+          "Correcta.",
+          "Las llamadas ya no están permitidas en la zona abierta.",
+          "Las cabinas no requieren reserva."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "toefl-repeat-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "context": "You are training to be a guide at the university's science museum. Listen to your supervisor and repeat what she says.",
+    "visual": "A bright museum hall with a dinosaur skeleton in the centre and a family looking at a fossil display.",
+    "speaker": { "id": "sup", "name": "Dr. Ellen Park", "role": "Museum supervisor", "gender": "f", "accent": "en-US" },
+    "sentences": [
+      "Welcome to the science museum.",
+      "Please stay with your group.",
+      "This skeleton is about seventy million years old.",
+      "Visitors may touch the fossils on the blue table.",
+      "The planetarium show begins every hour on the second floor.",
+      "If anyone feels lost, they should look for a staff member wearing a green badge.",
+      "Before the tour ends, remind everyone that the gift shop closes thirty minutes before the museum does."
+    ]
+  },
+  {
+    "id": "toefl-repeat-02",
+    "difficulty": "easy",
+    "usage": "practice",
+    "context": "You are a new assistant at the campus library help desk. Listen to the head librarian and repeat what he says.",
+    "visual": "A library help desk with a computer, a stack of returned books and a sign that says Information.",
+    "speaker": { "id": "lib", "name": "Mr. Thomas Reid", "role": "Head librarian", "gender": "m", "accent": "en-GB" },
+    "sentences": [
+      "Good morning, how can I help?",
+      "Books are due in three weeks.",
+      "You can renew your loans on the library website.",
+      "Group study rooms must be booked at least a day ahead.",
+      "Students who return books late will receive an email reminder first.",
+      "The quiet reading area on the top floor is reserved for silent individual study.",
+      "If a student cannot find a book on the shelf, check the catalogue to see whether it has been borrowed."
+    ]
+  },
+  {
+    "id": "toefl-repeat-03",
+    "difficulty": "medium",
+    "usage": "practice",
+    "context": "You are working as a lab assistant in the chemistry department. Listen to the lab manager and repeat what she says.",
+    "visual": "A chemistry lab with students in white coats and safety glasses standing at long benches.",
+    "speaker": { "id": "mgr", "name": "Dr. Karen Walsh", "role": "Lab manager", "gender": "f", "accent": "en-AU" },
+    "sentences": [
+      "Put on your safety glasses.",
+      "Never eat or drink in the lab.",
+      "Each bench has its own sink and fire blanket.",
+      "Chemicals must be returned to the locked cabinet after use.",
+      "Please label every container clearly with the date and your initials.",
+      "If something spills, tell the instructor immediately instead of trying to clean it up yourself.",
+      "At the end of each session, students should wipe down their benches and switch off all the gas valves."
+    ]
+  },
+  {
+    "id": "toefl-repeat-04",
+    "difficulty": "easy",
+    "usage": "practice",
+    "context": "You have a summer job at a city botanical garden. Listen to the head gardener and repeat what he says.",
+    "visual": "A large glass greenhouse full of tropical plants, with a wooden path running through it.",
+    "speaker": { "id": "gar", "name": "Mr. Daniel Brooks", "role": "Head gardener", "gender": "m", "accent": "en-CA" },
+    "sentences": [
+      "This is the tropical greenhouse.",
+      "The air here is very humid.",
+      "Most of these plants come from South America.",
+      "Visitors should stay on the wooden path at all times.",
+      "We water the orchids early in the morning before the doors open.",
+      "Some of the plants in this room can only survive at temperatures above twenty degrees.",
+      "When guests ask about buying seeds, send them to the visitor centre beside the main entrance on the east side."
+    ]
+  },
+  {
+    "id": "toefl-repeat-05",
+    "difficulty": "medium",
+    "usage": "practice",
+    "context": "You are volunteering at the orientation week information tent. Listen to the student coordinator and repeat what she says.",
+    "visual": "A white tent on a campus lawn with maps, free water bottles and a banner reading Orientation Week.",
+    "speaker": { "id": "coord", "name": "Maya Johnson", "role": "Orientation coordinator", "gender": "f", "accent": "en-US" },
+    "sentences": [
+      "Hi, welcome to campus!",
+      "Here is a map of the university.",
+      "The student center is right across the main square.",
+      "New students can pick up their ID cards at the registrar's office.",
+      "There is a free campus tour leaving from this tent every forty-five minutes.",
+      "International students should attend the visa information session on Wednesday afternoon in the main auditorium.",
+      "If someone asks about housing problems, give them the residence office phone number printed on the back of the map."
+    ]
+  },
+  {
+    "id": "toefl-repeat-06",
+    "difficulty": "medium",
+    "usage": "practice",
+    "context": "You are training as a guide at an art gallery. Listen to the senior guide and repeat what he says.",
+    "visual": "A gallery room with large landscape paintings on white walls and a small group of visitors listening to a guide.",
+    "speaker": { "id": "guide", "name": "Oliver Grant", "role": "Senior gallery guide", "gender": "m", "accent": "en-GB" },
+    "sentences": [
+      "Please follow me this way.",
+      "Photography without flash is allowed.",
+      "This room contains paintings from the nineteenth century.",
+      "The artist painted most of these landscapes near the coast.",
+      "Notice how the light changes from one side of the canvas to the other.",
+      "Many critics at the time disliked this style, but it later became extremely popular.",
+      "Before we move on, I'd like you to compare this painting with the smaller one hanging beside the window."
+    ]
+  },
+  {
+    "id": "toefl-repeat-07",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You are starting work as a research assistant in a psychology lab. Listen to the principal investigator and repeat what she says.",
+    "visual": "A small room with a computer, a desk, two chairs and a consent form lying next to a pair of headphones.",
+    "speaker": { "id": "pi", "name": "Professor Linda Chen", "role": "Principal investigator", "gender": "f", "accent": "en-CA" },
+    "sentences": [
+      "Greet each participant warmly.",
+      "Ask them to read the consent form.",
+      "Participants can leave the study at any time without penalty.",
+      "Keep all of their personal information in the locked filing cabinet.",
+      "Make sure the headphones are working properly before each session begins.",
+      "Do not tell participants which condition they have been assigned to, because that could influence their responses.",
+      "After the final task, thank the participant, explain the purpose of the experiment, and give them the payment voucher."
+    ]
+  },
+  {
+    "id": "toefl-repeat-08",
+    "difficulty": "medium",
+    "usage": "practice",
+    "context": "You have a part-time job at the campus fitness center. Listen to the facility manager and repeat what he says.",
+    "visual": "A modern gym with treadmills by the windows, weight machines and a reception counter with towels.",
+    "speaker": { "id": "fac", "name": "Jake Morrison", "role": "Fitness center manager", "gender": "m", "accent": "en-AU" },
+    "sentences": [
+      "Please show your student card.",
+      "Towels are available at the front desk.",
+      "The swimming pool is closed for cleaning on Mondays.",
+      "Members must wipe down the machines after they use them.",
+      "Beginners can book a free session with a personal trainer each semester.",
+      "The yoga and spinning classes fill up quickly, so students should reserve a place online.",
+      "If anyone gets injured while exercising, call the first aid officer and fill out an incident report before your shift ends."
+    ]
+  }
+]

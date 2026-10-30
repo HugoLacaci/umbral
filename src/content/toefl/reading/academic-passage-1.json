@@ -1,0 +1,922 @@
+[
+  {
+    "id": "toefl-ap-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Torpor in Hummingbirds",
+    "text": "Hummingbirds have the highest metabolic rate of any warm-blooded animal. To power their rapid wingbeats, which can exceed fifty per second, they must eat nectar almost constantly during the day. This creates a serious problem at night. A hummingbird cannot feed in the dark, yet its small body loses heat quickly, and staying warm requires a great deal of energy. Without a special strategy, many hummingbirds would use up their energy reserves before morning.\n\nTheir solution is a state called torpor. On cold nights, a hummingbird lowers its body temperature by as much as 20 degrees Celsius, and its heart rate drops from over 1,000 beats per minute to fewer than 100. In this condition, the bird uses up to 95 percent less energy than it would if it stayed fully active. Torpor resembles hibernation, but it lasts only a few hours rather than an entire season.\n\nTorpor is not without cost, however. A bird in torpor cannot respond quickly to danger, and warming up again in the morning can take twenty minutes or more. For this reason, hummingbirds appear to use torpor only when it is necessary. Researchers have found that well-fed birds often remain at normal temperature through mild nights, whereas birds with low fat reserves enter torpor much more readily.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "How hummingbirds find nectar in the dark",
+          "How hummingbirds use torpor to survive nights when they cannot feed",
+          "Why hummingbirds beat their wings faster than other birds",
+          "How torpor in hummingbirds differs from hibernation in mammals"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Contradicted: the passage says a hummingbird cannot feed in the dark.",
+          "Correct: the passage presents the night-time energy problem, explains torpor as the solution and discusses its costs.",
+          "Wingbeats are mentioned only to explain the high energy use; no comparison with other birds is made.",
+          "The comparison with hibernation is a single minor detail in paragraph 2, not the main topic."
+        ],
+        "explanation": "Paragraph 1 sets up a problem (no feeding at night, rapid heat loss), paragraph 2 gives the solution (torpor) and paragraph 3 describes its costs and when it is used. Only the correct option covers the whole passage.",
+        "evidence": "Their solution is a state called torpor."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, what happens to a hummingbird during torpor?",
+        "options": [
+          "Its heart rate falls to fewer than 100 beats per minute.",
+          "It continues to feed, but more slowly than usual.",
+          "Its body temperature rises to protect it from the cold.",
+          "It remains inactive for an entire season."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the heart rate drops from over 1,000 to fewer than 100 beats per minute.",
+          "Not stated, and paragraph 1 says the bird cannot feed at night.",
+          "Opposite: the body temperature is lowered by as much as 20 degrees.",
+          "Distorted: that describes hibernation; torpor lasts only a few hours."
+        ],
+        "explanation": "Paragraph 2 lists the changes during torpor: lower body temperature and a heart rate that falls to fewer than 100 beats per minute.",
+        "evidence": "its heart rate drops from over 1,000 beats per minute to fewer than 100"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"readily\" in the passage is closest in meaning to",
+        "options": [
+          "slowly",
+          "easily",
+          "rarely",
+          "safely"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Opposite in sense: birds with low reserves enter torpor more quickly, not more slowly.",
+          "Correct: \"readily\" means easily or willingly; hungry birds enter torpor more easily.",
+          "Opposite: the sentence contrasts these birds with well-fed birds that often avoid torpor.",
+          "Not the meaning; the sentence is about how easily, not how safely, birds enter torpor."
+        ],
+        "explanation": "The sentence contrasts well-fed birds, which often stay at normal temperature, with birds with low fat reserves, which enter torpor \"much more readily\", that is, much more easily.",
+        "evidence": "birds with low fat reserves enter torpor much more readily"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 3 about a hummingbird that has fed well during the day?",
+        "options": [
+          "It is likely to enter torpor every night.",
+          "It is unable to warm up in the morning.",
+          "It may avoid torpor on a mild night because it has enough energy reserves.",
+          "It is more vulnerable to predators at night than a hungry bird."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: well-fed birds often remain at normal temperature on mild nights.",
+          "Not supported: warming up is slow after torpor, and a well-fed bird may not enter torpor at all.",
+          "Correct: well-fed birds often stay at normal temperature, so their reserves let them skip torpor when nights are mild.",
+          "Opposite: staying active means it can respond to danger, so it is likely less vulnerable."
+        ],
+        "explanation": "The passage says torpor is used only when necessary and that well-fed birds often do not enter it on mild nights. We can infer that sufficient energy reserves make torpor unnecessary.",
+        "evidence": "Researchers have found that well-fed birds often remain at normal temperature through mild nights"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that a bird in torpor \"cannot respond quickly to danger\"?",
+        "options": [
+          "To explain why hummingbirds are often caught by predators",
+          "To argue that torpor is less useful than hibernation",
+          "To suggest that hummingbirds have poor eyesight at night",
+          "To illustrate a disadvantage that helps explain why torpor is used only when necessary"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Overstated: the passage never says hummingbirds are often caught.",
+          "Not argued: the passage does not judge torpor against hibernation.",
+          "Not mentioned anywhere in the passage.",
+          "Correct: it is one of the costs of torpor, which leads to the conclusion that birds use it only when necessary."
+        ],
+        "explanation": "Paragraph 3 opens with \"Torpor is not without cost\" and gives two costs: slow reaction to danger and slow warming. These costs explain why the birds use torpor only when necessary.",
+        "evidence": "A bird in torpor cannot respond quickly to danger"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-02",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "How Cave Formations Grow",
+    "text": "Many limestone caves contain striking rock formations that hang from the ceiling or rise from the floor. Those that hang down are called stalactites, and those that grow upward are called stalagmites. Although they can look like carved sculptures, both are produced by a slow and simple chemical process involving water and a mineral called calcite.\n\nThe process begins above the cave. As rainwater soaks through soil, it absorbs carbon dioxide and becomes slightly acidic. This weak acid dissolves calcite from the limestone as the water travels downward through cracks in the rock. When a drop of this mineral-rich water reaches the open air of the cave, it releases some of its carbon dioxide. As a result, the water can no longer hold all of its dissolved calcite, and a tiny ring of mineral is left behind on the ceiling. Over thousands of years, these rings build up into a stalactite. Water that falls to the floor deposits more calcite there, gradually forming a stalagmite directly below.\n\nCave formations usually grow extremely slowly, often less than a centimeter per century. Because their growth depends on water seeping in from the surface, they can also record changes in past climates. Scientists study the layers inside them in much the same way that others study tree rings.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the main idea of the passage?",
+        "options": [
+          "Stalactites and stalagmites form slowly as water deposits calcite inside caves.",
+          "Limestone caves are created when acidic water dissolves rock.",
+          "Scientists use cave formations mainly to measure present-day rainfall.",
+          "Stalactites grow much faster than stalagmites."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the passage explains how both formations are built by calcite left behind by water over long periods.",
+          "Related but off focus: the passage explains how formations grow, not how the caves themselves are created.",
+          "Distorted: the formations record past climates, not present-day rainfall.",
+          "Not mentioned: the passage gives no comparison of their growth rates."
+        ],
+        "explanation": "Paragraph 1 introduces the two formations and says both come from a chemical process involving water and calcite; paragraphs 2 and 3 explain the process and its slowness.",
+        "evidence": "both are produced by a slow and simple chemical process involving water and a mineral called calcite"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, why does a drop of water leave calcite on the cave ceiling?",
+        "options": [
+          "The water freezes when it reaches the cold air of the cave.",
+          "The water releases carbon dioxide and can no longer hold all of its dissolved calcite.",
+          "The water absorbs additional acid from the air in the cave.",
+          "The water mixes with soil that falls from the ceiling."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not mentioned: freezing plays no part in the process described.",
+          "Correct: losing carbon dioxide means the water can no longer hold all the calcite.",
+          "Opposite: the water absorbs carbon dioxide in the soil and releases it in the cave.",
+          "Not mentioned: soil is involved only above the cave."
+        ],
+        "explanation": "The passage describes a cause and effect: in the cave air the drop releases carbon dioxide, and as a result it can no longer hold all its calcite, so a ring of mineral is left.",
+        "evidence": "As a result, the water can no longer hold all of its dissolved calcite"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"it\" in the phrase \"it releases some of its carbon dioxide\" in paragraph 2 refers to",
+        "options": [
+          "the cave",
+          "the open air",
+          "the limestone",
+          "a drop of mineral-rich water"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The cave does not contain carbon dioxide that it releases; it is where the drop arrives.",
+          "The open air is what the drop reaches, not what releases the gas.",
+          "The limestone is the source of calcite, not the subject of this sentence.",
+          "Correct: the drop of water, which absorbed carbon dioxide in the soil, releases it in the cave."
+        ],
+        "explanation": "The subject of the clause is the drop that \"reaches the open air of the cave\"; it is the drop that had absorbed carbon dioxide earlier and now releases some of it.",
+        "evidence": "When a drop of this mineral-rich water reaches the open air of the cave, it releases some of its carbon dioxide."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"gradually\" in the passage is closest in meaning to",
+        "options": [
+          "suddenly",
+          "little by little",
+          "completely",
+          "accidentally"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Opposite: the passage stresses that the process is very slow.",
+          "Correct: \"gradually\" means slowly, in small steps over time.",
+          "Not the meaning; the word describes speed, not completeness.",
+          "Not the meaning; the process is natural but not described as accidental."
+        ],
+        "explanation": "The stalagmite is built up drop by drop over a long time, so \"gradually\" means little by little.",
+        "evidence": "gradually forming a stalagmite directly below"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 3 about the layers inside cave formations?",
+        "options": [
+          "They are all the same thickness.",
+          "They form mainly during very dry years.",
+          "They can reveal how conditions at the surface changed over time.",
+          "They grow faster than tree rings."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Unlikely: if the layers record climate changes, they must differ from one another.",
+          "Not supported: growth depends on water seeping in, so dry years would produce little growth.",
+          "Correct: growth depends on surface water, so the layers preserve a record of past climate.",
+          "Not stated: tree rings are mentioned only as a comparison of method, not of speed."
+        ],
+        "explanation": "Because growth depends on water coming from the surface, differences between layers reflect differences in past climate, which is why scientists study them like tree rings.",
+        "evidence": "Because their growth depends on water seeping in from the surface, they can also record changes in past climates."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-03",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Why We See Only One Side of the Moon",
+    "text": "Anyone who looks at the Moon over many months will notice something curious: the same dark patches and bright craters are always visible. People on Earth never see the far side of the Moon. This is not because the Moon does not rotate. In fact, it spins on its axis exactly once during each trip around Earth, so the same face always points toward us. Astronomers call this situation tidal locking.\n\nTidal locking is caused by gravity. Earth's gravity pulls more strongly on the side of the Moon that is closer to it, stretching the Moon slightly into an oval shape. Long ago, when the young Moon spun faster, this bulge was constantly being pulled out of line with Earth. The resulting friction inside the Moon acted like a brake, slowing its rotation over millions of years until its spin matched its orbit. Once this happened, the bulge stayed pointed toward Earth, and the slowing stopped.\n\nTidal locking is common in the solar system. Most large moons of Jupiter and Saturn always show the same face to their planets. The process also works in the other direction. The Moon's gravity is gradually slowing Earth's rotation, which means that days on Earth are becoming very slightly longer.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "The scientific exploration of the far side of the Moon",
+          "Similarities in size between Earth's Moon and the moons of Jupiter",
+          "Why the Moon stopped rotating millions of years ago",
+          "How gravity caused the Moon to rotate at a rate that keeps one face toward Earth"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not mentioned: the passage says we never see the far side, but says nothing about exploring it.",
+          "Not mentioned: the passage compares locking, not size.",
+          "Opposite: the Moon still rotates; its spin slowed until it matched its orbit.",
+          "Correct: the passage explains tidal locking, its cause (gravity and friction) and how common it is."
+        ],
+        "explanation": "The passage defines tidal locking (paragraph 1), explains how gravity produced it (paragraph 2) and notes that it is common (paragraph 3).",
+        "evidence": "In fact, it spins on its axis exactly once during each trip around Earth, so the same face always points toward us."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"it\" in the phrase \"the side of the Moon that is closer to it\" refers to",
+        "options": [
+          "Earth",
+          "the Moon",
+          "the side",
+          "the oval shape"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: Earth's gravity pulls more strongly on the side of the Moon that is closer to Earth.",
+          "Illogical: a side of the Moon cannot be closer to the Moon itself.",
+          "\"The side\" is what is closer; it cannot be closer to itself.",
+          "The oval shape is the result described later in the sentence, not a reference point."
+        ],
+        "explanation": "The sentence compares distances from Earth: the near side of the Moon is closer to Earth, so Earth's gravity pulls on it more strongly.",
+        "evidence": "Earth's gravity pulls more strongly on the side of the Moon that is closer to it"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, what slowed the Moon's rotation?",
+        "options": [
+          "Collisions with asteroids and comets",
+          "The pull of the Sun's gravity",
+          "Friction inside the Moon caused by its bulge being pulled out of line with Earth",
+          "The Moon's movement into a larger orbit"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not mentioned in the passage.",
+          "Not mentioned: only Earth's gravity is discussed.",
+          "Correct: the internal friction \"acted like a brake\".",
+          "Not mentioned: the passage does not discuss changes in the Moon's orbit."
+        ],
+        "explanation": "The bulge was constantly pulled out of line with Earth, and the resulting friction inside the Moon worked as a brake on its spin.",
+        "evidence": "The resulting friction inside the Moon acted like a brake"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"constantly\" in the passage is closest in meaning to",
+        "options": [
+          "occasionally",
+          "continually",
+          "violently",
+          "barely"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Opposite: \"occasionally\" means only sometimes.",
+          "Correct: \"constantly\" means all the time, without stopping.",
+          "Describes force, not frequency.",
+          "Means \"hardly at all\", which does not fit."
+        ],
+        "explanation": "While the young Moon spun faster than it orbited, the bulge was being pulled out of line all the time, that is, continually.",
+        "evidence": "this bulge was constantly being pulled out of line with Earth"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention the moons of Jupiter and Saturn?",
+        "options": [
+          "To argue that these moons are older than Earth's Moon",
+          "To explain why the Moon has an oval bulge",
+          "To contrast moons that rotate with moons that do not",
+          "To show that tidal locking is not unique to Earth's Moon"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not mentioned: the passage says nothing about the age of these moons.",
+          "The bulge is explained in paragraph 2 with reference to Earth only.",
+          "No contrast is made; these moons are given as similar examples.",
+          "Correct: they illustrate the claim that tidal locking is common in the solar system."
+        ],
+        "explanation": "The moons of Jupiter and Saturn come right after the statement that tidal locking is common, so they serve as supporting examples.",
+        "evidence": "Tidal locking is common in the solar system."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-04",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Westward Journey of Paper",
+    "text": "Paper was invented in China, where officials were recording texts on it by the second century CE. For hundreds of years, the technique of making paper from plant fibers soaked in water, beaten into pulp, and dried on screens remained largely unknown outside East Asia. Elsewhere, people wrote on materials such as papyrus, which was produced almost entirely in Egypt, or parchment, which was made from animal skins and was expensive to produce.\n\nThe knowledge of papermaking spread west along trade routes. By the late eighth century, paper mills were operating in Baghdad, then one of the largest cities in the world. Government offices there adopted paper quickly because it was cheaper than parchment and, unlike papyrus, could be produced locally. Documents written on paper were also harder to alter without leaving visible marks, which made the material attractive for official records.\n\nFrom the Middle East, papermaking moved across North Africa and into Spain, and by the thirteenth century there were mills in Italy. When printing presses appeared in Europe in the fifteenth century, they depended on this supply. Without a cheap, plentiful writing surface, the printed book would have remained a luxury few could afford.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the main idea of the passage?",
+        "options": [
+          "Paper replaced papyrus in Egypt during the second century.",
+          "The printing press was invented because paper had become cheap.",
+          "Papermaking spread gradually from China to the Middle East and Europe, with important consequences.",
+          "Parchment was the most common writing material in medieval Baghdad."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not stated: the second century is when paper was used in China.",
+          "Distorted: the passage says presses depended on paper, not that paper caused their invention.",
+          "Correct: the passage traces paper's spread west and ends with its importance for printed books.",
+          "Not supported: Baghdad's offices adopted paper because it was cheaper than parchment."
+        ],
+        "explanation": "Paragraph 1 starts in China, paragraph 2 follows the technique to Baghdad, and paragraph 3 follows it to Europe and explains its effect on printing.",
+        "evidence": "The knowledge of papermaking spread west along trade routes."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, which was one reason government offices in Baghdad adopted paper?",
+        "options": [
+          "Unlike papyrus, it could be made locally.",
+          "It lasted longer than parchment.",
+          "It was required by Chinese trading partners.",
+          "It was easier to erase and correct."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the passage says paper, unlike papyrus, could be produced locally.",
+          "Not mentioned: the comparison with parchment is about price, not durability.",
+          "Not mentioned in the passage.",
+          "Opposite: paper was harder to alter without leaving marks."
+        ],
+        "explanation": "Paragraph 2 gives three advantages: it was cheaper than parchment, it could be produced locally, and it was hard to alter secretly.",
+        "evidence": "unlike papyrus, could be produced locally"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"alter\" in the passage is closest in meaning to",
+        "options": [
+          "read",
+          "copy",
+          "change",
+          "sign"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Reading a document would not leave visible marks.",
+          "Copying produces a new document; it does not leave marks on the original.",
+          "Correct: \"alter\" means change; changes to paper documents left visible marks.",
+          "Signing is a normal part of a document, not something that would be hidden."
+        ],
+        "explanation": "The point is security for official records: it was hard to change the text on paper without the change being visible.",
+        "evidence": "Documents written on paper were also harder to alter without leaving visible marks"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"they\" in paragraph 3 refers to",
+        "options": [
+          "paper mills",
+          "printing presses",
+          "printed books",
+          "writing surfaces"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The mills produced the supply; they did not depend on it.",
+          "Correct: the printing presses that appeared in Europe depended on the supply of paper.",
+          "Books are mentioned only in the following sentence.",
+          "Writing surfaces are the supply itself, not what depended on it."
+        ],
+        "explanation": "In \"When printing presses appeared in Europe in the fifteenth century, they depended on this supply\", the only plural noun that fits as subject is \"printing presses\".",
+        "evidence": "When printing presses appeared in Europe in the fifteenth century, they depended on this supply."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 3 about books in Europe if cheap paper had not been available?",
+        "options": [
+          "They would have been printed mainly in Spain.",
+          "They would have been cheaper than handwritten texts.",
+          "They would have been written mostly on papyrus.",
+          "They would have been too costly for most people to own."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not supported: Spain is mentioned only as a stage in paper's spread.",
+          "Not supported: the passage says nothing about their price relative to handwritten texts.",
+          "Not supported: papyrus came almost entirely from Egypt, and the passage does not suggest Europe would have used it.",
+          "Correct: \"a luxury few could afford\" means most people could not have bought them."
+        ],
+        "explanation": "The last sentence states that without cheap paper the printed book would have remained a luxury, so most people could not have afforded one.",
+        "evidence": "Without a cheap, plentiful writing surface, the printed book would have remained a luxury few could afford."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-05",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Spacing Effect",
+    "text": "Students preparing for an exam often study for many hours the night before. This approach, sometimes called cramming, can help a person remember information for a short time. However, decades of research on memory show that it is far less effective for long-term learning than spreading the same amount of study over several days. Psychologists call this pattern the spacing effect.\n\nIn a typical experiment, two groups learn the same list of foreign words. One group studies the list for an hour in a single session. The other group studies it for twenty minutes on each of three different days. When both groups are tested a month later, the second group usually remembers considerably more, even though the total study time was identical.\n\nSeveral explanations have been proposed. One is that when some time passes between sessions, a learner partly forgets the material. Retrieving it again requires effort, and this effort appears to strengthen the memory. Studying everything at once, in contrast, feels easy because the information is still fresh, but that ease can be misleading. Learners who cram often believe they know the material well, which may explain why the practice remains so popular despite the evidence against it.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "Why cramming is the most efficient way to prepare for exams",
+          "Why foreign words are harder to learn than other material",
+          "How spreading study over time produces better long-term memory than studying all at once",
+          "Why students forget most of what they learn within a month"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Opposite: the passage says cramming is far less effective for long-term learning.",
+          "Not mentioned: foreign words are simply the material used in one experiment.",
+          "Correct: the passage defines the spacing effect, gives experimental support and explains it.",
+          "Distorted: the experiment shows one group remembering considerably more after a month."
+        ],
+        "explanation": "All three paragraphs concern the spacing effect: its definition, an experiment that demonstrates it and possible explanations.",
+        "evidence": "it is far less effective for long-term learning than spreading the same amount of study over several days"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, how did the two groups in the experiment differ?",
+        "options": [
+          "One group studied for more total time than the other.",
+          "They divided the same amount of study time differently.",
+          "They studied different lists of words.",
+          "One group was tested a month earlier than the other."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Contradicted: the total study time was identical (one hour).",
+          "Correct: one hour in one session versus three sessions of twenty minutes.",
+          "Contradicted: both groups learned the same list.",
+          "Contradicted: both groups were tested a month later."
+        ],
+        "explanation": "The only difference was the schedule: 60 minutes at once versus 3 × 20 minutes on different days.",
+        "evidence": "even though the total study time was identical"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author describe an experiment with two groups in paragraph 2?",
+        "options": [
+          "To provide evidence for the spacing effect described in paragraph 1",
+          "To show that foreign languages are best learned in groups",
+          "To challenge the explanations given in paragraph 3",
+          "To explain why cramming remains popular"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the experiment demonstrates that spaced study leads to better long-term memory.",
+          "Not the point: \"groups\" refers to experimental groups, not group learning.",
+          "The experiment comes before the explanations and does not challenge them.",
+          "The popularity of cramming is discussed at the end of paragraph 3, not here."
+        ],
+        "explanation": "Paragraph 1 states the claim; paragraph 2 offers a typical experiment whose result supports it.",
+        "evidence": "When both groups are tested a month later, the second group usually remembers considerably more"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"misleading\" in the passage is closest in meaning to",
+        "options": [
+          "tiring",
+          "helpful",
+          "temporary",
+          "deceptive"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Opposite in context: cramming is described as feeling easy.",
+          "Opposite: the ease gives a false impression, so it is not helpful.",
+          "Not the meaning; the problem is that the feeling is false, not short.",
+          "Correct: the feeling of ease gives a false impression of how well the material is known."
+        ],
+        "explanation": "The next sentence explains it: crammers believe they know the material well, which is a false impression. \"Misleading\" means deceptive.",
+        "evidence": "but that ease can be misleading"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What does the author suggest about students who cram?",
+        "options": [
+          "They usually study fewer hours in total than other students.",
+          "They may overestimate how well they have learned the material.",
+          "They perform worse than others on tests taken the next day.",
+          "They are fully aware that cramming is ineffective."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not supported: the passage compares schedules with equal total time.",
+          "Correct: they \"often believe they know the material well\" even though the ease is misleading.",
+          "Contradicted: cramming can help a person remember information for a short time.",
+          "Opposite: their belief that they know the material keeps the practice popular."
+        ],
+        "explanation": "Because the information is fresh, studying feels easy, and crammers believe they know it well. Since that ease is misleading, they overestimate their learning.",
+        "evidence": "Learners who cram often believe they know the material well"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-06",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Urban Heat Islands",
+    "text": "On a summer afternoon, the center of a large city can be several degrees warmer than the countryside around it. This difference, known as the urban heat island effect, is often greatest after sunset. Rural areas cool quickly at night, but cities continue to release heat that was stored during the day.\n\nSeveral features of cities contribute to the effect. Dark surfaces such as asphalt roads and tar roofs absorb most of the sunlight that strikes them instead of reflecting it. Concrete and brick store this heat and release it slowly. Cities also have fewer trees and plants than rural areas. Vegetation cools its surroundings by releasing water vapor through its leaves, a process similar to the way sweating cools the human body. In addition, cars, air conditioners, and factories produce waste heat directly.\n\nUrban heat islands are more than a minor discomfort. Higher temperatures increase the demand for electricity to run air conditioners, and during heat waves they can become dangerous for elderly residents. To reduce the problem, some cities now paint roofs white, plant trees along streets, and create parks. These measures lower surface temperatures and, in the case of trees, also provide shade for pedestrians.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the main idea of the passage?",
+        "options": [
+          "Cities are warmer than the surrounding countryside for several reasons, which causes problems that can be reduced.",
+          "Air conditioners are the main cause of high temperatures in cities.",
+          "Rural areas are becoming warmer because of nearby cities.",
+          "Planting trees is the only effective way to cool a city."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the passage defines the effect, explains its causes, and describes its problems and solutions.",
+          "Distorted: air conditioners are only one of several sources of heat.",
+          "Not mentioned: rural areas are described as cooling quickly at night.",
+          "Contradicted: white roofs and parks are also mentioned."
+        ],
+        "explanation": "Paragraph 1 defines the effect, paragraph 2 lists its causes, and paragraph 3 describes its consequences and remedies.",
+        "evidence": "the center of a large city can be several degrees warmer than the countryside around it"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention \"the way sweating cools the human body\"?",
+        "options": [
+          "To explain why heat waves are dangerous for elderly people",
+          "To help readers understand how plants cool the air around them",
+          "To argue that city residents sweat more than people in the countryside",
+          "To give an example of waste heat produced in cities"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The danger to elderly residents is mentioned in paragraph 3, unrelated to this comparison.",
+          "Correct: the comparison explains the cooling effect of plants releasing water vapor.",
+          "Not mentioned: no comparison of how much people sweat is made.",
+          "Waste heat comes from cars, air conditioners and factories, not from sweating."
+        ],
+        "explanation": "The author uses a familiar process (sweating) to explain a less familiar one (plants releasing water vapor through leaves).",
+        "evidence": "Vegetation cools its surroundings by releasing water vapor through its leaves, a process similar to the way sweating cools the human body."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"absorb\" in the passage is closest in meaning to",
+        "options": [
+          "give off",
+          "shine on",
+          "take in",
+          "break up"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Opposite: giving off is what happens later, when the heat is released.",
+          "Sunlight shines on surfaces; the surfaces do not shine on it.",
+          "Correct: dark surfaces take in sunlight instead of reflecting it.",
+          "Not the meaning; nothing is broken."
+        ],
+        "explanation": "\"Absorb\" is contrasted with \"reflecting\": the surfaces take in the light rather than sending it back.",
+        "evidence": "absorb most of the sunlight that strikes them instead of reflecting it"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"they\" in the phrase \"during heat waves they can become dangerous for elderly residents\" refers to",
+        "options": [
+          "air conditioners",
+          "heat waves",
+          "elderly residents",
+          "higher temperatures"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Air conditioners are mentioned, but they are not what becomes dangerous.",
+          "\"Heat waves\" is part of the time phrase \"during heat waves\", so it cannot be the subject.",
+          "The residents are the ones in danger, not the source of danger.",
+          "Correct: higher temperatures, the subject of the sentence, become dangerous during heat waves."
+        ],
+        "explanation": "The sentence has two clauses with the same subject: higher temperatures increase electricity demand, and they can become dangerous during heat waves.",
+        "evidence": "Higher temperatures increase the demand for electricity to run air conditioners, and during heat waves they can become dangerous for elderly residents."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred about painting roofs white?",
+        "options": [
+          "White roofs reflect more sunlight than dark roofs do.",
+          "White roofs provide shade for pedestrians.",
+          "White roofs are more expensive than tar roofs.",
+          "White roofs store more heat than brick does."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: dark roofs absorb sunlight instead of reflecting it, so white roofs cool cities by reflecting more of it.",
+          "Distorted: shade is provided by trees, not roofs.",
+          "Not mentioned: the passage gives no information about cost.",
+          "Opposite: storing more heat would make the problem worse."
+        ],
+        "explanation": "Paragraph 2 blames dark surfaces for absorbing light instead of reflecting it; painting roofs white is offered as a remedy, which implies white surfaces reflect more light.",
+        "evidence": "Dark surfaces such as asphalt roads and tar roofs absorb most of the sunlight that strikes them instead of reflecting it."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-07",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "From Pidgin to Creole",
+    "text": "When people who share no common language are brought into regular contact, they often develop a simplified means of communication known as a pidgin. Pidgins have typically arisen in settings such as trading ports and plantations, where speakers of several languages needed to cooperate for practical purposes. A pidgin usually draws most of its vocabulary from one dominant language, while its pronunciation and sentence patterns are shaped by the speakers' native languages. Because it serves limited functions, a pidgin has a small vocabulary and few grammatical rules, and nobody speaks it as a first language.\n\nThe situation changes dramatically when children grow up in a community where a pidgin is the main shared language. These children do not simply copy the reduced system they hear. Instead, within a generation or two, they expand it into a full language, called a creole, with a larger vocabulary and consistent grammatical structures, such as markers for tense and ways of forming complex sentences.\n\nThis transformation has attracted considerable attention from linguists. Some argue that the speed with which children build a creole reveals an innate human capacity for grammar, since the children seem to create rules that were not present in the language around them. Others contend that the new structures can be traced to the languages spoken by the children's parents. The debate remains unresolved, but both sides agree that creoles are complete languages, not broken versions of their parent languages.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, where does a pidgin get most of its vocabulary?",
+        "options": [
+          "Equally from the native languages of all its speakers",
+          "From the official language of the local government",
+          "From words invented by children",
+          "From one dominant language"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Distorted: the native languages shape pronunciation and sentence patterns, not most of the vocabulary.",
+          "Not mentioned in the passage.",
+          "Distorted: children are discussed in paragraph 2, in relation to creoles.",
+          "Correct: the vocabulary is drawn mostly from one dominant language."
+        ],
+        "explanation": "Paragraph 1 separates the sources: vocabulary from one dominant language, pronunciation and sentence patterns from the speakers' own languages.",
+        "evidence": "A pidgin usually draws most of its vocabulary from one dominant language"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "Based on paragraph 1, a person who speaks a pidgin most likely",
+        "options": [
+          "also speaks another language as a first language",
+          "learned the pidgin from his or her parents in early childhood",
+          "uses the pidgin mainly to write literature",
+          "speaks only the dominant language of the region"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: since nobody speaks a pidgin as a first language, every speaker must have another native language.",
+          "Contradicted: learning it from parents in childhood would make it a first language, which the passage rules out.",
+          "Not supported: pidgins serve limited, practical functions such as trade and work.",
+          "Contradicted: the speakers have their own native languages that shape the pidgin."
+        ],
+        "explanation": "The passage says no one speaks a pidgin as a first language and that speakers bring their own native languages into it. So a pidgin speaker has another first language.",
+        "evidence": "nobody speaks it as a first language"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"dramatically\" in the passage is closest in meaning to",
+        "options": [
+          "slightly",
+          "temporarily",
+          "strikingly",
+          "gradually"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Opposite: the change produces a whole new, full language.",
+          "Not the meaning; the change is lasting, producing a creole.",
+          "Correct: \"dramatically\" means in a striking, very noticeable way.",
+          "Tempting because the change takes a generation or two, but \"dramatically\" describes size, not speed."
+        ],
+        "explanation": "A limited pidgin becomes a full language with consistent grammar. This is a large, striking change.",
+        "evidence": "The situation changes dramatically"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"it\" in the phrase \"they expand it into a full language\" refers to",
+        "options": [
+          "a community",
+          "a generation",
+          "a creole",
+          "the reduced system the children hear"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "A community cannot be expanded into a language.",
+          "\"A generation\" is part of a time expression, not the object of \"expand\".",
+          "The creole is the result of the expansion, not what is expanded.",
+          "Correct: children expand the reduced system (the pidgin) into a creole."
+        ],
+        "explanation": "The previous sentence says children do not simply copy the reduced system they hear; instead they expand it into a full language.",
+        "evidence": "they expand it into a full language"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that children \"seem to create rules that were not present in the language around them\"?",
+        "options": [
+          "To explain the reasoning behind one side of the debate about how creoles develop",
+          "To show that children often make grammatical errors",
+          "To prove that creoles are simpler than pidgins",
+          "To argue that parents' languages have no influence on creoles"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: it is the reason (\"since…\") given by those who believe in an innate capacity for grammar.",
+          "Not suggested: the new rules are presented as creative, not as mistakes.",
+          "Opposite: creoles have larger vocabularies and more consistent grammar than pidgins.",
+          "Too strong: the author reports the opposing view and says the debate is unresolved."
+        ],
+        "explanation": "The phrase follows \"since\" and supports the first position in the debate: that children have an innate capacity for grammar. The author does not take a side.",
+        "evidence": "since the children seem to create rules that were not present in the language around them"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-08",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Technique of True Fresco",
+    "text": "Many of the most admired wall paintings of Renaissance Italy were created using a technique called buon fresco, or \"true fresco.\" In this method, the artist applies pigments mixed only with water directly onto a layer of wet lime plaster. As the plaster dries, a chemical reaction with carbon dioxide in the air turns the lime into calcium carbonate, which binds the pigment particles into the wall itself. The color therefore becomes part of the surface rather than sitting on top of it, which is why well-preserved frescoes can retain their brilliance for centuries.\n\nThe technique imposed strict demands on painters. Because the plaster remained workable for only a single day, artists had to divide a large composition into sections, each called a giornata, from the Italian word for \"day.\" Each morning, a plasterer spread only as much fresh plaster as the painter could cover before evening. Any unfinished area had to be cut away and replastered. Careful observers can still detect the faint seams between these daily sections, and art historians use them to estimate how long a work took to complete.\n\nErrors were difficult to correct. Once the plaster had set, changes could be made only with paint applied to the dry surface, a method known as fresco secco. Such additions, however, did not bond with the wall and tended to flake off over time. For this reason, some details recorded in early descriptions of famous frescoes have since disappeared.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "The invention of fresco painting during the Renaissance",
+          "How true fresco bonds paint to wet plaster, producing lasting color but demanding careful planning",
+          "Why most Renaissance painters preferred fresco secco",
+          "New methods for restoring damaged frescoes"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not stated: the passage describes how the technique was used, not when it was invented.",
+          "Correct: the passage explains the chemistry, the daily working method and the difficulty of corrections.",
+          "Contradicted: fresco secco was used only for corrections, and its additions flaked off.",
+          "Not mentioned: restoration is not discussed."
+        ],
+        "explanation": "Paragraph 1 explains how true fresco works and why it lasts; paragraphs 2 and 3 describe the demands and limits it imposed on painters.",
+        "evidence": "In this method, the artist applies pigments mixed only with water directly onto a layer of wet lime plaster."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, why can true frescoes keep their color for centuries?",
+        "options": [
+          "The pigments are mixed with oil before being applied.",
+          "A final layer of fresh plaster protects the painting.",
+          "The pigment becomes bound into the wall as the plaster dries.",
+          "The colors are applied after the plaster has completely dried."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: the pigments are mixed only with water.",
+          "Not mentioned: no protective layer is described.",
+          "Correct: calcium carbonate binds the pigment into the wall, so the color is part of the surface.",
+          "Opposite: that describes fresco secco, whose paint flakes off."
+        ],
+        "explanation": "The chemical reaction in the drying plaster binds the pigment into the wall, which is why the color lasts.",
+        "evidence": "which binds the pigment particles into the wall itself"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"retain\" in the passage is closest in meaning to",
+        "options": [
+          "keep",
+          "lose",
+          "reflect",
+          "recover"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: well-preserved frescoes keep their brilliance.",
+          "Opposite of \"retain\".",
+          "Not the meaning; the sentence is about lasting, not light.",
+          "\"Recover\" implies the color was lost first, which the sentence does not say."
+        ],
+        "explanation": "Because the color is part of the wall, it does not wear away, so frescoes keep (retain) their brilliance.",
+        "evidence": "well-preserved frescoes can retain their brilliance for centuries"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention the \"faint seams between these daily sections\"?",
+        "options": [
+          "To criticize the skill of Renaissance plasterers",
+          "To explain why frescoes tend to flake",
+          "To argue that frescoes should be restored using fresco secco",
+          "To show that the daily working method left evidence useful to art historians"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "No criticism is expressed; the seams are a natural result of the method.",
+          "Flaking is caused by fresco secco additions (paragraph 3), not by the seams.",
+          "Not argued anywhere in the passage.",
+          "Correct: historians use the seams to estimate how long a work took."
+        ],
+        "explanation": "The seams are traces of the giornata system, and the author points out that historians use them to date the process of painting.",
+        "evidence": "art historians use them to estimate how long a work took to complete"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"them\" in the phrase \"art historians use them\" refers to",
+        "options": [
+          "careful observers",
+          "the faint seams",
+          "unfinished areas",
+          "Italian words"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Observers detect the seams; historians do not use observers to estimate time.",
+          "Correct: historians use the seams between the daily sections.",
+          "Unfinished areas were cut away, so they are not what historians examine.",
+          "Only one Italian word is mentioned, and it is not used for dating."
+        ],
+        "explanation": "In the same sentence observers \"detect the faint seams\", and historians \"use them\" to estimate working time: the seams show how many days the painting took.",
+        "evidence": "Careful observers can still detect the faint seams between these daily sections, and art historians use them to estimate how long a work took to complete."
+      }
+    ]
+  }
+]

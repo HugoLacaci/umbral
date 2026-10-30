@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ielts-l-p1-03",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 1,
+    "title": "Joining a leisure centre",
+    "context": "You will hear a woman asking about membership at a leisure centre.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Liam", "role": "Receptionist", "gender": "m", "accent": "en-NZ" },
+        { "id": "b", "name": "Priya", "role": "New member", "gender": "f", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi there, welcome to Ridgeway Leisure Centre. What can I do for you?" },
+        { "s": "b", "t": "Hello. I've just moved to the area and I'd like to join, but I'm not sure which membership to choose." },
+        { "s": "a", "t": "No problem. I'll take your details first and then go through the options with you. What's your name?" },
+        { "s": "b", "t": "Priya Kapadia. That's K-A-P-A-D-I-A." },
+        { "s": "a", "t": "Thanks. And your date of birth?" },
+        { "s": "b", "t": "The ninth of November, 1996. People often write September by mistake, so please make sure it says November." },
+        { "s": "a", "t": "Ninth of November. Got it. Now, we offer discounts for some occupations. Are you a student, by any chance?" },
+        { "s": "b", "t": "Not any more, sadly. I finished my degree last summer. I work as a nurse now, at the hospital up the road." },
+        { "s": "a", "t": "Oh, great, health workers get ten percent off, so I'll put down nurse. And what's your postcode?" },
+        { "s": "b", "t": "It's L-S-6, 2-Q-T." },
+        { "s": "a", "t": "L-S-6, 2-Q-T. Lovely. Right, let me explain the memberships. There are three types. The first is Standard, which is £32 a month. That covers the gym and the pool, and you can come in at any time we're open." },
+        { "s": "b", "t": "Does that include the exercise classes?" },
+        { "s": "a", "t": "No, classes are extra with Standard. The second option is Off-Peak. That's gym only, no pool. It used to be £21 a month, but the price went up in January, so it's now £24." },
+        { "s": "b", "t": "And what does off-peak mean exactly?" },
+        { "s": "a", "t": "It means you can't come in after 4pm on weekdays. At weekends you can come any time." },
+        { "s": "b", "t": "Hmm. With my shifts at the hospital, I'm usually free in the mornings, so that could actually work for me." },
+        { "s": "a", "t": "It's popular with shift workers. Then the third option is Premium, at £48 a month. That gives you the gym, the pool and all the classes, plus one session with a personal trainer every month." },
+        { "s": "b", "t": "That sounds nice, but I don't think I'd use the classes enough. I think I'll go for Off-Peak and see how it goes. Can I change later?" },
+        { "s": "a", "t": "Yes, you can upgrade at any time. Now, before you can use the gym, you'll need to do an induction session. That's where one of our instructors shows you how to use the machines safely." },
+        { "s": "b", "t": "When are those?" },
+        { "s": "a", "t": "Let me check. Wednesday's session is already full, I'm afraid. The next one is on Thursday at ten in the morning. Would that suit you?" },
+        { "s": "b", "t": "Thursday at ten is fine. I'm on a late shift that day." },
+        { "s": "a", "t": "Great, I've booked you in. Is there anything you'd like to ask before then?" },
+        { "s": "b", "t": "Do I need to bring anything? A towel, for example?" },
+        { "s": "a", "t": "We provide towels, so don't worry about that. But you will need to bring a padlock for the lockers. We used to lend them out, but too many went missing." },
+        { "s": "b", "t": "Okay, a padlock. I'm sure I've got one somewhere in a moving box." },
+        { "s": "a", "t": "And one more thing. Please wear proper trainers, not running sandals, for the induction. The instructors are quite strict about that." },
+        { "s": "b", "t": "That's fine. Thanks so much for your help." },
+        { "s": "a", "t": "No worries at all. See you on Thursday, Priya." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–4\nComplete the form below.\nWrite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+        "title": "Ridgeway Leisure Centre – New member details",
+        "template": "Name: Priya {{q1}}\nDate of birth: 9 {{q2}} 1996\nOccupation (for discount): {{q3}}\nPostcode: {{q4}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Kapadia"], "maxWords": 2, "allowNumber": true,
+            "explanation": "She spells it: K-A-P-A-D-I-A.", "evidence": "That's K-A-P-A-D-I-A." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["November"], "maxWords": 2, "allowNumber": true,
+            "explanation": "September is mentioned only as a common mistake; her birthday is in November.", "evidence": "The ninth of November, 1996." },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["nurse", "a nurse"], "maxWords": 2, "allowNumber": true,
+            "explanation": "She is no longer a student; she works as a nurse, which gives a health-worker discount.", "evidence": "I work as a nurse now" },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["LS6 2QT", "LS62QT"], "maxWords": 2, "allowNumber": true,
+            "explanation": "The postcode is spelt out: L-S-6, 2-Q-T.", "evidence": "It's L-S-6, 2-Q-T." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "table-completion",
+        "instructions": "Questions 5–10\nComplete the table and notes below.\nWrite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+        "title": "Membership options",
+        "template": "| Type | Cost per month | Includes | Conditions |\n|---|---|---|---|\n| Standard | £32 | gym and {{q5}} | any time |\n| Off-Peak | £{{q6}} | gym only | not after {{q7}} on weekdays |\n| Premium | £48 | gym, pool, all classes | plus one monthly session with a {{q8}} |\n\nInduction session: {{q9}} at 10 am\nMust bring: a {{q10}}",
+        "items": [
+          { "id": "q5", "kind": "gap", "qtype": "table-completion", "answers": ["pool", "the pool", "swimming pool"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Standard covers the gym and the pool; classes cost extra.", "evidence": "That covers the gym and the pool" },
+          { "id": "q6", "kind": "gap", "qtype": "table-completion", "answers": ["24"], "maxWords": 2, "allowNumber": true,
+            "explanation": "£21 was the old price; since January it has been £24.", "evidence": "so it's now £24" },
+          { "id": "q7", "kind": "gap", "qtype": "table-completion", "answers": ["4pm", "4 pm", "4 o'clock", "16:00"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Off-peak members cannot come in after 4pm on weekdays.", "evidence": "you can't come in after 4pm on weekdays" },
+          { "id": "q8", "kind": "gap", "qtype": "table-completion", "answers": ["personal trainer"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Premium includes one session with a personal trainer every month.", "evidence": "plus one session with a personal trainer every month" },
+          { "id": "q9", "kind": "gap", "qtype": "table-completion", "answers": ["Thursday"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Wednesday's session is full, so she is booked for Thursday at ten.", "evidence": "The next one is on Thursday at ten in the morning." },
+          { "id": "q10", "kind": "gap", "qtype": "table-completion", "answers": ["padlock"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Towels are provided, but she must bring a padlock for the lockers.", "evidence": "you will need to bring a padlock for the lockers" }
+        ]
+      }
+    ]
+  }
+]

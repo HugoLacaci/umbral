@@ -1,0 +1,182 @@
+[
+  {
+    "id": "toefl-build-m1-01", "difficulty": "easy", "usage": "mock", "mock": 1,
+    "context": { "name": "Nora", "text": "Are you going to the career fair tomorrow?" },
+    "respondent": "Alex",
+    "prefix": "Do", "suffix": "?",
+    "answer": ["you", "know", "where", "it's", "being held"],
+    "distractors": ["is it"],
+    "explanation": "Pregunta indirecta («Do you know where…») con orden de afirmación («where it's being held»), no «where is it». «Be held» = celebrarse (pasiva)."
+  },
+  {
+    "id": "toefl-build-m1-02", "difficulty": "easy", "usage": "mock", "mock": 1,
+    "context": { "name": "Yuki", "text": "I think I lost my student ID card somewhere on campus." },
+    "respondent": "Brian",
+    "prefix": "You", "suffix": ".",
+    "answer": ["should", "report", "it", "to", "the front desk"],
+    "distractors": ["reporting"],
+    "explanation": "Modal de consejo «should» + infinitivo sin «to» («should report»). «Report something to someone»: el objeto va antes del complemento con «to»."
+  },
+  {
+    "id": "toefl-build-m1-03", "difficulty": "easy", "usage": "mock", "mock": 1,
+    "context": { "name": "Paula", "text": "How was your trip to the coast?" },
+    "respondent": "Jonas",
+    "prefix": "It", "suffix": "in months.",
+    "answer": ["was", "the most", "relaxing", "weekend", "I've had"],
+    "distractors": ["more"],
+    "explanation": "Superlativo de adjetivo largo («the most relaxing») + relativo sin pronombre con present perfect («the … weekend I've had in months»)."
+  },
+  {
+    "id": "toefl-build-m1-04", "difficulty": "medium", "usage": "mock", "mock": 1,
+    "context": { "name": "Derek", "text": "Why is the office parking lot so empty today?" },
+    "respondent": "Amara",
+    "prefix": "Most", "suffix": "because of the snow.",
+    "answer": ["of", "the staff", "have", "decided", "to work", "from home"],
+    "distractors": ["working"],
+    "explanation": "«Most of + grupo» como sujeto. «Decide» va seguido de infinitivo con «to» («decided to work»), no de gerundio."
+  },
+  {
+    "id": "toefl-build-m1-05", "difficulty": "medium", "usage": "mock", "mock": 1,
+    "context": { "name": "Lucia", "text": "Is the résumé-writing workshop worth attending?" },
+    "respondent": "Kwame",
+    "prefix": "Definitely. It's", "suffix": ".",
+    "answer": ["the one", "that", "helped", "me", "get", "my internship"],
+    "distractors": ["getting"],
+    "explanation": "Relativo de sujeto con «that» («the one that helped me») + estructura «help someone do something» (infinitivo sin «to»: «helped me get»)."
+  },
+  {
+    "id": "toefl-build-m1-06", "difficulty": "medium", "usage": "mock", "mock": 1,
+    "context": { "name": "Fatima", "text": "I'm trying to find a quiet place to study this afternoon." },
+    "respondent": "George",
+    "prefix": "Have", "suffix": "today?",
+    "answer": ["you", "checked", "whether", "the reading room", "is", "open"],
+    "distractors": ["if is"],
+    "explanation": "Present perfect interrogativo + pregunta indirecta con «whether»: orden sujeto + verbo («whether the reading room is open»). «If is» rompe ese orden."
+  },
+  {
+    "id": "toefl-build-m1-07", "difficulty": "medium", "usage": "mock", "mock": 1,
+    "context": { "name": "Irene", "text": "The printer in the computer lab is broken again." },
+    "respondent": "Sean",
+    "prefix": "I", "suffix": "it.",
+    "answer": ["wonder", "how long", "it", "will take", "them", "to fix"],
+    "distractors": ["fixing"],
+    "explanation": "Pregunta indirecta tras «I wonder» (sin inversión: «how long it will take») + estructura «it takes someone time to do something»."
+  },
+  {
+    "id": "toefl-build-m1-08", "difficulty": "hard", "usage": "mock", "mock": 1,
+    "context": { "name": "Teresa", "text": "Did you hear back about the scholarship?" },
+    "respondent": "Hassan",
+    "prefix": "Not yet. I", "suffix": "by the end of May.",
+    "answer": ["was", "told", "that", "decisions", "would be", "made"],
+    "distractors": ["will be"],
+    "explanation": "Doble pasiva en estilo indirecto: «I was told that…» (me dijeron) y «decisions would be made». Tras un verbo introductor en pasado, «will» pasa a «would»."
+  },
+  {
+    "id": "toefl-build-m1-09", "difficulty": "hard", "usage": "mock", "mock": 1,
+    "context": { "name": "Oscar", "text": "Why didn't you take the earlier train?" },
+    "respondent": "Leah",
+    "prefix": "If I had", "suffix": "caught it.",
+    "answer": ["left", "the house", "ten minutes", "earlier,", "I", "would have"],
+    "distractors": ["will have"],
+    "explanation": "Tercer condicional: «If + past perfect (had left), … would have + participio (would have caught)». «Will have» no expresa hipótesis sobre el pasado."
+  },
+  {
+    "id": "toefl-build-m1-10", "difficulty": "hard", "usage": "mock", "mock": 1,
+    "context": { "name": "Mei", "text": "What did your advisor say about your thesis draft?" },
+    "respondent": "Rafael",
+    "prefix": "She", "suffix": ".",
+    "answer": ["asked", "me", "what", "sources", "I", "had been", "relying on"],
+    "distractors": ["did"],
+    "explanation": "Pregunta indirecta en estilo indirecto: «asked me what sources I had been relying on» (orden sujeto + verbo, sin «did»). El past perfect continuo retrocede el tiempo; «rely on» mantiene la preposición al final."
+  },
+  {
+    "id": "toefl-build-m2-01", "difficulty": "easy", "usage": "mock", "mock": 2,
+    "context": { "name": "Eva", "text": "This bus is so crowded. I can barely move." },
+    "respondent": "Tom",
+    "prefix": "Do", "suffix": "?",
+    "answer": ["you", "know", "when", "the next one", "arrives"],
+    "distractors": ["does"],
+    "explanation": "Pregunta indirecta: tras «Do you know when…» va sujeto + verbo conjugado («the next one arrives»), sin auxiliar «does»."
+  },
+  {
+    "id": "toefl-build-m2-02", "difficulty": "easy", "usage": "mock", "mock": 2,
+    "context": { "name": "Jamal", "text": "I can't open the shared project folder." },
+    "respondent": "Clara",
+    "prefix": "You", "suffix": ".",
+    "answer": ["need", "to ask", "the manager", "for", "access"],
+    "distractors": ["asking"],
+    "explanation": "«Need + to + infinitivo» y el verbo preposicional «ask someone for something» (pedir algo a alguien)."
+  },
+  {
+    "id": "toefl-build-m2-03", "difficulty": "easy", "usage": "mock", "mock": 2,
+    "context": { "name": "Priscilla", "text": "Is the new gym better than the old one?" },
+    "respondent": "Diego",
+    "prefix": "Yes, and the equipment", "suffix": "before.",
+    "answer": ["is", "much", "newer", "than", "what we had"],
+    "distractors": ["more new"],
+    "explanation": "Comparativo de adjetivo corto («newer», no «more new») intensificado con «much». «What we had» es una cláusula nominal tras «than»."
+  },
+  {
+    "id": "toefl-build-m2-04", "difficulty": "medium", "usage": "mock", "mock": 2,
+    "context": { "name": "Linh", "text": "Have you finished the group presentation?" },
+    "respondent": "Marco",
+    "prefix": "Almost. We just", "suffix": "results.",
+    "answer": ["need", "to add", "the slides", "about", "the survey"],
+    "distractors": ["adding"],
+    "explanation": "«Need + to + infinitivo» («need to add»); «the slides about the survey results» es un sintagma nominal con complemento preposicional."
+  },
+  {
+    "id": "toefl-build-m2-05", "difficulty": "medium", "usage": "mock", "mock": 2,
+    "context": { "name": "Ruth", "text": "Why is the café in the student center closed?" },
+    "respondent": "Kenji",
+    "prefix": "It's", "suffix": "next month.",
+    "answer": ["being", "renovated", "and", "won't", "reopen", "until"],
+    "distractors": ["renovating"],
+    "explanation": "Pasiva en presente continuo («It's being renovated»): el café recibe la acción. Después, futuro negativo con «until» («won't reopen until next month»)."
+  },
+  {
+    "id": "toefl-build-m2-06", "difficulty": "medium", "usage": "mock", "mock": 2,
+    "context": { "name": "Adam", "text": "Who's going to run the team meetings next month?" },
+    "respondent": "Sophie",
+    "prefix": "I'm not sure", "suffix": "while Ms. Lee is away.",
+    "answer": ["who", "will", "be", "in charge", "of them"],
+    "distractors": ["is going"],
+    "explanation": "Pregunta indirecta en la que «who» es el sujeto, así que el orden coincide con el de la pregunta directa: «who will be in charge of them». «Be in charge of» = estar a cargo de."
+  },
+  {
+    "id": "toefl-build-m2-07", "difficulty": "medium", "usage": "mock", "mock": 2,
+    "context": { "name": "Bianca", "text": "This new scheduling software is really confusing." },
+    "respondent": "Omar",
+    "prefix": "Have", "suffix": "?",
+    "answer": ["you", "watched", "the tutorial", "that", "IT", "sent out"],
+    "distractors": ["who"],
+    "explanation": "Present perfect interrogativo + relativo de objeto con «that» (cosa, no persona: por eso no «who»). «Send out» = enviar a mucha gente (phrasal verb)."
+  },
+  {
+    "id": "toefl-build-m2-08", "difficulty": "hard", "usage": "mock", "mock": 2,
+    "context": { "name": "Walter", "text": "What happened at the town hall meeting last night?" },
+    "respondent": "Grace",
+    "prefix": "Residents", "suffix": "without any notice.",
+    "answer": ["wanted", "to know", "why", "the park", "had been", "closed"],
+    "distractors": ["was it"],
+    "explanation": "Pregunta indirecta («wanted to know why…») sin inversión + pasiva en past perfect («had been closed»), anterior al momento de la reunión."
+  },
+  {
+    "id": "toefl-build-m2-09", "difficulty": "hard", "usage": "mock", "mock": 2,
+    "context": { "name": "Ines", "text": "Are you still applying to the summer research program?" },
+    "respondent": "Carter",
+    "prefix": "No. I", "suffix": ".",
+    "answer": ["would have", "applied", "if", "the deadline", "hadn't", "already passed"],
+    "distractors": ["didn't"],
+    "explanation": "Tercer condicional con la oración principal delante: «would have applied if + past perfect (hadn't already passed)». «Didn't» exigiría la forma base «pass»."
+  },
+  {
+    "id": "toefl-build-m2-10", "difficulty": "hard", "usage": "mock", "mock": 2,
+    "context": { "name": "Dr. Patel", "text": "Do we know why the experiment failed yesterday?" },
+    "respondent": "Lin",
+    "prefix": "The technician", "suffix": ".",
+    "answer": ["couldn't", "figure out", "why", "the samples", "had", "overheated"],
+    "distractors": ["did"],
+    "explanation": "«Figure out» (averiguar) + pregunta indirecta en past perfect: «why the samples had overheated», con orden sujeto + verbo y sin «did»."
+  }
+]

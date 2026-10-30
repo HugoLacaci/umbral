@@ -1,0 +1,637 @@
+[
+  {
+    "id": "toefl-dl-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "notice",
+    "title": "Laundry room closure",
+    "text": "NOTICE TO ALL RESIDENTS – Maple Court Apartments\n\nThe laundry room on the ground floor will be closed on Tuesday, March 12, from 8:00 a.m. to 3:00 p.m. while new washing machines are installed. During this time, residents may use the laundry room in Building B free of charge. Please bring your own detergent, as the vending machine in Building B is out of order.\n\nWe apologize for the inconvenience.\n— Building Management",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the notice?",
+        "options": [
+          "To announce that a laundry room will be closed for part of a day",
+          "To inform residents about new prices for the washing machines",
+          "To ask residents to report machines that are not working",
+          "To explain how to use the new washing machines"
+        ],
+        "answer": 0,
+        "explanation": "El aviso informa del cierre de la lavandería el martes de 8:00 a 15:00 por la instalación de lavadoras nuevas.",
+        "evidence": "will be closed on Tuesday, March 12, from 8:00 a.m. to 3:00 p.m.",
+        "optionNotes": [
+          "Correcta: es la información central del aviso.",
+          "No se habla de precios; sólo se dice que la lavandería del edificio B es gratis ese día.",
+          "La máquina expendedora está averiada, pero no se pide que se informe de averías.",
+          "Se instalan lavadoras nuevas, pero no se explica cómo usarlas."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What should residents do if they use the laundry room in Building B?",
+        "options": [
+          "Pay a small fee for each machine",
+          "Finish their laundry before 8:00 a.m.",
+          "Bring their own detergent",
+          "Buy detergent from the vending machine"
+        ],
+        "answer": 2,
+        "explanation": "Se pide traer detergente propio porque la máquina expendedora del edificio B no funciona.",
+        "evidence": "Please bring your own detergent",
+        "optionNotes": [
+          "Falso: el uso es «free of charge».",
+          "Las 8:00 es la hora en que cierra la lavandería de la planta baja, no un límite para el edificio B.",
+          "Correcta.",
+          "La máquina expendedora está «out of order»."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-02",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "text-messages",
+    "title": "Study group change",
+    "text": "Maya (4:12 p.m.): Hey, are you still coming to the study group tonight?\n\nLeo (4:15 p.m.): Yes, but I'm stuck at work until 6:30. Can we start at 7 instead of 6?\n\nMaya (4:16 p.m.): That's fine with me. I'll tell the others. We're meeting in Room 214 of the library, not the café.\n\nLeo (4:17 p.m.): Got it. Should I bring anything?\n\nMaya (4:18 p.m.): Just your notes from Chapter 5. I'll bring snacks.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Why does Leo ask to change the start time?",
+        "options": [
+          "The café is too crowded in the evening.",
+          "The library closes at 6:00.",
+          "He has not finished reading Chapter 5.",
+          "He has to stay at work until 6:30."
+        ],
+        "answer": 3,
+        "explanation": "Leo dice que está atrapado en el trabajo hasta las 6:30, así que no puede empezar a las 6.",
+        "evidence": "I'm stuck at work until 6:30",
+        "optionNotes": [
+          "El café se menciona sólo para decir que NO se reúnen allí.",
+          "No se menciona el horario de la biblioteca.",
+          "Maya le pide los apuntes del capítulo 5, pero Leo no dice nada de no haberlo leído.",
+          "Correcta."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Where will the study group meet?",
+        "options": [
+          "At a café near the library",
+          "In a room in the library",
+          "At Leo's workplace",
+          "At Maya's apartment"
+        ],
+        "answer": 1,
+        "explanation": "Maya aclara que se reúnen en la sala 214 de la biblioteca, no en el café.",
+        "evidence": "We're meeting in Room 214 of the library, not the café.",
+        "optionNotes": [
+          "Trampa: el café aparece en el texto, pero precisamente para descartarlo.",
+          "Correcta.",
+          "Leo está en el trabajo, pero allí no es la reunión.",
+          "No se menciona el piso de Maya."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-03",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "ad",
+    "title": "Bike for sale",
+    "text": "FOR SALE: Women's city bike – $120\n\nBlue, 3 gears, front basket and lights included. Bought new two years ago and used mainly on weekends. The back tire was replaced last month. Small scratch on the frame, but otherwise in excellent condition. I'm selling it because I'm moving abroad at the end of June.\n\nPrice is firm. Pick-up only (near Central Station). Text Rosa at 555-0148 — no calls after 9 p.m., please.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why is Rosa selling the bike?",
+        "options": [
+          "She has bought a newer bike.",
+          "She almost never rides it.",
+          "The bike needs expensive repairs.",
+          "She is going to live in another country."
+        ],
+        "answer": 3,
+        "explanation": "Rosa dice explícitamente que la vende porque se muda al extranjero a finales de junio.",
+        "evidence": "I'm selling it because I'm moving abroad at the end of June.",
+        "optionNotes": [
+          "No se menciona otra bici.",
+          "La usaba sobre todo los fines de semana, pero ese no es el motivo de la venta.",
+          "Al contrario: está en excelente estado y la rueda trasera es nueva.",
+          "Correcta: «moving abroad» = irse a vivir a otro país."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is true about the bike?",
+        "options": [
+          "One of its tires was recently replaced.",
+          "The lights must be bought separately.",
+          "It has no marks or damage of any kind.",
+          "It is more than three years old."
+        ],
+        "answer": 0,
+        "explanation": "La rueda trasera se cambió el mes pasado.",
+        "evidence": "The back tire was replaced last month.",
+        "optionNotes": [
+          "Correcta.",
+          "Las luces están incluidas.",
+          "Tiene un pequeño arañazo en el cuadro.",
+          "Se compró nueva hace dos años."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred from the advertisement?",
+        "options": [
+          "Rosa will deliver the bike to the buyer's home.",
+          "Rosa is unlikely to accept a lower offer.",
+          "Buyers should phone Rosa late in the evening.",
+          "The price was recently reduced."
+        ],
+        "answer": 1,
+        "explanation": "«Price is firm» significa que el precio no es negociable, así que probablemente no acepte ofertas más bajas.",
+        "evidence": "Price is firm.",
+        "optionNotes": [
+          "Falso: «Pick-up only» = hay que recogerla.",
+          "Correcta.",
+          "Pide no llamar después de las 21:00 y prefiere mensajes de texto.",
+          "No se dice que el precio haya bajado."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-04",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "email",
+    "title": "Lab report deadline",
+    "text": "From: Dr. Helen Park\nTo: BIO 210 Students\nSubject: Lab report deadline\n\nDear students,\n\nBecause the online submission system was down for most of yesterday, I have decided to move the deadline for Lab Report 3 from Friday to Monday at noon. If you already submitted your report, you do not need to do anything — but if you would like to revise it, you may upload a new version before the new deadline, and I will grade only the most recent one.\n\nPlease note that this change does not affect the quiz scheduled for Friday. It will take place in class as planned.\n\nBest regards,\nDr. Park",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why did Dr. Park write the email?",
+        "options": [
+          "To ask all students to submit their reports again",
+          "To cancel a quiz that was planned for Friday",
+          "To announce a later deadline for an assignment",
+          "To report a mistake in the grading of a lab report"
+        ],
+        "answer": 2,
+        "explanation": "El objetivo es comunicar que la entrega del Lab Report 3 pasa del viernes al lunes a mediodía.",
+        "evidence": "I have decided to move the deadline for Lab Report 3 from Friday to Monday at noon",
+        "optionNotes": [
+          "Quien ya lo entregó «does not need to do anything»; reenviar es opcional.",
+          "Al contrario: el examen del viernes se mantiene.",
+          "Correcta.",
+          "No se habla de errores de corrección."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What will happen if a student uploads two versions of the report?",
+        "options": [
+          "Only the latest version will be graded.",
+          "The two grades will be averaged.",
+          "Only the first version will be graded.",
+          "The student will lose points for submitting twice."
+        ],
+        "answer": 0,
+        "explanation": "La profesora corregirá sólo la versión más reciente.",
+        "evidence": "I will grade only the most recent one",
+        "optionNotes": [
+          "Correcta: «most recent» = la última.",
+          "No se menciona hacer media.",
+          "Es justo lo contrario.",
+          "No hay penalización; revisar está permitido."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred about the students in BIO 210?",
+        "options": [
+          "They will take the quiz online on Monday.",
+          "They do not have class this Friday.",
+          "They should still be ready for a quiz on Friday.",
+          "They must submit their reports in person."
+        ],
+        "answer": 2,
+        "explanation": "El cambio de fecha no afecta al examen: sigue siendo el viernes en clase, así que deben prepararlo igualmente.",
+        "evidence": "It will take place in class as planned.",
+        "optionNotes": [
+          "Mezcla datos: el lunes es la nueva entrega del informe y el examen es en clase.",
+          "Hay examen en clase el viernes, así que sí hay clase.",
+          "Correcta.",
+          "Los informes se suben al sistema online."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-05",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "webpage",
+    "title": "Museum visitor information",
+    "text": "Harbor History Museum — Plan Your Visit\n\nOpening hours: Tuesday–Sunday, 10:00 a.m.–5:00 p.m. (Thursdays until 8:00 p.m.). Closed Mondays.\n\nAdmission: Adults $14; students and seniors $9; children under 12 free. On the first Sunday of every month, admission is free for all visitors.\n\nGuided tours of the historic ship leave every hour from the main lobby. Tours are limited to 15 people and cannot be booked in advance, so we recommend arriving early on weekends.\n\nPhotography is welcome in all galleries except the Map Room, where flash can damage fragile documents.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Which of the following visitors could enter the museum for free on an ordinary Saturday?",
+        "options": [
+          "A university student",
+          "A 70-year-old retiree",
+          "An adult who joins a ship tour",
+          "A 10-year-old child"
+        ],
+        "answer": 3,
+        "explanation": "Los menores de 12 años entran gratis siempre. La entrada gratuita para todos es sólo el primer domingo del mes.",
+        "evidence": "children under 12 free",
+        "optionNotes": [
+          "Los estudiantes pagan 9 $.",
+          "Los mayores («seniors») pagan 9 $.",
+          "Nada indica que la visita guiada haga gratis la entrada.",
+          "Correcta."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What is suggested about the ship tours?",
+        "options": [
+          "They must be reserved online.",
+          "They may become full on busy days.",
+          "They run only on weekends.",
+          "They cost extra for children."
+        ],
+        "answer": 1,
+        "explanation": "Hay un máximo de 15 personas y no se puede reservar, por eso recomiendan llegar pronto el fin de semana: se pueden llenar.",
+        "evidence": "Tours are limited to 15 people and cannot be booked in advance",
+        "optionNotes": [
+          "Falso: «cannot be booked in advance».",
+          "Correcta: se deduce del límite de plazas y del consejo de llegar pronto.",
+          "Salen cada hora; el fin de semana sólo se menciona para el consejo.",
+          "No se habla del precio de las visitas."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Why is photography not allowed in the Map Room?",
+        "options": [
+          "The maps are protected by copyright.",
+          "The room is too dark for good photos.",
+          "Tour groups pass through the room.",
+          "Flash photography could harm old papers."
+        ],
+        "answer": 3,
+        "explanation": "El flash puede dañar documentos frágiles.",
+        "evidence": "where flash can damage fragile documents",
+        "optionNotes": [
+          "Suena lógico, pero no se dice.",
+          "No se menciona la luz de la sala.",
+          "No se dice por dónde pasan las visitas.",
+          "Correcta: «fragile documents» = papeles antiguos frágiles."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-06",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "sign",
+    "title": "City pool rules",
+    "text": "CITY POOL – RULES\n\n• Shower before entering the pool.\n• Children under 8 must be accompanied by an adult in the water at all times.\n• No food or glass bottles in the pool area. Plastic water bottles are allowed.\n• The deep end (lanes 5–6) is reserved for lap swimming from 6:00 to 9:00 a.m. on weekdays.\n• Lifeguards may close the pool during thunderstorms.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is allowed in the pool area?",
+        "options": [
+          "A plastic bottle of water",
+          "A glass bottle of juice",
+          "A sandwich",
+          "A six-year-old swimming without an adult"
+        ],
+        "answer": 0,
+        "explanation": "Las botellas de agua de plástico están permitidas.",
+        "evidence": "Plastic water bottles are allowed.",
+        "optionNotes": [
+          "Correcta.",
+          "No se permiten botellas de cristal.",
+          "No se permite comida.",
+          "Los menores de 8 deben estar con un adulto en el agua."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is true about lanes 5 and 6?",
+        "options": [
+          "They are closed to the public on weekends.",
+          "They are kept for lap swimmers on weekday mornings.",
+          "They are only for children and their parents.",
+          "They are closed whenever it rains."
+        ],
+        "answer": 1,
+        "explanation": "De 6 a 9 de la mañana entre semana están reservadas para nadar largos.",
+        "evidence": "The deep end (lanes 5–6) is reserved for lap swimming from 6:00 to 9:00 a.m. on weekdays.",
+        "optionNotes": [
+          "No se dice nada de cierres en fin de semana.",
+          "Correcta.",
+          "Son la zona profunda; no se reservan para niños.",
+          "Se puede cerrar la piscina por tormentas eléctricas, no por cualquier lluvia, y no sólo esas calles."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-07",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "schedule",
+    "title": "Holiday bus schedule",
+    "text": "Route 9 – Riverside to Campus\nHoliday Schedule (December 23 – January 2)\n\nWeekdays: buses every 30 minutes, 7:00 a.m.–7:00 p.m.\nWeekends: buses every hour, 9:00 a.m.–6:00 p.m.\nDecember 25 and January 1: no service.\n\nDuring this period, the Library Stop is temporarily closed because of construction. Passengers should use the stop on Elm Street, two blocks north.\n\nRegular service (every 15 minutes, 6:00 a.m.–11:00 p.m.) resumes on January 3.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "How often do Route 9 buses run on weekdays during the holiday period?",
+        "options": [
+          "Every 15 minutes",
+          "Every hour",
+          "Every 30 minutes",
+          "There is no weekday service."
+        ],
+        "answer": 2,
+        "explanation": "Entre semana, durante las fiestas, cada 30 minutos.",
+        "evidence": "Weekdays: buses every 30 minutes",
+        "optionNotes": [
+          "Es la frecuencia del servicio normal, que vuelve el 3 de enero.",
+          "Es la frecuencia de fin de semana.",
+          "Correcta.",
+          "Sólo no hay servicio el 25 de diciembre y el 1 de enero."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What should passengers who normally board at the Library Stop do?",
+        "options": [
+          "Use a different stop on Elm Street",
+          "Wait at the Library Stop for a later bus",
+          "Take a different bus route",
+          "Walk two blocks south to the campus"
+        ],
+        "answer": 0,
+        "explanation": "La parada de la biblioteca está cerrada por obras; deben usar la de Elm Street.",
+        "evidence": "Passengers should use the stop on Elm Street, two blocks north.",
+        "optionNotes": [
+          "Correcta.",
+          "La parada está cerrada temporalmente.",
+          "No se menciona otra línea.",
+          "La parada alternativa está dos manzanas al norte, no al sur."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A passenger wants to take Route 9 at 9:00 p.m. on a weekday during the holiday period. What can be inferred?",
+        "options": [
+          "She will have to wait about 30 minutes for a bus.",
+          "A bus will come every 15 minutes.",
+          "No Route 9 bus will be running at that time.",
+          "She must board at the Elm Street stop at 9:00 p.m."
+        ],
+        "answer": 2,
+        "explanation": "En fiestas, el servicio de días laborables termina a las 19:00; a las 21:00 no hay autobuses.",
+        "evidence": "Weekdays: buses every 30 minutes, 7:00 a.m.–7:00 p.m.",
+        "optionNotes": [
+          "Confunde la frecuencia con el horario: a las 21:00 ya no hay servicio.",
+          "Es el servicio normal, que hasta el 3 de enero no vuelve.",
+          "Correcta.",
+          "La parada de Elm Street existe, pero a esa hora no pasa ningún autobús."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-08",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "social-post",
+    "title": "Community garden update",
+    "text": "Greenway Community Garden\nPosted Saturday at 9:14 a.m.\n\nThanks to everyone who came to last weekend's clean-up! We filled 30 bags with weeds and repaired the north fence. Unfortunately, the tomato plants by the gate were damaged in Thursday's hailstorm, so we won't be giving away free tomatoes at the market this month as planned. Good news, though: the herb beds survived, and volunteers can pick basil and mint any time this week. Our next work day is Sunday the 18th — gloves provided, but bring water!",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the post?",
+        "options": [
+          "To complain about damage caused by visitors",
+          "To ask for donations to repair a fence",
+          "To advertise tomatoes for sale at a market",
+          "To thank volunteers and give news about the garden"
+        ],
+        "answer": 3,
+        "explanation": "Agradece la limpieza y da varias novedades (granizo, hierbas, próxima jornada).",
+        "evidence": "Thanks to everyone who came to last weekend's clean-up!",
+        "optionNotes": [
+          "El daño lo causó el granizo, no los visitantes.",
+          "La valla ya se reparó; no se piden donaciones.",
+          "Los tomates iban a regalarse, y ahora no habrá.",
+          "Correcta: combina agradecimiento y actualización."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred about the market?",
+        "options": [
+          "It was cancelled because of the hailstorm.",
+          "The garden had planned to give away tomatoes there.",
+          "Volunteers will sell basil and mint there.",
+          "It will take place on Sunday the 18th."
+        ],
+        "answer": 1,
+        "explanation": "«as planned» indica que el plan original era regalar tomates en el mercado este mes.",
+        "evidence": "we won't be giving away free tomatoes at the market this month as planned",
+        "optionNotes": [
+          "Lo que se cancela es el reparto de tomates, no el mercado.",
+          "Correcta.",
+          "Las hierbas las pueden coger los voluntarios; no se dice que se vendan.",
+          "El domingo 18 es la próxima jornada de trabajo en el huerto."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-09",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "menu",
+    "title": "Café lunch menu",
+    "text": "THE CORNER TABLE — Lunch Menu (served 11:30 a.m.–3:00 p.m.)\n\nSoup of the day (V) ........ $6\nGrilled chicken wrap ........ $11\nLentil and spinach salad (V, GF) ........ $10\nFish tacos (two) ........ $12\nAdd a soup to any main dish for $3.\n\n(V) = vegetarian   (GF) = gluten-free\nOur kitchen uses wheat flour, so we cannot guarantee that any dish is completely free of gluten.\nTuesday special: all wraps half price.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "How much would a customer pay for a grilled chicken wrap with a soup on a Monday?",
+        "options": [
+          "$8.50",
+          "$14",
+          "$17",
+          "$9"
+        ],
+        "answer": 1,
+        "explanation": "Wrap 11 $ + sopa añadida a un plato principal 3 $ = 14 $. La oferta de mitad de precio es sólo los martes.",
+        "evidence": "Add a soup to any main dish for $3.",
+        "optionNotes": [
+          "Sería con el wrap a mitad de precio (5,50 + 3), pero eso es sólo los martes.",
+          "Correcta.",
+          "Suma el precio completo de la sopa (11 + 6), pero añadida a un plato cuesta 3 $.",
+          "Suma la sopa (6) y el suplemento (3); no tiene sentido."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What does the menu suggest about customers with a serious gluten allergy?",
+        "options": [
+          "They should order only the soup of the day.",
+          "They receive a discount on the lentil salad.",
+          "They can safely eat any wrap on Tuesdays.",
+          "They should be careful even with dishes marked GF."
+        ],
+        "answer": 3,
+        "explanation": "La cocina usa harina de trigo y no garantiza que ningún plato esté totalmente libre de gluten, ni siquiera los marcados GF.",
+        "evidence": "we cannot guarantee that any dish is completely free of gluten",
+        "optionNotes": [
+          "La sopa ni siquiera está marcada como GF.",
+          "No hay descuento para la ensalada.",
+          "La oferta del martes es de precio, no tiene que ver con el gluten.",
+          "Correcta."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-10",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "email",
+    "title": "Annual apartment inspection",
+    "text": "From: Westfield Property Services\nTo: Tenants, 40 Orchard Road\nSubject: Annual inspection — action needed\n\nDear tenants,\n\nOur annual safety inspection is scheduled for the week of May 6. Inspectors will check smoke alarms, heating systems, and windows in every unit. You do not need to be home; however, if you have a pet, please let us know by May 1 so that we can arrange a time when you can be present.\n\nIf you would prefer that inspectors not enter while you are away, you may request a specific appointment. Requests received after May 1 cannot be guaranteed, as the inspectors' schedule is set at that point.\n\nFinally, a reminder that items stored on balconies must be at least one meter from the railing. Inspectors will note any violations, and repeated violations may result in a fine.\n\nWestfield Property Services",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the email?",
+        "options": [
+          "To inform tenants about an inspection and what they may need to do",
+          "To tell tenants that they have been fined",
+          "To announce the installation of new heating systems",
+          "To ask tenants with pets to move out by May 1"
+        ],
+        "answer": 0,
+        "explanation": "Avisa de la inspección anual y explica qué deben hacer algunos inquilinos (mascotas, citas, balcones).",
+        "evidence": "Our annual safety inspection is scheduled for the week of May 6.",
+        "optionNotes": [
+          "Correcta.",
+          "Sólo se avisa de que las infracciones repetidas PUEDEN conllevar multa.",
+          "Se revisará la calefacción, no se instalará una nueva.",
+          "A quienes tienen mascota sólo se les pide avisar antes del 1 de mayo."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A tenant who has a cat contacts the company on May 3. What will most likely happen?",
+        "options": [
+          "The tenant will have to pay a fine.",
+          "The company may not be able to arrange a time when the tenant is home.",
+          "The inspection of the tenant's unit will be cancelled.",
+          "The tenant will be asked to keep the cat somewhere else."
+        ],
+        "answer": 1,
+        "explanation": "Había que avisar antes del 1 de mayo; después de esa fecha el calendario está cerrado y las peticiones no se garantizan.",
+        "evidence": "Requests received after May 1 cannot be guaranteed",
+        "optionNotes": [
+          "Las multas se refieren a los balcones, no a avisar tarde.",
+          "Correcta: el aviso llega tarde, así que no hay garantía.",
+          "Se inspecciona «every unit»; nada indica que se cancele.",
+          "No se dice nada de llevarse la mascota."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What does the email say about items on balconies?",
+        "options": [
+          "They are no longer permitted.",
+          "Inspectors will remove them during the inspection.",
+          "They must be kept a minimum distance from the railing.",
+          "A tenant will be fined the first time a problem is found."
+        ],
+        "answer": 2,
+        "explanation": "Deben estar al menos a un metro de la barandilla.",
+        "evidence": "items stored on balconies must be at least one meter from the railing",
+        "optionNotes": [
+          "Se permiten, con la condición de la distancia.",
+          "Los inspectores sólo anotan las infracciones.",
+          "Correcta.",
+          "Trampa: la multa es posible sólo con infracciones «repeated»."
+        ]
+      }
+    ]
+  }
+]

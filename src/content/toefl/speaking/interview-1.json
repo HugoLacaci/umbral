@@ -1,0 +1,162 @@
+[
+  {
+    "id": "toefl-interview-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Study habits",
+    "intro": "Hi, thanks for taking part. I'm a researcher in the education department, and we're collecting information about how university students study. I'd like to ask you a few questions.",
+    "interviewer": { "id": "int", "name": "Dr. Amy Collins", "role": "Education researcher", "gender": "f", "accent": "en-US" },
+    "questions": [
+      "To begin, where do you usually study, and why do you like studying there?",
+      "Do you prefer to study alone or with other people? Why?",
+      "Some students study a little every day, while others study a lot just before an exam. Which approach do you think is better, and why?",
+      "Many universities now offer workshops on study skills. Do you think these workshops are really useful for students? Why or why not?"
+    ],
+    "sampleAnswers": [
+      "Most of the time I study in the library on campus, usually on the third floor, because it's the silent area. At home I get distracted really easily, you know, by my phone, by my roommates, even by the fridge. In the library everyone around me is working, so I feel a kind of positive pressure to focus too. It also helps that I can borrow books right there if I need them. For example, last week I was writing a history essay, and I found three useful sources just by walking along the shelves, which saved me a lot of time.",
+      "I'd say I prefer studying alone, at least for most subjects. When I'm by myself, I can go at my own pace, and I don't waste time chatting about things that have nothing to do with the course. That said, I think group study is useful right before an exam. For instance, before my statistics final, I met with two classmates and we quizzed each other. Explaining a formula out loud showed me what I didn't really understand. So my routine is mostly solo work, with a group session at the end to check myself.",
+      "I definitely think studying a little every day is better. When you cram the night before, the information goes into your short-term memory, but you forget most of it a week later, and that's a problem in courses where each topic builds on the last one. Studying regularly also reduces stress, because you aren't panicking at the last minute. Personally, I learned this the hard way. In my first semester I crammed for a biology exam and passed, but in the next course I had to relearn everything. Since then I review for about thirty minutes every evening.",
+      "I think they can be useful, but it depends on how they're designed. If a workshop is just a lecture about general tips, like get enough sleep, most students already know that, so it's not very helpful. But if it's practical and connected to real courses, it can make a big difference. For example, my university ran a workshop where we practised taking notes during a short recorded lecture and then compared our notes with a model. That changed the way I take notes completely. So I'd say workshops are worthwhile when they're hands-on and specific, rather than generic."
+    ]
+  },
+  {
+    "id": "toefl-interview-02",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Technology in daily life",
+    "intro": "Hello, and thank you for your time. I'm conducting a survey for a technology company about how people use digital devices in their everyday lives.",
+    "interviewer": { "id": "int", "name": "James Whitfield", "role": "Survey researcher", "gender": "m", "accent": "en-GB" },
+    "questions": [
+      "Which device do you use the most in your daily life, and what do you mainly use it for?",
+      "Can you describe a time when a piece of technology made a task much easier for you?",
+      "Some people say we spend too much time looking at screens. Do you agree? Why or why not?",
+      "In your opinion, should schools teach young children how to use technology responsibly, or is that the parents' job? Explain your view."
+    ],
+    "sampleAnswers": [
+      "Without a doubt, it's my smartphone. I use it for almost everything: messaging my friends and family, checking my university email, and paying for things in shops. I also use it a lot for navigation, because I moved to a new city last year and I still get lost sometimes. Honestly, I even use it to study. I have a flashcard app that I open on the bus every morning to review vocabulary. So my phone is basically my wallet, my map, and my notebook all in one, which is convenient, although it also means I'm a bit lost when the battery dies.",
+      "Sure. Last year I had to organise a surprise party for my best friend, and there were about twenty people involved. In the past, that would have meant dozens of phone calls. Instead, I created a shared online document and a group chat. Everyone could see the guest list, sign up to bring food, and vote on the date. It took me maybe an hour to set up, and after that the group basically organised itself. What really impressed me was that nobody missed an update, because every change appeared instantly for everyone, so the party went very smoothly.",
+      "I partly agree. I think the problem isn't screens themselves, but how we use them. If someone is reading articles, studying, or video calling their grandparents, that's valuable time. But if they're scrolling through short videos for three hours, that's not very healthy. I noticed this in myself. My phone told me I was averaging six hours of screen time a day, and when I looked closer, most of it was social media. So I set a daily limit on those apps, and I feel more rested now. So yes, many of us overdo it, but screens aren't the enemy.",
+      "I think it should be a shared responsibility, but schools have an important role. Parents know their children best and set the rules at home, but not all parents understand things like online privacy or fake news themselves. Schools can make sure that every child gets the same basic knowledge, no matter what their family situation is. For example, my younger brother had lessons at school about how to recognise suspicious messages, and he actually taught my parents a few things afterwards. So schools should teach the skills, and parents should support those lessons at home."
+    ]
+  },
+  {
+    "id": "toefl-interview-03",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "City and countryside living",
+    "intro": "Hi there. I'm a student researcher in urban planning, and I'm interviewing people about where they prefer to live. Let's get started.",
+    "interviewer": { "id": "int", "name": "Priya Sharma", "role": "Urban planning student researcher", "gender": "f", "accent": "en-CA" },
+    "questions": [
+      "Tell me about the place where you grew up. Was it a city, a town, or the countryside?",
+      "What is one thing you like and one thing you dislike about the area where you live now?",
+      "Do you think young people today prefer living in big cities rather than in rural areas? Why?",
+      "Some governments give money to people who move to small towns. Do you think this is a good policy? Why or why not?"
+    ],
+    "sampleAnswers": [
+      "I grew up in a fairly small town, maybe thirty thousand people, about an hour from the capital. It was the kind of place where everyone knew each other, so if you did something silly at school, your parents would hear about it before you got home. There was a river nearby, and in summer my friends and I would ride our bikes there almost every afternoon. On the other hand, there wasn't much to do for teenagers, just one cinema and a couple of cafés. So it was a safe, friendly place to be a child, but a bit boring later on.",
+      "Right now I live in a big city, and the thing I like most is the public transport. I don't need a car at all, because the metro takes me everywhere in under thirty minutes, and it runs late at night, which is great when I go out with friends. What I don't like is the cost of housing. I share a small apartment with two people, and we still pay a huge amount of rent. For example, my room is about the size of my bedroom back home, but it costs three times as much. So the city is convenient but expensive.",
+      "Generally, yes, I think most young people prefer cities, mainly because of opportunities. Universities, well-paid jobs, and things like concerts and sports are concentrated in urban areas. Also, many young people want to meet new people and have more independence, and a big city gives you that. Almost all my classmates from high school moved to cities after graduation, and only a couple stayed in our town. That said, I've noticed that some people in their late twenties are starting to move back, especially those who can work remotely. So the trend is strong, but it might be changing slowly.",
+      "I think it can be a good policy, but only if it's combined with other investments. Giving people money might convince them to move, but if the town has no good internet, no doctors, and no schools, they'll probably leave again after a year or two. So the money should come together with better services. I read about a program in a region of my country that paid families to move to villages, and it worked best in places that also had fast internet and a local health clinic. So, in short, it's helpful, but money alone isn't enough to keep people there."
+    ]
+  },
+  {
+    "id": "toefl-interview-04",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Part-time jobs while studying",
+    "intro": "Hello, I work at the university career center, and we're preparing a report about students who work while they study. I'd like to hear about your experiences and opinions.",
+    "interviewer": { "id": "int", "name": "Daniel Ortiz", "role": "Career center advisor", "gender": "m", "accent": "en-US" },
+    "questions": [
+      "Have you ever had a part-time job? If so, what was it, and what did you do?",
+      "What do you think is the most difficult part of working and studying at the same time?",
+      "Some people believe that students should focus only on their studies and not work at all. Do you agree? Why or why not?",
+      "Should employers value work experience more than university grades when they hire graduates? Explain your opinion."
+    ],
+    "sampleAnswers": [
+      "Yes, I worked at a café near my campus for about a year, usually three evenings a week. At first I mostly cleaned tables and washed dishes, but after a couple of months the manager trained me to make coffee and work at the cash register. The busiest time was the morning rush on weekends, when we sometimes had a line out the door. I learned to stay calm and work quickly under pressure. I also got better at talking to strangers, which was something I was really shy about before. And of course, the money helped me pay for my books.",
+      "I think the hardest part is managing your energy, not just your time. You can plan your schedule perfectly, but if you finish a six-hour shift, you're often too tired to study properly. Another problem is that exams and busy work periods sometimes happen at the same time. For example, during my final exams last December, the café was full of holiday customers, and my manager needed me to work extra hours. I ended up studying late every night and I was exhausted. Eventually I learned to tell my employer about my exam dates months in advance.",
+      "I don't really agree. Of course, studies should be the priority, and working forty hours a week while studying full time is probably too much. But a small part-time job, maybe ten or fifteen hours, can actually make you more organised and responsible. It teaches skills you can't learn in a classroom, like dealing with difficult customers or working in a team. Personally, my grades actually improved when I started working, because I stopped wasting time and became much more disciplined. Also, for many students, working isn't a choice, they need the money to pay for rent and food.",
+      "I think employers should look at both, but in many jobs, experience is probably more revealing. Grades show that you can learn and meet deadlines, which is important. But experience shows how you behave with real people and real problems. For example, a friend of mine had average grades, but she'd done two internships in marketing, and she got a job offer before graduating, while some classmates with higher grades were still searching. On the other hand, for very technical jobs, like engineering or medicine, grades probably matter more, because they prove you've mastered complex knowledge. So it depends on the field."
+    ]
+  },
+  {
+    "id": "toefl-interview-05",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Environment and recycling",
+    "intro": "Good afternoon. I'm writing an article for the campus newspaper about environmental habits among students, and I'd like to include your views.",
+    "interviewer": { "id": "int", "name": "Lucy Harrison", "role": "Campus newspaper reporter", "gender": "f", "accent": "en-AU" },
+    "questions": [
+      "What do you personally do to reduce waste in your daily life?",
+      "Is recycling easy or difficult where you live? Can you give an example?",
+      "Some people think individual actions, like recycling, make very little difference to the environment. What's your opinion?",
+      "Do you think the government should ban single-use plastic products completely? Why or why not?"
+    ],
+    "sampleAnswers": [
+      "I try to do a few simple things consistently. The main one is that I always carry a reusable water bottle and a coffee cup, so I almost never buy plastic bottles or use disposable cups. I also bring cloth bags when I go grocery shopping. Another thing I started recently is planning my meals for the week, because I realised I was throwing away a lot of food that went bad in the fridge. Since I started making a shopping list, I waste much less food, and as a bonus, I spend less money. They're small habits, but they add up.",
+      "Where I live now it's fairly easy, actually. My apartment building has separate bins for paper, plastic, glass, and food waste, and there are clear signs above each one explaining what goes where. But it wasn't always like that. In my previous apartment, there was only one bin for everything, and the nearest recycling point was about a fifteen-minute walk away. Honestly, I recycled much less back then, because it was inconvenient. That experience showed me that people's behaviour depends a lot on the system around them. When recycling is easy, most people do it.",
+      "I understand that view, because the biggest sources of pollution are industries and energy production, not someone forgetting to recycle a can. But I don't think individual actions are useless. First, millions of small actions together do have an effect. Second, and more importantly, individual habits influence social norms and companies. For example, when lots of customers started bringing their own cups, many coffee chains began offering discounts for reusable cups. So personal actions send a message to businesses and politicians that people care, and that can lead to bigger changes. So I'd say they matter, just not on their own.",
+      "I think a complete ban would be too extreme, at least right now. Some single-use plastics are really important, for example in hospitals, where sterile disposable equipment protects patients. Also, people with certain disabilities rely on plastic straws. But for everyday items like shopping bags, cutlery, and food containers, I'm in favour of strict bans or high taxes, because there are good alternatives. My country banned free plastic bags a few years ago, and almost everyone adapted in a few months. So I'd support targeted bans rather than banning every single-use plastic product."
+    ]
+  },
+  {
+    "id": "toefl-interview-06",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Reading habits",
+    "intro": "Hello! I'm a librarian, and we're running a survey to find out about the reading habits of our students so we can improve the library's collection.",
+    "interviewer": { "id": "int", "name": "Margaret Doyle", "role": "University librarian", "gender": "f", "accent": "en-GB" },
+    "questions": [
+      "What kind of things do you enjoy reading in your free time?",
+      "Do you prefer reading printed books or reading on a screen? Why?",
+      "Many people say that young people read less than they used to. Do you think this is true? Why or why not?",
+      "Should public libraries spend more money on digital resources or on physical books? Explain your choice."
+    ],
+    "sampleAnswers": [
+      "In my free time I mostly read novels, especially mystery and science fiction. I love stories where you have to guess what's going to happen, and the ending surprises you. I also read a lot of long articles online about science and travel. For example, last month I read a really interesting piece about how cities in the Netherlands manage flooding, and I ended up spending the whole evening reading more about it. During the semester I don't have much time, so I usually read for about twenty minutes before bed, but in the holidays I can finish a book in two or three days.",
+      "I prefer printed books, especially for fiction. I find it easier to concentrate when I'm holding a real book, because there are no notifications popping up. I also remember the content better. Sometimes I can even remember where on the page I read something. On the other hand, I use my tablet for academic reading, because I can search for keywords and highlight text easily, and I don't have to carry heavy textbooks around. So I guess I prefer paper for pleasure and screens for study. Also, my eyes get tired if I read on a screen for more than an hour.",
+      "I think it's partly true, but it depends on what we mean by reading. Young people probably read fewer traditional books than previous generations, because there's so much competition from videos, games, and social media. But they actually read a lot of text every day: messages, posts, online articles. My younger cousin, for example, doesn't read many novels, but she reads long fan-fiction stories online for hours. So I'd say the type of reading has changed, rather than disappearing. What worries me a bit is that most online reading is short and fast, so maybe deep reading is decreasing.",
+      "I think libraries should still prioritise physical books, but increase digital resources gradually. Digital books and databases are great because many people can access them from home at any time, which is helpful for students and people who live far away. However, not everyone has a good device or a fast internet connection, especially older people or low-income families. For them, the library might be the only place to get books. In my hometown, the library is always full of children borrowing picture books, and those kids really benefit from holding real books. So a balance is best."
+    ]
+  },
+  {
+    "id": "toefl-interview-07",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Online learning",
+    "intro": "Hi, I'm part of a research team studying online education. I'd like to ask you some questions about your experiences with learning online.",
+    "interviewer": { "id": "int", "name": "Dr. Kevin Lam", "role": "Education technology researcher", "gender": "m", "accent": "en-CA" },
+    "questions": [
+      "Have you ever taken an online course? What was it about, and how did you find it?",
+      "What do you think is the biggest advantage of learning online?",
+      "Some people believe online classes can never be as effective as face-to-face classes. Do you agree? Why or why not?",
+      "In the future, do you think most university education will take place online? Explain your prediction."
+    ],
+    "sampleAnswers": [
+      "Yes, last summer I took an online course in basic computer programming. It lasted eight weeks, and each week there were short video lessons, some coding exercises, and a quiz at the end. Overall I found it really useful, because the explanations were clear and I could replay any video I didn't understand. The difficult part was staying motivated. In the third week I had a lot going on, and I almost gave up. What helped was joining the course's discussion forum, where other students shared their problems and solutions. In the end I finished the course and built a simple website.",
+      "For me, the biggest advantage is flexibility. You can study when and where it suits you, which is really important for people who work or have families. For example, my aunt is a nurse who works night shifts, and she completed an online certificate in health management by studying in the mornings after work. That would have been impossible with a fixed class schedule. Another advantage is that you can learn from top experts anywhere in the world without having to move or pay for expensive housing. So online learning makes education accessible to many more people.",
+      "I partly agree. For some subjects, especially practical ones like chemistry or nursing, you really need hands-on experience in a lab or a hospital, and that's hard to replicate online. Also, in face-to-face classes it's easier to ask quick questions and to build relationships with classmates. But I don't think online classes are always worse. For theoretical subjects, a well-designed online course can be just as effective, maybe even more, because students can learn at their own pace. My online statistics course was actually better than the in-person version my friend took, because it had interactive exercises with instant feedback.",
+      "I don't think most of it will be fully online, but I expect a lot more hybrid programs. Universities have seen that recorded lectures and online materials save time and money, so I imagine big introductory lectures might move online. But students still value campus life, meeting people, doing group projects, and using facilities like labs and libraries. And employers often look for social and teamwork skills that are easier to develop in person. So my prediction is that in twenty years, a typical student might do maybe half of their learning online and the other half on campus, in smaller, more interactive classes."
+    ]
+  },
+  {
+    "id": "toefl-interview-08",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Health and exercise",
+    "intro": "Hello, I'm a researcher with the public health department. We're interviewing young adults about their exercise habits and attitudes towards health.",
+    "interviewer": { "id": "int", "name": "Dr. Fiona McLeod", "role": "Public health researcher", "gender": "f", "accent": "en-NZ" },
+    "questions": [
+      "How do you usually stay active during a normal week?",
+      "What usually stops you, or people you know, from exercising more often?",
+      "Some people think that companies should give employees time during the working day to exercise. Do you think this is a good idea? Why?",
+      "Who should be mainly responsible for people's health: individuals themselves or the government? Explain your view."
+    ],
+    "sampleAnswers": [
+      "During a normal week I try to combine planned exercise with just moving more in general. I go running twice a week, usually around a park near my apartment, for about forty minutes. On Saturdays I play football with some friends from my course, which is more fun than exercise, to be honest. Apart from that, I try to walk or cycle instead of taking the bus whenever I can. For instance, I cycle to campus most days, which takes about fifteen minutes each way. I don't go to the gym, because I find it boring, but I think I'm reasonably active.",
+      "I think the main obstacle is time, or at least the feeling of not having time. Many of my friends have long days of classes and part-time jobs, so when they finally get home, the last thing they want to do is go for a run. Another barrier is cost. Gym memberships and sports clubs can be quite expensive for students. And I'd say motivation is a big issue too. For example, my roommate signed up for a gym in January, went enthusiastically for two weeks, and then stopped because he had nobody to go with. Having a regular partner really helps.",
+      "Yes, I think it's a good idea, and it could actually benefit companies too. People who exercise regularly tend to be healthier, take fewer sick days, and often feel more focused and less stressed. If employees have, say, thirty minutes in the middle of the day for a walk or a class, they might come back more productive. My uncle's company introduced a lunchtime yoga session twice a week, and he says the atmosphere in the office improved a lot. Of course, it might be harder for small businesses or jobs like healthcare, where people can't easily leave their posts, so it should be flexible.",
+      "I'd say it's a shared responsibility, but the government has a bigger role than people sometimes admit. Individuals obviously make daily choices about food and exercise. But those choices are shaped by the environment. If healthy food is expensive, if there are no safe parks or bike lanes, and if fast food is advertised everywhere, it's much harder to live healthily. Governments can change that through things like taxes on sugary drinks or building sports facilities. In my city, after they built protected bike lanes, the number of people cycling to work increased dramatically. So the government should make the healthy choice the easy choice."
+    ]
+  }
+]

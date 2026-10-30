@@ -1,0 +1,635 @@
+[
+  {
+    "id": "awl-8",
+    "category": "awl",
+    "sublist": 8,
+    "title": "AWL Sublist 8",
+    "titleEs": "AWL · Sublista 8",
+    "description": "Las 60 palabras de la sublista 8 de la Academic Word List, con definición, traducción, ejemplo académico, colocaciones y familia léxica.",
+    "cards": [
+      {
+        "id": "awl-abandon",
+        "term": "abandon",
+        "pos": "verb",
+        "definition": "To leave someone or something permanently; to stop doing or planning something.",
+        "es": "abandonar, renunciar a",
+        "example": "The project was abandoned after costs rose to twice the original estimate.",
+        "collocations": ["abandon a plan", "abandon an idea", "abandoned buildings", "largely abandoned"],
+        "family": ["abandonment", "abandoned"]
+      },
+      {
+        "id": "awl-accompany",
+        "term": "accompany",
+        "pos": "verb",
+        "definition": "To go somewhere with someone; to happen or exist together with something.",
+        "es": "acompañar",
+        "example": "Rapid economic growth is often accompanied by rising inequality.",
+        "collocations": ["accompanied by", "accompanying notes", "accompany a child", "be accompanied with"],
+        "family": ["accompaniment", "accompanying", "unaccompanied"],
+        "warning": "Transitivo: \"accompany someone\", no \"accompany WITH someone\"."
+      },
+      {
+        "id": "awl-accumulate",
+        "term": "accumulate",
+        "pos": "verb",
+        "definition": "To gradually collect or increase in amount over time.",
+        "es": "acumular(se)",
+        "example": "Plastic waste continues to accumulate in the world's oceans.",
+        "collocations": ["accumulate wealth", "accumulate data", "gradually accumulate", "accumulated evidence"],
+        "family": ["accumulation", "accumulative", "accumulated"]
+      },
+      {
+        "id": "awl-ambiguous",
+        "term": "ambiguous",
+        "pos": "adjective",
+        "definition": "Having more than one possible meaning, and therefore unclear.",
+        "es": "ambiguo",
+        "example": "Some survey questions were ambiguous, so the responses were difficult to interpret.",
+        "collocations": ["highly ambiguous", "ambiguous wording", "morally ambiguous", "ambiguous results"],
+        "family": ["ambiguity", "unambiguous", "ambiguously"]
+      },
+      {
+        "id": "awl-append",
+        "term": "append",
+        "pos": "verb",
+        "definition": "To add something, especially extra writing, at the end of a document.",
+        "es": "anexar, añadir (al final)",
+        "example": "A full list of the interview questions is appended to the report.",
+        "collocations": ["append to", "appended list", "see the appendix", "in the appendix"],
+        "family": ["appendix", "appendices", "appended"]
+      },
+      {
+        "id": "awl-appreciate",
+        "term": "appreciate",
+        "pos": "verb",
+        "definition": "To recognise the value or importance of something; to be grateful; to increase in value.",
+        "es": "valorar, agradecer; comprender; revalorizarse",
+        "example": "Few people fully appreciate the role that insects play in food production.",
+        "collocations": ["fully appreciate", "appreciate the importance of", "greatly appreciated", "appreciate in value"],
+        "family": ["appreciation", "appreciative", "appreciable"],
+        "warning": "No es \"apreciar a alguien\" en el sentido de cariño (\"be fond of\"). \"I'd appreciate it if...\" = te agradecería que..."
+      },
+      {
+        "id": "awl-arbitrary",
+        "term": "arbitrary",
+        "pos": "adjective",
+        "definition": "Based on chance or personal choice rather than reason or a system.",
+        "es": "arbitrario",
+        "example": "Setting the retirement age at 65 is somewhat arbitrary.",
+        "collocations": ["arbitrary decision", "arbitrary arrest", "purely arbitrary", "arbitrary choice"],
+        "family": ["arbitrarily", "arbitrariness"]
+      },
+      {
+        "id": "awl-automate",
+        "term": "automate",
+        "pos": "verb",
+        "definition": "To make a process operate by machines or computers instead of people.",
+        "es": "automatizar",
+        "example": "Many routine office tasks are likely to be automated within the next decade.",
+        "collocations": ["fully automated", "automate a process", "automated system", "job automation"],
+        "family": ["automation", "automatic", "automatically"]
+      },
+      {
+        "id": "awl-bias",
+        "term": "bias",
+        "pos": "noun / verb",
+        "definition": "An unfair preference for or against one person, group or idea.",
+        "es": "sesgo, prejuicio, parcialidad",
+        "example": "Self-reported data may contain bias because people overestimate their healthy habits.",
+        "collocations": ["bias against", "gender bias", "unconscious bias", "biased sample"],
+        "family": ["biased", "unbiased"]
+      },
+      {
+        "id": "awl-chart",
+        "term": "chart",
+        "pos": "noun / verb",
+        "definition": "A diagram showing information; to record or follow the progress of something.",
+        "es": "gráfico, tabla; trazar, registrar",
+        "example": "The bar chart compares household spending in five European countries.",
+        "collocations": ["bar chart", "pie chart", "flow chart", "chart the progress of"],
+        "family": ["charted", "uncharted"],
+        "warning": "En IELTS Task 1: \"The chart shows/illustrates...\", no \"The chart talks about...\"."
+      },
+      {
+        "id": "awl-clarify",
+        "term": "clarify",
+        "pos": "verb",
+        "definition": "To make something clearer or easier to understand.",
+        "es": "aclarar, esclarecer",
+        "example": "This section clarifies the difference between weather and climate.",
+        "collocations": ["clarify the meaning", "clarify a point", "seek clarification", "help clarify"],
+        "family": ["clarification", "clarity"]
+      },
+      {
+        "id": "awl-commodity",
+        "term": "commodity",
+        "pos": "noun",
+        "definition": "A product or raw material that can be bought and sold, such as oil or wheat.",
+        "es": "materia prima, bien, producto básico",
+        "example": "Economies that depend on a single commodity are vulnerable to price changes.",
+        "collocations": ["commodity prices", "valuable commodity", "commodity markets", "basic commodities"],
+        "family": ["commodities", "commodify"],
+        "warning": "Falso amigo: \"commodity\" NO es \"comodidad\" (\"comfort\" / \"convenience\")."
+      },
+      {
+        "id": "awl-complement",
+        "term": "complement",
+        "pos": "verb / noun",
+        "definition": "To add to something in a way that improves it or makes it complete.",
+        "es": "complementar; complemento",
+        "example": "Online resources should complement, not replace, classroom teaching.",
+        "collocations": ["complement each other", "a complement to", "complementary therapies", "perfectly complement"],
+        "family": ["complementary"],
+        "warning": "No confundir con \"compliment\" (halago), que suena igual."
+      },
+      {
+        "id": "awl-conform",
+        "term": "conform",
+        "pos": "verb",
+        "definition": "To behave according to accepted rules or standards; to obey a law.",
+        "es": "ajustarse, cumplir; adaptarse (a normas)",
+        "example": "All new buildings must conform to strict energy-efficiency standards.",
+        "collocations": ["conform to", "conform with", "pressure to conform", "social conformity"],
+        "family": ["conformity", "conformist", "nonconformist"],
+        "warning": "No significa \"conformarse\" (\"settle for\", \"make do with\")."
+      },
+      {
+        "id": "awl-contemporary",
+        "term": "contemporary",
+        "pos": "adjective / noun",
+        "definition": "Belonging to the present time; or living or happening at the same time as something else.",
+        "es": "contemporáneo, actual",
+        "example": "Contemporary societies face new ethical questions raised by genetic engineering.",
+        "collocations": ["contemporary art", "contemporary society", "contemporary accounts", "contemporary issues"],
+        "family": ["contemporaries"]
+      },
+      {
+        "id": "awl-contradict",
+        "term": "contradict",
+        "pos": "verb",
+        "definition": "To state the opposite of something; to be so different that both cannot be true.",
+        "es": "contradecir",
+        "example": "These findings contradict earlier claims that the drug is completely safe.",
+        "collocations": ["contradict findings", "directly contradict", "contradictory evidence", "a contradiction in terms"],
+        "family": ["contradiction", "contradictory"]
+      },
+      {
+        "id": "awl-crucial",
+        "term": "crucial",
+        "pos": "adjective",
+        "definition": "Extremely important, because it affects what happens in the future.",
+        "es": "crucial, fundamental",
+        "example": "Early diagnosis is crucial to the successful treatment of cancer.",
+        "collocations": ["crucial role", "crucial to/for", "absolutely crucial", "crucial factor"],
+        "family": ["crucially"]
+      },
+      {
+        "id": "awl-currency",
+        "term": "currency",
+        "pos": "noun",
+        "definition": "The money used in a particular country; the state of being widely accepted.",
+        "es": "moneda, divisa; aceptación, vigencia",
+        "example": "A weaker currency makes a country's exports cheaper abroad.",
+        "collocations": ["foreign currency", "single currency", "currency exchange", "gain currency"],
+        "family": ["currencies", "current"]
+      },
+      {
+        "id": "awl-denote",
+        "term": "denote",
+        "pos": "verb",
+        "definition": "To represent or be a sign of something.",
+        "es": "denotar, indicar, representar",
+        "example": "In the diagram, the dotted line denotes the projected trend.",
+        "collocations": ["denote a change", "is used to denote", "denoted by", "denote status"],
+        "family": ["denotation"]
+      },
+      {
+        "id": "awl-detect",
+        "term": "detect",
+        "pos": "verb",
+        "definition": "To notice or discover something that is not easy to see or hear.",
+        "es": "detectar",
+        "example": "Modern sensors can detect very small changes in air quality.",
+        "collocations": ["detect changes", "early detection", "difficult to detect", "detect a signal"],
+        "family": ["detection", "detective", "detector", "undetected"]
+      },
+      {
+        "id": "awl-deviate",
+        "term": "deviate",
+        "pos": "verb",
+        "definition": "To do something different from what is usual, expected or planned.",
+        "es": "desviarse, apartarse",
+        "example": "Actual spending deviated significantly from the original budget.",
+        "collocations": ["deviate from", "standard deviation", "deviate significantly", "deviation from the norm"],
+        "family": ["deviation", "deviant"]
+      },
+      {
+        "id": "awl-displace",
+        "term": "displace",
+        "pos": "verb",
+        "definition": "To force people to leave their homes; to take the place of something.",
+        "es": "desplazar; sustituir",
+        "example": "Thousands of families were displaced by the construction of the dam.",
+        "collocations": ["displaced people", "displace workers", "forcibly displaced", "displacement of"],
+        "family": ["displacement", "displaced"]
+      },
+      {
+        "id": "awl-drama",
+        "term": "drama",
+        "pos": "noun",
+        "definition": "A play for the theatre, TV or radio; an exciting or emotional situation.",
+        "es": "obra de teatro, drama; dramatismo",
+        "example": "Drama classes can help shy students develop confidence in speaking.",
+        "collocations": ["television drama", "drama school", "dramatic increase", "dramatically"],
+        "family": ["dramatic", "dramatically", "dramatise"],
+        "warning": "Muy útil en IELTS Task 1: \"a dramatic rise\" / \"rose dramatically\" = subida espectacular."
+      },
+      {
+        "id": "awl-eventual",
+        "term": "eventual",
+        "pos": "adjective",
+        "definition": "Happening at the end of a process or period of time.",
+        "es": "final (que acaba ocurriendo)",
+        "example": "Poor management led to the company's eventual collapse.",
+        "collocations": ["eventual outcome", "eventual winner", "eventually lead to", "eventual collapse"],
+        "family": ["eventually", "eventuality"],
+        "warning": "Falso amigo clásico: \"eventual\" NO es \"eventual/posible\" (\"possible\", \"potential\"). \"Eventually\" = al final, no \"eventualmente\"."
+      },
+      {
+        "id": "awl-exhibit",
+        "term": "exhibit",
+        "pos": "verb / noun",
+        "definition": "To show something publicly or show a quality or behaviour; an object shown in a museum.",
+        "es": "exhibir, mostrar, presentar",
+        "example": "Patients exhibited a wide range of symptoms after infection.",
+        "collocations": ["exhibit symptoms", "exhibit behaviour", "on exhibit", "art exhibition"],
+        "family": ["exhibition", "exhibitor"]
+      },
+      {
+        "id": "awl-exploit",
+        "term": "exploit",
+        "pos": "verb",
+        "definition": "To use something fully for profit; to treat someone unfairly for your own advantage.",
+        "es": "explotar, aprovechar",
+        "example": "Some employers exploit migrant workers by paying them below the legal wage.",
+        "collocations": ["exploit resources", "exploit workers", "exploit an opportunity", "economic exploitation"],
+        "family": ["exploitation", "exploitative"],
+        "warning": "No significa \"explotar\" como una bomba (\"explode\")."
+      },
+      {
+        "id": "awl-fluctuate",
+        "term": "fluctuate",
+        "pos": "verb",
+        "definition": "To change frequently, especially in amount or level.",
+        "es": "fluctuar, oscilar",
+        "example": "Oil prices fluctuated between 60 and 90 dollars a barrel during the period.",
+        "collocations": ["fluctuate between", "fluctuate wildly", "fluctuating prices", "seasonal fluctuations"],
+        "family": ["fluctuation", "fluctuating"],
+        "warning": "Clave en IELTS Task 1 para describir subidas y bajadas irregulares."
+      },
+      {
+        "id": "awl-guideline",
+        "term": "guideline",
+        "pos": "noun",
+        "definition": "Official advice or rules on how something should be done.",
+        "es": "directriz, pauta, norma",
+        "example": "New guidelines recommend at least 150 minutes of exercise per week.",
+        "collocations": ["follow guidelines", "strict guidelines", "issue guidelines", "clinical guidelines"],
+        "family": ["guidelines", "guide", "guidance"]
+      },
+      {
+        "id": "awl-highlight",
+        "term": "highlight",
+        "pos": "verb / noun",
+        "definition": "To draw attention to something important; the most interesting part of something.",
+        "es": "destacar, subrayar; punto culminante",
+        "example": "The report highlights the need for more investment in mental health services.",
+        "collocations": ["highlight the need for", "highlight the importance of", "highlight a problem", "highlights of"],
+        "family": ["highlighted", "highlighter"]
+      },
+      {
+        "id": "awl-implicit",
+        "term": "implicit",
+        "pos": "adjective",
+        "definition": "Suggested or understood without being stated directly.",
+        "es": "implícito",
+        "example": "There is an implicit assumption that economic growth always benefits everyone.",
+        "collocations": ["implicit assumption", "implicit in", "implicit bias", "implicit criticism"],
+        "family": ["implicitly", "imply", "implication"]
+      },
+      {
+        "id": "awl-induce",
+        "term": "induce",
+        "pos": "verb",
+        "definition": "To cause something to happen; to persuade someone to do something.",
+        "es": "inducir, provocar; persuadir",
+        "example": "Stress can induce a range of physical symptoms, including headaches.",
+        "collocations": ["induce someone to", "stress-induced", "induce labour", "drug-induced"],
+        "family": ["induction", "inducement"]
+      },
+      {
+        "id": "awl-inevitable",
+        "term": "inevitable",
+        "pos": "adjective",
+        "definition": "Certain to happen and impossible to avoid.",
+        "es": "inevitable",
+        "example": "Some job losses are inevitable as industries adopt new technology.",
+        "collocations": ["inevitable consequence", "almost inevitable", "seem inevitable", "inevitably lead to"],
+        "family": ["inevitably", "inevitability"]
+      },
+      {
+        "id": "awl-infrastructure",
+        "term": "infrastructure",
+        "pos": "noun",
+        "definition": "The basic systems and services a country needs, such as roads, power and water supply.",
+        "es": "infraestructura(s)",
+        "example": "Poor infrastructure discourages foreign companies from investing in the region.",
+        "collocations": ["transport infrastructure", "invest in infrastructure", "digital infrastructure", "public infrastructure"],
+        "family": ["infrastructural"],
+        "warning": "Normalmente incontable: \"infrastructure\", no \"infrastructures\"."
+      },
+      {
+        "id": "awl-inspect",
+        "term": "inspect",
+        "pos": "verb",
+        "definition": "To look at something carefully or officially check it.",
+        "es": "inspeccionar, examinar",
+        "example": "Restaurants are inspected regularly to ensure food safety standards are met.",
+        "collocations": ["inspect closely", "regularly inspected", "safety inspection", "inspect for damage"],
+        "family": ["inspection", "inspector"]
+      },
+      {
+        "id": "awl-intense",
+        "term": "intense",
+        "pos": "adjective",
+        "definition": "Very great, strong or extreme.",
+        "es": "intenso",
+        "example": "Competition for places at top universities has become increasingly intense.",
+        "collocations": ["intense competition", "intense pressure", "intense heat", "intensive care"],
+        "family": ["intensity", "intensify", "intensive", "intensely"],
+        "warning": "\"Intensive\" = que concentra mucho esfuerzo (\"intensive course\", \"intensive farming\"); \"intense\" = fuerte, extremo."
+      },
+      {
+        "id": "awl-manipulate",
+        "term": "manipulate",
+        "pos": "verb",
+        "definition": "To control or influence people or data unfairly; to handle something skilfully.",
+        "es": "manipular",
+        "example": "Advertisers may manipulate consumers' emotions to increase sales.",
+        "collocations": ["manipulate data", "manipulate public opinion", "easily manipulated", "genetic manipulation"],
+        "family": ["manipulation", "manipulative"]
+      },
+      {
+        "id": "awl-minimise",
+        "term": "minimise",
+        "pos": "verb",
+        "definition": "To reduce something to the lowest possible level.",
+        "es": "minimizar, reducir al mínimo",
+        "example": "Careful planning can minimise the environmental impact of new roads.",
+        "collocations": ["minimise the risk", "minimise costs", "minimise the impact", "minimise waste"],
+        "family": ["minimize (US)", "minimal", "minimum"]
+      },
+      {
+        "id": "awl-nuclear",
+        "term": "nuclear",
+        "pos": "adjective",
+        "definition": "Relating to the energy released by splitting atoms; relating to the nucleus of a cell or atom.",
+        "es": "nuclear",
+        "example": "Some argue that nuclear power is essential for reducing carbon emissions.",
+        "collocations": ["nuclear power", "nuclear energy", "nuclear weapons", "nuclear family"],
+        "family": ["nucleus"],
+        "warning": "\"Nuclear family\" = familia nuclear (padres e hijos)."
+      },
+      {
+        "id": "awl-offset",
+        "term": "offset",
+        "pos": "verb",
+        "definition": "To balance one effect with an opposite one so that the overall result is neutral.",
+        "es": "compensar, contrarrestar",
+        "example": "The rise in costs was partly offset by higher sales.",
+        "collocations": ["offset by", "offset the cost", "carbon offset", "partly offset"],
+        "family": ["offsetting"],
+        "warning": "Verbo irregular sin cambio: offset - offset - offset."
+      },
+      {
+        "id": "awl-paragraph",
+        "term": "paragraph",
+        "pos": "noun",
+        "definition": "A section of a text that deals with one idea and begins on a new line.",
+        "es": "párrafo",
+        "example": "Each body paragraph should begin with a clear topic sentence.",
+        "collocations": ["opening paragraph", "body paragraph", "concluding paragraph", "in the following paragraph"],
+        "family": ["paragraphs"]
+      },
+      {
+        "id": "awl-plus",
+        "term": "plus",
+        "pos": "preposition / noun / adjective",
+        "definition": "And also; an advantage; more than the number mentioned.",
+        "es": "más; ventaja",
+        "example": "The flat costs 900 euros a month, plus bills.",
+        "collocations": ["plus side", "a big plus", "plus or minus", "50 plus"],
+        "family": [],
+        "warning": "Al inicio de frase (\"Plus, ...\") es informal: en Writing usa \"In addition\" o \"Moreover\"."
+      },
+      {
+        "id": "awl-practitioner",
+        "term": "practitioner",
+        "pos": "noun",
+        "definition": "A person who works in a profession, especially medicine or law.",
+        "es": "profesional, médico (en ejercicio)",
+        "example": "General practitioners are often the first point of contact for patients.",
+        "collocations": ["general practitioner", "health practitioners", "medical practitioner", "practitioners and researchers"],
+        "family": ["practice", "practise", "practical"],
+        "warning": "No es \"practicante\" (\"nurse\")."
+      },
+      {
+        "id": "awl-predominant",
+        "term": "predominant",
+        "pos": "adjective",
+        "definition": "Being the strongest, most common or most noticeable.",
+        "es": "predominante",
+        "example": "Cars remain the predominant means of transport in most suburban areas.",
+        "collocations": ["predominant view", "predominantly urban", "predominant role", "predominant factor"],
+        "family": ["predominantly", "predominate", "predominance"]
+      },
+      {
+        "id": "awl-prospect",
+        "term": "prospect",
+        "pos": "noun",
+        "definition": "The possibility that something will happen; future chances of success.",
+        "es": "perspectiva, posibilidad",
+        "example": "Graduates with technical skills have better job prospects.",
+        "collocations": ["job prospects", "career prospects", "the prospect of", "bleak prospects"],
+        "family": ["prospective", "prospects"],
+        "warning": "No es \"prospecto\" de un medicamento (\"leaflet\"). \"Prospective students\" = futuros estudiantes."
+      },
+      {
+        "id": "awl-radical",
+        "term": "radical",
+        "pos": "adjective",
+        "definition": "Very new and different, or affecting the most basic parts of something.",
+        "es": "radical, drástico",
+        "example": "Tackling climate change will require radical changes in how we produce energy.",
+        "collocations": ["radical change", "radical reform", "radical approach", "radically different"],
+        "family": ["radically", "radicalism"]
+      },
+      {
+        "id": "awl-random",
+        "term": "random",
+        "pos": "adjective",
+        "definition": "Happening or chosen without a plan, method or pattern.",
+        "es": "aleatorio, al azar",
+        "example": "A random sample of 1,000 households was selected for the survey.",
+        "collocations": ["random sample", "at random", "randomly selected", "random checks"],
+        "family": ["randomly", "randomise", "randomness"]
+      },
+      {
+        "id": "awl-reinforce",
+        "term": "reinforce",
+        "pos": "verb",
+        "definition": "To make an idea, feeling or structure stronger.",
+        "es": "reforzar, consolidar",
+        "example": "Advertising can reinforce gender stereotypes from an early age.",
+        "collocations": ["reinforce stereotypes", "reinforce the idea", "positive reinforcement", "mutually reinforcing"],
+        "family": ["reinforcement", "reinforced"]
+      },
+      {
+        "id": "awl-restore",
+        "term": "restore",
+        "pos": "verb",
+        "definition": "To return something to its earlier good condition or position.",
+        "es": "restaurar, restablecer",
+        "example": "The aim of the project is to restore wetlands that were drained for farming.",
+        "collocations": ["restore confidence", "restore order", "restore to", "fully restored"],
+        "family": ["restoration", "restored"]
+      },
+      {
+        "id": "awl-revise",
+        "term": "revise",
+        "pos": "verb",
+        "definition": "To change something to improve it or make it more accurate; to study again before an exam.",
+        "es": "revisar, modificar; repasar",
+        "example": "Forecasts for economic growth have been revised downwards.",
+        "collocations": ["revise downwards", "revised edition", "revise for an exam", "revise a policy"],
+        "family": ["revision", "revised"],
+        "warning": "\"Revise\" implica cambiar o repasar; para \"revisar/comprobar\" algo suele ser \"check\" o \"review\"."
+      },
+      {
+        "id": "awl-schedule",
+        "term": "schedule",
+        "pos": "noun / verb",
+        "definition": "A plan listing times when things will happen; to arrange for something to happen at a time.",
+        "es": "horario, calendario, programa; programar",
+        "example": "The new line is scheduled to open in 2028, two years behind schedule.",
+        "collocations": ["behind schedule", "on schedule", "scheduled for", "tight schedule"],
+        "family": ["scheduled", "scheduling"]
+      },
+      {
+        "id": "awl-tension",
+        "term": "tension",
+        "pos": "noun",
+        "definition": "A feeling of nervousness or conflict; a situation where opposing forces exist.",
+        "es": "tensión",
+        "example": "There is a tension between economic development and environmental protection.",
+        "collocations": ["tension between", "ease tensions", "rising tensions", "social tension"],
+        "family": ["tense", "tensions"],
+        "warning": "La \"tensión arterial\" es \"blood pressure\", no \"tension\"."
+      },
+      {
+        "id": "awl-terminate",
+        "term": "terminate",
+        "pos": "verb",
+        "definition": "To end something, or to come to an end.",
+        "es": "rescindir, poner fin, finalizar",
+        "example": "The contract can be terminated by either party with one month's notice.",
+        "collocations": ["terminate a contract", "terminate employment", "terminate a pregnancy", "terminal illness"],
+        "family": ["termination", "terminal"],
+        "warning": "Es formal; para \"terminar\" algo en general usa \"finish\" o \"end\"."
+      },
+      {
+        "id": "awl-theme",
+        "term": "theme",
+        "pos": "noun",
+        "definition": "The main subject or idea of a talk, book or piece of research.",
+        "es": "tema (central)",
+        "example": "A recurring theme in the interviews was the lack of affordable childcare.",
+        "collocations": ["recurring theme", "central theme", "common theme", "theme park"],
+        "family": ["thematic", "thematically"]
+      },
+      {
+        "id": "awl-thereby",
+        "term": "thereby",
+        "pos": "adverb",
+        "definition": "As a result of the action just mentioned.",
+        "es": "de ese modo, con ello",
+        "example": "The city expanded its bus network, thereby reducing traffic in the centre.",
+        "collocations": ["thereby reducing", "thereby increasing", "thereby allowing", "thereby making"],
+        "family": [],
+        "warning": "Suele ir seguido de -ing: \", thereby reducing...\". Muy útil para mostrar consecuencias en Writing."
+      },
+      {
+        "id": "awl-uniform",
+        "term": "uniform",
+        "pos": "adjective / noun",
+        "definition": "The same in all parts or at all times; special clothes worn by members of a group.",
+        "es": "uniforme, homogéneo; uniforme (ropa)",
+        "example": "Growth was not uniform across the country; the north lagged behind.",
+        "collocations": ["school uniform", "uniform standards", "fairly uniform", "uniformly distributed"],
+        "family": ["uniformity", "uniformly"]
+      },
+      {
+        "id": "awl-vehicle",
+        "term": "vehicle",
+        "pos": "noun",
+        "definition": "A machine for transporting people or goods; a means of expressing or achieving something.",
+        "es": "vehículo; medio",
+        "example": "Electric vehicles account for a growing share of new car sales.",
+        "collocations": ["electric vehicle", "motor vehicle", "a vehicle for change", "vehicle emissions"],
+        "family": ["vehicular"]
+      },
+      {
+        "id": "awl-via",
+        "term": "via",
+        "pos": "preposition",
+        "definition": "Travelling through a place; by means of a particular method or person.",
+        "es": "por, a través de, vía",
+        "example": "Data were collected via an online questionnaire.",
+        "collocations": ["via email", "via the internet", "travel via", "transmitted via"],
+        "family": []
+      },
+      {
+        "id": "awl-virtual",
+        "term": "virtual",
+        "pos": "adjective",
+        "definition": "Almost the same as described; existing on computers or the internet rather than physically.",
+        "es": "virtual; prácticamente",
+        "example": "Virtual classrooms allow students in remote areas to access specialist teachers.",
+        "collocations": ["virtual reality", "virtual learning", "a virtual monopoly", "virtually impossible"],
+        "family": ["virtually"],
+        "warning": "\"Virtually\" suele significar \"prácticamente, casi\": \"virtually impossible\" = prácticamente imposible."
+      },
+      {
+        "id": "awl-visual",
+        "term": "visual",
+        "pos": "adjective / noun",
+        "definition": "Relating to seeing or sight; an image used to explain something.",
+        "es": "visual",
+        "example": "Visual aids such as graphs make complex data easier to understand.",
+        "collocations": ["visual aids", "visual arts", "visual information", "visual impairment"],
+        "family": ["visually", "visualise", "visualisation"]
+      },
+      {
+        "id": "awl-widespread",
+        "term": "widespread",
+        "pos": "adjective",
+        "definition": "Existing or happening in many places or among many people.",
+        "es": "generalizado, extendido",
+        "example": "There is widespread concern about the effects of social media on teenagers.",
+        "collocations": ["widespread concern", "widespread use", "widespread support", "widespread belief"],
+        "family": [],
+        "warning": "Más académico que \"very common\": \"a widespread problem\"."
+      }
+    ]
+  }
+]

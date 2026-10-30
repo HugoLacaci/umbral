@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ielts-r-pa-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "passageNo": 1,
+    "title": "From Sand to Screen",
+    "subtitle": "A short history of glass-making",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Glass is one of the oldest materials that human beings have learned to manufacture, yet it existed in nature long before anyone thought of making it. When volcanic lava cools very quickly, it can form a dark, glassy rock called obsidian. Because obsidian breaks into pieces with extremely sharp edges, Stone Age communities in Africa, Europe and the Americas shaped it into knives, scrapers and arrowheads thousands of years before the first glass furnace was lit. The Roman writer Pliny the Elder later told a story in which sailors, cooking a meal on a sandy beach, rested their pots on blocks of soda and found a strange shining liquid flowing from the fire the next morning. Whether or not the tale is true, the oldest man-made glass objects yet found, small beads from Mesopotamia, are roughly 4,500 years old."
+      },
+      {
+        "label": "B",
+        "text": "The basic recipe has changed surprisingly little since then. Glass is made mainly from sand, which is almost pure silica. On its own, silica melts only at around 1,700 degrees Celsius, far hotter than any ancient furnace could manage, so early glassmakers added a 'flux' such as soda or the ash of certain plants to lower the melting point. A third ingredient, lime, made the finished glass stable, so that it did not slowly dissolve in water. Even with these additions, ancient furnaces could not reach temperatures high enough to make glass fully liquid. Instead of pouring it, craftsmen produced vessels by a slow technique known as core-forming. A core of clay and dung was shaped on the end of a metal rod and covered with softened glass, and once the glass had cooled the core was scraped out. The resulting small bottles were used to hold perfumes and precious oils, and only the wealthy could afford them."
+      },
+      {
+        "label": "C",
+        "text": "Everything changed in the first century BCE, when craftsmen somewhere on the eastern coast of the Mediterranean discovered that a lump of molten glass on the end of a hollow pipe could be inflated like a balloon. Glassblowing was fast, required fewer tools and allowed a skilled worker to produce dozens of vessels in a single day. As the technique spread through the Roman Empire, glass stopped being a luxury and became an everyday material. Romans drank from glass cups, stored wine and olive oil in glass bottles and, in some public baths and wealthy homes, fitted small panes of glass into their windows. This window glass, however, was cloudy, letting in light but giving only a blurred view of the world outside."
+      },
+      {
+        "label": "D",
+        "text": "After the collapse of the Western Roman Empire, the most advanced glassmaking skills survived in the eastern Mediterranean and in the Islamic world, and from there they reached Venice. By the thirteenth century the city was famous for its glass, and in 1291 its government ordered all glass furnaces to be moved to the nearby island of Murano. The official reason was to reduce the risk of fire in a crowded city built largely of wood, but the move also made it easier to guard the industry's secrets: glassmakers enjoyed high social status, yet they were forbidden to leave the Venetian Republic. In the fifteenth century, Murano's workshops developed cristallo, a glass so clear and colourless that it resembled rock crystal, by carefully purifying the plant ash they used as a flux."
+      },
+      {
+        "label": "E",
+        "text": "Other European countries tried hard to copy Venetian glass, and one of the most important breakthroughs came from England. In the 1670s George Ravenscroft experimented with adding lead oxide to the mixture. The new lead glass was heavier than cristallo and sparkled more brightly, and because it was softer it was easier to cut into decorative patterns. Meanwhile, window glass was still made by hand. In the crown method, a glassblower spun a hot bubble of glass on a rod until it opened out into a wide, flat disc. The panes cut from such a disc were small and uneven, being thin at the edges and thick near the centre, where a lump marked the point at which the rod had been attached."
+      },
+      {
+        "label": "F",
+        "text": "The industrial era transformed production once again. In 1903 the American engineer Michael Owens introduced a fully automatic machine that could make thousands of bottles an hour, ending centuries of hand-blown containers. Half a century later, the British engineer Alastair Pilkington developed the float process, in which molten glass is poured onto a bath of liquid tin. The glass spreads out and floats on the metal, producing a sheet that is perfectly flat on both sides without any grinding or polishing. Today the great majority of the world's flat glass, from shop windows to smartphone screens, is made in this way. The industry now faces a new challenge: reducing the large amount of energy its furnaces consume. One answer is recycling. Glass can be melted and reshaped again and again without losing quality, and because broken recycled glass, known as cullet, melts at a lower temperature than raw materials, every tonne added to a furnace cuts its energy use."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "tfng",
+        "instructions": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nWrite\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          {
+            "id": "q1",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "People used a natural form of glass to make tools before glass was manufactured.",
+            "answer": "TRUE",
+            "evidence": "Stone Age communities in Africa, Europe and the Americas shaped it into knives, scrapers and arrowheads thousands of years before the first glass furnace was lit",
+            "explanation": "Obsidian is 'a dark, glassy rock' (natural glass). It was made into knives and arrowheads (= tools) 'thousands of years before the first glass furnace' (= before glass was manufactured). TRUE."
+          },
+          {
+            "id": "q2",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Early glassmakers were able to heat glass until it became completely liquid.",
+            "answer": "FALSE",
+            "evidence": "ancient furnaces could not reach temperatures high enough to make glass fully liquid",
+            "explanation": "The passage directly contradicts the statement: furnaces 'could not' make glass 'fully liquid' (= completely liquid). Because the text says the opposite, the answer is FALSE, not NOT GIVEN."
+          },
+          {
+            "id": "q3",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Most core-formed bottles were made for export to other regions.",
+            "answer": "NOT GIVEN",
+            "explanation": "Paragraph B says what core-formed bottles held (perfumes and precious oils) and who could afford them (the wealthy), but nothing about where they were sold or whether they were exported. NOT GIVEN."
+          },
+          {
+            "id": "q4",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "The invention of glassblowing made glass available to ordinary people.",
+            "answer": "TRUE",
+            "evidence": "glass stopped being a luxury and became an everyday material",
+            "explanation": "'Stopped being a luxury' and 'everyday material' paraphrase 'available to ordinary people'; the examples (cups, bottles) confirm it. TRUE."
+          },
+          {
+            "id": "q5",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Roman window glass allowed people to see outside clearly.",
+            "answer": "FALSE",
+            "evidence": "This window glass, however, was cloudy, letting in light but giving only a blurred view of the world outside.",
+            "explanation": "A 'blurred view' through 'cloudy' glass is the opposite of seeing 'clearly'. The text contradicts the statement, so FALSE."
+          },
+          {
+            "id": "q6",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Venetian glassmakers earned more money than other craftsmen in the city.",
+            "answer": "NOT GIVEN",
+            "explanation": "Paragraph D says glassmakers 'enjoyed high social status' and could not leave the Republic, but status is not the same as income. Their pay is never compared with other craftsmen's, so NOT GIVEN. Don't let 'high social status' tempt you into TRUE."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "summary-completion",
+        "instructions": "Questions 7–10\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "title": "Glass in Venice and England",
+        "template": "In 1291 the Venetian government moved the city's glass furnaces to Murano. The stated aim was to lower the danger of {{q7}}, but the move also helped to protect the secrets of the trade. Two centuries later, Murano produced a very clear glass called {{q8}}, made by purifying the plant ash used in the mixture. In England in the 1670s, George Ravenscroft added {{q9}} to glass. The result sparkled more than Venetian glass and, being softer, was easier to {{q10}} into decorative designs.",
+        "items": [
+          {
+            "id": "q7",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["fire"],
+            "maxWords": 2,
+            "evidence": "The official reason was to reduce the risk of fire in a crowded city built largely of wood",
+            "explanation": "'The official reason' = 'the stated aim'; 'reduce the risk of' = 'lower the danger of'. The missing word is 'fire'."
+          },
+          {
+            "id": "q8",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["cristallo"],
+            "maxWords": 2,
+            "evidence": "Murano's workshops developed cristallo, a glass so clear and colourless that it resembled rock crystal",
+            "explanation": "The fifteenth century is two centuries after 1291. The clear glass was called 'cristallo'. 'Rock crystal' is what it looked like, not its name."
+          },
+          {
+            "id": "q9",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["lead oxide"],
+            "maxWords": 2,
+            "evidence": "George Ravenscroft experimented with adding lead oxide to the mixture",
+            "explanation": "Ravenscroft added 'lead oxide' (two words, within the limit). 'Lead' alone is incomplete as a copy of the passage."
+          },
+          {
+            "id": "q10",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["cut"],
+            "maxWords": 2,
+            "evidence": "because it was softer it was easier to cut into decorative patterns",
+            "explanation": "'Decorative patterns' = 'decorative designs'; the verb needed after 'easier to' is 'cut'."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "mcq",
+        "instructions": "Questions 11–13\nChoose the correct letter, A, B, C or D.",
+        "items": [
+          {
+            "id": "q11",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What was a problem with window panes made by the crown method?",
+            "options": [
+              "They broke easily when they were being cut.",
+              "They were not the same thickness all over.",
+              "They let very little light into a room.",
+              "They took a skilled worker several days to make."
+            ],
+            "answer": 1,
+            "evidence": "The panes cut from such a disc were small and uneven, being thin at the edges and thick near the centre",
+            "explanation": "'Thin at the edges and thick near the centre' means the thickness was uneven (B). Breaking, light and production time are not mentioned for crown glass.",
+            "optionNotes": [
+              "Not mentioned.",
+              "Correct: thin at the edges, thick near the centre.",
+              "Light is mentioned for Roman glass, not crown glass.",
+              "Not mentioned; 'dozens of vessels in a single day' refers to glassblowing."
+            ]
+          },
+          {
+            "id": "q12",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "According to the writer, the main advantage of the float process is that it",
+            "options": [
+              "makes glass that does not need to be ground or polished.",
+              "uses less tin than earlier methods.",
+              "can produce thousands of bottles an hour.",
+              "was the first fully automatic way of making glass."
+            ],
+            "answer": 0,
+            "evidence": "producing a sheet that is perfectly flat on both sides without any grinding or polishing",
+            "explanation": "The float process gives perfectly flat sheets 'without any grinding or polishing' (A). 'Thousands of bottles an hour' and 'fully automatic' describe Owens's bottle machine, not Pilkington's process.",
+            "optionNotes": [
+              "Correct.",
+              "Tin is used in the process, but no comparison of quantities is made.",
+              "This describes Michael Owens's bottle machine.",
+              "Owens's machine was the automatic one; nothing says float glass was the first."
+            ]
+          },
+          {
+            "id": "q13",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Why does adding cullet to a furnace reduce energy use?",
+            "options": [
+              "Recycled glass is lighter than raw materials.",
+              "Recycled glass does not need to be reshaped.",
+              "Recycled glass melts at a lower temperature.",
+              "Recycled glass contains no sand."
+            ],
+            "answer": 2,
+            "evidence": "because broken recycled glass, known as cullet, melts at a lower temperature than raw materials, every tonne added to a furnace cuts its energy use",
+            "explanation": "The reason ('because') given is that cullet 'melts at a lower temperature than raw materials' (C). Weight and sand content are not discussed, and the passage says glass can be 'reshaped again and again', the opposite of B.",
+            "optionNotes": [
+              "Weight is not mentioned.",
+              "The passage says glass is melted and reshaped again.",
+              "Correct.",
+              "Not stated."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

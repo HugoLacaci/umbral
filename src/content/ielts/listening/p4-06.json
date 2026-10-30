@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ielts-l-p4-06",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 4,
+    "title": "The acoustics of concert halls",
+    "context": "You will hear part of an acoustics lecture about how concert halls are designed.",
+    "audio": {
+      "speakers": [
+        { "id": "lec", "name": "Dr Fiona Barclay", "role": "lecturer", "gender": "f", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "lec", "t": "Good morning. Today we're moving from the physics of sound in general to a very practical application, which is the design of concert halls. It's an area where science and art meet, and where, as you'll see, getting things wrong can be very expensive indeed." },
+        { "s": "lec", "t": "The scientific study of room acoustics really begins in the eighteen nineties, with a young physicist at Harvard called Wallace Sabine. He was asked to fix a new lecture hall where students simply couldn't understand what the speakers were saying. Sabine realised that the problem was reverberation, that is, the way sound keeps bouncing around a room after the source has stopped. To measure it, he used an organ pipe to produce a note, and a stopwatch to time how long it took for the sound to fade away completely." },
+        { "s": "lec", "t": "Then he needed a way to reduce it. Famously, he borrowed hundreds of seat cushions from a nearby theatre and carried them into the hall at night, testing how the reverberation changed as he added more and more of them. From this he worked out a formula linking the volume of a room, the materials in it, and the reverberation time, and that formula is still taught today. For speech, a reverberation time of around one second is ideal. For orchestral music, you want closer to two seconds, which gives the sound a sense of warmth and fullness." },
+        { "s": "lec", "t": "Now, let's look at the shape of halls. Many of the halls that musicians consider the finest in the world were built in the nineteenth century, in what's known as the shoebox shape. They're long, narrow and high. Why does that work so well? Because the side walls are relatively close to the audience, a lot of sound reaches listeners from the left and right, a fraction of a second after the direct sound from the stage. These side reflections make listeners feel surrounded by the music, rather than just hearing it from the front." },
+        { "s": "lec", "t": "In the nineteen sixties, a very different design appeared, sometimes called the vineyard style. Here the orchestra is placed near the centre, and the audience sits on terraces rising up on all sides, a bit like the rows of a vineyard on a hillside. The low walls at the front of each terrace provide useful reflections, and because the audience wraps around the stage, no seat is very far from the conductor. That creates a feeling of intimacy, even in a hall with more than two thousand seats." },
+        { "s": "lec", "t": "What about materials? There's a popular belief that wood is the best material for a concert hall, because it supposedly resonates like a violin. In fact, the reverse is often true. Thin wood panels vibrate and absorb bass, so a hall lined with them can sound thin and weak in the lower notes. Many acousticians prefer heavy plaster, which reflects sound across the whole range. Wood is often used only as a thin decorative layer fixed firmly to a solid wall." },
+        { "s": "lec", "t": "Just as important as the material is the texture. Large flat, smooth surfaces can send sound back in a single concentrated beam, and that's what produces echoes. So designers break up surfaces with carvings, ridges and irregular panels, which scatter the sound in many directions. In older halls, the statues and decorated balconies were doing this job, even if the architects didn't realise it." },
+        { "s": "lec", "t": "Modern halls also need to be flexible. A symphony concert on Friday might be followed by an amplified jazz performance on Saturday, which needs a much drier sound. So many halls now have adjustable curtains that can be lowered from the ceiling or drawn along the walls to absorb sound when needed." },
+        { "s": "lec", "t": "Finally, there's the question of keeping noise out. Many new halls are built in city centres, close to roads and underground railways. The most effective solution is what's called a box within a box. The inner hall is a separate structure, and it sits on springs, so that vibration from passing trains isn't transmitted into the auditorium. It's expensive, but a single rumbling train during a quiet passage of music can ruin a hall's reputation." },
+        { "s": "lec", "t": "Next week, we'll look at two famous halls that had serious acoustic problems when they opened, and at what was done to fix them." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–40\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Concert hall acoustics",
+        "template": "Wallace Sabine (1890s)\n• timed how long sound lasted using an organ pipe and a {{q1}}\n• tested the effect of adding {{q2}} to reduce reverberation\n\nShape\n• shoebox halls: sound from the sides makes the audience feel {{q3}}\n• vineyard halls: seats on {{q4}} around the orchestra\n• all listeners are fairly close to the {{q5}}\n\nMaterials and surfaces\n• thin wooden panels absorb {{q6}}\n• heavy {{q7}} is often preferred\n• irregular surfaces scatter sound and prevent {{q8}}\n\nModern features\n• {{q9}} can be adjusted to suit different types of performance\n• the inner hall rests on {{q10}} to stop vibration",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "note-completion", "answers": ["stopwatch"], "maxWords": 1, "allowNumber": false,
+            "explanation": "He used an organ pipe to produce a note and a stopwatch to time it.", "evidence": "a stopwatch to time how long it took for the sound to fade away completely" },
+          { "id": "q2", "kind": "gap", "qtype": "note-completion", "answers": ["cushions"], "maxWords": 1, "allowNumber": false,
+            "explanation": "He borrowed seat cushions and tested how reverberation changed as he added more.", "evidence": "he borrowed hundreds of seat cushions" },
+          { "id": "q3", "kind": "gap", "qtype": "note-completion", "answers": ["surrounded"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Side reflections make listeners feel surrounded by the music.", "evidence": "These side reflections make listeners feel surrounded by the music" },
+          { "id": "q4", "kind": "gap", "qtype": "note-completion", "answers": ["terraces"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The audience sits on terraces rising on all sides.", "evidence": "the audience sits on terraces rising up on all sides" },
+          { "id": "q5", "kind": "gap", "qtype": "note-completion", "answers": ["conductor"], "maxWords": 1, "allowNumber": false,
+            "explanation": "'No seat is very far from the conductor.'", "evidence": "no seat is very far from the conductor" },
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["bass"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Thin wood panels vibrate and absorb bass, contrary to popular belief.", "evidence": "Thin wood panels vibrate and absorb bass" },
+          { "id": "q7", "kind": "gap", "qtype": "note-completion", "answers": ["plaster"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Many acousticians prefer heavy plaster.", "evidence": "Many acousticians prefer heavy plaster" },
+          { "id": "q8", "kind": "gap", "qtype": "note-completion", "answers": ["echoes", "echo"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Flat smooth surfaces produce echoes; irregular surfaces scatter sound.", "evidence": "that's what produces echoes" },
+          { "id": "q9", "kind": "gap", "qtype": "note-completion", "answers": ["curtains"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Adjustable curtains absorb sound for amplified performances.", "evidence": "many halls now have adjustable curtains" },
+          { "id": "q10", "kind": "gap", "qtype": "note-completion", "answers": ["springs"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The inner hall sits on springs so train vibration is not transmitted.", "evidence": "it sits on springs" }
+        ]
+      }
+    ]
+  }
+]

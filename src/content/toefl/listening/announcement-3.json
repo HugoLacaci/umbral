@@ -1,0 +1,630 @@
+[
+  {
+    "id": "toefl-ann-17",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Interlibrary loans over the break",
+    "context": "Listen to an announcement from the university library.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Rachel Kim",
+          "role": "Library staff",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Hello, this is an announcement from the university library about interlibrary loans, which is how you borrow books our library doesn't own. Over the winter break, we're moving to a new request system."
+        },
+        {
+          "s": "s",
+          "t": "That means any request you submit after December fifteenth won't be processed until classes start again in January. If you're working on a thesis, or any project that needs outside materials over the break, place your requests before the fifteenth."
+        },
+        {
+          "s": "s",
+          "t": "Requests already in the old system will be transferred automatically, but your request history won't be. So if you want a record of what you've borrowed, perhaps for a bibliography, download it from your account now."
+        },
+        {
+          "s": "s",
+          "t": "Finally, the new system will use your university email to log in, so you won't need a separate library password anymore."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Which students are most likely to be affected by the timing of the change?",
+        "options": [
+          "Students who have forgotten their library password",
+          "Students who need materials from other libraries during the break",
+          "Students who return books after the fifteenth",
+          "Students whose requests are already in the old system"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Passwords will simply no longer be needed.",
+          "Correct. Requests after the fifteenth won't be processed until January, so students needing outside materials over the break must act early.",
+          "Returning books is not discussed.",
+          "Existing requests are transferred automatically, so these students are protected."
+        ],
+        "explanation": "Requests made after December fifteenth wait until January, which matters most to students who need outside materials over the break.",
+        "evidence": "If you're working on a thesis, or any project that needs outside materials over the break, place your requests before the fifteenth"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What should a student who wants a list of previously borrowed books do?",
+        "options": [
+          "Submit a new request after the fifteenth",
+          "Ask library staff to transfer the list in January",
+          "Create a new library password",
+          "Download the request history before the change"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "New requests have nothing to do with past history.",
+          "The history will not be transferred at all.",
+          "Library passwords are being eliminated.",
+          "Correct. The history won't be transferred, so it must be downloaded now."
+        ],
+        "explanation": "Since the request history won't move to the new system, students who want a record should download it now.",
+        "evidence": "your request history won't be"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Wetlands trip postponed",
+    "context": "Listen to an announcement in an environmental science class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Ashworth",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Right, a change to Saturday's field trip to the wetlands. The reserve has closed its boardwalk after last week's storm, and they can't say when it'll reopen, so the trip is postponed, not cancelled. I'll confirm a new date once I hear from them."
+        },
+        {
+          "s": "p",
+          "t": "In the meantime, the field report due on the twentieth still counts, but you'll write it using the water-quality data from last year's class, which I'll post tonight. Since you won't be collecting the samples yourselves, I'll expect a longer discussion section explaining what might limit the reliability of someone else's data."
+        },
+        {
+          "s": "p",
+          "t": "When we do get to the reserve, the visit will be a practice session, so it won't be assessed. And those of you who paid for the coach will keep your seat for the new date rather than get a refund."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What can be inferred about the field report?",
+        "options": [
+          "It will be based on data the students did not collect themselves.",
+          "Its deadline has been moved to the new trip date.",
+          "It will no longer count toward the final grade.",
+          "It will be written after the students visit the reserve."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Students will use last year's class data instead of their own samples.",
+          "The report is still due on the twentieth.",
+          "He says the report still counts.",
+          "It is due before the postponed trip, using old data."
+        ],
+        "explanation": "Students must use the previous class's data, which is why they must discuss the reliability of someone else's data.",
+        "evidence": "you'll write it using the water-quality data from last year's class"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What will happen to students who paid for the coach?",
+        "options": [
+          "They will receive a full refund.",
+          "They will have to pay again for the new date.",
+          "Their seat will carry over to the new date.",
+          "They will be given priority in choosing a date."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "He says they will keep the seat rather than get a refund.",
+          "No extra payment is mentioned.",
+          "Correct. They keep their seat for the new date.",
+          "Students do not choose the date; the reserve decides."
+        ],
+        "explanation": "The professor says students who paid will keep their seat for the new date.",
+        "evidence": "will keep your seat for the new date rather than get a refund"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-19",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Water shut-off in the residence hall",
+    "context": "Listen to an announcement in a student residence.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Megan Doyle",
+          "role": "Residential Life",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Hi everyone, this is Megan from Residential Life with an update for Banksia Hall. Plumbers will be replacing the main water pipe on Wednesday, so the water will be off in the whole building from eight in the morning until about four in the afternoon."
+        },
+        {
+          "s": "s",
+          "t": "During that time, you can use the showers in the gym, which will open an hour early, at six, just for Banksia residents. Bring your room key, since that's how staff will know you live here."
+        },
+        {
+          "s": "s",
+          "t": "The laundry machines on the ground floor will also be out of action, so Tuesday night laundry hours are being extended until midnight."
+        },
+        {
+          "s": "s",
+          "t": "And one important thing. Please make sure your bathroom taps are turned off before you leave on Wednesday. When the water came back on after the last repair, a few open taps caused flooding in the rooms below."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the speaker mention the last repair?",
+        "options": [
+          "To explain why the work will take all day",
+          "To show that the plumbers are experienced",
+          "To explain why residents should keep their taps turned off",
+          "To apologize for problems with the gym showers"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The length of the work is not linked to the last repair.",
+          "The plumbers' experience is not discussed.",
+          "Correct. Open taps flooded rooms last time, which is why she gives this instruction.",
+          "No problem with the gym showers is mentioned."
+        ],
+        "explanation": "She refers to flooding after the last repair to justify asking residents to turn off their taps.",
+        "evidence": "a few open taps caused flooding in the rooms below"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What does the speaker suggest for residents who want to do laundry before the water is shut off?",
+        "options": [
+          "Use the laundry machines on Wednesday morning",
+          "Take their laundry to the gym",
+          "Wait until Thursday afternoon",
+          "Do their laundry late on Tuesday night"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The machines will be out of action while the water is off.",
+          "The gym offers showers, not laundry.",
+          "Thursday is after the shut-off, not before it.",
+          "Correct. Tuesday night laundry hours are extended until midnight."
+        ],
+        "explanation": "Since the machines won't work on Wednesday, Tuesday night hours are extended until midnight.",
+        "evidence": "Tuesday night laundry hours are being extended until midnight"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Changes to exchange applications",
+    "context": "Listen to an announcement from the Study Abroad Office.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Daniel Tremblay",
+          "role": "Study Abroad Office",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Good morning. This is Daniel from the Study Abroad Office with two changes to the application process for next year's exchange programs."
+        },
+        {
+          "s": "s",
+          "t": "First, the deadline for programs in Asia and Australia has moved earlier, from March first to February first, because partner universities there start their academic year sooner. Deadlines for European programs stay the same."
+        },
+        {
+          "s": "s",
+          "t": "Second, we no longer need a paper reference letter. Instead, your referee will receive an online form as soon as you enter their email in the application. So please ask your referee for permission before you submit, because the form is sent immediately. If you've already mailed us a paper letter, you don't need to do anything. We still have it."
+        },
+        {
+          "s": "s",
+          "t": "Information sessions continue every Tuesday, and attending one is still required before your application can be approved."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Which students now have less time to complete their applications?",
+        "options": [
+          "Students applying to programs in Asia or Australia",
+          "Students applying to programs in Europe",
+          "Students who have already mailed a paper letter",
+          "Students who missed a Tuesday information session"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Their deadline moved a month earlier, from March first to February first.",
+          "European deadlines stay the same.",
+          "These students don't need to do anything about the reference.",
+          "Sessions run every Tuesday; missing one does not shorten the deadline."
+        ],
+        "explanation": "Only programs in Asia and Australia have an earlier deadline.",
+        "evidence": "the deadline for programs in Asia and Australia has moved earlier"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What should students do before entering a referee's email address?",
+        "options": [
+          "Attend a second information session",
+          "Mail a paper reference letter",
+          "Get the referee's permission",
+          "Check the partner university's calendar"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Only one session is required, and not specifically before this step.",
+          "Paper letters are no longer needed.",
+          "Correct. The form is sent immediately, so students should ask permission first.",
+          "Partner calendars explain the deadline change but are not an action for students."
+        ],
+        "explanation": "Because the referee receives the form immediately, students should ask permission first.",
+        "evidence": "please ask your referee for permission before you submit"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-21",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "New presentation schedule",
+    "context": "Listen to an announcement in a sociology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Hale",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-NZ"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Okay, before you pack up, the schedule for group presentations has changed. Since we lost a week to the public holiday, I've had to squeeze the presentations into two sessions instead of three. Each group now has twelve minutes rather than fifteen, including questions, so please cut your talks to about nine minutes. The order is still the one posted online, except that groups five and six have swapped, at their request."
+        },
+        {
+          "s": "p",
+          "t": "Also, each of you will now submit a one-page individual reflection after your presentation, describing your own contribution. That's partly because a few of you told me workloads in some groups were uneven. The reflection replaces the peer evaluation form I mentioned earlier. It's due forty-eight hours after you present."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What can be inferred about the individual reflections?",
+        "options": [
+          "They will be written by the whole group together.",
+          "They will be added to the peer evaluation form.",
+          "They must be submitted before the presentations.",
+          "Their deadline will vary depending on when a group presents."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "They are individual and describe one's own contribution.",
+          "They replace the peer evaluation form.",
+          "They are due after the presentation.",
+          "Correct. Each is due forty-eight hours after that group presents, so deadlines differ."
+        ],
+        "explanation": "Since each reflection is due forty-eight hours after the student presents and groups present on different days, deadlines differ.",
+        "evidence": "It's due forty-eight hours after you present"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What should groups do to prepare for the new schedule?",
+        "options": [
+          "Ask to change their place in the order",
+          "Shorten their talks to about nine minutes",
+          "Prepare more questions for the audience",
+          "Meet the professor to divide the workload"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Only groups five and six swapped; others keep the posted order.",
+          "Correct. Groups now have twelve minutes including questions, so talks should be about nine minutes.",
+          "Question time has been reduced, not expanded.",
+          "No meeting is required."
+        ],
+        "explanation": "With twelve minutes including questions, the professor asks for talks of about nine minutes.",
+        "evidence": "please cut your talks to about nine minutes"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-22",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "West parking lot closing",
+    "context": "Listen to an announcement from Campus Parking Services.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Marcus Bell",
+          "role": "Campus Parking Services",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "This is an announcement from Campus Parking Services. Beginning the first of next month, construction of the new library will close the entire west parking lot for about a year."
+        },
+        {
+          "s": "s",
+          "t": "Students who currently hold west-lot permits will be moved to the stadium lot, and the free shuttle from the stadium will run every ten minutes during the day instead of every twenty. If you'd rather not park at the stadium, you can return your permit for a refund, but the request has to be made before the end of this month."
+        },
+        {
+          "s": "s",
+          "t": "Evening permits aren't affected, because the construction crews leave by five. Also, visitor parking near the west gate is being removed, so if you're expecting guests for an event, please direct them to the main entrance on College Road instead."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Who is NOT affected by the closure of the west lot?",
+        "options": [
+          "Students with daytime west-lot permits",
+          "Guests coming to campus events",
+          "Students who hold evening permits",
+          "Students who use the stadium shuttle"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "These students are being moved to the stadium lot.",
+          "Guests must now use the main entrance.",
+          "Correct. Evening permits are unaffected because crews leave by five.",
+          "Shuttle riders get more frequent service, which is a change."
+        ],
+        "explanation": "Evening permits are explicitly unaffected because construction stops by five.",
+        "evidence": "Evening permits aren't affected"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What should a west-lot permit holder who does not want to park at the stadium do?",
+        "options": [
+          "Request a refund before the end of the month",
+          "Exchange the permit for an evening permit",
+          "Park near the west gate",
+          "Wait until the library is completed"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. A refund is available if requested before the end of this month.",
+          "Exchanging for an evening permit is not offered.",
+          "Parking near the west gate is being removed.",
+          "Waiting a year is not suggested."
+        ],
+        "explanation": "Students who don't want stadium parking can get a refund if they apply before the end of the month.",
+        "evidence": "you can return your permit for a refund, but the request has to be made before the end of this month"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-23",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Final exams moved to the sports hall",
+    "context": "Listen to an announcement from the Examinations Office.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Fiona Marsh",
+          "role": "Examinations Office",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Good afternoon. This is the Examinations Office with an important change for students taking the economics and history final exams next Thursday. Because of a heating failure in the Grant Building, both exams will now be held in the sports hall. Start times are unchanged."
+        },
+        {
+          "s": "s",
+          "t": "The sports hall is larger, so seats will be assigned by surname, and the seating list will be posted on the hall door and online the evening before."
+        },
+        {
+          "s": "s",
+          "t": "Students who have arranged extra time or a separate room through Disability Services do not need to go to the sports hall. Your exam will take place in the Grant Building's smaller annex, which still has heating."
+        },
+        {
+          "s": "s",
+          "t": "Please note that the sports hall has no clocks, so we strongly recommend bringing a basic watch. Smart watches and phones, as always, are not permitted."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Which students will still take their exam in the Grant Building?",
+        "options": [
+          "Students taking the history exam only",
+          "Students with arrangements made through Disability Services",
+          "Students whose surnames are not on the seating list",
+          "Students who arrive before the start time"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Both economics and history move to the sports hall.",
+          "Correct. They will use the Grant Building's annex, which still has heating.",
+          "Everyone in the hall will be on the list; this is not mentioned.",
+          "Arrival time doesn't determine the room."
+        ],
+        "explanation": "Students with Disability Services arrangements go to the Grant Building's annex instead of the sports hall.",
+        "evidence": "Your exam will take place in the Grant Building's smaller annex"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What does the speaker suggest students taking the exam in the sports hall do?",
+        "options": [
+          "Bring their phones to check the time",
+          "Arrive early to choose a seat",
+          "Bring a simple watch",
+          "Dress warmly because of the heating"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Phones are not permitted.",
+          "Seats are assigned by surname, so there is no choosing.",
+          "Correct. The hall has no clocks, so a basic watch is recommended.",
+          "The heating problem is in the Grant Building, not the sports hall."
+        ],
+        "explanation": "Because the sports hall has no clocks, students are advised to bring a basic watch.",
+        "evidence": "we strongly recommend bringing a basic watch"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-24",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "New rules for research credit",
+    "context": "Listen to an announcement in an introductory psychology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s",
+          "name": "Tom Gallagher",
+          "role": "Psychology Department coordinator",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s",
+          "t": "Hi all. A quick update from the Psychology Department about research participation credit, which counts for five percent of your grade in this course. Until now, you could earn all your credit from online surveys. Starting this term, at least half your credits must come from studies done in person in the lab, because researchers have found the online data harder to rely on."
+        },
+        {
+          "s": "s",
+          "t": "If you can't attend lab sessions, for example because you're studying remotely, you can write a short summary of a published study instead, and that counts as in-person credit."
+        },
+        {
+          "s": "s",
+          "t": "Also, missing a booked session without cancelling at least twenty-four hours ahead now costs you one credit, rather than just a warning. Students who've already finished their credits under the old rules this term are covered and don't need to redo anything."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What can be inferred about students who study remotely?",
+        "options": [
+          "They are excused from earning research credit.",
+          "They can earn all their credit from online surveys as before.",
+          "They can meet the in-person requirement through written work.",
+          "They must come to campus at least once this term."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "They still need credit; they just earn it differently.",
+          "The new half-in-person rule applies to them too, but summaries count as in-person.",
+          "Correct. A short summary of a published study counts as in-person credit.",
+          "No campus visit is required for them."
+        ],
+        "explanation": "Remote students can write study summaries that count as in-person credit.",
+        "evidence": "you can write a short summary of a published study instead, and that counts as in-person credit"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What happens now if a student misses a booked session without cancelling in time?",
+        "options": [
+          "The student loses one credit.",
+          "The student receives a warning.",
+          "The student must write a summary of a study.",
+          "The student must redo all earlier credits."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Missing a session without twenty-four hours' notice now costs one credit.",
+          "A warning was the old rule.",
+          "Summaries are an option for remote students, not a penalty.",
+          "Redoing credits is not mentioned as a penalty."
+        ],
+        "explanation": "The new rule replaces the warning with the loss of one credit.",
+        "evidence": "now costs you one credit, rather than just a warning"
+      }
+    ]
+  }
+]

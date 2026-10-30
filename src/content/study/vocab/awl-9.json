@@ -1,0 +1,638 @@
+[
+  {
+    "id": "awl-9",
+    "category": "awl",
+    "sublist": 9,
+    "title": "AWL Sublist 9",
+    "titleEs": "AWL · Sublista 9",
+    "description": "Las 60 palabras de la sublista 9 de la Academic Word List, con definición, traducción, ejemplo académico, colocaciones y familia léxica.",
+    "cards": [
+      {
+        "id": "awl-accommodate",
+        "term": "accommodate",
+        "pos": "verb",
+        "definition": "To provide space or housing for people; to consider or adapt to different needs.",
+        "es": "alojar, dar cabida a; adaptarse a",
+        "example": "The new stadium can accommodate up to 60,000 spectators.",
+        "collocations": ["accommodate needs", "accommodate up to", "student accommodation", "accommodate changes"],
+        "family": ["accommodation", "accommodating"],
+        "warning": "Ortografía: doble c y doble m. \"Accommodation\" (alojamiento) es incontable en inglés británico."
+      },
+      {
+        "id": "awl-analogy",
+        "term": "analogy",
+        "pos": "noun",
+        "definition": "A comparison between two things that shows how they are similar.",
+        "es": "analogía",
+        "example": "The author draws an analogy between the human brain and a computer.",
+        "collocations": ["draw an analogy", "by analogy", "analogy between", "useful analogy"],
+        "family": ["analogous", "analogue"]
+      },
+      {
+        "id": "awl-anticipate",
+        "term": "anticipate",
+        "pos": "verb",
+        "definition": "To expect something and often prepare for it before it happens.",
+        "es": "prever, esperar, anticiparse a",
+        "example": "Planners failed to anticipate the rapid growth in car ownership.",
+        "collocations": ["anticipate problems", "anticipated growth", "than anticipated", "anticipate demand"],
+        "family": ["anticipation", "anticipated", "unanticipated"],
+        "warning": "No significa \"adelantar\" (dinero o una fecha): eso es \"advance\" / \"bring forward\"."
+      },
+      {
+        "id": "awl-assure",
+        "term": "assure",
+        "pos": "verb",
+        "definition": "To tell someone something is true so they do not worry; to make certain.",
+        "es": "asegurar, garantizar",
+        "example": "Officials assured residents that the water was safe to drink.",
+        "collocations": ["assure someone that", "rest assured", "quality assurance", "assured of success"],
+        "family": ["assurance", "assured", "reassure"],
+        "warning": "\"Assure\" lleva persona: \"assure SOMEONE that\". Para \"asegurarse de algo\" usa \"ensure\" o \"make sure\"."
+      },
+      {
+        "id": "awl-attain",
+        "term": "attain",
+        "pos": "verb",
+        "definition": "To succeed in achieving something after effort.",
+        "es": "alcanzar, lograr, conseguir",
+        "example": "Fewer than half of the pupils attained the expected standard in mathematics.",
+        "collocations": ["attain a goal", "attain a level", "educational attainment", "difficult to attain"],
+        "family": ["attainment", "attainable", "unattainable"]
+      },
+      {
+        "id": "awl-behalf",
+        "term": "behalf",
+        "pos": "noun",
+        "definition": "Used in 'on behalf of' to mean representing or in the interests of someone.",
+        "es": "en nombre de, en representación de",
+        "example": "Unions negotiate on behalf of their members for better pay.",
+        "collocations": ["on behalf of", "on someone's behalf", "act on behalf of", "speak on behalf of"],
+        "family": [],
+        "warning": "Solo se usa en la expresión \"on behalf of\" (en EE. UU. también \"in behalf of\")."
+      },
+      {
+        "id": "awl-bulk",
+        "term": "bulk",
+        "pos": "noun",
+        "definition": "The largest part of something; a large quantity.",
+        "es": "mayor parte, grueso; volumen",
+        "example": "The bulk of household waste ends up in landfill sites.",
+        "collocations": ["the bulk of", "in bulk", "bulk buying", "bulky items"],
+        "family": ["bulky"]
+      },
+      {
+        "id": "awl-cease",
+        "term": "cease",
+        "pos": "verb",
+        "definition": "To stop happening or existing (formal).",
+        "es": "cesar, dejar de",
+        "example": "The factory ceased production in 2015 due to falling demand.",
+        "collocations": ["cease to exist", "cease production", "cease operations", "ceasefire"],
+        "family": ["ceaseless", "unceasing", "cessation"]
+      },
+      {
+        "id": "awl-coherent",
+        "term": "coherent",
+        "pos": "adjective",
+        "definition": "Logical, clear and well organised, so that the parts fit together.",
+        "es": "coherente",
+        "example": "A coherent essay links each paragraph clearly to the main argument.",
+        "collocations": ["coherent argument", "coherent strategy", "coherent policy", "coherence and cohesion"],
+        "family": ["coherence", "coherently", "incoherent"],
+        "warning": "\"Coherence and Cohesion\" es uno de los cuatro criterios de nota de IELTS Writing."
+      },
+      {
+        "id": "awl-coincide",
+        "term": "coincide",
+        "pos": "verb",
+        "definition": "To happen at the same time; to be the same or very similar.",
+        "es": "coincidir",
+        "example": "The rise in crime coincided with a sharp increase in unemployment.",
+        "collocations": ["coincide with", "coincide in time", "by coincidence", "not a coincidence"],
+        "family": ["coincidence", "coincidental", "coincidentally"]
+      },
+      {
+        "id": "awl-commence",
+        "term": "commence",
+        "pos": "verb",
+        "definition": "To begin (formal).",
+        "es": "comenzar, iniciar",
+        "example": "Construction of the new hospital will commence next spring.",
+        "collocations": ["commence work", "commence on", "commencement ceremony", "due to commence"],
+        "family": ["commencement"],
+        "warning": "En EE. UU., \"commencement\" es la ceremonia de graduación."
+      },
+      {
+        "id": "awl-compatible",
+        "term": "compatible",
+        "pos": "adjective",
+        "definition": "Able to exist or work together without problems.",
+        "es": "compatible",
+        "example": "Economic growth need not be incompatible with environmental protection.",
+        "collocations": ["compatible with", "fully compatible", "incompatible with", "compatible software"],
+        "family": ["compatibility", "incompatible"]
+      },
+      {
+        "id": "awl-concurrent",
+        "term": "concurrent",
+        "pos": "adjective",
+        "definition": "Happening or existing at the same time.",
+        "es": "simultáneo, concurrente",
+        "example": "The two studies were carried out concurrently in different countries.",
+        "collocations": ["concurrent with", "run concurrently", "concurrent sessions", "concurrent events"],
+        "family": ["concurrently"],
+        "warning": "\"Concurrido\" (lleno de gente) es \"crowded\", no \"concurrent\"."
+      },
+      {
+        "id": "awl-confine",
+        "term": "confine",
+        "pos": "verb",
+        "definition": "To keep something within limits; to keep someone in a closed space.",
+        "es": "limitar, restringir; confinar",
+        "example": "The problem is not confined to large cities; it also affects rural towns.",
+        "collocations": ["confined to", "confined space", "confine discussion to", "within the confines of"],
+        "family": ["confinement", "confined", "confines"]
+      },
+      {
+        "id": "awl-controversy",
+        "term": "controversy",
+        "pos": "noun",
+        "definition": "Strong public disagreement about something.",
+        "es": "polémica, controversia",
+        "example": "The use of animals in medical research remains a subject of controversy.",
+        "collocations": ["cause controversy", "controversy over/about", "controversial issue", "spark controversy"],
+        "family": ["controversial", "controversially"]
+      },
+      {
+        "id": "awl-converse",
+        "term": "converse",
+        "pos": "noun / adjective / verb",
+        "definition": "The opposite of a statement or fact; also, to have a conversation (formal).",
+        "es": "lo contrario, lo opuesto; conversar",
+        "example": "Wealth may improve health, but the converse is also true: poor health reduces income.",
+        "collocations": ["the converse is true", "conversely", "converse with", "the converse of"],
+        "family": ["conversely", "conversation"],
+        "warning": "\"Conversely\" (por el contrario) es un conector excelente para contrastar en Writing."
+      },
+      {
+        "id": "awl-device",
+        "term": "device",
+        "pos": "noun",
+        "definition": "A machine or tool designed for a particular purpose; a method used to produce an effect.",
+        "es": "dispositivo, aparato; recurso",
+        "example": "Most teenagers spend several hours a day on mobile devices.",
+        "collocations": ["mobile device", "electronic device", "literary device", "safety device"],
+        "family": ["devise"],
+        "warning": "\"Device\" (sustantivo) vs \"devise\" (verbo: idear, diseñar)."
+      },
+      {
+        "id": "awl-devote",
+        "term": "devote",
+        "pos": "verb",
+        "definition": "To give time, money or effort to a particular activity or purpose.",
+        "es": "dedicar, consagrar",
+        "example": "Governments should devote more resources to preventive healthcare.",
+        "collocations": ["devote time to", "devote resources to", "devoted to + -ing", "entirely devoted"],
+        "family": ["devotion", "devoted"],
+        "warning": "\"Devote to + -ing\": \"devote time to studying\", no \"to study\"."
+      },
+      {
+        "id": "awl-diminish",
+        "term": "diminish",
+        "pos": "verb",
+        "definition": "To become or make something smaller, weaker or less important.",
+        "es": "disminuir, reducir",
+        "example": "The influence of traditional newspapers has diminished in the digital age.",
+        "collocations": ["diminishing returns", "greatly diminished", "diminish the value of", "diminish over time"],
+        "family": ["diminution", "diminished", "undiminished"]
+      },
+      {
+        "id": "awl-distort",
+        "term": "distort",
+        "pos": "verb",
+        "definition": "To change the shape or meaning of something so it is no longer true or accurate.",
+        "es": "distorsionar, tergiversar",
+        "example": "Selective reporting can distort the public's understanding of risk.",
+        "collocations": ["distort the truth", "distort the market", "distorted image", "distort the results"],
+        "family": ["distortion", "distorted"]
+      },
+      {
+        "id": "awl-duration",
+        "term": "duration",
+        "pos": "noun",
+        "definition": "The length of time that something lasts.",
+        "es": "duración",
+        "example": "Participants were asked to record the duration of each exercise session.",
+        "collocations": ["for the duration of", "short duration", "average duration", "duration of the study"],
+        "family": ["durable", "endure"]
+      },
+      {
+        "id": "awl-erode",
+        "term": "erode",
+        "pos": "verb",
+        "definition": "To gradually damage or destroy something, by natural forces or over time.",
+        "es": "erosionar, desgastar, minar",
+        "example": "Repeated scandals have eroded public trust in politicians.",
+        "collocations": ["erode trust", "erode confidence", "soil erosion", "coastal erosion"],
+        "family": ["erosion", "eroded"]
+      },
+      {
+        "id": "awl-ethic",
+        "term": "ethic",
+        "pos": "noun",
+        "definition": "A set of moral principles; the moral rules that control behaviour.",
+        "es": "ética",
+        "example": "Medical ethics require doctors to obtain informed consent from patients.",
+        "collocations": ["work ethic", "medical ethics", "ethical issues", "code of ethics"],
+        "family": ["ethics", "ethical", "ethically", "unethical"],
+        "warning": "La disciplina es \"ethics\" (con -s) y se usa con verbo en singular o plural según el sentido."
+      },
+      {
+        "id": "awl-format",
+        "term": "format",
+        "pos": "noun / verb",
+        "definition": "The way something is arranged, organised or presented.",
+        "es": "formato",
+        "example": "The new exam format includes shorter, more frequent tasks.",
+        "collocations": ["in digital format", "exam format", "standard format", "formatted text"],
+        "family": ["formatted", "formatting"]
+      },
+      {
+        "id": "awl-found",
+        "term": "found",
+        "pos": "verb",
+        "definition": "To start an organisation or institution; to base something on an idea.",
+        "es": "fundar; basar",
+        "example": "The university was founded in 1850 to train engineers.",
+        "collocations": ["founded in", "founding member", "founded on", "co-founder"],
+        "family": ["foundation", "founder", "unfounded"],
+        "warning": "\"Found\" (fundar) es regular: found - founded - founded. No confundir con \"found\", pasado de \"find\"."
+      },
+      {
+        "id": "awl-inherent",
+        "term": "inherent",
+        "pos": "adjective",
+        "definition": "Existing as a natural or permanent part of something.",
+        "es": "inherente, intrínseco",
+        "example": "There are risks inherent in any new medical treatment.",
+        "collocations": ["inherent in", "inherent risk", "inherent problem", "inherently unstable"],
+        "family": ["inherently"]
+      },
+      {
+        "id": "awl-insight",
+        "term": "insight",
+        "pos": "noun",
+        "definition": "A clear, deep understanding of a complex situation or problem.",
+        "es": "comprensión, perspectiva, idea reveladora",
+        "example": "The interviews provide valuable insight into the lives of farm workers.",
+        "collocations": ["insight into", "valuable insight", "gain insight", "provide insights"],
+        "family": ["insightful"]
+      },
+      {
+        "id": "awl-integral",
+        "term": "integral",
+        "pos": "adjective",
+        "definition": "Necessary and important as part of a whole.",
+        "es": "esencial, fundamental, integral",
+        "example": "Community involvement is integral to the success of conservation projects.",
+        "collocations": ["integral part of", "integral to", "integral role", "integral component"],
+        "family": ["integrate", "integration"],
+        "warning": "\"Integral part\" = parte esencial. \"Pan integral\" es \"wholemeal bread\"."
+      },
+      {
+        "id": "awl-intermediate",
+        "term": "intermediate",
+        "pos": "adjective",
+        "definition": "Between two levels or stages; neither basic nor advanced.",
+        "es": "intermedio",
+        "example": "An intermediate stage of processing removes impurities from the water.",
+        "collocations": ["intermediate level", "intermediate stage", "upper-intermediate", "intermediate goods"],
+        "family": ["intermediary"]
+      },
+      {
+        "id": "awl-manual",
+        "term": "manual",
+        "pos": "adjective / noun",
+        "definition": "Done with the hands or by people rather than machines; a book of instructions.",
+        "es": "manual",
+        "example": "Automation has reduced the demand for manual labour in factories.",
+        "collocations": ["manual labour", "manual work", "instruction manual", "manually operated"],
+        "family": ["manually"]
+      },
+      {
+        "id": "awl-mature",
+        "term": "mature",
+        "pos": "adjective / verb",
+        "definition": "Fully grown or developed; behaving in a sensible adult way; to become fully developed.",
+        "es": "maduro; madurar",
+        "example": "Mature students often bring valuable work experience to university courses.",
+        "collocations": ["mature student", "mature economy", "emotionally mature", "reach maturity"],
+        "family": ["maturity", "immature", "maturation"],
+        "warning": "\"Mature student\" = estudiante adulto (mayor de 21-25 años)."
+      },
+      {
+        "id": "awl-mediate",
+        "term": "mediate",
+        "pos": "verb",
+        "definition": "To try to end a disagreement between two groups by talking to both.",
+        "es": "mediar",
+        "example": "An independent body was appointed to mediate between the union and management.",
+        "collocations": ["mediate between", "mediate a dispute", "act as a mediator", "mediated by"],
+        "family": ["mediation", "mediator"]
+      },
+      {
+        "id": "awl-medium",
+        "term": "medium",
+        "pos": "noun / adjective",
+        "definition": "A way of communicating or expressing something; of middle size or level.",
+        "es": "medio; mediano",
+        "example": "English is the medium of instruction in many international schools.",
+        "collocations": ["medium of instruction", "medium-sized", "in the medium term", "artistic medium"],
+        "family": ["media", "mediums"]
+      },
+      {
+        "id": "awl-military",
+        "term": "military",
+        "pos": "adjective / noun",
+        "definition": "Relating to the armed forces; the armed forces of a country.",
+        "es": "militar; las fuerzas armadas",
+        "example": "Several technologies, including GPS, were originally developed for military use.",
+        "collocations": ["military service", "military spending", "military action", "the military"],
+        "family": ["militarily", "militarism"],
+        "warning": "\"A military\" (un militar como persona) no existe: se dice \"a soldier\" o \"an officer\"."
+      },
+      {
+        "id": "awl-minimal",
+        "term": "minimal",
+        "pos": "adjective",
+        "definition": "Very small in amount or degree.",
+        "es": "mínimo, muy escaso",
+        "example": "The new procedure causes minimal discomfort to patients.",
+        "collocations": ["minimal impact", "minimal cost", "minimal effort", "keep to a minimum"],
+        "family": ["minimally", "minimum", "minimise"]
+      },
+      {
+        "id": "awl-mutual",
+        "term": "mutual",
+        "pos": "adjective",
+        "definition": "Felt or done by two or more people or groups towards each other; shared.",
+        "es": "mutuo, recíproco; común",
+        "example": "Trade agreements are based on mutual benefit.",
+        "collocations": ["mutual benefit", "mutual respect", "mutual understanding", "mutually exclusive"],
+        "family": ["mutually"],
+        "warning": "\"Mutually exclusive\" = incompatibles entre sí."
+      },
+      {
+        "id": "awl-norm",
+        "term": "norm",
+        "pos": "noun",
+        "definition": "A usual or expected way of behaving; a typical standard or pattern.",
+        "es": "norma, lo habitual",
+        "example": "Working from home has become the norm in many technology companies.",
+        "collocations": ["social norms", "the norm", "cultural norms", "deviate from the norm"],
+        "family": ["normal", "normality", "normative"],
+        "warning": "Una \"norma\" como regla escrita suele ser \"rule\" o \"regulation\"; \"norm\" es lo habitual o socialmente esperado."
+      },
+      {
+        "id": "awl-overlap",
+        "term": "overlap",
+        "pos": "verb / noun",
+        "definition": "To cover part of the same area or share some features with something else.",
+        "es": "solaparse, superponerse; solapamiento",
+        "example": "The responsibilities of the two departments overlap considerably.",
+        "collocations": ["overlap with", "considerable overlap", "overlapping categories", "partly overlap"],
+        "family": ["overlapping"]
+      },
+      {
+        "id": "awl-passive",
+        "term": "passive",
+        "pos": "adjective",
+        "definition": "Accepting what happens without trying to change it; not active.",
+        "es": "pasivo",
+        "example": "Watching television is a largely passive activity.",
+        "collocations": ["passive role", "passive voice", "passive smoking", "passive learning"],
+        "family": ["passively", "passivity"],
+        "warning": "La voz pasiva (\"It is argued that...\") es muy útil en Writing académico."
+      },
+      {
+        "id": "awl-portion",
+        "term": "portion",
+        "pos": "noun",
+        "definition": "A part of something larger; an amount of food for one person.",
+        "es": "porción, parte, ración",
+        "example": "A large portion of the budget is spent on staff salaries.",
+        "collocations": ["a large portion of", "a significant portion", "portion size", "a small portion of"],
+        "family": ["portions"],
+        "warning": "No confundir con \"proportion\" (proporción)."
+      },
+      {
+        "id": "awl-preliminary",
+        "term": "preliminary",
+        "pos": "adjective",
+        "definition": "Coming before a more important action or event; initial and not final.",
+        "es": "preliminar",
+        "example": "Preliminary results suggest that the vaccine is highly effective.",
+        "collocations": ["preliminary results", "preliminary findings", "preliminary study", "preliminary stage"],
+        "family": ["preliminaries"]
+      },
+      {
+        "id": "awl-protocol",
+        "term": "protocol",
+        "pos": "noun",
+        "definition": "A set of official rules or procedures; an international agreement.",
+        "es": "protocolo",
+        "example": "Hospitals must follow strict protocols to prevent the spread of infection.",
+        "collocations": ["follow protocol", "safety protocol", "research protocol", "the Kyoto Protocol"],
+        "family": ["protocols"]
+      },
+      {
+        "id": "awl-qualitative",
+        "term": "qualitative",
+        "pos": "adjective",
+        "definition": "Relating to quality or characteristics rather than to numbers or quantity.",
+        "es": "cualitativo",
+        "example": "The researchers used qualitative interviews to explore teachers' experiences.",
+        "collocations": ["qualitative research", "qualitative data", "qualitative analysis", "qualitative difference"],
+        "family": ["qualitatively", "quality"],
+        "warning": "Su opuesto es \"quantitative\" (cuantitativo)."
+      },
+      {
+        "id": "awl-refine",
+        "term": "refine",
+        "pos": "verb",
+        "definition": "To improve something by making small changes; to make a substance pure.",
+        "es": "perfeccionar, pulir; refinar",
+        "example": "The model was refined after the first round of testing.",
+        "collocations": ["refine a theory", "refine a method", "refined sugar", "further refined"],
+        "family": ["refinement", "refined", "refinery"]
+      },
+      {
+        "id": "awl-relax",
+        "term": "relax",
+        "pos": "verb",
+        "definition": "To rest and become calm; to make a rule or control less strict.",
+        "es": "relajar(se); flexibilizar",
+        "example": "The government relaxed restrictions on foreign investment.",
+        "collocations": ["relax rules", "relax restrictions", "relaxation techniques", "relaxed attitude"],
+        "family": ["relaxation", "relaxed", "relaxing"],
+        "warning": "\"Relaxed\" = relajado (persona); \"relaxing\" = relajante (actividad)."
+      },
+      {
+        "id": "awl-restrain",
+        "term": "restrain",
+        "pos": "verb",
+        "definition": "To stop someone or something from doing something; to keep under control.",
+        "es": "contener, frenar, limitar",
+        "example": "Higher interest rates are intended to restrain inflation.",
+        "collocations": ["restrain growth", "restrain from + -ing", "budget restraint", "show restraint"],
+        "family": ["restraint", "restrained", "unrestrained"],
+        "warning": "No confundir con \"restrict\" (restringir) ni con \"refrain\" (abstenerse)."
+      },
+      {
+        "id": "awl-revolution",
+        "term": "revolution",
+        "pos": "noun",
+        "definition": "A complete change in methods or ideas; the violent overthrow of a government.",
+        "es": "revolución",
+        "example": "The digital revolution has transformed how people work and communicate.",
+        "collocations": ["industrial revolution", "digital revolution", "technological revolution", "revolutionary idea"],
+        "family": ["revolutionary", "revolutionise"]
+      },
+      {
+        "id": "awl-rigid",
+        "term": "rigid",
+        "pos": "adjective",
+        "definition": "Stiff and not able to bend; very strict and difficult to change.",
+        "es": "rígido, estricto",
+        "example": "Rigid rules can discourage teachers from trying new methods.",
+        "collocations": ["rigid rules", "rigid structure", "rigidly enforced", "rigid hierarchy"],
+        "family": ["rigidity", "rigidly"]
+      },
+      {
+        "id": "awl-route",
+        "term": "route",
+        "pos": "noun / verb",
+        "definition": "A way from one place to another; a method of achieving something.",
+        "es": "ruta, recorrido; vía",
+        "example": "Education is seen as the main route out of poverty.",
+        "collocations": ["route to/out of", "bus route", "trade route", "en route"],
+        "family": ["routed", "routing"]
+      },
+      {
+        "id": "awl-scenario",
+        "term": "scenario",
+        "pos": "noun",
+        "definition": "A description of a possible future situation or series of events.",
+        "es": "escenario (hipotético), supuesto",
+        "example": "In the worst-case scenario, sea levels could rise by over a metre.",
+        "collocations": ["worst-case scenario", "best-case scenario", "likely scenario", "in this scenario"],
+        "family": ["scenarios"],
+        "warning": "Falso amigo: el \"escenario\" de un teatro es \"stage\"; \"scenario\" es una situación hipotética."
+      },
+      {
+        "id": "awl-sphere",
+        "term": "sphere",
+        "pos": "noun",
+        "definition": "An area of activity, influence or interest; a perfectly round 3D shape.",
+        "es": "esfera, ámbito",
+        "example": "Women remain under-represented in the political sphere.",
+        "collocations": ["public sphere", "political sphere", "sphere of influence", "private sphere"],
+        "family": ["spherical", "hemisphere"]
+      },
+      {
+        "id": "awl-subordinate",
+        "term": "subordinate",
+        "pos": "adjective / noun",
+        "definition": "Lower in rank or less important; a person with a lower position at work.",
+        "es": "subordinado, secundario",
+        "example": "Environmental concerns are often treated as subordinate to economic goals.",
+        "collocations": ["subordinate to", "subordinate clause", "subordinate role", "managers and subordinates"],
+        "family": ["subordination"]
+      },
+      {
+        "id": "awl-supplement",
+        "term": "supplement",
+        "pos": "noun / verb",
+        "definition": "Something added to improve or complete something; to add to something.",
+        "es": "suplemento, complemento; complementar",
+        "example": "Many retired people supplement their pensions with part-time work.",
+        "collocations": ["dietary supplements", "supplement income", "supplementary material", "vitamin supplements"],
+        "family": ["supplementary"]
+      },
+      {
+        "id": "awl-suspend",
+        "term": "suspend",
+        "pos": "verb",
+        "definition": "To stop something for a period of time; to hang something.",
+        "es": "suspender, interrumpir",
+        "example": "Train services were suspended during the storm.",
+        "collocations": ["temporarily suspended", "suspend operations", "suspend a student", "suspended in"],
+        "family": ["suspension", "suspended"],
+        "warning": "Falso amigo: \"suspender un examen\" es \"fail an exam\", no \"suspend\"."
+      },
+      {
+        "id": "awl-team",
+        "term": "team",
+        "pos": "noun / verb",
+        "definition": "A group of people who work together or play a sport together.",
+        "es": "equipo",
+        "example": "A team of researchers from three universities conducted the study.",
+        "collocations": ["research team", "team up with", "teamwork", "team member"],
+        "family": ["teamwork", "teamed"]
+      },
+      {
+        "id": "awl-temporary",
+        "term": "temporary",
+        "pos": "adjective",
+        "definition": "Lasting or used for only a limited period of time.",
+        "es": "temporal, provisional",
+        "example": "Many young people work on temporary contracts with few benefits.",
+        "collocations": ["temporary contract", "temporary solution", "temporary measure", "temporarily closed"],
+        "family": ["temporarily"],
+        "warning": "\"Trabajo temporal\" = \"temporary job\". En inglés, \"temporal\" significa \"relativo al tiempo\" y no equivale a \"temporary\"; y \"un temporal\" (tormenta) es \"a storm\"."
+      },
+      {
+        "id": "awl-trigger",
+        "term": "trigger",
+        "pos": "verb / noun",
+        "definition": "To cause something to start happening, often suddenly; the cause of an event.",
+        "es": "desencadenar, provocar; detonante",
+        "example": "The rise in food prices triggered protests in several cities.",
+        "collocations": ["trigger a reaction", "trigger a crisis", "a trigger for", "triggered by"],
+        "family": ["triggered"]
+      },
+      {
+        "id": "awl-unify",
+        "term": "unify",
+        "pos": "verb",
+        "definition": "To bring parts together to form a single whole.",
+        "es": "unificar, unir",
+        "example": "A common language helped to unify the different regions of the country.",
+        "collocations": ["unify a country", "unified approach", "unified system", "unifying theme"],
+        "family": ["unification", "unified", "unity"]
+      },
+      {
+        "id": "awl-violate",
+        "term": "violate",
+        "pos": "verb",
+        "definition": "To break a law, agreement or principle; to fail to respect someone's rights.",
+        "es": "violar, infringir, vulnerar",
+        "example": "Collecting personal data without consent may violate privacy laws.",
+        "collocations": ["violate the law", "violate human rights", "violate an agreement", "a clear violation"],
+        "family": ["violation", "violator"],
+        "warning": "En inglés \"violate\" casi nunca se usa para agresión sexual (eso es \"rape\"); se usa para leyes y derechos."
+      },
+      {
+        "id": "awl-vision",
+        "term": "vision",
+        "pos": "noun",
+        "definition": "The ability to see; an idea or plan of what the future could be like.",
+        "es": "visión, vista",
+        "example": "The mayor set out a vision of a car-free city centre.",
+        "collocations": ["a vision of/for", "long-term vision", "shared vision", "vision impairment"],
+        "family": ["visionary", "visual", "visible"]
+      }
+    ]
+  }
+]

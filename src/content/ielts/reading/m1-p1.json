@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ielts-r-m1-p1",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 1,
+    "passageNo": 1,
+    "title": "From Hobby-Horse to Safety Bicycle",
+    "subtitle": "How a simple machine took most of a century to develop",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Few inventions seem as simple as the bicycle, yet the machine that millions of people now ride to work took most of the nineteenth century to develop. Its story is not one of a single inventor but of many tinkerers, each solving a problem left by the last, and of a public whose enthusiasm rose and fell with every new design."
+      },
+      {
+        "label": "B",
+        "text": "The earliest ancestor of the bicycle appeared in 1817, when Karl Drais, a civil servant in the German state of Baden, demonstrated what he called a 'running machine'. It had two wooden wheels in line, a padded seat and a steering bar, but no pedals: the rider pushed against the ground with his feet, rather like a child on a modern balance bike. Drais claimed that on a good road he could cover around 15 kilometres in an hour, considerably faster than walking. Some historians have suggested that he was motivated by a shortage of horses after a series of failed harvests, although Drais himself left no record of his reasons. The machine enjoyed a brief fashion among wealthy young men in Britain and France, where it became known as the 'hobby-horse', but pavements were rough and riders frequently collided with pedestrians. Within a few years, several cities had banned the machines from footpaths, and interest faded."
+      },
+      {
+        "label": "C",
+        "text": "For almost four decades afterwards, two-wheeled vehicles were largely forgotten. The breakthrough came in Paris in the 1860s, when pedals were attached directly to the front wheel. Who first did this remains disputed: a mechanic named Pierre Lallement later patented the idea in the United States, while the Michaux family, who manufactured carriages, were the first to produce the design in quantity. The new 'velocipede' allowed riders to keep their feet off the ground for the first time, but its iron-rimmed wooden wheels transmitted every bump in the road to the rider, earning it the English nickname 'boneshaker'. Even so, riding schools opened in several European capitals, and newspapers printed advice on how to mount and dismount without injury."
+      },
+      {
+        "label": "D",
+        "text": "Because the pedals turned the front wheel directly, one turn of the pedals moved the machine forward only by the circumference of that wheel. The obvious way to go faster was to make the front wheel bigger, and during the 1870s it grew until some measured 1.5 metres in diameter. These 'high-wheelers' were made of lighter steel and had solid rubber tyres, which made them more comfortable than the boneshaker. On a smooth road they were fast and efficient. However, the rider sat almost directly above the huge wheel, and if it struck a stone or a hole he could be thrown forwards over the handlebars head first. Riding a high-wheeler therefore required courage as well as skill, and the machine was used mostly by athletic young men; for most women, whose long skirts made mounting almost impossible, it was out of the question."
+      },
+      {
+        "label": "E",
+        "text": "The solution to this danger was the 'safety bicycle', and the most successful version was produced in 1885 by John Kemp Starley in Coventry, England. Starley's Rover had two wheels of similar size and, crucially, a chain that linked the pedals to the rear wheel. By using a large gear wheel at the pedals and a smaller one at the rear, the chain allowed a small wheel to turn quickly, so there was no longer any need for a giant front wheel. The rider sat lower and further back, between the wheels, and could put a foot on the ground when stopping. Early reviewers complained that the machine looked odd, but in road races it soon proved faster than the high-wheelers it replaced."
+      },
+      {
+        "label": "F",
+        "text": "One further problem remained: comfort. In 1888 John Boyd Dunlop, a Scottish veterinary surgeon living in Belfast, fitted air-filled rubber tubes to the wheels of his son's tricycle to give a smoother ride over the city's cobbled streets. Dunlop was not the first to think of the pneumatic tyre - a similar patent had been granted more than forty years earlier and then forgotten - but he was the first to make it commercially successful. When a racing cyclist using Dunlop's tyres won a series of races in 1889, manufacturers rushed to adopt them."
+      },
+      {
+        "label": "G",
+        "text": "The combination of chain drive, equal wheels and air-filled tyres produced a machine that almost anyone could ride, and the result was the 'bicycle boom' of the 1890s. In the United States alone, more than a million bicycles were being made each year by the middle of the decade. The effects reached well beyond transport. Cycling clubs campaigned for better roads, many of which were later used by motor cars, and the industry developed techniques for making ball bearings, steel tubing and precision gears that early car and aircraft makers would borrow. For women in particular, the bicycle offered a new kind of independent mobility, and it encouraged the adoption of lighter, more practical clothing. Some commentators of the period expressed alarm at this, but the change proved impossible to reverse."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "tfng",
+        "instructions": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          {
+            "id": "q1",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Drais wrote down his reasons for building the running machine.",
+            "answer": "FALSE",
+            "evidence": "Drais himself left no record of his reasons",
+            "explanation": "The passage says Drais 'left no record of his reasons', which directly contradicts the idea that he wrote them down. The idea about a shortage of horses comes from historians, not from Drais. So it is FALSE, not NOT GIVEN."
+          },
+          {
+            "id": "q2",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "A rider on the running machine could travel more quickly than a pedestrian.",
+            "answer": "TRUE",
+            "evidence": "considerably faster than walking",
+            "explanation": "'More quickly than a pedestrian' paraphrases 'considerably faster than walking' (about 15 km in an hour on a good road)."
+          },
+          {
+            "id": "q3",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "The hobby-horse was more fashionable in France than in Britain.",
+            "answer": "NOT GIVEN",
+            "explanation": "The passage says the machine was fashionable 'in Britain and France' but never compares the two countries. There is no information about which was more popular, so NOT GIVEN."
+          },
+          {
+            "id": "q4",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "The Michaux family sold their velocipedes mainly to wealthy customers.",
+            "answer": "NOT GIVEN",
+            "explanation": "We are told the Michaux family made carriages and were the first to produce the design in quantity, but nothing is said about who bought the machines. (Wealthy young men are mentioned only in connection with the earlier hobby-horse.)"
+          },
+          {
+            "id": "q5",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "High-wheelers gave a smoother ride than the earlier boneshaker.",
+            "answer": "TRUE",
+            "evidence": "which made them more comfortable than the boneshaker",
+            "explanation": "Solid rubber tyres made high-wheelers 'more comfortable than the boneshaker', so the statement is a paraphrase of the text."
+          },
+          {
+            "id": "q6",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "When it first appeared, the Rover was admired for the way it looked.",
+            "answer": "FALSE",
+            "evidence": "Early reviewers complained that the machine looked odd",
+            "explanation": "Reviewers 'complained that the machine looked odd', which contradicts the idea that it was admired for its appearance. It was praised later for its speed, not its looks."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "sentence-completion",
+        "instructions": "Questions 7–10\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 7–10 on your answer sheet.",
+        "items": [
+          {
+            "id": "q7",
+            "kind": "gap",
+            "qtype": "sentence-completion",
+            "prompt": "The wooden wheels of the boneshaker had rims made of ___.",
+            "answers": ["iron"],
+            "maxWords": 1,
+            "evidence": "its iron-rimmed wooden wheels transmitted every bump in the road",
+            "explanation": "'Iron-rimmed wooden wheels' means the rims were iron. Do not write 'wood' - the question already says the wheels were wooden."
+          },
+          {
+            "id": "q8",
+            "kind": "gap",
+            "qtype": "sentence-completion",
+            "prompt": "On a high-wheeler, each turn of the pedals moved the rider forward a distance equal to the ___ of the front wheel.",
+            "answers": ["circumference"],
+            "maxWords": 1,
+            "evidence": "one turn of the pedals moved the machine forward only by the circumference of that wheel",
+            "explanation": "Because the pedals turned the front wheel directly, one turn moved the machine forward by the wheel's circumference. 'Diameter' (1.5 metres) is a trap: it describes size, not distance travelled."
+          },
+          {
+            "id": "q9",
+            "kind": "gap",
+            "qtype": "sentence-completion",
+            "prompt": "Most women could not ride a high-wheeler because their long ___ made it very difficult to get on.",
+            "answers": ["skirts"],
+            "maxWords": 1,
+            "evidence": "whose long skirts made mounting almost impossible",
+            "explanation": "'Made it very difficult to get on' paraphrases 'made mounting almost impossible'; the cause was their long skirts."
+          },
+          {
+            "id": "q10",
+            "kind": "gap",
+            "qtype": "sentence-completion",
+            "prompt": "Dunlop first tried out air-filled tyres on his son's ___.",
+            "answers": ["tricycle"],
+            "maxWords": 1,
+            "evidence": "fitted air-filled rubber tubes to the wheels of his son's tricycle",
+            "explanation": "Dunlop fitted the tubes to 'his son's tricycle', not to a bicycle."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "short-answer",
+        "instructions": "Questions 11–13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 11–13 on your answer sheet.",
+        "items": [
+          {
+            "id": "q11",
+            "kind": "gap",
+            "qtype": "short-answer",
+            "prompt": "Where was the Rover safety bicycle produced? ___",
+            "answers": ["Coventry", "Coventry, England"],
+            "maxWords": 2,
+            "evidence": "produced in 1885 by John Kemp Starley in Coventry, England",
+            "explanation": "Starley produced the Rover in Coventry. Belfast is a distractor: it is where Dunlop lived."
+          },
+          {
+            "id": "q12",
+            "kind": "gap",
+            "qtype": "short-answer",
+            "prompt": "What was John Boyd Dunlop's profession? ___",
+            "answers": ["veterinary surgeon"],
+            "maxWords": 2,
+            "evidence": "a Scottish veterinary surgeon living in Belfast",
+            "explanation": "Dunlop is described as 'a Scottish veterinary surgeon' - he was not originally a tyre manufacturer or engineer."
+          },
+          {
+            "id": "q13",
+            "kind": "gap",
+            "qtype": "short-answer",
+            "prompt": "What did cycling clubs campaign for during the bicycle boom? ___",
+            "answers": ["better roads", "roads"],
+            "maxWords": 2,
+            "evidence": "Cycling clubs campaigned for better roads",
+            "explanation": "The clubs 'campaigned for better roads', which were later used by motor cars."
+          }
+        ]
+      }
+    ]
+  }
+]

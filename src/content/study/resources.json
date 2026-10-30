@@ -1,0 +1,142 @@
+[
+  {
+    "title": "TOEFL iBT Test Prep (página oficial de preparación)",
+    "url": "https://www.ets.org/toefl/test-takers/ibt/prepare.html",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Punto de partida oficial: enlaza los productos gratuitos (muestra interactiva, dos tests completos del formato 2026, TOEFL TestReady y el planificador de 8 semanas)."
+  },
+  {
+    "title": "TOEFL Sample Test Jan 2026 – 1",
+    "url": "https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Primer test de práctica completo y gratuito del formato que entró en vigor el 21 de enero de 2026."
+  },
+  {
+    "title": "TOEFL Sample Test Jan 2026 – 2",
+    "url": "https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-2.html",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Segundo test de práctica completo y gratuito del formato 2026; úsalo como simulacro final."
+  },
+  {
+    "title": "TOEFL iBT Practice Test 1 (PDF, edición en papel)",
+    "url": "https://www.ets.org/pdfs/toefl/toefl-ibt-full-length-practice-test-1.pdf",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Versión en PDF de un test completo alineado con el formato de 2026, útil para practicar sin conexión (no replica exactamente la versión adaptativa)."
+  },
+  {
+    "title": "TOEFL iBT Test Content",
+    "url": "https://www.ets.org/toefl/test-takers/ibt/about/content.html",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Descripción oficial de las secciones y tareas del nuevo formato (Complete the Words, Build a Sentence, Write an Email, Take an Interview…)."
+  },
+  {
+    "title": "Updated TOEFL iBT Test Overview (PDF)",
+    "url": "https://www.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Resumen oficial en PDF de la estructura, tiempos y tipos de tarea del TOEFL iBT actualizado."
+  },
+  {
+    "title": "TOEFL iBT Writing Scoring Guides (rúbricas)",
+    "url": "https://www.ets.org/pdfs/toefl/writing-rubrics.pdf",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Rúbricas oficiales de Writing del formato 2026 (Write an Email y Academic Discussion): qué distingue cada nivel de puntuación."
+  },
+  {
+    "title": "TOEFL iBT Speaking Scoring Guides (rúbricas)",
+    "url": "https://www.ets.org/pdfs/toefl/speaking-rubrics.pdf",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Rúbricas oficiales de Speaking del formato 2026 (Listen and Repeat y Take an Interview)."
+  },
+  {
+    "title": "TOEFL iBT Scores: What Your Scores Mean",
+    "url": "https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Explica la nueva escala de 1 a 6 (en medios puntos), su relación con el MCER y la escala anterior de 0 a 120."
+  },
+  {
+    "title": "TOEFL iBT Score Scale Update 2026 (PDF)",
+    "url": "https://www.ets.org/pdfs/toefl/score-scale-update-2026.pdf",
+    "exam": "toefl",
+    "provider": "ETS",
+    "description": "Tablas oficiales de equivalencia entre las bandas 1–6 y las puntuaciones 0–30 por sección y 0–120 en total."
+  },
+  {
+    "title": "IELTS sample test questions and practice papers",
+    "url": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions",
+    "exam": "ielts",
+    "provider": "IELTS (British Council, IDP, Cambridge)",
+    "description": "Preguntas de muestra oficiales de las cuatro destrezas para IELTS Academic, con audios y respuestas."
+  },
+  {
+    "title": "IELTS Academic test (formato oficial)",
+    "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+    "exam": "ielts",
+    "provider": "IELTS (British Council, IDP, Cambridge)",
+    "description": "Descripción oficial del formato de IELTS Academic: secciones, duración y tipos de pregunta."
+  },
+  {
+    "title": "IELTS Writing band descriptors (PDF)",
+    "url": "https://ielts.org/cdn/Guides/ielts-writing-band-descriptors.pdf",
+    "exam": "ielts",
+    "provider": "IELTS (British Council, IDP, Cambridge)",
+    "description": "Descriptores oficiales de bandas para Writing Task 1 y Task 2 (versión actualizada en mayo de 2023)."
+  },
+  {
+    "title": "IELTS Speaking band descriptors (PDF)",
+    "url": "https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf",
+    "exam": "ielts",
+    "provider": "IELTS (British Council, IDP, Cambridge)",
+    "description": "Descriptores oficiales de bandas para Speaking: fluidez, vocabulario, gramática y pronunciación."
+  },
+  {
+    "title": "IELTS scoring in detail: band scores explained",
+    "url": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+    "exam": "ielts",
+    "provider": "IELTS (British Council, IDP, Cambridge)",
+    "description": "Cómo se calcula la nota de cada sección y la nota global, y qué significa cada banda."
+  },
+  {
+    "title": "Free IELTS Academic Practice & Mock Tests",
+    "url": "https://takeielts.britishcouncil.org/prepare/ielts-free-practice-mock-tests/academic",
+    "exam": "ielts",
+    "provider": "British Council",
+    "description": "Tests de práctica gratuitos de IELTS Academic de las cuatro destrezas, con preguntas de exámenes reales."
+  },
+  {
+    "title": "IELTS Ready: Free IELTS Preparation & Practice Tests",
+    "url": "https://takeielts.britishcouncil.org/prepare/ielts-ready",
+    "exam": "ielts",
+    "provider": "British Council",
+    "description": "Plataforma gratuita con registro (nivel Member): tests de práctica, un test de familiarización en ordenador, vídeos y ejercicios."
+  },
+  {
+    "title": "IELTS Familiarisation test (IELTS on computer)",
+    "url": "https://ielts.idp.com/about/ielts-familiarisation-tests",
+    "exam": "ielts",
+    "provider": "IDP IELTS",
+    "description": "Test oficial gratuito para familiarizarte con la interfaz del IELTS en ordenador (Listening, Reading y Writing)."
+  },
+  {
+    "title": "IELTS practice tests (IDP)",
+    "url": "https://ielts.idp.com/prepare/all-test-types/all-skills/practice-test",
+    "exam": "ielts",
+    "provider": "IDP IELTS",
+    "description": "Colección de tests de práctica gratuitos de IDP para todas las destrezas."
+  },
+  {
+    "title": "IELTS Preparation – free paper-based sample tests",
+    "url": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+    "exam": "ielts",
+    "provider": "Cambridge English",
+    "description": "Tests de muestra gratuitos en papel (descargables) y la guía oficial para candidatos de Cambridge."
+  }
+]

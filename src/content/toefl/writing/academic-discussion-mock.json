@@ -1,0 +1,62 @@
+[
+  {
+    "id": "toefl-disc-m1", "difficulty": "medium", "usage": "mock", "mock": 1,
+    "course": "Political Science",
+    "professor": {
+      "name": "Dr. Whitfield",
+      "post": "In many democracies, voter turnout has been declining, especially among young people. A small number of countries, such as Australia and Belgium, have compulsory voting: citizens who do not vote may have to pay a small fine. Supporters say this makes election results more representative of the whole population. Opponents argue that voting is a right, not a duty, and that forcing uninterested people to vote does not improve democracy. Should voting be mandatory? Explain your position with reasons and examples."
+    },
+    "students": [
+      {
+        "name": "Laura",
+        "post": "I think voting should be mandatory. When only some groups vote, usually older and wealthier people, politicians focus on their interests and ignore everyone else. If everybody had to vote, governments would have to pay attention to young people and poorer communities too. In the end, the results would reflect what the whole country really wants."
+      },
+      {
+        "name": "Mohammed",
+        "post": "I disagree. People who are forced to vote may choose randomly or simply pick the first name on the ballot. That doesn't make democracy stronger. It would be better to make voting easier, for example by allowing online voting or holding elections on weekends. Then people who really care would participate."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I support mandatory voting, but mainly because of its effect on how campaigns are run, which neither Laura nor Mohammed mentioned. When voting is voluntary, a large part of every campaign is spent simply convincing supporters to show up, and the easiest way to do that is often to make them angry or afraid of the other side. When everyone has to vote, parties no longer need to mobilize their base in this way, so they have more reason to persuade undecided voters with moderate arguments.\n\nA friend of mine from Australia told me that elections there feel almost like a community event: people vote on a Saturday, often at local schools, and there is less of the extreme messaging she noticed when she lived abroad. Of course, other factors also matter.\n\nMohammed is right that some people might vote randomly, but this is probably a small group, and it could be reduced by allowing a \"none of the above\" option.",
+        "commentary": "Nivel 5: postura clara con un argumento original (el voto obligatorio cambia el tipo de campaña) que no repite el de Laura. El ejemplo de Australia es concreto aunque se reconoce prudentemente su límite. Responde a Mohammed con una solución práctica. Cohesión clara y lenguaje preciso («mobilize their base», «undecided voters»). Unas 165 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Mohammed. Voting is a right and people must be free. If the government force people to vote, they will be angry and they will vote anyone. Also some people don't know about politics. I think is better to make the voting more easy, like online. So voting should not be mandatory.",
+        "commentary": "Nivel 3: opinión clara, pero los argumentos son los de Mohammed (voto aleatorio, voto online) con muy poca elaboración, y no se responde a Laura. Ningún ejemplo concreto. Errores: «the government force», «vote anyone» (falta «for»), «I think is better» (falta «it»), «more easy» (debería ser «easier»). Unas 55 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-m2", "difficulty": "medium", "usage": "mock", "mock": 2,
+    "course": "Science Policy",
+    "professor": {
+      "name": "Professor Delgado",
+      "post": "Governments spend billions of dollars every year on space exploration, including missions to the Moon and Mars, space telescopes, and satellites. Supporters point out that space research has produced useful technologies and inspires young people to study science. Critics argue that, while problems such as poverty, disease, and climate change remain unsolved, this money would be better spent on Earth. Should governments continue to invest heavily in space exploration, or should they redirect that money to problems on Earth? Explain your view."
+    },
+    "students": [
+      {
+        "name": "Ethan",
+        "post": "Governments should keep investing in space. Many everyday technologies, like better water filters, medical imaging, and weather forecasts, came from space research. Exploration also motivates students to become scientists and engineers, which benefits the whole economy. Cutting these programs would mean losing that inspiration for an entire generation."
+      },
+      {
+        "name": "Zara",
+        "post": "I believe that money should be used on Earth. It's hard to justify sending a robot to Mars when millions of people don't have clean water or basic healthcare. Space can wait, but people who are suffering now cannot. Once we have solved our basic problems here, we can return to exploring other planets."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I think governments should continue investing in space exploration, partly because the choice Zara describes is not as direct as it seems. Space budgets are usually a very small part of government spending, often less than one percent, so cancelling them would not solve poverty or disease. More importantly, a lot of space research actually helps us understand problems on Earth.\n\nClimate change is the clearest example. Most of what we know about melting ice sheets, rising sea levels, and deforestation comes from satellites that measure them continuously across the whole planet. Farmers in many countries also rely on satellite data to decide when to plant and how much water to use, which helps them during droughts. Without this information, policies to fight climate change would be based on guesses.\n\nSo while Ethan focuses on technologies that came from space research by accident, I would argue that observing Earth from space is one of the most direct ways to help people here.",
+        "commentary": "Nivel 5: postura clara que cuestiona la premisa de Zara con un dato razonable y aporta un argumento nuevo y distinto del de Ethan (la observación de la Tierra desde el espacio ayuda directamente). Los ejemplos (clima, agricultura) son concretos y relevantes. La conclusión distingue con precisión su idea de la de Ethan. Lenguaje fluido y preciso. Unas 165 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Zara. There are many problems in the world like poverty and hunger, and the governments spend too much money in space. This is not fair. First we need to help the people. Ethan say space give us technology, but we can do technology on Earth too. So the money must be for Earth problems.",
+        "commentary": "Nivel 3: opinión clara, pero repite el argumento de Zara y responde a Ethan con una idea vaga («we can do technology on Earth too»). No hay ejemplos ni datos. Errores: «spend… in space» (mejor «on space»), «Ethan say», «space give», «do technology». Unas 60 palabras: no alcanza las 100 recomendadas."
+      }
+    ]
+  }
+]

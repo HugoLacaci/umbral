@@ -1,0 +1,639 @@
+[
+  {
+    "id": "awl-7",
+    "category": "awl",
+    "sublist": 7,
+    "title": "AWL Sublist 7",
+    "titleEs": "AWL · Sublista 7",
+    "description": "Las 60 palabras de la sublista 7 de la Academic Word List, con definición, traducción, ejemplo académico, colocaciones y familia léxica.",
+    "cards": [
+      {
+        "id": "awl-adapt",
+        "term": "adapt",
+        "pos": "verb",
+        "definition": "To change in order to suit a new situation; to change something for a new use.",
+        "es": "adaptar(se)",
+        "example": "Coastal communities will need to adapt to rising sea levels.",
+        "collocations": ["adapt to", "adapt quickly", "adapted from", "ability to adapt"],
+        "family": ["adaptation", "adaptable", "adaptive", "adaptability"],
+        "warning": "No confundir con \"adopt\" (adoptar)."
+      },
+      {
+        "id": "awl-adult",
+        "term": "adult",
+        "pos": "noun / adjective",
+        "definition": "A fully grown person or animal; relating to grown-up people.",
+        "es": "adulto",
+        "example": "Adult literacy rates have improved considerably over the past thirty years.",
+        "collocations": ["young adult", "adult education", "adult population", "adult life"],
+        "family": ["adulthood"]
+      },
+      {
+        "id": "awl-advocate",
+        "term": "advocate",
+        "pos": "verb / noun",
+        "definition": "To publicly support a policy or idea; a person who does this.",
+        "es": "defender, abogar por; defensor",
+        "example": "Many economists advocate a tax on sugary drinks to reduce obesity.",
+        "collocations": ["strongly advocate", "advocate for", "leading advocate", "advocacy group"],
+        "family": ["advocacy", "advocated"],
+        "warning": "El verbo es transitivo: \"advocate a policy\" (sin \"for\" en inglés británico formal). Como sustantivo no suele ser \"abogado\" (\"lawyer\")."
+      },
+      {
+        "id": "awl-aid",
+        "term": "aid",
+        "pos": "noun / verb",
+        "definition": "Help, especially money or food given to countries in need; to help.",
+        "es": "ayuda; ayudar",
+        "example": "Foreign aid should focus on long-term development rather than short-term relief.",
+        "collocations": ["foreign aid", "humanitarian aid", "first aid", "visual aid"],
+        "family": ["aided", "unaided"]
+      },
+      {
+        "id": "awl-channel",
+        "term": "channel",
+        "pos": "noun / verb",
+        "definition": "A way of communicating or delivering something; to direct money or energy towards a purpose.",
+        "es": "canal, vía; canalizar",
+        "example": "Profits from the lottery are channelled into community sports projects.",
+        "collocations": ["channel into", "official channels", "communication channels", "distribution channel"],
+        "family": ["channelled", "channeled (US)"]
+      },
+      {
+        "id": "awl-chemical",
+        "term": "chemical",
+        "pos": "noun / adjective",
+        "definition": "A substance made by chemistry; relating to chemistry.",
+        "es": "sustancia química; químico",
+        "example": "Some chemicals used in agriculture can contaminate groundwater.",
+        "collocations": ["chemical reaction", "toxic chemicals", "chemical industry", "chemical composition"],
+        "family": ["chemistry", "chemist", "chemically"],
+        "warning": "La persona que estudia química es \"chemist\"; \"un químico\" (sustancia) es \"a chemical\"."
+      },
+      {
+        "id": "awl-classic",
+        "term": "classic",
+        "pos": "adjective / noun",
+        "definition": "Typical and well known; of high quality and lasting value.",
+        "es": "clásico, típico",
+        "example": "The collapse of the housing market is a classic example of a speculative bubble.",
+        "collocations": ["classic example", "classic case", "a classic study", "literary classic"],
+        "family": ["classical", "classically"],
+        "warning": "\"Classical\" se usa para música clásica y la Antigüedad; \"classic\" para \"típico\" o \"de referencia\"."
+      },
+      {
+        "id": "awl-comprehensive",
+        "term": "comprehensive",
+        "pos": "adjective",
+        "definition": "Including everything or nearly everything that is relevant.",
+        "es": "exhaustivo, completo, integral",
+        "example": "The report provides a comprehensive analysis of energy use in public buildings.",
+        "collocations": ["comprehensive review", "comprehensive analysis", "comprehensive school", "comprehensive coverage"],
+        "family": ["comprehensively", "comprehend", "comprehension"],
+        "warning": "Falso amigo: \"comprehensive\" NO es \"comprensivo\" (\"understanding\")."
+      },
+      {
+        "id": "awl-comprise",
+        "term": "comprise",
+        "pos": "verb",
+        "definition": "To consist of or be made up of particular parts.",
+        "es": "comprender, constar de, componerse de",
+        "example": "The sample comprised 400 adults aged between 18 and 65.",
+        "collocations": ["comprise X per cent of", "comprise a total of", "mainly comprise", "be comprised of"],
+        "family": ["comprising", "comprised"],
+        "warning": "Forma recomendada: \"X comprises A and B\" (sin \"of\"). \"Is comprised of\" se usa pero muchos lo consideran incorrecto."
+      },
+      {
+        "id": "awl-confirm",
+        "term": "confirm",
+        "pos": "verb",
+        "definition": "To show or state that something is definitely true or correct.",
+        "es": "confirmar, corroborar",
+        "example": "Later studies confirmed the link between air pollution and asthma.",
+        "collocations": ["confirm a hypothesis", "confirm that", "confirmed cases", "further confirmation"],
+        "family": ["confirmation", "confirmed", "unconfirmed"]
+      },
+      {
+        "id": "awl-contrary",
+        "term": "contrary",
+        "pos": "adjective / noun",
+        "definition": "Completely different or opposed to something.",
+        "es": "contrario",
+        "example": "Contrary to popular belief, most plastic waste is not recycled.",
+        "collocations": ["contrary to", "on the contrary", "evidence to the contrary", "contrary view"],
+        "family": ["contrarily"],
+        "warning": "\"On the contrary\" sirve para contradecir algo que acabas de negar; para contrastar dos ideas usa \"on the other hand\" o \"in contrast\"."
+      },
+      {
+        "id": "awl-convert",
+        "term": "convert",
+        "pos": "verb",
+        "definition": "To change something into a different form or for a different use.",
+        "es": "convertir, transformar",
+        "example": "Several old factories have been converted into affordable housing.",
+        "collocations": ["convert into", "convert energy", "convert to", "converted building"],
+        "family": ["conversion", "convertible", "converted"]
+      },
+      {
+        "id": "awl-couple",
+        "term": "couple",
+        "pos": "noun / verb",
+        "definition": "Two people in a relationship; a small number; to join or combine.",
+        "es": "pareja; un par; combinar",
+        "example": "Low wages, coupled with high rents, have pushed many families into debt.",
+        "collocations": ["coupled with", "a couple of", "married couple", "young couples"],
+        "family": ["coupled", "uncouple"],
+        "warning": "\"Coupled with\" (unido a, sumado a) es muy útil en Writing."
+      },
+      {
+        "id": "awl-decade",
+        "term": "decade",
+        "pos": "noun",
+        "definition": "A period of ten years.",
+        "es": "década, decenio",
+        "example": "Over the last decade, online learning has grown rapidly.",
+        "collocations": ["over the past decade", "for decades", "the following decade", "decades of research"],
+        "family": ["decades"]
+      },
+      {
+        "id": "awl-definite",
+        "term": "definite",
+        "pos": "adjective",
+        "definition": "Clear, certain and not likely to change.",
+        "es": "definido, claro, seguro",
+        "example": "There is no definite answer to how much screen time is safe for children.",
+        "collocations": ["definite answer", "definite article", "definite improvement", "definitely not"],
+        "family": ["definitely", "indefinite", "indefinitely"],
+        "warning": "No confundir con \"definitive\" (definitivo, final): \"definitive version\"."
+      },
+      {
+        "id": "awl-deny",
+        "term": "deny",
+        "pos": "verb",
+        "definition": "To say that something is not true; to refuse to give someone something.",
+        "es": "negar; denegar",
+        "example": "Few scientists now deny that human activity is warming the planet.",
+        "collocations": ["deny that", "deny access to", "deny responsibility", "flatly deny"],
+        "family": ["denial", "undeniable", "undeniably"],
+        "warning": "\"Deny + -ing\": \"He denied stealing\", no \"denied to steal\"."
+      },
+      {
+        "id": "awl-differentiate",
+        "term": "differentiate",
+        "pos": "verb",
+        "definition": "To recognise or show the difference between things.",
+        "es": "diferenciar, distinguir",
+        "example": "Consumers often find it hard to differentiate between similar brands.",
+        "collocations": ["differentiate between", "differentiate from", "clearly differentiated", "product differentiation"],
+        "family": ["differentiation", "different", "differ"]
+      },
+      {
+        "id": "awl-dispose",
+        "term": "dispose",
+        "pos": "verb",
+        "definition": "To get rid of something you no longer want or need.",
+        "es": "deshacerse de, eliminar",
+        "example": "Households must dispose of batteries at designated recycling points.",
+        "collocations": ["dispose of", "waste disposal", "disposable income", "disposable plastic"],
+        "family": ["disposal", "disposable"],
+        "warning": "Siempre \"dispose OF something\". No significa \"disponer\" (\"have/arrange\"). \"Disposable income\" = renta disponible."
+      },
+      {
+        "id": "awl-dynamic",
+        "term": "dynamic",
+        "pos": "adjective / noun",
+        "definition": "Full of energy and change; forces that produce change in a system.",
+        "es": "dinámico; dinámica",
+        "example": "The dynamics of family life have changed as more women enter the workforce.",
+        "collocations": ["dynamic economy", "group dynamics", "power dynamics", "highly dynamic"],
+        "family": ["dynamics", "dynamically"]
+      },
+      {
+        "id": "awl-eliminate",
+        "term": "eliminate",
+        "pos": "verb",
+        "definition": "To remove or get rid of something completely.",
+        "es": "eliminar, erradicar",
+        "example": "Vaccination programmes have almost eliminated polio worldwide.",
+        "collocations": ["eliminate poverty", "eliminate the need for", "completely eliminate", "eliminate waste"],
+        "family": ["elimination", "eliminated"]
+      },
+      {
+        "id": "awl-empirical",
+        "term": "empirical",
+        "pos": "adjective",
+        "definition": "Based on observation or experiment rather than theory.",
+        "es": "empírico",
+        "example": "There is little empirical evidence that violent games cause aggressive behaviour.",
+        "collocations": ["empirical evidence", "empirical study", "empirical data", "empirical research"],
+        "family": ["empirically", "empiricism"]
+      },
+      {
+        "id": "awl-equip",
+        "term": "equip",
+        "pos": "verb",
+        "definition": "To provide the tools, skills or knowledge needed for a purpose.",
+        "es": "equipar, preparar, dotar",
+        "example": "Schools should equip students with the skills needed in a digital economy.",
+        "collocations": ["equip with", "well equipped", "equipped to deal with", "medical equipment"],
+        "family": ["equipment", "equipped"],
+        "warning": "\"Equipment\" es incontable: \"equipment\", no \"equipments\"."
+      },
+      {
+        "id": "awl-extract",
+        "term": "extract",
+        "pos": "verb / noun",
+        "definition": "To remove or take out something, often with effort; a short passage from a text.",
+        "es": "extraer; fragmento, extracto",
+        "example": "Extracting oil from tar sands requires large amounts of water.",
+        "collocations": ["extract from", "extract information", "extract minerals", "short extract"],
+        "family": ["extraction", "extractive"]
+      },
+      {
+        "id": "awl-file",
+        "term": "file",
+        "pos": "noun / verb",
+        "definition": "A collection of documents or data; to officially submit a document or complaint.",
+        "es": "archivo, expediente; presentar (formalmente)",
+        "example": "The company filed for bankruptcy after three years of heavy losses.",
+        "collocations": ["file a complaint", "file for bankruptcy", "on file", "file a lawsuit"],
+        "family": ["filed", "filing"]
+      },
+      {
+        "id": "awl-finite",
+        "term": "finite",
+        "pos": "adjective",
+        "definition": "Having a limit or end.",
+        "es": "finito, limitado",
+        "example": "Fossil fuels are a finite resource and will eventually run out.",
+        "collocations": ["finite resources", "finite supply", "finite number", "finite verb"],
+        "family": ["infinite", "infinitely", "infinity"]
+      },
+      {
+        "id": "awl-foundation",
+        "term": "foundation",
+        "pos": "noun",
+        "definition": "The basic idea or principle on which something is based; an organisation that funds causes.",
+        "es": "base, fundamento; fundación",
+        "example": "Early childhood education lays the foundation for later academic success.",
+        "collocations": ["lay the foundation", "solid foundation", "charitable foundation", "foundation course"],
+        "family": ["found", "founder", "unfounded"]
+      },
+      {
+        "id": "awl-globe",
+        "term": "globe",
+        "pos": "noun",
+        "definition": "The world; a round model of the Earth.",
+        "es": "globo terráqueo, mundo",
+        "example": "Global trade has increased the spread of invasive species across the globe.",
+        "collocations": ["across the globe", "around the globe", "global warming", "global economy"],
+        "family": ["global", "globally", "globalisation"]
+      },
+      {
+        "id": "awl-grade",
+        "term": "grade",
+        "pos": "noun / verb",
+        "definition": "A level of quality or rank; a mark for school work; to sort or mark by quality.",
+        "es": "nota, calificación; grado, categoría; curso",
+        "example": "Students who sleep well tend to achieve higher grades.",
+        "collocations": ["high grades", "grade point average", "high-grade", "grade the essays"],
+        "family": ["grading", "graded", "upgrade", "downgrade"],
+        "warning": "En EE. UU. \"grade\" también es \"curso escolar\" (\"fifth grade\"). No confundir con \"degree\" (título universitario, grado de temperatura)."
+      },
+      {
+        "id": "awl-guarantee",
+        "term": "guarantee",
+        "pos": "verb / noun",
+        "definition": "To promise firmly that something will happen; a firm promise.",
+        "es": "garantizar; garantía",
+        "example": "A university degree no longer guarantees a well-paid job.",
+        "collocations": ["guarantee success", "no guarantee that", "guaranteed income", "money-back guarantee"],
+        "family": ["guaranteed"]
+      },
+      {
+        "id": "awl-hierarchy",
+        "term": "hierarchy",
+        "pos": "noun",
+        "definition": "A system in which people or things are ranked one above the other.",
+        "es": "jerarquía",
+        "example": "Flat organisations have fewer levels of hierarchy than traditional firms.",
+        "collocations": ["social hierarchy", "rigid hierarchy", "hierarchy of needs", "corporate hierarchy"],
+        "family": ["hierarchical"]
+      },
+      {
+        "id": "awl-identical",
+        "term": "identical",
+        "pos": "adjective",
+        "definition": "Exactly the same.",
+        "es": "idéntico",
+        "example": "Studies of identical twins help separate genetic from environmental factors.",
+        "collocations": ["identical twins", "identical to", "almost identical", "identical in"],
+        "family": ["identically", "identity", "identify"],
+        "warning": "Preposición: \"identical TO/WITH\", no \"identical AS\"."
+      },
+      {
+        "id": "awl-ideology",
+        "term": "ideology",
+        "pos": "noun",
+        "definition": "A set of beliefs, especially political ones, held by a group.",
+        "es": "ideología",
+        "example": "Economic policy is often shaped more by ideology than by evidence.",
+        "collocations": ["political ideology", "dominant ideology", "ideological differences", "free-market ideology"],
+        "family": ["ideological", "ideologically"]
+      },
+      {
+        "id": "awl-infer",
+        "term": "infer",
+        "pos": "verb",
+        "definition": "To form an opinion or conclusion from evidence rather than from direct statements.",
+        "es": "inferir, deducir",
+        "example": "From these figures, we can infer that demand for housing will continue to rise.",
+        "collocations": ["infer from", "infer that", "reasonably infer", "draw an inference"],
+        "family": ["inference", "inferred"],
+        "warning": "El lector \"infers\"; el autor \"implies\". No los intercambies."
+      },
+      {
+        "id": "awl-innovate",
+        "term": "innovate",
+        "pos": "verb",
+        "definition": "To introduce new ideas, methods or products.",
+        "es": "innovar",
+        "example": "Small firms often innovate faster than large corporations.",
+        "collocations": ["technological innovation", "innovative approach", "encourage innovation", "need to innovate"],
+        "family": ["innovation", "innovative", "innovator"]
+      },
+      {
+        "id": "awl-insert",
+        "term": "insert",
+        "pos": "verb",
+        "definition": "To put something into something else, or add text into a document.",
+        "es": "insertar, introducir",
+        "example": "A new clause was inserted into the contract to protect workers' rights.",
+        "collocations": ["insert into", "insert a clause", "insert a card", "carefully inserted"],
+        "family": ["insertion", "inserted"]
+      },
+      {
+        "id": "awl-intervene",
+        "term": "intervene",
+        "pos": "verb",
+        "definition": "To become involved in a situation in order to change or improve it.",
+        "es": "intervenir",
+        "example": "Governments may need to intervene when markets fail to protect consumers.",
+        "collocations": ["intervene in", "government intervention", "early intervention", "military intervention"],
+        "family": ["intervention", "interventionist"]
+      },
+      {
+        "id": "awl-isolate",
+        "term": "isolate",
+        "pos": "verb",
+        "definition": "To separate something or someone from others; to identify one factor among many.",
+        "es": "aislar",
+        "example": "Elderly people living alone are at risk of becoming socially isolated.",
+        "collocations": ["socially isolated", "isolated case", "isolate a variable", "in isolation"],
+        "family": ["isolation", "isolated"]
+      },
+      {
+        "id": "awl-media",
+        "term": "media",
+        "pos": "noun",
+        "definition": "Television, newspapers, radio and the internet considered as a whole.",
+        "es": "medios de comunicación",
+        "example": "Social media has changed the way young people consume news.",
+        "collocations": ["social media", "mass media", "media coverage", "news media"],
+        "family": ["medium", "multimedia"],
+        "warning": "\"Media\" (medios) no es \"la media\" aritmética (\"average\" / \"mean\")."
+      },
+      {
+        "id": "awl-mode",
+        "term": "mode",
+        "pos": "noun",
+        "definition": "A particular way or method of doing something.",
+        "es": "modo, forma, medio",
+        "example": "Cycling is the most energy-efficient mode of transport in cities.",
+        "collocations": ["mode of transport", "mode of production", "mode of communication", "switch modes"],
+        "family": ["modes"],
+        "warning": "No significa \"moda\" (\"fashion\")."
+      },
+      {
+        "id": "awl-paradigm",
+        "term": "paradigm",
+        "pos": "noun",
+        "definition": "A model or set of ideas that represents a typical way of thinking about something.",
+        "es": "paradigma",
+        "example": "The discovery of DNA's structure caused a paradigm shift in biology.",
+        "collocations": ["paradigm shift", "dominant paradigm", "new paradigm", "research paradigm"],
+        "family": ["paradigmatic"]
+      },
+      {
+        "id": "awl-phenomenon",
+        "term": "phenomenon",
+        "pos": "noun",
+        "definition": "Something that exists and can be observed, especially something unusual or hard to explain.",
+        "es": "fenómeno",
+        "example": "Urban heat islands are a well-documented phenomenon in large cities.",
+        "collocations": ["natural phenomenon", "social phenomenon", "global phenomenon", "this phenomenon"],
+        "family": ["phenomena", "phenomenal"],
+        "warning": "Plural irregular: one phenomenon, two phenomena. \"Phenomenal\" en lenguaje coloquial = \"extraordinario\"."
+      },
+      {
+        "id": "awl-priority",
+        "term": "priority",
+        "pos": "noun",
+        "definition": "Something considered more important than other things and dealt with first.",
+        "es": "prioridad",
+        "example": "Reducing child poverty should be a top priority for the government.",
+        "collocations": ["top priority", "give priority to", "high priority", "set priorities"],
+        "family": ["prioritise", "prior", "prioritisation"]
+      },
+      {
+        "id": "awl-prohibit",
+        "term": "prohibit",
+        "pos": "verb",
+        "definition": "To officially forbid something by law or rule.",
+        "es": "prohibir",
+        "example": "Several countries prohibit the sale of single-use plastic bags.",
+        "collocations": ["prohibit from + -ing", "strictly prohibited", "prohibit the use of", "legal prohibition"],
+        "family": ["prohibition", "prohibitive"],
+        "warning": "\"Prohibitive\" (de precios) significa \"desorbitado\": \"prohibitive costs\"."
+      },
+      {
+        "id": "awl-publication",
+        "term": "publication",
+        "pos": "noun",
+        "definition": "The act of making information available to the public; a book, magazine or article.",
+        "es": "publicación",
+        "example": "The publication of the report led to a public debate on food safety.",
+        "collocations": ["date of publication", "academic publication", "publication of results", "recent publications"],
+        "family": ["publish", "public", "publicity"]
+      },
+      {
+        "id": "awl-quote",
+        "term": "quote",
+        "pos": "verb / noun",
+        "definition": "To repeat someone's exact words; a sentence repeated from a text; a price estimate.",
+        "es": "citar; cita; presupuesto",
+        "example": "Journalists frequently quote experts without explaining their methods.",
+        "collocations": ["quote from", "direct quote", "quotation marks", "get a quote"],
+        "family": ["quotation", "quoted"]
+      },
+      {
+        "id": "awl-release",
+        "term": "release",
+        "pos": "verb / noun",
+        "definition": "To let something go or escape; to make something available to the public.",
+        "es": "liberar, emitir; publicar, lanzar",
+        "example": "Factories release large quantities of carbon dioxide into the atmosphere.",
+        "collocations": ["release into", "press release", "release data", "release from prison"],
+        "family": ["released"]
+      },
+      {
+        "id": "awl-reverse",
+        "term": "reverse",
+        "pos": "verb / noun / adjective",
+        "definition": "To change something to its opposite; to cancel a decision or trend.",
+        "es": "invertir, revertir; lo contrario",
+        "example": "It may be impossible to reverse the damage caused to coral reefs.",
+        "collocations": ["reverse a trend", "reverse a decision", "in reverse", "the reverse is true"],
+        "family": ["reversal", "reversible", "irreversible"]
+      },
+      {
+        "id": "awl-simulate",
+        "term": "simulate",
+        "pos": "verb",
+        "definition": "To create the conditions or appearance of something, often for training or research.",
+        "es": "simular",
+        "example": "Computer models simulate how floods spread through urban areas.",
+        "collocations": ["computer simulation", "simulate conditions", "simulated environment", "flight simulator"],
+        "family": ["simulation", "simulator", "simulated"]
+      },
+      {
+        "id": "awl-sole",
+        "term": "sole",
+        "pos": "adjective",
+        "definition": "Being the only one; belonging to one person or group only.",
+        "es": "único, exclusivo",
+        "example": "Price is rarely the sole factor in consumers' decisions.",
+        "collocations": ["sole purpose", "sole responsibility", "sole factor", "sole owner"],
+        "family": ["solely"]
+      },
+      {
+        "id": "awl-somewhat",
+        "term": "somewhat",
+        "pos": "adverb",
+        "definition": "To some degree; rather, but not very.",
+        "es": "algo, un tanto, en cierta medida",
+        "example": "The results were somewhat different from what researchers had predicted.",
+        "collocations": ["somewhat different", "somewhat surprising", "somewhat lower", "somewhat limited"],
+        "family": [],
+        "warning": "Muy útil para matizar (hedging) en Writing, en lugar de \"a little bit\"."
+      },
+      {
+        "id": "awl-submit",
+        "term": "submit",
+        "pos": "verb",
+        "definition": "To formally give a document or proposal for consideration; to accept authority.",
+        "es": "entregar, presentar; someterse",
+        "example": "All assignments must be submitted electronically before the deadline.",
+        "collocations": ["submit an application", "submit to", "submit a proposal", "submission deadline"],
+        "family": ["submission", "submissive"]
+      },
+      {
+        "id": "awl-successor",
+        "term": "successor",
+        "pos": "noun",
+        "definition": "A person or thing that comes after another and takes its place.",
+        "es": "sucesor",
+        "example": "The new treaty was intended as a successor to the Kyoto Protocol.",
+        "collocations": ["successor to", "natural successor", "appoint a successor", "successive governments"],
+        "family": ["succession", "successive", "succeed"],
+        "warning": "\"Succeed\" tiene dos sentidos: \"tener éxito\" y \"suceder a\". \"Successive\" = sucesivo, \"successful\" = exitoso."
+      },
+      {
+        "id": "awl-survive",
+        "term": "survive",
+        "pos": "verb",
+        "definition": "To continue to live or exist, especially after a difficult or dangerous situation.",
+        "es": "sobrevivir",
+        "example": "Many small shops will not survive competition from online retailers.",
+        "collocations": ["survive a crisis", "struggle to survive", "survival rate", "survive on"],
+        "family": ["survival", "survivor", "surviving"],
+        "warning": "Transitivo: \"survive the war\", no \"survive TO the war\"."
+      },
+      {
+        "id": "awl-thesis",
+        "term": "thesis",
+        "pos": "noun",
+        "definition": "A long piece of academic writing; also, the main argument of an essay.",
+        "es": "tesis",
+        "example": "A strong thesis statement tells the reader exactly what the essay will argue.",
+        "collocations": ["thesis statement", "doctoral thesis", "write a thesis", "central thesis"],
+        "family": ["theses"],
+        "warning": "Plural irregular: theses. En EE. UU., la tesis doctoral suele llamarse \"dissertation\"."
+      },
+      {
+        "id": "awl-topic",
+        "term": "topic",
+        "pos": "noun",
+        "definition": "A subject that people talk or write about.",
+        "es": "tema",
+        "example": "Climate change has become a common topic in IELTS writing tasks.",
+        "collocations": ["topic sentence", "controversial topic", "discuss a topic", "on the topic of"],
+        "family": ["topical"],
+        "warning": "No es \"tópico\" (cliché = \"cliché\" / \"stereotype\"). \"Topical\" = de actualidad."
+      },
+      {
+        "id": "awl-transmit",
+        "term": "transmit",
+        "pos": "verb",
+        "definition": "To send or pass something, such as a signal, disease or information, from one to another.",
+        "es": "transmitir",
+        "example": "The virus is transmitted mainly through contaminated water.",
+        "collocations": ["transmit a disease", "transmit data", "sexually transmitted", "transmit from"],
+        "family": ["transmission", "transmitter"]
+      },
+      {
+        "id": "awl-ultimate",
+        "term": "ultimate",
+        "pos": "adjective",
+        "definition": "Final or most important; happening at the end of a process.",
+        "es": "final, definitivo, máximo",
+        "example": "The ultimate goal of the policy is to make housing affordable for everyone.",
+        "collocations": ["ultimate goal", "ultimate aim", "ultimate responsibility", "ultimately depends on"],
+        "family": ["ultimately"],
+        "warning": "Falso amigo: \"ultimate\" NO es \"último\" en el sentido de \"más reciente\" (\"latest\" / \"last\"). \"Ultimately\" = en última instancia."
+      },
+      {
+        "id": "awl-unique",
+        "term": "unique",
+        "pos": "adjective",
+        "definition": "Being the only one of its kind; very special or unusual.",
+        "es": "único, singular",
+        "example": "Each region faces a unique set of environmental challenges.",
+        "collocations": ["unique opportunity", "unique to", "unique feature", "truly unique"],
+        "family": ["uniquely", "uniqueness"],
+        "warning": "\"Mi única opción\" = \"my only option\", no \"my unique option\". \"Unique\" implica algo singular, especial."
+      },
+      {
+        "id": "awl-visible",
+        "term": "visible",
+        "pos": "adjective",
+        "definition": "Able to be seen or noticed.",
+        "es": "visible",
+        "example": "The effects of the drought were clearly visible from satellite images.",
+        "collocations": ["clearly visible", "highly visible", "visible to", "visible minority"],
+        "family": ["visibility", "invisible", "visibly"]
+      },
+      {
+        "id": "awl-voluntary",
+        "term": "voluntary",
+        "pos": "adjective",
+        "definition": "Done by choice, not because you must; done without payment.",
+        "es": "voluntario",
+        "example": "Participation in the survey was entirely voluntary and anonymous.",
+        "collocations": ["voluntary work", "on a voluntary basis", "voluntary sector", "purely voluntary"],
+        "family": ["volunteer", "voluntarily"],
+        "warning": "La persona es \"volunteer\" (sustantivo); \"voluntary\" es el adjetivo."
+      }
+    ]
+  }
+]

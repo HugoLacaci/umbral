@@ -1,0 +1,78 @@
+[
+  {
+    "id": "toefl-disc-m3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "course": "Education",
+    "professor": {
+      "name": "Dr. Okonjo",
+      "post": "Most universities give students letter grades such as A, B or C. However, a growing number of educators argue that grades encourage students to memorize information for exams rather than to learn deeply, and some colleges now use a simple pass or fail system for many courses, together with written feedback. Should universities replace letter grades with a pass or fail system? Why or why not?"
+    },
+    "students": [
+      {
+        "name": "Hannah",
+        "post": "I think pass or fail would be much better. Right now, students are so worried about their grade point average that they avoid difficult courses they would actually enjoy. Without letter grades, people would feel free to explore new subjects and take risks, which is the whole point of university."
+      },
+      {
+        "name": "Diego",
+        "post": "I disagree. Employers and graduate schools use grades to compare applicants. If everyone just has a pass, how will they know who worked hardest? I'm also worried that many students would do only the minimum needed to pass."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I would argue for a mixed approach, but my main reason is one that neither Hannah nor Diego raised: grades are often a poor form of feedback. A B-minus on an essay tells a student that something went wrong, but not what or how to fix it. When I took a writing seminar that was graded only pass or fail, the professor wrote a full page of comments on each draft, and I improved more in that course than in any other, precisely because I was focused on her comments instead of on a letter.\n\nThat said, Diego has a point about comparison. Introductory courses and first-year classes could use pass or fail, so that students can adjust to university and explore new fields, while advanced courses in a student's major could keep letter grades. This way, employers would still see meaningful information where it matters most.",
+        "commentary": "Nivel 5: aporta una idea nueva (la nota como mala retroalimentación) apoyada en un ejemplo personal concreto, y luego integra la objeción de Diego en una propuesta matizada (pass/fail en cursos iniciales, notas en la especialidad). Excelente cohesión («That said», «precisely because», «This way») y vocabulario preciso. Unas 145 palabras."
+      },
+      {
+        "level": "4",
+        "text": "I agree with Hannah that universities should use pass or fail, at least for some courses. Another reason is that letter grades create a lot of stress. Many of my friends sleep very little before exams because they want an A, and this is not healthy. With pass or fail, they could focus on understanding the subject instead of memorizing for the test.\n\nDiego says that employers need grades to compare students, but I think they can look at other things, like internships, projects and recommendation letters. These show a person's real skills better than a number.\n\nSo I believe a pass or fail system would make students healthier and more interested in learning.",
+        "commentary": "Nivel 4: postura clara con una idea propia (el estrés) y un ejemplo, y responde al argumento de Diego. El desarrollo es correcto pero menos profundo que en el nivel 5 y el ejemplo es algo general («many of my friends»). Lenguaje claro con pocas estructuras complejas. Unas 115 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I think pass or fail is better like Hannah said. The students have too much stress with the grades and they don't enjoy. Also the university is for learning not for numbers. But the companies need to know who is good student. So maybe is difficult. I think pass or fail is good.",
+        "commentary": "Nivel 3: opinión comprensible pero repite la idea de Hannah y menciona la de Diego sin responderla, lo que deja la postura confusa. Ideas sin desarrollar ni ejemplos. Errores: «they don't enjoy» (enjoy it), «who is good student» (a good student), «maybe is difficult» (falta «it»). Unas 55 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-m4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "course": "Environmental Science",
+    "professor": {
+      "name": "Professor Lang",
+      "post": "Zoos have changed a great deal over the past century. Many modern zoos describe themselves as conservation centers that breed endangered species and educate the public. Critics, however, argue that keeping wild animals in captivity is difficult to justify, especially for large animals that naturally travel long distances. Do you think zoos should continue to exist? Explain your reasons."
+    },
+    "students": [
+      {
+        "name": "Aisha",
+        "post": "Yes, zoos should continue. Some species, like certain types of frogs and tigers, would probably be extinct without breeding programs in zoos. Even if captivity is not perfect, saving a whole species is more important than the freedom of a few individual animals."
+      },
+      {
+        "name": "Ben",
+        "post": "I don't think so. Animals like elephants and polar bears clearly suffer in small enclosures; they often walk in circles or show other signs of stress. If people want to learn about animals, they can watch excellent nature documentaries instead."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I think zoos should continue to exist, but only if they change which animals they keep. Ben is right that elephants and polar bears are poorly suited to captivity, and I believe zoos should gradually stop acquiring species like these. However, I disagree that documentaries can replace zoos. Seeing a real animal creates an emotional connection that a screen cannot. When I was ten, I watched a keeper feed a family of otters at our local zoo, and I spent the next year reading everything I could about rivers and pollution. Many conservation scientists describe similar childhood experiences.\n\nSo the best solution is a different kind of zoo: one that focuses on smaller species that adapt well to captivity, such as amphibians, birds and insects, and that invests the money it earns in protecting habitats in the wild. That would keep Aisha's conservation benefits while addressing Ben's concerns about animal welfare.",
+        "commentary": "Nivel 5: postura matizada y original (zoos sí, pero con otras especies). Concede parte de razón a Ben, rebate lo de los documentales con un ejemplo personal vívido y propone una solución concreta que integra a ambos compañeros. Cohesión excelente y vocabulario preciso («poorly suited to captivity», «invests… in protecting habitats»). Unas 150 palabras."
+      },
+      {
+        "level": "4",
+        "text": "In my opinion, zoos should continue to exist because they are important for education. Many children live in cities and never see wild animals, so a visit to the zoo helps them understand and care about nature. For example, my little brother became very interested in animals after a school trip to the zoo, and now he wants to become a biologist.\n\nI understand Ben's point that some big animals suffer in zoos. Maybe zoos should give these animals bigger spaces or send them to sanctuaries. But I don't think we should close all zoos, because they also help endangered species, like Aisha said.",
+        "commentary": "Nivel 4: buena respuesta con una razón propia (educación) y un ejemplo claro, y reconoce la objeción de Ben con una propuesta. La propuesta es algo superficial («bigger spaces») y la conclusión se apoya en el argumento de Aisha sin añadir nada. Gramática correcta y estructuras de complejidad media. Unas 105 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Ben. The animals in the zoo are sad because they don't have freedom. The elephants need a lot of space and in the zoo is very small. Also we can see the animals in internet or television. So I think the zoos are not necessary and the government must close them.",
+        "commentary": "Nivel 3: opinión clara, pero reproduce los argumentos de Ben (espacio, documentales) sin aportar nada nuevo ni responder a Aisha. Ningún ejemplo concreto. Errores: «in the zoo is very small» (it is very small), «in internet» (on the internet), uso innecesario de artículos («the zoos»). Unas 55 palabras."
+      }
+    ]
+  }
+]

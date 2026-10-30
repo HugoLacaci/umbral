@@ -1,0 +1,78 @@
+[
+  {
+    "id": "ielts-p1-m1-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "topic": "Work or studies",
+    "questions": [
+      "Let's talk about what you do. Do you work or are you a student?",
+      "What do you enjoy most about your work or studies?",
+      "Is there anything you would like to change about it?",
+      "Do you prefer to work or study in the morning or in the afternoon?"
+    ],
+    "sampleAnswers": [
+      "I'm a student. I'm currently doing a master's degree in international business, which I started last September after working for a couple of years in a marketing agency.",
+      "I really enjoy the case studies. We analyse real companies and debate what they should have done differently, and because my classmates come from so many countries, I get to hear perspectives I'd never have thought of.",
+      "I'd like a bit more practical experience. A lot of the course is quite theoretical, and I think an internship or a project with a real company would help us apply what we're learning.",
+      "Definitely the morning. My mind is much sharper before lunch, so I try to do the most demanding reading early on and leave things like emails and admin for the afternoon, when my energy dips."
+    ]
+  },
+  {
+    "id": "ielts-p1-m1-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "topic": "Walking",
+    "questions": [
+      "Now let's talk about walking. Do you walk a lot?",
+      "Where do you like to go for a walk?",
+      "Did you walk more when you were younger?",
+      "Do you think people should walk more in their daily lives?"
+    ],
+    "sampleAnswers": [
+      "Quite a lot, yes. I walk to the station every morning, which takes about fifteen minutes, and I often go for a walk in the evening to clear my head after studying.",
+      "There's a path along the river near my flat that I love. It's lined with trees and it's surprisingly peaceful considering it's right in the middle of the city. At the weekend I sometimes walk in the hills outside town.",
+      "I think I walked more, because I walked to school every day and spent hours playing outside. Then for a few years I relied on the bus, and it's only recently that I've rediscovered walking.",
+      "Absolutely. It's free, it's good for both your physical and mental health, and it doesn't pollute. Of course, it's easier in cities that are designed for pedestrians, so I think planners have a role to play too."
+    ]
+  },
+  {
+    "id": "ielts-p1-m2-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "topic": "Your home",
+    "questions": [
+      "Let's talk about where you live. Can you describe the place where you live?",
+      "What do you like about the area?",
+      "How long have you lived there?",
+      "What would your ideal home be like?"
+    ],
+    "sampleAnswers": [
+      "I live in a two-bedroom apartment on the third floor of a modern building, not far from the city centre. It's quite compact, but it's bright and it has a small balcony where I keep a few plants.",
+      "It's very convenient. There's a supermarket, a gym and a metro station all within five minutes' walk. There's also a lovely park nearby, which is great for a run or just to sit and read on a sunny day.",
+      "For about two years now. Before that I was living in a shared house on the other side of the city, which was cheaper but much further from everything I need.",
+      "Ideally, a house with a garden somewhere quiet but still well connected to the city. I'd love a room with big windows that I could use as a study, and a kitchen big enough to have friends round for dinner."
+    ]
+  },
+  {
+    "id": "ielts-p1-m2-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "topic": "Birthdays",
+    "questions": [
+      "Now let's talk about birthdays. Do you usually celebrate your birthday?",
+      "How did you celebrate your last birthday?",
+      "Were birthdays more important to you when you were a child?",
+      "Do you prefer to give or receive birthday presents?"
+    ],
+    "sampleAnswers": [
+      "Yes, but in a fairly low-key way. I'm not one for huge parties, so I usually have dinner with my closest friends or my family, which I find much more enjoyable.",
+      "My last birthday fell on a Saturday, so a group of friends and I went hiking in the morning and then had a long lunch at a restaurant in a village in the mountains. It was simple, but it was a lovely day.",
+      "Definitely. As a child I'd count down the days for weeks, mainly because of the presents and the cake. Now it's more of an excuse to get together with people I don't see often enough.",
+      "Giving, I think. I really enjoy finding something that suits a person perfectly, and seeing their reaction. Receiving presents is nice, of course, but I always feel slightly awkward opening them in front of people."
+    ]
+  }
+]

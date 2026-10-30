@@ -1,0 +1,902 @@
+[
+  {
+    "id": "toefl-cr-25",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Group chat overload",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Natalie",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "I can't keep up with all the messages in our group chat."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Just mute it and check it once a day.",
+          "I'll keep it up, don't worry.",
+          "The group is meeting at noon.",
+          "I sent you a message this morning."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: gives practical advice.",
+          "Plays on 'keep up' (continue).",
+          "Repeats 'group'.",
+          "Repeats the idea of messages."
+        ],
+        "explanation": "'Keep up with' means manage to follow. Advice is the natural reply."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-26",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Last train",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "George",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "If we don't leave now, we'll miss the last train."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I miss my old train set.",
+          "The last train was great.",
+          "Give me two seconds, I'm just grabbing my coat.",
+          "We left it at the station."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Plays on 'miss'.",
+          "Repeats 'last train'.",
+          "Correct: responds to the urgency.",
+          "Plays on 'leave'."
+        ],
+        "explanation": "A warning to hurry; the reply shows they are getting ready."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-27",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Bus that never comes",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Tahlia",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "I just love waiting forty minutes for a bus that never shows up."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Me too, it's my favourite bus.",
+          "Tell me about it. I'm thinking of getting a bike.",
+          "The show starts at eight.",
+          "Forty minutes isn't long to wait for love."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Takes 'love' literally.",
+          "Correct: recognises the sarcasm and agrees.",
+          "Plays on 'shows up'.",
+          "Repeats 'forty minutes' and 'love'."
+        ],
+        "explanation": "The speaker is being sarcastic. 'Tell me about it' shows agreement."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-28",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Scholarship payment",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Marcus",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Could you look into why my scholarship payment hasn't come through?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I looked in the window, but nobody's there.",
+          "Your scholarship covers tuition.",
+          "It came through the front door.",
+          "Of course. Let me pull up your account."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Takes 'look into' literally.",
+          "Repeats 'scholarship'.",
+          "Takes 'come through' literally.",
+          "Correct: agrees to investigate."
+        ],
+        "explanation": "'Look into' = investigate; 'come through' = arrive (money)."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-29",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Not half bad",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Avery",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Your presentation wasn't half bad."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Which half was bad?",
+          "I'll present it in the second half.",
+          "Thanks. I practised it about twenty times.",
+          "Not bad, thanks. How are you?"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Takes the idiom literally.",
+          "Plays on 'half'.",
+          "Correct: accepts the compliment.",
+          "Answers a greeting."
+        ],
+        "explanation": "'Not half bad' is a compliment meaning quite good."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-30",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Ride to the station",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Jake",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Any chance you could drop me off at the station tomorrow?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I'm leaving at seven, if that's not too early for you.",
+          "I dropped it at the station.",
+          "There's a good chance of rain tomorrow.",
+          "Stations are always crowded."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: agrees indirectly with a condition.",
+          "Plays on 'drop'.",
+          "Plays on 'chance'.",
+          "Repeats 'station'."
+        ],
+        "explanation": "'Drop someone off' = give them a ride. The answer is an indirect yes."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-31",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Pricey sandwich",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Freya",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Six pounds for a sandwich? That's daylight robbery."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "It was stolen in broad daylight.",
+          "The sandwich is very fresh.",
+          "Six o'clock is fine for me.",
+          "I know. I've started bringing lunch from home."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Takes 'robbery' literally.",
+          "Repeats 'sandwich'.",
+          "Repeats 'six'.",
+          "Correct: agrees and shares a solution."
+        ],
+        "explanation": "'Daylight robbery' means far too expensive."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-32",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Calling it a day",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Nathan",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "We've been at this for five hours. Let's call it a day."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I'll call you later today.",
+          "Agreed. We can finish the last section tomorrow.",
+          "It's Wednesday, I think.",
+          "Five hours ago I was at home."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Plays on 'call'.",
+          "Correct: agrees to stop.",
+          "Takes 'day' literally.",
+          "Repeats 'five hours'."
+        ],
+        "explanation": "'Call it a day' means stop working."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-33",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Sharing a kettle",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Sienna",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "How about we split the cost of a new kettle for the flat?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I split my jeans last week.",
+          "Sounds fair. The old one's on its last legs anyway.",
+          "The kettle is in the kitchen.",
+          "Flats are expensive around here."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Plays on 'split'.",
+          "Correct: agrees and adds a reason.",
+          "Repeats 'kettle'.",
+          "Repeats 'flat'."
+        ],
+        "explanation": "'On its last legs' means about to break."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-34",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Hard midterm",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Ben",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Is Professor Okafor's midterm as hard as people say?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "She's a professor of history.",
+          "Hardly anyone came to class.",
+          "Midterms are in October.",
+          "Put it this way: I studied for two weeks and still barely passed."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Repeats 'professor'.",
+          "Plays on hard/hardly.",
+          "Repeats 'midterm'.",
+          "Correct: an indirect yes."
+        ],
+        "explanation": "The answer means yes, it is very hard."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-35",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Putting off taxes",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Erin",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "I keep putting off doing my taxes."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "The deadline's next week, so you'd better get it over with.",
+          "Put them in a file, then.",
+          "Taxes are higher this year.",
+          "I put my keys on the table."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: gives advice.",
+          "Plays on 'put'.",
+          "Repeats 'taxes'.",
+          "Plays on 'put'."
+        ],
+        "explanation": "'Put off' = postpone. The correct reply encourages action."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-36",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Slow Wi-Fi",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Alistair",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "The Wi-Fi in this building is lightning fast, as usual."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Lightning hit the building last year.",
+          "Yes, the building is quite new.",
+          "I know. It took me ten minutes to open one email.",
+          "I usually walk fast."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Takes 'lightning' literally.",
+          "Repeats 'building'.",
+          "Correct: recognises the sarcasm and agrees.",
+          "Repeats 'fast' and 'usual'."
+        ],
+        "explanation": "Sarcasm: the Wi-Fi is actually slow."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-37",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Short library hours",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Megan",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "I think the new library hours are way too short."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I said it again and again.",
+          "Nine hours of sleep is ideal.",
+          "The library has some new books.",
+          "You can say that again. I got kicked out at nine last night."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Does not react to the opinion about the library hours.",
+          "Repeats 'hours' but talks about sleep.",
+          "Repeats 'new library'.",
+          "Correct: agrees strongly."
+        ],
+        "explanation": "'You can say that again' means I strongly agree."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-38",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Chilly room",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Caleb",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Isn't it a bit chilly in here?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Chili is my favorite dish.",
+          "Sorry, I'll close the window.",
+          "It's not in here, it's in the other room.",
+          "I was born here, actually."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Plays on chilly/chili.",
+          "Correct: reacts to the indirect request.",
+          "Takes 'in here' as a location of an object.",
+          "Repeats 'here'."
+        ],
+        "explanation": "The question is an indirect request to make the room warmer."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-39",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Under the weather",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Lucy",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "You seem a bit under the weather today."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "The weather is lovely today.",
+          "I left my umbrella under the desk.",
+          "Yeah, I think I'm coming down with a cold.",
+          "The forecast says rain."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Takes 'weather' literally.",
+          "Repeats 'under'.",
+          "Correct: confirms feeling ill.",
+          "About the weather."
+        ],
+        "explanation": "'Under the weather' means slightly ill."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-40",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Easy topic",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Mitchell",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "We should just pick the easiest topic and get it over with."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "That's what everyone will do, though. Ours would get lost in the pile.",
+          "I'll pick you up at eight.",
+          "The topic is due over the weekend.",
+          "It's easy to get there."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: disagrees with a reason.",
+          "Plays on 'pick'.",
+          "Repeats 'topic' and 'over'.",
+          "Repeats 'easy' and 'get'."
+        ],
+        "explanation": "The reply politely disagrees with the suggestion."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-41",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Meeting with the dean",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Olivia",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Has the meeting with the dean been cancelled?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Not that I know of. It's still on my calendar.",
+          "The dean was very nice to me.",
+          "I can't sell it.",
+          "We met last week."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: answers the question.",
+          "Repeats 'dean'.",
+          "Plays on cancel/can sell.",
+          "Repeats the idea of meeting."
+        ],
+        "explanation": "'Not that I know of' means no, as far as I know."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-42",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Saving a seat",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Ryan",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Want me to save you a seat at the lecture?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I saved some money last month.",
+          "The lecture is on climate change.",
+          "Thanks, but I'm going to watch the recording at home.",
+          "Yes, the seats are blue."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Plays on 'save'.",
+          "Repeats 'lecture'.",
+          "Correct: politely declines.",
+          "Repeats 'seat'."
+        ],
+        "explanation": "The offer needs an acceptance or refusal."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-43",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Driving test",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Chloe",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Guess what? Marco finally passed his driving test."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I guess I'll drive, then.",
+          "No way! That was his fourth try, wasn't it?",
+          "The test was hard to find.",
+          "Marco passed me the salt."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Repeats 'guess' and 'drive'.",
+          "Correct: reacts with surprise.",
+          "Repeats 'test'.",
+          "Plays on 'pass'."
+        ],
+        "explanation": "'No way!' expresses surprise at good news."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-44",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "choose-response",
+    "title": "Slow landlord",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Edward",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "My landlord still hasn't got back to me about the leaking tap."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I'll get back to the lab later.",
+          "Tap water is safe to drink here.",
+          "He leaked the story to the press.",
+          "Have you tried putting it in writing? That usually speeds things up."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Repeats 'get back'.",
+          "Repeats 'tap'.",
+          "Plays on 'leak'.",
+          "Correct: gives advice."
+        ],
+        "explanation": "'Get back to' = reply. Advice is the natural response."
+      }
+    ]
+  }
+]

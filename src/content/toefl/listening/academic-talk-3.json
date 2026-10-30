@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "toefl-talk-17",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "The sunk cost fallacy",
+    "context": "Listen to part of a talk in an economics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Linton",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today's topic is something economists call the sunk cost fallacy. A sunk cost is money, time or effort that you've already spent and can't get back. Standard economic theory says that sunk costs should be ignored. The only question that matters for a decision is what happens from now on. Yet people find this extremely hard to do."
+        },
+        {
+          "s": "p",
+          "t": "A classic demonstration involved theater season tickets. Researchers sold tickets to some buyers at the full price and gave others an unexpected discount. In the first half of the season, the people who'd paid full price went to noticeably more plays, even though the money was equally gone for everyone. They seemed to feel they had to get their money's worth."
+        },
+        {
+          "s": "p",
+          "t": "The fallacy shows up on a much larger scale, too. The British and French governments kept funding the Concorde jet long after it was clear it would never pay back its development costs, and the error is sometimes even called the Concorde fallacy. Incidentally, I flew on Concorde once as a student, a rare treat, and I can tell you the seats were surprisingly cramped. Anyway."
+        },
+        {
+          "s": "p",
+          "t": "Now, I don't want to suggest that sticking with a costly project is always irrational. If abandoning it would damage your reputation, or if you'd learn something valuable by finishing it, those are future benefits, not sunk costs, and it's perfectly sensible to weigh them. The mistake happens only when the money already spent becomes the reason itself."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How theaters decide on ticket prices",
+          "Why the Concorde was never profitable",
+          "The tendency to let past spending influence future decisions",
+          "How governments choose which transport projects to fund"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Ticket prices are part of one experiment, not the topic.",
+          "The Concorde is one example of the fallacy.",
+          "Correct. The talk defines the sunk cost fallacy and gives examples and limits.",
+          "Government funding is mentioned only in the Concorde example."
+        ],
+        "explanation": "The professor explains the sunk cost fallacy, illustrates it and clarifies when continuing a project is reasonable."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What did the theater ticket study find?",
+        "options": [
+          "People who paid full price attended more plays early in the season.",
+          "People who got a discount attended more plays overall.",
+          "People stopped attending once they realized the money was gone.",
+          "There was no difference between the two groups."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Full-price buyers went to noticeably more plays in the first half of the season.",
+          "The discount group attended fewer plays.",
+          "Nothing suggests people stopped attending.",
+          "The study found a clear difference."
+        ],
+        "explanation": "Full-price buyers attended more plays in the first half of the season, as if trying to get their money's worth.",
+        "evidence": "the people who'd paid full price went to noticeably more plays"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention that he flew on Concorde?",
+        "options": [
+          "To show that the jet eventually became profitable",
+          "To support his claim about government funding",
+          "To explain where the name of the fallacy comes from",
+          "To share a brief personal comment unrelated to his main argument"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "He says it never paid back its costs.",
+          "His comment is about cramped seats, not funding.",
+          "The name is explained separately; his flight has nothing to do with it.",
+          "Correct. It's a digression, and he returns to the topic with 'Anyway'."
+        ],
+        "explanation": "The remark about cramped seats is a personal aside; 'Anyway' signals he's returning to the main point.",
+        "evidence": "Incidentally, I flew on Concorde once as a student"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's view of continuing a costly project?",
+        "options": [
+          "It is always a mistake.",
+          "It can be reasonable if it is based on future benefits.",
+          "It is reasonable whenever a lot of money has been spent.",
+          "It is acceptable only for governments."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "He says explicitly he doesn't think it is always irrational.",
+          "Correct. Reputation and learning are future benefits that can justify continuing.",
+          "That is exactly the fallacy he describes.",
+          "He doesn't distinguish governments from individuals in this way."
+        ],
+        "explanation": "He says reputation or learning are future benefits that can legitimately justify continuing; only the money already spent should not be the reason.",
+        "evidence": "those are future benefits, not sunk costs"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Fungal networks beneath the forest",
+    "context": "Listen to part of a talk in a botany class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Navarro",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        },
+        {
+          "id": "s",
+          "name": "Hannah",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Let's turn to what's happening underground. The large majority of land plants, by most estimates around eighty to ninety percent of species, form partnerships with fungi called mycorrhizae. The fungus wraps around or even grows into the plant's roots, and its thin threads spread through the soil far beyond where the roots could reach. The fungus collects water and nutrients, especially phosphorus, and passes them to the plant. In return, the plant feeds the fungus sugars it makes through photosynthesis."
+        },
+        {
+          "s": "p",
+          "t": "Because one fungus can connect to several plants, scientists started talking about networks linking whole forests. In the late nineteen nineties, a study in Canada used carbon tracers and found that carbon moved between birch and fir trees, apparently through these fungal links. The press loved it and called it the wood wide web."
+        },
+        {
+          "s": "s",
+          "t": "So is it true that big old trees feed their seedlings through the network?"
+        },
+        {
+          "s": "p",
+          "t": "That's the popular version, the so-called mother tree idea, and I'd be careful with it. A review published in twenty twenty-three looked at the field studies and concluded that the evidence for trees sending resources to their own offspring is weak. Carbon can move, but often in tiny amounts, and it's hard to rule out other routes, like through the soil itself. So the partnership between a plant and its fungus is very well established. The forest-wide sharing story is much less so."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How photosynthesis produces sugars",
+          "Partnerships between plants and fungi, and claims about forest networks",
+          "How forests are managed in Canada",
+          "Why phosphorus is scarce in forest soils"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Photosynthesis is mentioned only as the source of sugars.",
+          "Correct. She explains mycorrhizae, then evaluates the idea of forest-wide networks.",
+          "Canada is just where one study took place.",
+          "Phosphorus is a detail."
+        ],
+        "explanation": "The professor describes the plant-fungus partnership and then discusses how strong the evidence is for forest-wide networks."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the plant provide to the fungus?",
+        "options": [
+          "Water",
+          "Phosphorus",
+          "Nitrogen",
+          "Sugars"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Water goes from the fungus to the plant.",
+          "Phosphorus goes from the fungus to the plant.",
+          "Nitrogen is not mentioned.",
+          "Correct. The plant feeds the fungus sugars from photosynthesis."
+        ],
+        "explanation": "In return for water and nutrients, the plant gives the fungus sugars.",
+        "evidence": "the plant feeds the fungus sugars"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention the term wood wide web?",
+        "options": [
+          "To show how the media popularized the research",
+          "To name a particular species of fungus",
+          "To criticize the scientists who did the study in Canada",
+          "To explain how carbon tracers work"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The press gave the findings this catchy name.",
+          "It is a nickname for networks, not a species.",
+          "She doesn't criticize the original researchers.",
+          "Tracers are not explained by this term."
+        ],
+        "explanation": "She attributes the catchy name to the press, signaling how the idea became popular.",
+        "evidence": "The press loved it and called it the wood wide web"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's attitude toward the mother tree idea?",
+        "options": [
+          "She is enthusiastic about it.",
+          "She thinks it has been proven for fir trees only.",
+          "She is skeptical because the evidence is weak.",
+          "She believes it can never be tested."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "She advises caution.",
+          "She doesn't say it is proven for any species.",
+          "Correct. She says she'd be careful and cites a review finding weak evidence.",
+          "She says it has been studied; the evidence is just weak."
+        ],
+        "explanation": "She says she'd be careful with the idea and cites a review that found the evidence weak.",
+        "evidence": "I'd be careful with it"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-19",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "The Little Ice Age",
+    "context": "Listen to part of a talk in a climate history class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Doherty",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Between roughly the fourteenth and the mid nineteenth centuries, much of the Northern Hemisphere went through a cooler period that we call the Little Ice Age. I should say right away that the name is a bit misleading. It wasn't an ice age at all. Average temperatures probably fell by less than one degree, and the cooling wasn't the same everywhere or at the same time. But even a small drop in the average meant shorter growing seasons, failed harvests and glaciers advancing in the Alps."
+        },
+        {
+          "s": "p",
+          "t": "What caused it? Two factors stand out. One was volcanic activity. Large eruptions throw particles high into the atmosphere, where they reflect sunlight. The eruption of Tambora in Indonesia in eighteen fifteen led to what people in Europe and North America called the year without a summer, with snow in June in New England. The other factor was a period of low solar activity, when astronomers observed hardly any sunspots."
+        },
+        {
+          "s": "p",
+          "t": "You've probably seen paintings of frost fairs on the River Thames in London, with people skating and setting up stalls on the ice, and they're often used as proof of how cold it was. But the river froze partly because of the old London Bridge. Its many narrow arches slowed the water down, which made it easier to freeze. When the bridge was replaced in the eighteen thirties, the river ran faster, and it hasn't frozen over in central London since."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How volcanoes form",
+          "The history of London Bridge",
+          "Why sunspots appear and disappear",
+          "A cool climate period and its possible causes"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Volcanoes are discussed as a cause, not how they form.",
+          "The bridge is part of a digression.",
+          "Sunspots are mentioned as one factor.",
+          "Correct. He describes the Little Ice Age, its effects and causes."
+        ],
+        "explanation": "The talk describes the Little Ice Age, its effects, its main causes and a caution about evidence."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, how do large volcanic eruptions affect climate?",
+        "options": [
+          "They release heat that warms the atmosphere.",
+          "They increase the number of sunspots.",
+          "They send particles into the atmosphere that reflect sunlight.",
+          "They cause glaciers to melt."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Warming is the opposite of the effect described.",
+          "Sunspots are a separate factor.",
+          "Correct. Particles high in the atmosphere reflect sunlight.",
+          "Glaciers advanced during the period."
+        ],
+        "explanation": "Eruptions throw particles high up, where they reflect sunlight and cool the surface.",
+        "evidence": "where they reflect sunlight"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention the old London Bridge?",
+        "options": [
+          "To describe the engineering of medieval bridges",
+          "To show that the frost fairs were not caused by cold weather alone",
+          "To explain why the frost fairs were so popular",
+          "To argue that the Little Ice Age never happened"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Engineering is not his focus.",
+          "Correct. The bridge's arches slowed the water, so the freezing wasn't purely evidence of cold.",
+          "Popularity is not discussed.",
+          "He accepts the period happened; he only questions one piece of evidence."
+        ],
+        "explanation": "He warns that frost fairs are not simple proof of cold, because the bridge's narrow arches helped the river freeze.",
+        "evidence": "the river froze partly because of the old London Bridge"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What does the professor think about the name Little Ice Age?",
+        "options": [
+          "It gives a misleading impression of the period.",
+          "It describes the period accurately.",
+          "It should be used only for Europe.",
+          "Scientists stopped using it long ago."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. He says it wasn't an ice age at all and the cooling was small.",
+          "He says the opposite.",
+          "He doesn't suggest limiting the name to Europe.",
+          "He uses the term himself."
+        ],
+        "explanation": "He says the name is misleading because the cooling was small and uneven.",
+        "evidence": "the name is a bit misleading"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Writing began with bookkeeping",
+    "context": "Listen to part of a talk in an archaeology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Moreau",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-CA"
+        },
+        {
+          "id": "s",
+          "name": "Ethan",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "When we think of the invention of writing, we tend to imagine poetry, laws or history. But in Mesopotamia, in what's now Iraq, the earliest writing we have, from the city of Uruk over five thousand years ago, is almost entirely about bookkeeping. These clay tablets record things like rations of barley given to workers, numbers of sheep, quantities of beer. Writing seems to have started as a tool for managing an economy run by temples and officials."
+        },
+        {
+          "s": "p",
+          "t": "There's an influential theory about how this happened. For thousands of years before writing, people in the region used small clay tokens of different shapes, a cone for a measure of grain, perhaps, or a cylinder for an animal. Sometimes these tokens were sealed inside hollow clay balls, a kind of envelope, so a shipment couldn't be tampered with. To show what was inside without breaking the ball, people pressed the tokens into its surface. And at some point, the argument goes, they realized the marks alone were enough."
+        },
+        {
+          "s": "s",
+          "t": "So the tokens just disappeared?"
+        },
+        {
+          "s": "p",
+          "t": "Gradually, yes. Flat tablets replaced the envelopes, and the signs became more abstract, made by pressing a cut reed into wet clay, which gives the wedge shapes that cuneiform is named after. I'll admit that not every scholar accepts the token theory, since the link between particular tokens and particular signs isn't always clear. But the basic point holds. Literature came centuries later."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The origins of writing as a tool for keeping records",
+          "The poetry of ancient Mesopotamia",
+          "How clay was prepared for building",
+          "The religious role of temples in Uruk"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. She argues writing began with bookkeeping and explains a theory of how.",
+          "She says literature came centuries later.",
+          "Clay is the material, not the topic.",
+          "Temples are mentioned only as managers of the economy."
+        ],
+        "explanation": "The professor explains that the earliest writing was administrative and describes the token theory of its origin."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What was recorded on the earliest tablets from Uruk?",
+        "options": [
+          "Laws and historical events",
+          "Quantities of goods such as barley and sheep",
+          "Poems and religious stories",
+          "Maps of the region"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She contrasts these with what was actually recorded.",
+          "Correct. They record rations of barley, numbers of sheep and quantities of beer.",
+          "Literature came later.",
+          "Maps are not mentioned."
+        ],
+        "explanation": "The earliest tablets are almost entirely bookkeeping records.",
+        "evidence": "rations of barley given to workers, numbers of sheep"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why were tokens pressed into the surface of the clay balls?",
+        "options": [
+          "To decorate the envelopes",
+          "To make the clay balls stronger",
+          "To show the contents without breaking the ball",
+          "To count the number of workers"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Decoration is not mentioned.",
+          "Strength is not mentioned.",
+          "Correct. The impressions showed what was inside.",
+          "Counting workers is not the purpose of the marks."
+        ],
+        "explanation": "The impressions let people see what was inside without breaking the sealed ball.",
+        "evidence": "To show what was inside without breaking the ball"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's view of the token theory?",
+        "options": [
+          "It has been completely proven.",
+          "Most scholars have rejected it.",
+          "It is less convincing than a religious explanation.",
+          "It is influential, though not accepted by everyone."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "She admits some scholars don't accept it.",
+          "She calls it influential, not rejected.",
+          "No religious explanation is discussed.",
+          "Correct. She calls it influential but admits not every scholar accepts it."
+        ],
+        "explanation": "She calls the theory influential but admits that some scholars doubt it.",
+        "evidence": "not every scholar accepts the token theory"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-21",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Where the elements come from",
+    "context": "Listen to part of a talk in an astronomy class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Kerr",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-NZ"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Where did the atoms in your body come from? The Big Bang produced almost nothing but hydrogen and helium, plus a tiny trace of lithium. Everything else, the carbon in your cells, the oxygen you breathe, the calcium in your bones, had to be made later, inside stars."
+        },
+        {
+          "s": "p",
+          "t": "A star like the Sun spends most of its life fusing hydrogen into helium in its core. Late in life, it can fuse helium into carbon and oxygen. Stars much more massive than the Sun go further, building heavier and heavier elements in layers, a bit like an onion, until they reach iron. And iron is where it stops. Fusing lighter elements releases energy, but fusing iron consumes energy. So once the core fills with iron, the star can no longer support itself. The core collapses, and the outer layers are blasted into space in a supernova, spreading those elements through the galaxy."
+        },
+        {
+          "s": "p",
+          "t": "What about elements heavier than iron, like gold? These are built mainly when atomic nuclei capture neutrons very quickly. For a long time, supernovas were assumed to be the main source. Then, in twenty seventeen, astronomers detected gravitational waves from two neutron stars colliding, and telescopes saw the glow of freshly made heavy elements. Many astronomers now think collisions like that produce much of the universe's gold. So the ring on your finger may be the debris of a crash between two dead stars."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How the Sun will eventually die",
+          "How gravitational waves are detected",
+          "Where the chemical elements are produced",
+          "Why gold is so valuable"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The Sun's life is one stage in the explanation.",
+          "Gravitational waves are part of one example.",
+          "Correct. He traces elements from the Big Bang to stars and neutron star collisions.",
+          "Value is not discussed."
+        ],
+        "explanation": "The talk explains how different elements were produced, from the Big Bang to stellar fusion and collisions."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why does fusion in a massive star stop at iron?",
+        "options": [
+          "Iron is too rare in stars.",
+          "Iron melts at very high temperatures.",
+          "Iron is radioactive and decays quickly.",
+          "Fusing iron uses up energy instead of releasing it."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Rarity is not the reason; the core fills with iron.",
+          "Melting is not mentioned.",
+          "Radioactivity is not mentioned.",
+          "Correct. Fusing iron consumes energy, so the star can no longer support itself."
+        ],
+        "explanation": "Fusing iron consumes energy rather than releasing it, so the core collapses.",
+        "evidence": "fusing iron consumes energy"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention the observations made in 2017?",
+        "options": [
+          "To support the idea that neutron star collisions create heavy elements",
+          "To show that supernovas produce all of the universe's gold",
+          "To explain how telescopes measure temperature",
+          "To describe what happened during the Big Bang"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The glow of freshly made heavy elements supported collisions as a major source.",
+          "The observation actually challenged the idea that supernovas are the main source.",
+          "Temperature measurement is not discussed.",
+          "The Big Bang is discussed earlier and separately."
+        ],
+        "explanation": "The 2017 detection showed heavy elements forming in a neutron star collision, changing views about the source of gold.",
+        "evidence": "telescopes saw the glow of freshly made heavy elements"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What can be inferred about where the oxygen atoms we breathe came from?",
+        "options": [
+          "They were produced in the Big Bang.",
+          "They were formed inside stars.",
+          "They came only from neutron star collisions.",
+          "They were formed in Earth's atmosphere."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The Big Bang produced almost only hydrogen and helium, plus a trace of lithium.",
+          "Correct. He says everything beyond hydrogen and helium, including oxygen, was made inside stars.",
+          "Collisions are linked to elements heavier than iron.",
+          "Nothing in the talk suggests elements are formed in the atmosphere."
+        ],
+        "explanation": "He lists the oxygen we breathe among elements that had to be made later, inside stars.",
+        "evidence": "had to be made later, inside stars"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-22",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Caravaggio and the drama of light",
+    "context": "Listen to part of a talk in an art history class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Pryce",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today, Caravaggio, the Italian painter who worked mainly in Rome around sixteen hundred. His most recognizable feature is his use of light. Many painters used contrasts of light and shadow, but Caravaggio pushed it to an extreme. His figures often emerge from almost total darkness, lit by a single strong beam, as though someone had switched on a spotlight. Art historians call this extreme version tenebrism, from an Italian word for darkness."
+        },
+        {
+          "s": "p",
+          "t": "Look at The Calling of Saint Matthew. A beam of light enters from the right, following the gesture of Christ's hand, and falls on a group of tax collectors sitting at a table. The light isn't just decoration. It tells the story, showing the moment Matthew is chosen. And notice the people. They look like ordinary Romans in contemporary clothes, because Caravaggio used people from the street as models, which shocked some critics who thought religious figures should look idealized."
+        },
+        {
+          "s": "p",
+          "t": "Now, Caravaggio's life was famously violent. He was arrested repeatedly, and in sixteen oh six he killed a man and had to flee Rome. It's tempting to read his dark paintings as a reflection of a dark personality, and a lot of popular books do exactly that. I'd resist it. His style was fully developed before the worst of his troubles, and it was a deliberate artistic strategy that dozens of painters across Europe soon copied."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Caravaggio's criminal record",
+          "Caravaggio's dramatic use of light and his realistic figures",
+          "How tax collectors worked in Rome",
+          "The history of religious painting in Europe"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "His violent life is discussed only to warn against a certain interpretation.",
+          "Correct. She focuses on tenebrism and his use of ordinary people as models.",
+          "The tax collectors are subjects of one painting.",
+          "The talk focuses on one painter."
+        ],
+        "explanation": "The talk explains Caravaggio's distinctive light and realism, and how his work should be interpreted."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, what role does light play in The Calling of Saint Matthew?",
+        "options": [
+          "It tells the story by showing the moment Matthew is chosen.",
+          "It decorates the background of the scene.",
+          "It shows what time of day the scene takes place.",
+          "It hides the tax collectors from view."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. She says the light tells the story.",
+          "She says it isn't just decoration.",
+          "Time of day is not mentioned.",
+          "The light falls on the tax collectors."
+        ],
+        "explanation": "She explains that the beam follows Christ's gesture and marks the moment Matthew is chosen.",
+        "evidence": "It tells the story, showing the moment Matthew is chosen"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why were some critics shocked by Caravaggio's paintings?",
+        "options": [
+          "They were too dark to see clearly.",
+          "They were much larger than usual.",
+          "They were painted outside Rome.",
+          "Religious figures looked like ordinary people."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Darkness is his style, but not the cause of the shock mentioned.",
+          "Size is not mentioned.",
+          "He worked mainly in Rome.",
+          "Correct. He used people from the street as models instead of idealized figures."
+        ],
+        "explanation": "Critics expected idealized religious figures, but Caravaggio used ordinary Romans as models.",
+        "evidence": "Caravaggio used people from the street as models"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's attitude toward explaining Caravaggio's style through his violent life?",
+        "options": [
+          "She agrees with the popular books.",
+          "She thinks it explains only his later works.",
+          "She disagrees, because his style was a deliberate choice developed earlier.",
+          "She is unsure and needs more evidence."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "She explicitly resists their approach.",
+          "She does not make this distinction.",
+          "Correct. She says his style was developed before his worst troubles and was deliberate.",
+          "She takes a clear position."
+        ],
+        "explanation": "She rejects the biographical reading, pointing out that the style predates his worst troubles and was deliberate.",
+        "evidence": "I'd resist it"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-23",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Comparative advantage",
+    "context": "Listen to part of a talk in an economics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Grant",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-US"
+        },
+        {
+          "id": "s",
+          "name": "Mia",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-NZ"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today's idea is one of the most important, and most misunderstood, in economics: comparative advantage. It was set out by David Ricardo in eighteen seventeen. Let me start with a simple example. Imagine a lawyer who also happens to type faster than her assistant. Should she do her own typing? Probably not. Every hour she spends typing is an hour she isn't spending on legal work, which earns far more. Even though she's better at both tasks, it pays for her to focus on the one where her advantage is greatest and let the assistant type."
+        },
+        {
+          "s": "s",
+          "t": "But with countries, if one country is better at producing everything, why would it trade at all?"
+        },
+        {
+          "s": "p",
+          "t": "That's exactly the case Ricardo was interested in. In his example, Portugal could produce both wine and cloth with less labor than England. But Portugal's advantage was much bigger in wine. So if Portugal specialized in wine and England in cloth, and they traded, both could end up with more of both goods than if each produced everything itself. What matters isn't absolute ability, it's what you give up, the opportunity cost."
+        },
+        {
+          "s": "p",
+          "t": "Now, I want to add a caution, because this theory is sometimes used to claim that trade benefits everyone. It shows that a country as a whole can gain. It doesn't say that every worker gains. An English wine maker would be out of a job. How those gains and losses are shared is a political question the model doesn't answer."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The career of David Ricardo",
+          "How lawyers can manage their time",
+          "Why Portugal became a wine producer",
+          "Why specialization and trade can benefit even a less efficient partner"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Ricardo is mentioned only as the source of the idea.",
+          "The lawyer is an illustration.",
+          "Portugal is part of Ricardo's example.",
+          "Correct. The talk explains comparative advantage and its limits."
+        ],
+        "explanation": "The professor explains comparative advantage: both parties can gain from specializing, even if one is better at everything."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor talk about a lawyer who types quickly?",
+        "options": [
+          "To show that lawyers are paid too much",
+          "To illustrate comparative advantage with a familiar situation",
+          "To argue that assistants need more training",
+          "To show that absolute advantage is what matters most"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Pay levels are not criticized.",
+          "Correct. It is an everyday example before he moves to countries.",
+          "Training is not discussed.",
+          "He concludes the opposite: absolute ability isn't what matters."
+        ],
+        "explanation": "The lawyer example introduces the concept in an everyday context before he applies it to countries.",
+        "evidence": "Let me start with a simple example"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, what should determine what a country specializes in?",
+        "options": [
+          "Which goods it can produce with the least labor overall",
+          "The size of its population",
+          "What it gives up by producing each good",
+          "Which goods its trading partners prefer"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "That is absolute ability, which he says is not what matters.",
+          "Population is not mentioned.",
+          "Correct. Opportunity cost determines specialization.",
+          "Partners' preferences are not discussed."
+        ],
+        "explanation": "He states that opportunity cost, not absolute ability, is what matters.",
+        "evidence": "What matters isn't absolute ability, it's what you give up, the opportunity cost"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's view of the claim that trade benefits everyone?",
+        "options": [
+          "It overstates what the theory shows.",
+          "It is an accurate summary of the theory.",
+          "It is true only for wine and cloth.",
+          "It is answered clearly by Ricardo's model."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The theory shows national gains, not gains for every worker.",
+          "He specifically warns against this claim.",
+          "He doesn't limit the theory to these goods.",
+          "He says the model doesn't answer how gains are shared."
+        ],
+        "explanation": "He cautions that the model shows a country can gain overall, but not that every worker gains.",
+        "evidence": "It doesn't say that every worker gains"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-24",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Giants and dwarfs on islands",
+    "context": "Listen to part of a talk in an evolutionary biology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Walsh",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Islands are natural laboratories for evolution, and one of the strangest patterns they show is a change in body size. Biologists call it the island rule. Large mammals that become isolated on islands tend to shrink over many generations, while small animals tend to grow larger."
+        },
+        {
+          "s": "p",
+          "t": "Some of the best examples are fossil elephants. On Mediterranean islands such as Sicily and Malta, elephants evolved into dwarf forms, some only about a meter tall at the shoulder. On the Indonesian island of Flores, there were dwarf relatives of elephants too, and, in the same place, giant rats several times the size of a common rat. The usual explanation goes like this. On a small island, food is limited, so a big animal that needs less food has an advantage. Small animals, on the other hand, often find themselves with fewer predators and fewer competitors, so being larger becomes possible and even useful."
+        },
+        {
+          "s": "p",
+          "t": "Flores is also where researchers found Homo floresiensis, a small human species, about a meter tall, and some scientists have suggested its size is another case of island dwarfing. That's still debated, by the way, because we don't know for certain which larger ancestor it came from."
+        },
+        {
+          "s": "p",
+          "t": "I should also warn you that the rule is a tendency, not a law. When researchers have analyzed large data sets, they've found plenty of exceptions, and some argue the pattern is weaker than textbooks suggest."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How the body size of animals tends to change on islands",
+          "The history of human settlement on Flores",
+          "Why elephants became extinct in the Mediterranean",
+          "How fossils are dated"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The talk explains the island rule, examples and its limits.",
+          "Flores is one location of examples.",
+          "Extinction is not discussed.",
+          "Dating fossils is not discussed."
+        ],
+        "explanation": "The professor explains the island rule, gives examples and discusses its limitations."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the usual explanation, why may small animals grow larger on islands?",
+        "options": [
+          "They find more food on islands.",
+          "The climate on islands is colder.",
+          "They face fewer predators and competitors.",
+          "They breed with larger species."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Food is limited on islands; that explains large animals shrinking.",
+          "Climate is not mentioned.",
+          "Correct. With fewer predators and competitors, being larger becomes possible.",
+          "Breeding with other species is not mentioned."
+        ],
+        "explanation": "Small animals often face fewer predators and competitors on islands, so larger size becomes possible and useful.",
+        "evidence": "fewer predators and fewer competitors"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention Homo floresiensis?",
+        "options": [
+          "To prove that humans always follow the island rule",
+          "To give a possible but uncertain example of island dwarfing",
+          "To show that humans hunted dwarf elephants",
+          "To explain how Flores was discovered"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She says the case is still debated.",
+          "Correct. Some scientists suggest it, but its ancestor is uncertain.",
+          "Hunting is not mentioned.",
+          "The island's discovery is not discussed."
+        ],
+        "explanation": "She presents it as a suggested case of island dwarfing that remains debated.",
+        "evidence": "That's still debated"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's view of the island rule?",
+        "options": [
+          "It applies to all animals without exception.",
+          "It has been proven wrong.",
+          "It applies only to elephants.",
+          "It is a general tendency with many exceptions."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "She warns that there are plenty of exceptions.",
+          "She still treats it as a real tendency.",
+          "She gives rat and possibly human examples too.",
+          "Correct. She calls it a tendency, not a law."
+        ],
+        "explanation": "She warns that the rule is a tendency with many exceptions.",
+        "evidence": "the rule is a tendency, not a law"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-25",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Thawing permafrost",
+    "context": "Listen to part of a talk in an earth science class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Lindqvist",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Permafrost is ground that has stayed frozen for at least two years in a row, and in places like Siberia, Alaska and northern Canada, some of it has been frozen for many thousands of years. It holds a huge amount of carbon, the remains of plants and animals that died long ago but never fully decomposed, because the cold slowed down the microbes that would normally break them down. Current estimates suggest permafrost soils contain roughly twice as much carbon as the atmosphere does today."
+        },
+        {
+          "s": "p",
+          "t": "Here's the problem. As the Arctic warms, which it's doing much faster than the global average, permafrost thaws, and those microbes wake up. Where the thawed ground is fairly dry, they release carbon dioxide. Where it's waterlogged, without much oxygen, they produce methane, which traps far more heat than carbon dioxide over the first few decades. And more greenhouse gas means more warming, which means more thaw. That's what we call a feedback loop."
+        },
+        {
+          "s": "p",
+          "t": "In some places thaw is gradual, just a few centimeters deeper each summer. In others, ice-rich ground collapses suddenly, forming new lakes and sinkholes, which exposes deep carbon much faster. You'll sometimes read headlines about a carbon bomb that's ready to explode. Personally, I think that's the wrong picture. The evidence suggests a steady release over decades and centuries, which is serious, but it means that what we do about emissions now still makes a difference."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How Arctic lakes are formed",
+          "The life cycle of soil microbes",
+          "How thawing permafrost can contribute to further warming",
+          "The history of exploration in Siberia"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Lakes are one effect of sudden thaw.",
+          "Microbes matter only as the cause of gas release.",
+          "Correct. He explains how thaw releases greenhouse gases in a feedback loop.",
+          "Exploration is not discussed."
+        ],
+        "explanation": "The talk explains how permafrost stores carbon and how warming releases it, creating a feedback loop."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why did the carbon in permafrost not decompose?",
+        "options": [
+          "It was buried under lakes.",
+          "The cold slowed down the microbes.",
+          "There were no plants in the region.",
+          "It was turned into methane."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Lakes form after thaw, not before.",
+          "Correct. Cold slowed the microbes that would break it down.",
+          "The carbon comes from plants and animals.",
+          "Methane is produced after thaw."
+        ],
+        "explanation": "The remains never fully decomposed because cold slowed the microbes.",
+        "evidence": "the cold slowed down the microbes"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, what determines whether thawing ground releases carbon dioxide or methane?",
+        "options": [
+          "The age of the carbon",
+          "How deep the carbon is buried",
+          "How quickly the ground thaws",
+          "Whether the ground is waterlogged"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Age is not linked to which gas is released.",
+          "Depth is linked to sudden thaw, not to the type of gas.",
+          "Speed affects how fast carbon is exposed, not which gas.",
+          "Correct. Dry ground releases carbon dioxide; waterlogged ground produces methane."
+        ],
+        "explanation": "Waterlogged, low-oxygen ground produces methane; drier ground releases carbon dioxide.",
+        "evidence": "Where it's waterlogged, without much oxygen, they produce methane"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's opinion of headlines about a carbon bomb?",
+        "options": [
+          "They are misleading, because the release is gradual and reducing emissions still matters.",
+          "They are accurate and useful.",
+          "They underestimate how quickly the carbon will be released.",
+          "They have nothing to do with permafrost."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. He calls it the wrong picture and says what we do now still makes a difference.",
+          "He says they give the wrong picture.",
+          "He thinks the release is steady, not faster.",
+          "The headlines are about permafrost carbon."
+        ],
+        "explanation": "He rejects the image of a sudden explosion and stresses a steady release that can still be influenced.",
+        "evidence": "I think that's the wrong picture"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-26",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Rewriting memories",
+    "context": "Listen to part of a talk in a neuroscience class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Harrow",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        },
+        {
+          "id": "s",
+          "name": "Grace",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "For most of the twentieth century, the standard view was that once a memory is consolidated, meaning stored in a stable long-term form, it stays more or less fixed. Recalling it was like taking a file out of a cabinet, reading it, and putting it back unchanged."
+        },
+        {
+          "s": "p",
+          "t": "In two thousand, a study with rats challenged that view. The rats learned to associate a tone with a mild electric shock, so they froze whenever they heard the tone. Later, the researchers played the tone again, which reactivated the memory, and immediately injected a drug that blocks the production of new proteins in the part of the brain involved in fear. Afterwards, the rats behaved as if they'd forgotten the association. The same drug had no effect if the memory wasn't reactivated first."
+        },
+        {
+          "s": "s",
+          "t": "So remembering something actually makes it fragile?"
+        },
+        {
+          "s": "p",
+          "t": "That's the idea. When a memory is recalled, it seems to become unstable for a while and has to be stored again, which is why it's called reconsolidation. It also fits nicely with research on eyewitnesses, who can absorb misleading details when they're questioned. Each time you retell a story, you may be slightly rewriting it."
+        },
+        {
+          "s": "p",
+          "t": "Naturally, clinicians got excited. Could you weaken traumatic memories this way? Some trials with people suffering from post-traumatic stress have tried pairing recall with a medication, and the results so far are mixed. I find the basic science convincing, but I'd want much more evidence before calling it a treatment."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How rats learn to respond to sounds",
+          "The idea that recalled memories become unstable and can change",
+          "How police should question eyewitnesses",
+          "A new and proven treatment for post-traumatic stress"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The rat study is evidence, not the topic.",
+          "Correct. The talk presents reconsolidation and its implications.",
+          "Eyewitnesses are a related example.",
+          "He says results are mixed, not proven."
+        ],
+        "explanation": "The professor explains reconsolidation: recalled memories become unstable and must be stored again."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What happened when the drug was given without first reactivating the memory?",
+        "options": [
+          "The rats forgot the association.",
+          "The rats froze more often.",
+          "The rats learned new associations faster.",
+          "The drug had no effect on the memory."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Forgetting happened only after reactivation.",
+          "Not mentioned.",
+          "Not mentioned.",
+          "Correct. The drug had no effect without reactivation."
+        ],
+        "explanation": "The drug only worked when the memory had been reactivated, which is key evidence for reconsolidation.",
+        "evidence": "The same drug had no effect if the memory wasn't reactivated first"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention research on eyewitnesses?",
+        "options": [
+          "To show that reconsolidation is consistent with other findings about memory",
+          "To criticize the way police interview witnesses",
+          "To describe a different type of memory from the one in the rat study",
+          "To show that human memory works differently from rat memory"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. He says it fits nicely with eyewitness research showing memories can change.",
+          "He doesn't criticize police.",
+          "He presents it as related, not different.",
+          "He uses it to show similarity, not difference."
+        ],
+        "explanation": "He uses eyewitness research as further support for the idea that recalled memories can change.",
+        "evidence": "It also fits nicely with research on eyewitnesses"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's attitude toward using reconsolidation as a treatment?",
+        "options": [
+          "He believes it is already proven to work.",
+          "He believes the basic science is flawed.",
+          "He is cautious and wants more evidence.",
+          "He thinks it is too dangerous to try."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "He says the results are mixed.",
+          "He finds the basic science convincing.",
+          "Correct. He wants much more evidence before calling it a treatment.",
+          "Danger is not mentioned."
+        ],
+        "explanation": "He accepts the science but wants more evidence before calling it a treatment.",
+        "evidence": "I'd want much more evidence before calling it a treatment"
+      }
+    ]
+  }
+]

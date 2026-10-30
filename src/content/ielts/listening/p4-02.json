@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ielts-l-p4-02",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 4,
+    "title": "The rise of the public park",
+    "context": "You will hear part of an urban history lecture about the development of public parks in nineteenth-century Britain.",
+    "audio": {
+      "speakers": [
+        { "id": "lec", "name": "Professor Hale", "role": "lecturer", "gender": "m", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "lec", "t": "Today we're continuing our series on the industrial city by looking at something we tend to take completely for granted, and that's the public park. It's easy to assume that cities have always had open green spaces for everyone to use. But in fact the public park, as we know it, is largely an invention of the nineteenth century." },
+        { "s": "lec", "t": "Before about eighteen forty, the green spaces in British towns were overwhelmingly private. There were royal parks, which the public could sometimes enter at the monarch's pleasure, and there were the elegant garden squares built for wealthy residents. Those squares were usually surrounded by railings, and only the people who lived around them were given a key. So for the great mass of factory workers crowded into the new industrial districts, there was simply nowhere green to go." },
+        { "s": "lec", "t": "So why did that change? Historians usually point to three motives. The first was health. At the time, many doctors believed that diseases such as cholera were spread by bad air, rising from rubbish and sewage. If that was the case, then open spaces where fresh air could circulate seemed like an obvious remedy. Parks were very often described in this period as the lungs of the city, and that phrase appears again and again in parliamentary reports." },
+        { "s": "lec", "t": "The second motive was what we might call moral. Middle-class reformers worried about how working people spent their limited free time, and in particular about drinking. A park was seen as a respectable alternative to the pubs, a place where families could take a walk together on a Sunday afternoon. The term used at the time was rational recreation." },
+        { "s": "lec", "t": "The third motive is less often mentioned, but I'd argue it was just as important, and that's money. Take Birkenhead Park, near Liverpool, which opened in eighteen forty-seven and is often described as the first park in the world created with public money for public use. The council bought far more land than it needed for the park itself, and then sold off the plots around the edge for housing. Because people were willing to pay a premium to live next to the park, those sales covered most of the cost of building it." },
+        { "s": "lec", "t": "Let's think for a moment about what these early parks looked like. The designers rejected straight lines and formal flower beds in favour of winding paths and irregular lakes, which were meant to imitate the countryside. A clever detail is that the soil dug out to create the lakes wasn't wasted. It was piled up to form small artificial hills, which gave visitors the sense of a varied landscape and also blocked views of the surrounding streets." },
+        { "s": "lec", "t": "But this was not a space of total freedom. Victorian parks came with long lists of rules, and they were enforced by uniformed park keepers. Visitors could be thrown out for being badly dressed, for swearing, and very commonly for gambling, which was a particular concern of the authorities. Interestingly, the use of the grass was often restricted too. In many parks you could look at the lawns but not walk on them." },
+        { "s": "lec", "t": "Towards the end of the century, the character of parks began to shift. There was a growing demand for sport, especially football, cricket and later tennis, and councils responded by setting aside large areas as playing fields. Around the same time, the first playgrounds with swings and climbing frames appeared, reflecting new ideas about the importance of play in children's development." },
+        { "s": "lec", "t": "The twentieth century, however, was much less kind to parks. During the Second World War, the iron railings around many parks were cut down and taken away, officially to be melted down for weapons, though it's now thought that much of the metal was never actually used. After the war, budgets for maintenance were steadily reduced. Resident park keepers were replaced by mobile teams who visited occasionally, and many parks became neglected and associated with vandalism." },
+        { "s": "lec", "t": "Since the nineteen nineties, there's been something of a revival. National lottery funding has paid for the restoration of hundreds of historic parks, including Birkenhead. But the day-to-day survival of many parks now depends on local volunteers, often organised into groups calling themselves the Friends of the park, who do everything from planting to fundraising. Whether that's a sustainable model is something I'd like you to think about before next week's seminar." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–40\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Public parks in nineteenth-century Britain",
+        "template": "Before 1840\n• garden squares only open to local residents who had a {{q1}}\n\nReasons for creating public parks\n• health: many believed disease was carried by bad {{q2}}\n• parks were often called the city's {{q3}}\n• moral: to offer families an alternative to {{q4}}\n• financial: at Birkenhead, selling land for {{q5}} paid for most of the park\n\nDesign and rules\n• winding paths and lakes; earth from lakes used to build {{q6}}\n• keepers removed visitors for poor dress, swearing and {{q7}}\n\nLater developments\n• late 19th century: demand for {{q8}} led to playing fields\n• Second World War: {{q9}} taken away for metal\n• today: many parks depend on {{q10}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "note-completion", "answers": ["key"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Only people living around the square were given a key.", "evidence": "only the people who lived around them were given a key" },
+          { "id": "q2", "kind": "gap", "qtype": "note-completion", "answers": ["air"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Doctors believed cholera was spread by bad air.", "evidence": "spread by bad air" },
+          { "id": "q3", "kind": "gap", "qtype": "note-completion", "answers": ["lungs"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Parks were described as 'the lungs of the city'.", "evidence": "the lungs of the city" },
+          { "id": "q4", "kind": "gap", "qtype": "note-completion", "answers": ["pubs"], "maxWords": 1, "allowNumber": false,
+            "explanation": "A park was a respectable alternative to the pubs (drinking).", "evidence": "a respectable alternative to the pubs" },
+          { "id": "q5", "kind": "gap", "qtype": "note-completion", "answers": ["housing"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Plots around the edge were sold for housing; the sales covered most of the cost.", "evidence": "sold off the plots around the edge for housing" },
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["hills"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The soil dug out for the lakes formed small artificial hills.", "evidence": "It was piled up to form small artificial hills" },
+          { "id": "q7", "kind": "gap", "qtype": "note-completion", "answers": ["gambling"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Visitors were thrown out for being badly dressed, swearing and 'very commonly for gambling'.", "evidence": "very commonly for gambling" },
+          { "id": "q8", "kind": "gap", "qtype": "note-completion", "answers": ["sport", "sports"], "maxWords": 1, "allowNumber": false,
+            "explanation": "A growing demand for sport led councils to set aside playing fields.", "evidence": "There was a growing demand for sport" },
+          { "id": "q9", "kind": "gap", "qtype": "note-completion", "answers": ["railings"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The iron railings were cut down to be melted for weapons.", "evidence": "the iron railings around many parks were cut down and taken away" },
+          { "id": "q10", "kind": "gap", "qtype": "note-completion", "answers": ["volunteers"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Day-to-day survival depends on local volunteers ('Friends of the park'). Lottery funding paid for restoration, not daily survival.", "evidence": "the day-to-day survival of many parks now depends on local volunteers" }
+        ]
+      }
+    ]
+  }
+]

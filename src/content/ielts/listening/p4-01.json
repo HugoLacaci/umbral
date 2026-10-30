@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ielts-l-p4-01",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 4,
+    "title": "Kelp forests",
+    "context": "You will hear part of a marine biology lecture about kelp forests and the threats they face.",
+    "audio": {
+      "speakers": [
+        { "id": "lec", "name": "Dr Aroha Parata", "role": "lecturer", "gender": "f", "accent": "en-NZ" }
+      ],
+      "lines": [
+        { "s": "lec", "t": "Good morning, everyone. In today's lecture I'm going to look at kelp forests, which are among the most productive ecosystems in the ocean, and at why so many of them have been disappearing over the last few decades." },
+        { "s": "lec", "t": "Let me begin with what kelp actually is. Although it looks like a plant, kelp is in fact a type of brown algae. It doesn't have roots in the usual sense. Instead, it attaches itself to rocks on the seabed with a structure called a holdfast, which works rather like an anchor. From there, a long stem-like part rises towards the surface, and the leaf-like blades are kept upright by small gas-filled bladders that act as floats. Kelp needs cool water that's rich in nutrients, and it also needs plenty of light, which is why kelp forests are usually found in shallow coastal waters, rarely deeper than about thirty metres." },
+        { "s": "lec", "t": "What makes kelp so remarkable is its speed of growth. Some species of giant kelp can grow by as much as half a metre in a single day under ideal conditions. This rapid growth produces an enormous amount of organic material, and that supports a huge diversity of life. Many fish use the forest as a nursery, where their young can hide from predators among the blades. Seals and seabirds hunt there. And the dense canopy also reduces the force of the waves, which helps to protect the coastline from erosion during storms." },
+        { "s": "lec", "t": "Now, let's turn to the threats. The best-known story involves sea urchins. Urchins are small, spiny animals that graze on kelp, and in a healthy system their numbers are kept in check by predators. On the Pacific coast of North America, the key predator is the sea otter. When otters were hunted almost to extinction for their fur, urchin populations exploded, and the urchins ate their way through vast areas of kelp. What was left is often described as an urchin barren: bare rock covered in urchins, with very little else living there. When otters were reintroduced to some areas, the kelp came back remarkably quickly. This is a classic example of what ecologists call a trophic cascade, where a change at the top of the food chain affects every level below it." },
+        { "s": "lec", "t": "However, I want to stress that predators are only part of the picture. The single biggest threat today is rising sea temperature. Kelp struggles when the water gets too warm, partly because warm water tends to carry fewer nutrients. In twenty fourteen and twenty fifteen, an unusually persistent patch of warm water off the coast of California, which scientists nicknamed the Blob, contributed to the loss of over ninety percent of the kelp along parts of the northern Californian coast. At around the same time, a disease wiped out a starfish called the sunflower star, which was another important predator of urchins. So the urchins were released from control just as the kelp was already weakened." },
+        { "s": "lec", "t": "So what can be done? I'll briefly describe three approaches that are being tested. The first is simply removing urchins. In some projects, teams of volunteer divers go down and physically remove or crush the urchins in selected areas. It's labour intensive, but it does work on a small scale. And interestingly, there's now a commercial angle. Urchins taken from barrens are collected and fattened up in tanks, and then sold as a delicacy to restaurants, which helps to pay for the work." },
+        { "s": "lec", "t": "The second approach is restoration through planting. Here, researchers grow young kelp on lengths of rope in the laboratory and then fix them to rocks on the seabed. The main obstacle is cost. Planting by hand underwater is extremely expensive, so so far it's only been tried over a few hectares." },
+        { "s": "lec", "t": "The third approach, which I find the most interesting, involves genetics. Some individual kelp plants appear to cope much better with heat than others. Researchers in Australia have been collecting these tougher individuals and breeding from them, in the hope of producing kelp that can survive in a warmer ocean. It's been compared to the way farmers select crops for drought resistance. Not everyone is comfortable with this, of course. Critics argue that we're interfering with wild ecosystems in ways we can't fully predict, and that we should focus on the causes of warming rather than the symptoms." },
+        { "s": "lec", "t": "For next week, I'd like you to read the article on the reading list about kelp farming, because that will lead us into the question of whether kelp could be used to absorb carbon on a large scale." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–40\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Kelp forests",
+        "template": "Basic biology\n• not a plant but a type of brown {{q1}}\n• attached to the seabed by a holdfast, which functions like an {{q2}}\n• needs cool, nutrient-rich water and a lot of {{q3}}, so found in shallow water\n\nEcological value\n• grows up to 0.5 m per day\n• young fish shelter there, so it serves as a {{q4}}\n• the canopy weakens waves and protects the shore from {{q5}}\n\nThreats\n• sea otters were hunted for their {{q6}}, so urchin numbers increased\n• main threat now: higher sea {{q7}}\n• a starfish that eats urchins was killed by disease\n\nPossible solutions\n• urchin removal by divers – urchins later sold to {{q8}}\n• planting kelp grown on ropes – limited by {{q9}}\n• breeding kelp that tolerates {{q10}} better",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "note-completion", "answers": ["algae"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Kelp looks like a plant but is a type of brown algae.", "evidence": "kelp is in fact a type of brown algae" },
+          { "id": "q2", "kind": "gap", "qtype": "note-completion", "answers": ["anchor"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The holdfast 'works rather like an anchor' (= functions like).", "evidence": "a holdfast, which works rather like an anchor" },
+          { "id": "q3", "kind": "gap", "qtype": "note-completion", "answers": ["light"], "maxWords": 1, "allowNumber": false,
+            "explanation": "'Plenty of light' = a lot of light; that is why it grows in shallow water.", "evidence": "it also needs plenty of light" },
+          { "id": "q4", "kind": "gap", "qtype": "note-completion", "answers": ["nursery"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Fish use the forest as a nursery where their young hide.", "evidence": "Many fish use the forest as a nursery" },
+          { "id": "q5", "kind": "gap", "qtype": "note-completion", "answers": ["erosion"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The canopy reduces wave force and protects the coastline from erosion.", "evidence": "protect the coastline from erosion during storms" },
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["fur"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Otters were hunted almost to extinction for their fur.", "evidence": "hunted almost to extinction for their fur" },
+          { "id": "q7", "kind": "gap", "qtype": "note-completion", "answers": ["temperature", "temperatures"], "maxWords": 1, "allowNumber": false,
+            "explanation": "'The single biggest threat today is rising sea temperature.' Predators are 'only part of the picture'.", "evidence": "The single biggest threat today is rising sea temperature." },
+          { "id": "q8", "kind": "gap", "qtype": "note-completion", "answers": ["restaurants"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Urchins from barrens are fattened in tanks and sold to restaurants.", "evidence": "sold as a delicacy to restaurants" },
+          { "id": "q9", "kind": "gap", "qtype": "note-completion", "answers": ["cost", "costs"], "maxWords": 1, "allowNumber": false,
+            "explanation": "'The main obstacle is cost' = limited by cost.", "evidence": "The main obstacle is cost." },
+          { "id": "q10", "kind": "gap", "qtype": "note-completion", "answers": ["heat"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Researchers breed from kelp that copes better with heat.", "evidence": "cope much better with heat" }
+        ]
+      }
+    ]
+  }
+]

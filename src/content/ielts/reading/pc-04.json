@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ielts-r-pc-04",
+    "difficulty": "hard",
+    "usage": "practice",
+    "passageNo": 3,
+    "title": "The Lost-Wax Method",
+    "subtitle": "How a disposable model became a permanent work of art",
+    "paragraphs": [
+      { "label": "A", "text": "Among the most admired objects to survive from the ancient world are metal statues, vessels and ornaments of extraordinary detail: the folds of a robe, the curls of a beard, the scales of a fish rendered in bronze. Many of them were made using a technique known as lost-wax casting, which has been practised in various parts of the world for at least six thousand years. It was not the only way of shaping metal in antiquity: simpler objects were often cast in open moulds of stone or hammered into shape. For complex forms, however, it had few rivals. What is remarkable is not only its age but its persistence. Although the materials have changed, the method is still used by sculptors, by jewellers and, in a modified form, by some of the most technologically advanced industries of the present day." },
+      { "label": "B", "text": "In its simplest form, the method begins with a model of the desired object made from beeswax, a material that can be carved and shaped easily at room temperature. The model is covered in several layers of fine clay, which are allowed to dry, and small channels are left through which liquid can enter and leave. When the clay-covered model is heated, the wax melts and runs out, the step that gives the technique its name, leaving a hollow mould whose inner surface preserves every detail of the original. Molten metal is poured into this cavity and allowed to cool. Finally, the clay is broken away to reveal the casting, which is then finished by filing and polishing. Because the mould has to be destroyed to release the object, and the wax model has already been lost, each model can be used only once, and every casting is, in this sense, unique." },
+      { "label": "C", "text": "Solid casting is practical only for small objects. A life-size statue cast in solid bronze would require enormous quantities of costly metal and would be likely to crack as the thick metal cooled unevenly. Larger works were therefore cast hollow. A core of clay was shaped roughly into the form of the figure and covered with a layer of wax only a few millimetres thick, into which the sculptor modelled the fine details. Metal pins pushed through the wax into the core held it in position once the wax had been melted out. Greek workshops of the fifth century BC made wide use of a further refinement, the indirect method, in which moulds were taken from a master model so that wax copies could be produced from them. The master itself therefore survived the process, and if a casting failed, the workshop could simply make another wax copy and try again. Even so, relatively few large ancient bronzes survive, since many were later melted down so that their metal could be reused." },
+      { "label": "D", "text": "Since the moulds were broken up after use, direct evidence of ancient casting is often scarce, and much of what is known comes from close examination of finished objects. X-ray images can reveal the remains of clay cores and the positions of the metal pins, while marks on the inner surfaces of hollow statues may show whether the wax was applied by hand or poured into a mould, a clue to whether the direct or indirect method was used. Fragments of moulds, crucibles and casting pits have also been excavated at a number of workshop sites. Experimental archaeologists have gone further, attempting to reproduce ancient objects using only the materials and tools available at the time. Such experiments have shown, among other things, that the temperature of the mould at the moment of pouring is critical: if it is too cold, the metal may solidify before it has filled the finer parts of the cavity." },
+      { "label": "E", "text": "The technique was by no means confined to the Mediterranean. In West Africa, the kingdom of Benin produced cast brass plaques and heads of great sophistication from at least the sixteenth century, while metalworkers at Igbo-Ukwu, in what is now Nigeria, had made intricate bronzes many centuries earlier. In South Asia, lost-wax casting has been used for religious images for more than a thousand years, and in some villages it is still practised by families who have handed down the skills through many generations. Modern foundries have replaced clay with ceramic shells and beeswax with synthetic waxes, and the process, now often called investment casting, is used in industry to manufacture components such as turbine blades for jet engines, where precision is essential. Yet the underlying principle, that a temporary model can be turned into a permanent object, remains unchanged." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-headings",
+        "instructions": "Questions 1–4\nReading Passage 3 has five paragraphs, A–E.\nChoose the correct heading for paragraphs B–E from the list of headings below.\nWrite the correct number, i–ix, in boxes 1–4 on your answer sheet.\n\nExample: Paragraph A – v",
+        "title": "List of Headings",
+        "options": [
+          { "key": "i", "text": "A sequence that ends with the mould being destroyed" },
+          { "key": "ii", "text": "How a single mould could be reused many times" },
+          { "key": "iii", "text": "Techniques that saved metal and allowed a second attempt" },
+          { "key": "iv", "text": "Why bronze became too expensive for large statues" },
+          { "key": "v", "text": "An ancient technique that is still in use" },
+          { "key": "vi", "text": "Piecing together the process from the clues that remain" },
+          { "key": "vii", "text": "The discovery of an undamaged ancient workshop" },
+          { "key": "viii", "text": "A practice found in many regions, with modern applications" },
+          { "key": "ix", "text": "A craft that now survives only in a few villages" }
+        ],
+        "items": [
+          { "id": "q1", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph B", "answer": "i",
+            "explanation": "Paragraph B describes the basic steps, ending with the clay being 'broken away'. Heading ii is the opposite: the mould 'has to be destroyed' and each model 'can be used only once'.",
+            "evidence": "Because the mould has to be destroyed to release the object" },
+          { "id": "q2", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph C", "answer": "iii",
+            "explanation": "Hollow casting saved metal, and the indirect method meant a failed casting could be repeated. Heading iv is a close distractor: the cost of metal is one reason for hollow casting, but nothing says bronze became 'too expensive' over time.",
+            "evidence": "if a casting failed, the workshop could simply make another wax copy and try again" },
+          { "id": "q3", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph D", "answer": "vi",
+            "explanation": "The paragraph explains how knowledge is rebuilt from finished objects, X-rays, fragments and experiments. Heading vii is wrong: only 'fragments' have been excavated, not an undamaged workshop.",
+            "evidence": "much of what is known comes from close examination of finished objects" },
+          { "id": "q4", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph E", "answer": "viii",
+            "explanation": "Paragraph E covers West Africa, South Asia and modern industry. Heading ix is a trap: villages are mentioned, but the method is also used in modern foundries and industry.",
+            "evidence": "The technique was by no means confined to the Mediterranean." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "tfng",
+        "instructions": "Questions 5–8\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 5–8 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          { "id": "q5", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Beeswax can only be shaped after it has been heated.", "answer": "FALSE",
+            "explanation": "Beeswax 'can be carved and shaped easily at room temperature', which contradicts 'only after it has been heated'.",
+            "evidence": "a material that can be carved and shaped easily at room temperature" },
+          { "id": "q6", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "The pins used in hollow casting were always made of the same metal as the statue.", "answer": "NOT GIVEN",
+            "explanation": "The passage says only 'metal pins'. It does not say which metal, so 'always the same metal as the statue' cannot be checked." },
+          { "id": "q7", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Everything that is known about ancient casting comes from studying finished objects.", "answer": "FALSE",
+            "explanation": "'Much' (not all) of the knowledge comes from finished objects; fragments of moulds and crucibles have 'also been excavated', and experiments add more. 'Everything' is contradicted.",
+            "evidence": "Fragments of moulds, crucibles and casting pits have also been excavated at a number of workshop sites." },
+          { "id": "q8", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Bronzes were made at Igbo-Ukwu before the Benin plaques were produced.", "answer": "TRUE",
+            "explanation": "Igbo-Ukwu metalworkers 'had made intricate bronzes many centuries earlier' than Benin's sixteenth-century work.",
+            "evidence": "had made intricate bronzes many centuries earlier" }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching-endings",
+        "instructions": "Questions 9–11\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 9–11 on your answer sheet.",
+        "options": [
+          { "key": "A", "text": "the metal might crack as it cooled." },
+          { "key": "B", "text": "each statue would then be unique." },
+          { "key": "C", "text": "a failed casting did not mean losing the original model." },
+          { "key": "D", "text": "the wax would not melt out of the clay." },
+          { "key": "E", "text": "may not be completely filled by the metal." },
+          { "key": "F", "text": "could not be examined with X-rays." }
+        ],
+        "items": [
+          { "id": "q9", "kind": "match", "qtype": "matching-endings", "prompt": "Large statues were not normally cast in solid bronze partly because", "answer": "A",
+            "explanation": "Solid casting of a large statue 'would be likely to crack as the thick metal cooled unevenly'. B is grammatically possible but describes the direct method, not a reason against solid casting.",
+            "evidence": "would be likely to crack as the thick metal cooled unevenly" },
+          { "id": "q10", "kind": "match", "qtype": "matching-endings", "prompt": "The indirect method benefited workshops because", "answer": "C",
+            "explanation": "The master model 'survived the process', so the workshop could make another wax copy and try again. B is the reverse: uniqueness is a feature of the direct method.",
+            "evidence": "The master itself therefore survived the process" },
+          { "id": "q11", "kind": "match", "qtype": "matching-endings", "prompt": "Experiments have shown that a mould which is too cold at the moment of pouring", "answer": "E",
+            "explanation": "If the mould is too cold, 'the metal may solidify before it has filled the finer parts of the cavity'. D sounds logical but refers to an earlier stage and is not stated.",
+            "evidence": "if it is too cold, the metal may solidify before it has filled the finer parts of the cavity" }
+        ]
+      },
+      {
+        "id": "g4",
+        "qtype": "flowchart-completion",
+        "instructions": "Questions 12–14\nComplete the flow-chart below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 12–14 on your answer sheet.",
+        "title": "Simple (direct) lost-wax casting",
+        "template": "A model of the object is made from {{q12}}\n↓\nThe model is covered in several layers of fine clay, leaving small channels\n↓\nThe clay-covered model is heated; the wax runs out and leaves a hollow {{q13}}\n↓\nMolten metal is poured in and allowed to cool\n↓\nThe clay is broken away and the object is finished by {{q14}} and polishing",
+        "items": [
+          { "id": "q12", "kind": "gap", "qtype": "flowchart-completion", "answers": ["beeswax", "wax"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The method 'begins with a model of the desired object made from beeswax'. 'Beeswax' is the exact word; 'wax' also refers to the same material in the passage.",
+            "evidence": "begins with a model of the desired object made from beeswax" },
+          { "id": "q13", "kind": "gap", "qtype": "flowchart-completion", "answers": ["mould", "mold"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The melted wax leaves 'a hollow mould'. ('Cavity' is used later for the same space but follows 'this', not 'hollow'.)",
+            "evidence": "leaving a hollow mould whose inner surface preserves every detail of the original" },
+          { "id": "q14", "kind": "gap", "qtype": "flowchart-completion", "answers": ["filing"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The casting 'is then finished by filing and polishing'.",
+            "evidence": "which is then finished by filing and polishing" }
+        ]
+      }
+    ]
+  }
+]

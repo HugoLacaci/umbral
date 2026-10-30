@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ielts-l-p1-07",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 1,
+    "title": "Applying for a residents' parking permit",
+    "context": "You will hear a woman phoning her local council to apply for a parking permit.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Neil", "role": "Council officer", "gender": "m", "accent": "en-GB" },
+        { "id": "b", "name": "Kate", "role": "Resident", "gender": "f", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Westfield Council parking services, Neil speaking. How can I help?" },
+        { "s": "b", "t": "Hi, I've just moved into the area and bought a car, and I need a residents' parking permit. I got a warning ticket yesterday, so I'd like to sort it out today if I can." },
+        { "s": "a", "t": "No problem, I can do the application over the phone. Can I start with your surname?" },
+        { "s": "b", "t": "It's Szymanski. S-Z-Y-M-A-N-S-K-I." },
+        { "s": "a", "t": "Let me read that back. S-Z-I-M..." },
+        { "s": "b", "t": "No, it's Y after the Z, not I. So S-Z-Y-M-A-N-S-K-I. And it ends in I." },
+        { "s": "a", "t": "Got it, sorry. First name?" },
+        { "s": "b", "t": "Kate." },
+        { "s": "a", "t": "And the address the permit is for?" },
+        { "s": "b", "t": "Flat 14, 22 Wellington Terrace. Oh, hang on, no. Flat 14 was my old flat on the other side of the road. I'm in Flat 40 now. Four zero." },
+        { "s": "a", "t": "Flat 40, 22 Wellington Terrace. Postcode?" },
+        { "s": "b", "t": "S-E-1-5, 4-R-J. Actually, no, sorry. It's 4-R-G. R-J is the building next door, the mail gets mixed up all the time." },
+        { "s": "a", "t": "SE15 4RG. And a daytime phone number?" },
+        { "s": "b", "t": "Well, there's a landline in the flat, but I'm never home during the day, so you'd better have my mobile. It's 0 7 9 4 6, 2 1 8, 0 3 5." },
+        { "s": "a", "t": "Now the vehicle. What make is it?" },
+        { "s": "b", "t": "It's a Mazda. I had a Honda back in Australia, so I keep wanting to say Honda. But it's definitely a Mazda." },
+        { "s": "a", "t": "And the colour?" },
+        { "s": "b", "t": "Black. Well, it looks black at night, but in daylight it's really dark blue, and that's what it says on the registration document, so you'd better put dark blue." },
+        { "s": "a", "t": "And the registration number?" },
+        { "s": "b", "t": "L-K-1-9, T-N-V. No, wait, I'm reading it off my insurance letter and the print is tiny. It's T-N-W, W for whisky. So L-K-1-9, T-N-W." },
+        { "s": "a", "t": "Thanks. Now, there are three types of permit. There's a quarterly permit, a six-month permit and an annual permit." },
+        { "s": "b", "t": "I suppose the annual one works out cheapest?" },
+        { "s": "a", "t": "It does, per month. But you did say you'd only just moved in. Is it a long-term rental?" },
+        { "s": "b", "t": "Not really. My contract ends in the summer and I might move to another part of London. So the annual one doesn't make sense. And quarterly sounds like a lot of paperwork. I'll take the six-month permit." },
+        { "s": "a", "t": "Right. The six-month permit is normally sixty-five pounds. But let me just check the car. Is it a hybrid by any chance?" },
+        { "s": "b", "t": "Yes, it is." },
+        { "s": "a", "t": "Then there's a twenty per cent discount for low-emission vehicles, so it comes down to fifty-two pounds." },
+        { "s": "b", "t": "Oh, that's good news. Can I pay by card now?" },
+        { "s": "a", "t": "You can, but first I need proof of your address. Most people send a copy of a utility bill." },
+        { "s": "b", "t": "I've got an electricity bill, but it's still in my flatmate's name." },
+        { "s": "a", "t": "Unfortunately, the bill has to be in your own name, so that won't do. Do you have anything else with the address on it?" },
+        { "s": "b", "t": "I've got my tenancy agreement. That was signed in January." },
+        { "s": "a", "t": "That's fine. Please email us a copy of your tenancy agreement, and once we've checked it, the permit will be valid from the next day. You'll get a digital permit, so there's nothing to display in the car." },
+        { "s": "b", "t": "Brilliant. I'll scan it as soon as I get home. Thanks so much for your help." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–10\nComplete the form below.\nWrite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+        "title": "Westfield Council – Residents' Parking Permit Application",
+        "template": "Surname: {{q1}}\nFirst name: Kate\nAddress: Flat {{q2}}, 22 Wellington Terrace\nPostcode: {{q3}}\nDaytime phone: {{q4}}\nVehicle make: {{q5}}\nColour: {{q6}}\nRegistration number: {{q7}}\nPermit type: {{q8}}\nFee: £{{q9}}\nProof of address: copy of {{q10}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Szymanski"], "maxWords": 2, "allowNumber": true,
+            "explanation": "She corrects the officer: it is Y after the Z, not I. S-Z-Y-M-A-N-S-K-I.", "evidence": "So S-Z-Y-M-A-N-S-K-I." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["40", "forty"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Flat 14 was her old flat; she now lives in Flat 40.", "evidence": "I'm in Flat 40 now. Four zero." },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["SE15 4RG", "SE154RG"], "maxWords": 2, "allowNumber": true,
+            "explanation": "She first says 4-R-J, then corrects it to 4-R-G (R-J is the building next door).", "evidence": "It's 4-R-G." },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["07946218035"], "maxWords": 2, "allowNumber": true,
+            "explanation": "She is never home during the day, so she gives her mobile, not the landline.", "evidence": "It's 0 7 9 4 6, 2 1 8, 0 3 5." },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["Mazda"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Honda was her old car in Australia; the new one is a Mazda.", "evidence": "But it's definitely a Mazda." },
+          { "id": "q6", "kind": "gap", "qtype": "form-completion", "answers": ["dark blue", "dark-blue"], "maxWords": 2, "allowNumber": true,
+            "explanation": "It looks black at night, but the registration document says dark blue.", "evidence": "so you'd better put dark blue" },
+          { "id": "q7", "kind": "gap", "qtype": "form-completion", "answers": ["LK19 TNW", "LK19TNW"], "maxWords": 2, "allowNumber": true,
+            "explanation": "She misreads T-N-V, then corrects it to T-N-W, 'W for whisky'.", "evidence": "So L-K-1-9, T-N-W." },
+          { "id": "q8", "kind": "gap", "qtype": "form-completion", "answers": ["six-month", "six month", "6-month", "6 month", "6 months", "six months"], "maxWords": 2, "allowNumber": true,
+            "explanation": "The annual permit doesn't make sense as she may move, and quarterly means too much paperwork.", "evidence": "I'll take the six-month permit." },
+          { "id": "q9", "kind": "gap", "qtype": "form-completion", "answers": ["52"], "maxWords": 2, "allowNumber": true,
+            "explanation": "The normal price is £65, but the 20% hybrid discount brings it down to £52.", "evidence": "so it comes down to fifty-two pounds" },
+          { "id": "q10", "kind": "gap", "qtype": "form-completion", "answers": ["tenancy agreement"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Her electricity bill is in her flatmate's name, which is not accepted, so she will send her tenancy agreement.", "evidence": "Please email us a copy of your tenancy agreement" }
+        ]
+      }
+    ]
+  }
+]

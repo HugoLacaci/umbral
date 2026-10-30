@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ielts-l-p1-08",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 1,
+    "title": "Booking a dog into boarding kennels",
+    "context": "You will hear a man phoning a boarding kennels to book a stay for his dog while he is away.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Jenny", "role": "Kennels owner", "gender": "f", "accent": "en-NZ" },
+        { "id": "b", "name": "Mark", "role": "Dog owner", "gender": "m", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good morning, Hillside Boarding Kennels, Jenny speaking." },
+        { "s": "b", "t": "Hi, Jenny. I'm going overseas for a family wedding next month, and I need somewhere for my dog to stay. A friend of mine recommended you." },
+        { "s": "a", "t": "Lovely. I'll take a few details first. What's your name?" },
+        { "s": "b", "t": "Mark Thibodeau. It's a French name, so the spelling is a bit unusual. T-H-I-B-O-D-E-A-U." },
+        { "s": "a", "t": "T-H-I-B-O-D-E-A-U. And your postcode, Mark?" },
+        { "s": "b", "t": "8 0 1 4. Sorry, no, I always mix up the last two. It's 8 0 4 1." },
+        { "s": "a", "t": "8 0 4 1. That's Riccarton, isn't it? And what's your dog called?" },
+        { "s": "b", "t": "We call her Juno, but her full name on the vet records is Juniper, so you'd better put Juniper, in case you need to call the vet." },
+        { "s": "a", "t": "Juniper. And what breed is she?" },
+        { "s": "b", "t": "She's a cross. Everyone thinks she's part collie because of her markings, but the rescue centre told us she's actually a Labrador cross." },
+        { "s": "a", "t": "And how old is she?" },
+        { "s": "b", "t": "She's six. Oh, no, wait, she had a birthday last month, so she's seven now." },
+        { "s": "a", "t": "And what dates do you need?" },
+        { "s": "b", "t": "I fly out on the 12th of April, and I was coming back on the 19th. But the airline changed my return flight yesterday, so I won't be back until the 21st. So from the 12th to the 21st, please." },
+        { "s": "a", "t": "That's fine, we have space. Now, we've got three types of accommodation. There's a standard kennel, which is an indoor pen. Then there's a kennel with its own garden run, so the dog can go in and out whenever it likes. And there's our luxury suite, which has a sofa and a webcam, so you can watch your dog from your phone." },
+        { "s": "b", "t": "The webcam sounds fun, but I'll be too busy at the wedding to look at it, and I imagine it's pretty expensive. Juniper's used to having a backyard, so I think she'd be miserable shut inside a standard kennel all day. I'll take the one with the garden run." },
+        { "s": "a", "t": "Good choice. That's forty-five dollars a night. The standard kennel would have been thirty-eight. Does she need any medication?" },
+        { "s": "b", "t": "Yes, she has tablets for her joints, one every morning." },
+        { "s": "a", "t": "That's no problem, but we do charge seven dollars a day for giving medication. So that makes it fifty-two dollars a night altogether." },
+        { "s": "b", "t": "Okay, that's fine. What should I bring when I drop her off? Should I bring her own food?" },
+        { "s": "a", "t": "No need. We feed all the dogs a high-quality dry food, and it's included in the price. Some owners like to bring the dog's bed, but please don't, because they nearly always get chewed. The one thing we must see is her vaccination certificate. We can't accept any dog without it, I'm afraid." },
+        { "s": "b", "t": "Right, I'll make sure I've got that. And will I be able to find out how she's doing while I'm away?" },
+        { "s": "a", "t": "Of course. We used to send owners a daily email, but a lot of people said they never saw them, and phone calls were tricky with people in different time zones. So now we send a photo by text every evening, just a picture of your dog and a quick note." },
+        { "s": "b", "t": "That's perfect. Thanks very much, Jenny." },
+        { "s": "a", "t": "You're welcome. We'll see you and Juniper on the 12th." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–6\nComplete the form below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Hillside Boarding Kennels – Booking form",
+        "template": "Owner: Mark {{q1}}\nPostcode: {{q2}}\nDog's name: {{q3}}\nBreed: {{q4}} cross\nAge: {{q5}} years\nDates: 12 April to {{q6}} April",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Thibodeau"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He spells it: T-H-I-B-O-D-E-A-U.", "evidence": "T-H-I-B-O-D-E-A-U." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["8041"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He first says 8 0 1 4, then corrects the last two digits: 8 0 4 1.", "evidence": "It's 8 0 4 1." },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["Juniper"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Juno is only her nickname; he asks Jenny to write Juniper, her name on the vet records.", "evidence": "so you'd better put Juniper" },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["Labrador"], "maxWords": 1, "allowNumber": true,
+            "explanation": "People think she is part collie, but she is a Labrador cross.", "evidence": "she's actually a Labrador cross" },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["7", "seven"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He says six, then remembers her birthday last month: seven.", "evidence": "so she's seven now" },
+          { "id": "q6", "kind": "gap", "qtype": "form-completion", "answers": ["21", "21st"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He was returning on the 19th, but the airline moved his flight to the 21st.", "evidence": "So from the 12th to the 21st, please." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 7–10\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q7", "kind": "mcq", "qtype": "mcq", "prompt": "Which type of accommodation does Mark choose?",
+            "options": ["a standard kennel", "a kennel with a garden run", "a luxury suite"], "answer": 1,
+            "explanation": "He rejects the suite (expensive, no time for the webcam) and the standard kennel (she is used to a backyard).",
+            "evidence": "I'll take the one with the garden run.",
+            "optionNotes": ["She would be miserable shut inside.", "Correct.", "Too expensive and he won't use the webcam."] },
+          { "id": "q8", "kind": "mcq", "qtype": "mcq", "prompt": "How much will Mark pay per night?",
+            "options": ["$38", "$45", "$52"], "answer": 2,
+            "explanation": "The garden run is $45, plus $7 a day for medication: $52.",
+            "evidence": "So that makes it fifty-two dollars a night altogether.",
+            "optionNotes": ["The price of a standard kennel.", "The price before the medication charge.", "Correct."] },
+          { "id": "q9", "kind": "mcq", "qtype": "mcq", "prompt": "What must Mark bring when he drops Juniper off?",
+            "options": ["her vaccination certificate", "her bed", "her usual food"], "answer": 0,
+            "explanation": "Food is supplied and beds get chewed, but no dog is accepted without its vaccination certificate.",
+            "evidence": "The one thing we must see is her vaccination certificate.",
+            "optionNotes": ["Correct.", "Jenny asks owners not to bring beds.", "The kennels supply food."] },
+          { "id": "q10", "kind": "mcq", "qtype": "mcq", "prompt": "How will the kennels keep Mark informed while he is away?",
+            "options": ["by a daily email", "by a phone call", "by a photo sent by text"], "answer": 2,
+            "explanation": "Emails were often missed and phone calls were difficult across time zones, so they now send a photo by text.",
+            "evidence": "So now we send a photo by text every evening",
+            "optionNotes": ["The old system.", "Tricky with different time zones.", "Correct."] }
+        ]
+      }
+    ]
+  }
+]

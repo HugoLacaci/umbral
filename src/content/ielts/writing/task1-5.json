@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "ielts-t1-m3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "chartType": "mixed",
+    "prompt": "The graph below shows sales of two types of new electric car in Norland between 2016 and 2024. The table shows the number of public charging points, the average range and the average price of a new electric car in three of those years.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "mixed",
+      "title": "Electric cars in Norland, 2016–2024",
+      "visuals": [
+        {
+          "type": "line",
+          "title": "Sales of new electric cars, 2016–2024",
+          "xLabel": "Year",
+          "yLabel": "Cars sold (thousands)",
+          "unit": "thousand",
+          "categories": [
+            "2016",
+            "2018",
+            "2020",
+            "2022",
+            "2024"
+          ],
+          "series": [
+            {
+              "name": "Battery electric",
+              "values": [
+                4,
+                9,
+                21,
+                48,
+                76
+              ]
+            },
+            {
+              "name": "Plug-in hybrid",
+              "values": [
+                6,
+                12,
+                19,
+                22,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Charging points, range and price",
+          "columns": [
+            "Year",
+            "Public charging points",
+            "Average range of a new electric car (km)",
+            "Average price of a new electric car (€)"
+          ],
+          "rows": [
+            [
+              "2016",
+              1200,
+              160,
+              38500
+            ],
+            [
+              "2020",
+              4800,
+              290,
+              34000
+            ],
+            [
+              "2024",
+              15600,
+              420,
+              31200
+            ]
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: the electric car market grew strongly; battery electric cars overtook plug-in hybrids (by 2020) and came to dominate sales.",
+      "Battery electric sales rose from 4,000 to 76,000; hybrids peaked at 22,000 in 2022 and fell to 17,000 in 2024.",
+      "Charging points rose thirteen-fold (1,200 to 15,600) and average range more than doubled (160 to 420 km).",
+      "The average price fell from €38,500 to €31,200 (about 19%).",
+      "Link the two visuals: sales growth coincided with better infrastructure, longer range and lower prices."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The line graph compares sales of two types of electric car in Norland between 2016 and 2024, while the table provides figures for public charging points, average range and average price in three of those years.\n\nOverall, the electric car market expanded rapidly over the period, with fully battery-powered models overtaking plug-in hybrids and eventually dominating sales. This growth coincided with a dramatic increase in charging infrastructure, longer ranges and falling prices.\n\nIn 2016, plug-in hybrids were the more popular option, with 6,000 sold compared with just 4,000 battery electric cars. Both types grew steadily over the next two years, but by 2020 battery electric sales (21,000) had narrowly overtaken those of hybrids (19,000). From then on, the two lines diverged sharply: battery electric sales more than tripled to reach 76,000 in 2024, whereas hybrid sales peaked at 22,000 in 2022 before slipping to 17,000.\n\nThe table shows that the number of public charging points rose thirteen-fold, from 1,200 in 2016 to 15,600 in 2024. Over the same period, the average range of a new electric car more than doubled from 160 to 420 kilometres, while the average price fell by around 19%, from €38,500 to €31,200.",
+        "commentary": "Task Achievement (8): el overview relaciona los dos visuales (el crecimiento de las ventas coincide con más puntos de carga, más autonomía y precios más bajos), que es lo que se pide en una tarea mixta. Selecciona bien: destaca el cruce de las dos líneas y el pico de los híbridos en 2022. Cálculos correctos: 15.600 ÷ 1.200 = 13 (thirteen-fold); 76 ÷ 21 ≈ 3,6 (more than tripled); 7.300 ÷ 38.500 ≈ 19 %. Coherence & Cohesion (8): un párrafo por visual y transiciones claras (From then on, Over the same period). Lexical Resource (8): coincided with, diverged sharply, narrowly overtaken, slipping, thirteen-fold. Grammatical Range & Accuracy (8): pasado perfecto (had overtaken) bien usado con by 2020, participios y comparaciones sin errores."
+      },
+      {
+        "level": "7",
+        "text": "The line graph shows how many battery electric cars and plug-in hybrids were sold in Norland from 2016 to 2024. The table gives information about charging points, range and prices in 2016, 2020 and 2024.\n\nOverall, sales of both types of electric car increased, but battery electric cars grew much faster and became far more popular than hybrids. At the same time, the number of charging points and the average range increased considerably, while prices went down.\n\nAt the beginning of the period, 6,000 plug-in hybrids were sold, slightly more than the 4,000 battery electric cars. However, battery electric sales rose quickly and had overtaken hybrids by 2020, when they reached 21,000. After that, they continued to climb dramatically to 76,000 in 2024. Hybrid sales, on the other hand, rose to a peak of 22,000 in 2022 and then fell to 17,000.\n\nAccording to the table, there were only 1,200 public charging points in 2016, but this number increased to 4,800 in 2020 and 15,600 in 2024. The average range also improved, from 160 km to 420 km. In contrast, the average price decreased from €38,500 to €34,000 and then to €31,200.",
+        "commentary": "Task Achievement (7): overview claro y datos exactos, incluido el cruce de las líneas y el pico de los híbridos. Sin embargo, la tabla se describe cifra a cifra sin interpretar el cambio (no dice que los puntos de carga se multiplicaron por trece ni que la autonomía se duplicó), y el overview no conecta del todo las ventas con los factores de la tabla. Coherence & Cohesion (7): buena organización; conectores correctos pero previsibles (However, on the other hand, In contrast). Lexical Resource (7): variedad suficiente (overtaken, climb dramatically, peak), con alguna repetición de increased. Grammatical Range & Accuracy (7): estructuras variadas y casi sin errores. Para subir a 8: expresar los cambios de la tabla con proporciones (thirteen-fold, more than doubled) y unir explícitamente los dos visuales en el overview."
+      },
+      {
+        "level": "6",
+        "text": "The graph shows the sales of electric cars in Norland between 2016 and 2024 and the table shows charging points, range and price.\n\nIn 2016 the sales of plug-in hybrids were 6,000 and battery electric cars were 4,000. In 2018 hybrids were 12,000 and battery electric were 9,000. Then battery electric cars increased very much and in 2024 they were 76,000. The hybrids increased until 2022 to 22,000 but after they decreased to 17,000.\n\nIn the table we can see that the charging points increased a lot, from 1,200 to 15,600. The range of the cars is also bigger, from 160 km to 420 km. The price of the cars decreased from €38,500 to €31,200, so the cars are more cheap.\n\nIn conclusion, battery electric cars are the most popular and there are more charging points and the cars are cheaper and have more range.",
+        "commentary": "Task Achievement (6): con unas 145 palabras no llega al mínimo de 150, lo que por sí solo ya penaliza este criterio. Además, los datos son correctos y aparecen los rasgos principales, pero el overview sólo llega al final y es una lista de hechos; no menciona en qué momento los eléctricos superan a los híbridos (lo omite: salta de 2018 a 2024). Coherence & Cohesion (6): organización por visual aceptable, pero encadena con and… and… y usa after en lugar de afterwards. Lexical Resource (6): limitado (increased very much, a lot, is bigger) y errores de colocación: the hybrids increased (hybrid sales increased). Grammatical Range & Accuracy (6): mezcla presente y pasado para datos ya ocurridos, more cheap en lugar de cheaper y pocas oraciones complejas. Para subir a 7: overview al principio, mencionar el cruce de 2020 y usar sales of X rose to en lugar de X were."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-m4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "chartType": "map",
+    "prompt": "The maps below show the area around Northgate railway station in 2000 and 2025.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "map",
+      "title": "Northgate railway station and surrounding area, 2000 and 2025",
+      "maps": [
+        {
+          "title": "2000",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              {
+                "kind": "road",
+                "x": 0,
+                "y": 30,
+                "w": 600,
+                "h": 30,
+                "label": "Station Road"
+              },
+              {
+                "kind": "building",
+                "x": 30,
+                "y": 80,
+                "w": 100,
+                "h": 70,
+                "label": "Post office"
+              },
+              {
+                "kind": "building",
+                "x": 140,
+                "y": 80,
+                "w": 90,
+                "h": 70,
+                "label": "Shops"
+              },
+              {
+                "kind": "building",
+                "x": 245,
+                "y": 100,
+                "w": 110,
+                "h": 65,
+                "label": "Station building"
+              },
+              {
+                "kind": "parking",
+                "x": 380,
+                "y": 80,
+                "w": 190,
+                "h": 85,
+                "label": "Car park"
+              },
+              {
+                "kind": "path",
+                "x": 0,
+                "y": 180,
+                "w": 600,
+                "h": 18,
+                "label": "Railway line"
+              },
+              {
+                "kind": "building",
+                "x": 30,
+                "y": 220,
+                "w": 220,
+                "h": 120,
+                "label": "Warehouse"
+              },
+              {
+                "kind": "field",
+                "x": 270,
+                "y": 220,
+                "w": 150,
+                "h": 120,
+                "label": "Waste ground"
+              },
+              {
+                "kind": "trees",
+                "x": 440,
+                "y": 220,
+                "w": 140,
+                "h": 120,
+                "label": "Woodland"
+              },
+              {
+                "kind": "road",
+                "x": 0,
+                "y": 355,
+                "w": 600,
+                "h": 28,
+                "label": "Mill Lane"
+              }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        },
+        {
+          "title": "2025",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              {
+                "kind": "road",
+                "x": 0,
+                "y": 30,
+                "w": 600,
+                "h": 30,
+                "label": "Station Road"
+              },
+              {
+                "kind": "building",
+                "x": 30,
+                "y": 80,
+                "w": 100,
+                "h": 70,
+                "label": "Café"
+              },
+              {
+                "kind": "building",
+                "x": 140,
+                "y": 80,
+                "w": 90,
+                "h": 70,
+                "label": "Shops"
+              },
+              {
+                "kind": "building",
+                "x": 240,
+                "y": 95,
+                "w": 150,
+                "h": 70,
+                "label": "Station building (extended)"
+              },
+              {
+                "kind": "parking",
+                "x": 400,
+                "y": 80,
+                "w": 60,
+                "h": 85,
+                "label": "Bicycle parking"
+              },
+              {
+                "kind": "building",
+                "x": 470,
+                "y": 80,
+                "w": 100,
+                "h": 85,
+                "label": "Bus station"
+              },
+              {
+                "kind": "path",
+                "x": 0,
+                "y": 180,
+                "w": 600,
+                "h": 18,
+                "label": "Railway line"
+              },
+              {
+                "kind": "path",
+                "x": 305,
+                "y": 165,
+                "w": 16,
+                "h": 55,
+                "label": "Footbridge"
+              },
+              {
+                "kind": "building",
+                "x": 30,
+                "y": 220,
+                "w": 220,
+                "h": 120,
+                "label": "Apartments"
+              },
+              {
+                "kind": "building",
+                "x": 270,
+                "y": 225,
+                "w": 150,
+                "h": 110,
+                "label": "Office block"
+              },
+              {
+                "kind": "parking",
+                "x": 440,
+                "y": 220,
+                "w": 70,
+                "h": 120,
+                "label": "Car park"
+              },
+              {
+                "kind": "trees",
+                "x": 520,
+                "y": 220,
+                "w": 60,
+                "h": 120,
+                "label": "Woodland"
+              },
+              {
+                "kind": "road",
+                "x": 0,
+                "y": 355,
+                "w": 600,
+                "h": 28,
+                "label": "Mill Lane"
+              }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: the area became a transport hub with better links across the railway; the south side was almost completely redeveloped.",
+      "North side: station building extended; the car park was replaced by bicycle parking and a bus station; the post office became a café.",
+      "A footbridge was built across the railway, giving access from the south.",
+      "South side: warehouse → apartments; waste ground → office block; part of the woodland → a smaller car park.",
+      "Unchanged: Station Road, the shops, the railway line and Mill Lane."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The maps illustrate how the area around Northgate railway station changed between 2000 and 2025.\n\nOverall, the area was transformed into a more integrated transport hub, with a new link between the two sides of the railway and a shift away from car use next to the station. The land south of the tracks, which was largely industrial or unused in 2000, was redeveloped almost entirely.\n\nIn 2000, Station Road ran along the northern edge of the area, and the station building stood just north of the railway line, with a post office and a row of shops to the west and a large car park to the east. South of the line lay a warehouse, an area of waste ground and some woodland, bordered by Mill Lane, but there was no direct access to the station from this side.\n\nBy 2025, the station building had been extended, and the car park beside it had been replaced by bicycle parking and a bus station, while the post office had been converted into a café. A footbridge had been built across the railway, linking the station to the south side, where the warehouse had made way for apartments and an office block occupied the former waste ground. A smaller car park had also been created on part of the woodland, which had shrunk considerably as a result. Only the shops, the two roads and the railway itself remained unchanged.",
+        "commentary": "Task Achievement (8): overview excelente, que interpreta los cambios (centro de transporte, conexión entre los dos lados, menos espacio para el coche junto a la estación) en lugar de enumerarlos. Recoge todos los cambios y lo que no cambia. Coherence & Cohesion (8): primero el estado de 2000 y luego los cambios, organizados de norte a sur; referencias claras (this side, the former waste ground, as a result). Lexical Resource (8): léxico propio de mapas: bordered by, made way for, converted into, redeveloped, shrunk considerably. Grammatical Range & Accuracy (8): pasado perfecto pasivo preciso con By 2025, inversión (South of the line lay…) y relativas sin errores."
+      },
+      {
+        "level": "7",
+        "text": "The two maps show the area around Northgate railway station in 2000 and in 2025.\n\nOverall, the area changed considerably, especially to the south of the railway, where almost everything was redeveloped. In addition, the station became easier to reach by public transport, bicycle and on foot.\n\nIn 2000, the station building was located north of the railway line. To its west there were a post office and some shops, and to its east there was a large car park. Station Road ran along the top of the map. South of the railway, there was a warehouse, some waste ground and a wood, and Mill Lane ran along the bottom.\n\nIn 2025, the station building was bigger, and the large car park had been replaced by a bus station and an area for parking bicycles. The post office had become a café, but the shops were still there. The most important change was a new footbridge over the railway. On the southern side, apartments were built where the warehouse used to be, and an office block was built on the waste ground. Furthermore, part of the woodland was cleared to make a new car park, so the wood was much smaller.",
+        "commentary": "Task Achievement (7): todos los cambios aparecen y el overview es adecuado, aunque algo general (no menciona que antes no había acceso desde el sur, lo que explica la importancia de la pasarela). Coherence & Cohesion (7): estructura antes/después clara. Usa top/bottom of the map en lugar de puntos cardinales en dos ocasiones. Lexical Resource (7): vocabulario suficiente (was located, had been replaced, cleared, where the warehouse used to be), con alguna expresión simple (bigger, still there). Grammatical Range & Accuracy (7): buena variedad, aunque alterna pasado simple y pasado perfecto sin un criterio claro (had been replaced / were built). Para subir a 8: un overview más interpretativo y el pasado perfecto de forma consistente para el estado de 2025."
+      },
+      {
+        "level": "6",
+        "text": "The maps shows the station of Northgate and the area around it in 2000 and 2025. There are many changes.\n\nIn 2000 there was a station with a post office and shops on the left and a big car park on the right. Below the railway there was a warehouse, a waste ground and a woodland. There were two roads, Station Road and Mill Lane.\n\nIn 2025 the station is bigger. The car park is now a bus station and a bicycle parking. The post office is a café now. There is a footbridge for cross the railway. Below the railway the warehouse is now apartments and there is an office block in the waste ground. Also there is a new car park and the woodland is more small.\n\nIn conclusion, the area is more modern in 2025 and there are more buildings.",
+        "commentary": "Task Achievement (6): con unas 143 palabras no llega al mínimo de 150, lo que por sí solo ya penaliza este criterio. Además, menciona casi todos los cambios, pero el overview final es vago (more modern, more buildings) y no capta lo esencial (la conexión entre los dos lados y la remodelación del sur). Ubica con left/right/below en lugar de north/south/east/west. Coherence & Cohesion (6): organización antes/después lógica pero con frases sueltas y Also repetido. Lexical Resource (6): básico y con errores: a bicycle parking (bicycle parking, incontable), for cross (to cross), more small (smaller), in the waste ground (on). Grammatical Range & Accuracy (6): el presente (is now) en lugar de pasivas en pasado (had been converted), concordancia (The maps shows) y pocas oraciones complejas. Para subir a 7: overview al principio, puntos cardinales y pasivas en pasado."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-hard-1",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "mixed",
+    "prompt": "The table below shows average annual energy consumption per household in Oskaria, by purpose, in 1990, 2005 and 2020. The pie charts show the sources of household energy in 1990 and 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "mixed",
+      "title": "Household energy in Oskaria, 1990–2020",
+      "visuals": [
+        {
+          "type": "table",
+          "title": "Average annual energy consumption per household (kWh)",
+          "columns": [
+            "Purpose",
+            "1990",
+            "2005",
+            "2020"
+          ],
+          "rows": [
+            [
+              "Space heating",
+              9800,
+              8100,
+              6200
+            ],
+            [
+              "Water heating",
+              3100,
+              2900,
+              2600
+            ],
+            [
+              "Cooking",
+              900,
+              800,
+              700
+            ],
+            [
+              "Lighting",
+              1100,
+              900,
+              400
+            ],
+            [
+              "Appliances and electronics",
+              1500,
+              2600,
+              3400
+            ],
+            [
+              "Total",
+              16400,
+              15300,
+              13300
+            ]
+          ]
+        },
+        {
+          "type": "pie",
+          "title": "Sources of household energy",
+          "unit": "%",
+          "pies": [
+            {
+              "title": "1990",
+              "slices": [
+                {
+                  "label": "Natural gas",
+                  "value": 38
+                },
+                {
+                  "label": "Heating oil",
+                  "value": 30
+                },
+                {
+                  "label": "Electricity",
+                  "value": 21
+                },
+                {
+                  "label": "Wood and biomass",
+                  "value": 11
+                },
+                {
+                  "label": "Solar",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "title": "2020",
+              "slices": [
+                {
+                  "label": "Natural gas",
+                  "value": 41
+                },
+                {
+                  "label": "Heating oil",
+                  "value": 9
+                },
+                {
+                  "label": "Electricity",
+                  "value": 33
+                },
+                {
+                  "label": "Wood and biomass",
+                  "value": 11
+                },
+                {
+                  "label": "Solar",
+                  "value": 6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: total consumption per household fell (16,400 → 13,300 kWh), and the energy mix shifted from heating oil towards electricity and solar.",
+      "Space heating was always the largest use but fell from 9,800 to 6,200 kWh (from about 60% of the total to under half).",
+      "Appliances and electronics was the only use that grew: 1,500 → 3,400 kWh (more than doubled). Lighting fell most sharply in relative terms (1,100 → 400).",
+      "Heating oil collapsed from 30% to 9%; electricity rose from 21% to 33%; gas remained the main source (38% → 41%); wood unchanged at 11%; solar appeared (6%)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The table shows how much energy an average household in Oskaria consumed for five purposes in 1990, 2005 and 2020, and the pie charts compare the sources of that energy in the first and last years.\n\nOverall, households used noticeably less energy in 2020 than in 1990, mainly because of a steady decline in heating, even though appliances and electronics consumed far more. At the same time, the energy mix moved away from heating oil towards electricity and, to a lesser extent, solar power.\n\nTotal consumption per household fell from 16,400 kWh to 13,300 kWh, a drop of almost a fifth. Space heating remained by far the largest use throughout, but it declined from 9,800 kWh, roughly 60% of the total, to 6,200 kWh, which was less than half. Water heating and cooking also fell slightly, while lighting saw the sharpest proportional decrease, from 1,100 kWh to only 400 kWh. The one clear exception was appliances and electronics, whose consumption more than doubled from 1,500 kWh to 3,400 kWh.\n\nAs for sources, natural gas was the main fuel in both years, its share edging up from 38% to 41%. The most striking change was the collapse of heating oil, from 30% to just 9%, while electricity rose from about a fifth of household energy to a third (21% to 33%). Wood and biomass held steady at 11%, and solar energy, absent in 1990, accounted for 6% by 2020.",
+        "commentary": "Task Achievement (8): overview muy completo que une las dos fuentes de información (menos consumo total + cambio en el mix energético) y explica la causa principal del descenso. Selección inteligente: en una tabla con 18 cifras no las repite todas, sino que destaca el total, la calefacción, la iluminación (mayor caída relativa) y la única excepción (electrodomésticos). Cálculos correctos: 3.100 ÷ 16.400 ≈ 19 % (almost a fifth); 9.800 ÷ 16.400 ≈ 60 %; 6.200 ÷ 13.300 ≈ 47 % (less than half). Coherence & Cohesion (8): un párrafo por visual, con As for sources como transición. Lexical Resource (8): edging up, collapse, held steady, proportional decrease, accounted for. Grammatical Range & Accuracy (8): cláusulas absolutas (its share edging up…), relativas con whose y which, sin errores."
+      },
+      {
+        "level": "7",
+        "text": "The table illustrates average household energy use in Oskaria for different purposes in 1990, 2005 and 2020, while the two pie charts show where this energy came from in 1990 and 2020.\n\nOverall, the total amount of energy used by each household decreased over the 30 years, and heating oil was largely replaced by electricity and solar energy.\n\nIn 1990, households used 16,400 kWh of energy, and this figure fell to 15,300 kWh in 2005 and 13,300 kWh in 2020. Space heating accounted for the largest amount in all three years, although it went down from 9,800 kWh to 6,200 kWh. Consumption for water heating, cooking and lighting also decreased, with lighting dropping from 1,100 kWh to 400 kWh. In contrast, the energy used by appliances and electronics increased significantly, from 1,500 kWh to 3,400 kWh.\n\nLooking at the pie charts, natural gas was the most important source in both years, rising slightly from 38% to 41%. Heating oil fell dramatically from 30% to 9%, whereas electricity grew from 21% to 33%. Wood and biomass stayed the same at 11%, and solar power, which was not used in 1990, made up 6% in 2020.",
+        "commentary": "Task Achievement (7): overview claro con las dos tendencias principales y datos correctos. Le falta algo de interpretación: no relaciona el descenso total con la calefacción ni destaca la caída relativa de la iluminación o que los electrodomésticos fueron la única categoría que creció. Coherence & Cohesion (7): bien organizado por visual; conectores adecuados (In contrast, whereas, Looking at). Lexical Resource (7): accounted for, made up, increased significantly, fell dramatically; algo repetitivo con decreased/went down. Grammatical Range & Accuracy (7): relativas y comparaciones correctas, sin errores importantes. Para subir a 8: expresar cambios como proporciones (almost a fifth, more than doubled) y explicar en el overview por qué baja el total."
+      },
+      {
+        "level": "6",
+        "text": "The table shows the energy that households in Oskaria use for different things and the pie charts show the sources of energy in 1990 and 2020.\n\nIn the table, space heating is the biggest. In 1990 it was 9,800 kWh, in 2005 it was 8,100 kWh and in 2020 it was 6,200 kWh. Water heating was 3,100, 2,900 and 2,600. Cooking and lighting also decreased. But appliances and electronics increased from 1,500 to 3,400. The total decreased from 16,400 to 13,300.\n\nIn the pie charts, natural gas was 38% in 1990 and 41% in 2020. Heating oil decreased a lot, from 30% to 9%. Electricity increased from 21% to 33%. Wood and biomass was 11% in both years and solar was 0% but in 2020 it was 6%.\n\nTo sum up, households use less energy now and they use more electricity and less oil.",
+        "commentary": "Task Achievement (6): con unas 144 palabras no llega al mínimo de 150, lo que por sí solo ya penaliza este criterio. Además, presenta los datos clave de ambos visuales y añade una conclusión que funciona como overview, pero muy breve y al final. Copia muchas cifras de la tabla sin seleccionar (todas las de calefacción y agua) y omite unidades en varias (3,100, 2,900…). Coherence & Cohesion (6): estructura lógica, pero frases cortas y yuxtapuestas. Lexical Resource (6): repetición constante de increased/decreased y expresiones vagas (different things, the biggest). Grammatical Range & Accuracy (6): mezcla presente y pasado (households use… now) y casi todas las oraciones son simples. Para subir a 7: overview al principio, seleccionar en lugar de copiar la tabla y variar verbos (rose, fell, accounted for)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-hard-2",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "table",
+    "prompt": "The table below shows the percentage of adults in different age groups in Calderia who used five sources of news in 2024. Respondents could choose more than one source.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "table",
+      "title": "Sources of news used by adults in Calderia, by age group, 2024 (%)",
+      "columns": [
+        "Age group",
+        "Television",
+        "News websites and apps",
+        "Social media",
+        "Print newspapers",
+        "Radio"
+      ],
+      "rows": [
+        [
+          "16–24",
+          38,
+          41,
+          79,
+          6,
+          18
+        ],
+        [
+          "25–34",
+          45,
+          52,
+          68,
+          9,
+          27
+        ],
+        [
+          "35–44",
+          56,
+          55,
+          54,
+          14,
+          35
+        ],
+        [
+          "45–54",
+          67,
+          49,
+          41,
+          22,
+          40
+        ],
+        [
+          "55–64",
+          76,
+          40,
+          30,
+          33,
+          42
+        ],
+        [
+          "65 and over",
+          84,
+          27,
+          19,
+          45,
+          39
+        ]
+      ]
+    },
+    "keyFeatures": [
+      "Overview: clear generational divide — social media dominated among the young; television (and print) dominated among older adults.",
+      "Television rose steadily with age (38% → 84%) and print rose from 6% to 45%; social media fell steadily from 79% to 19%.",
+      "TV and social media were almost level in the 35–44 group (56% vs 54%).",
+      "News websites and apps peaked in the middle (55% among 35–44s); radio peaked among 55–64s (42%).",
+      "Print newspapers were the least used source in every age group under 55; among the over-65s, social media (19%) and websites (27%) were the least used."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The table compares the proportion of adults in six age groups in Calderia who obtained news from five different sources in 2024.\n\nOverall, there was a pronounced generational divide: social media was the dominant source for younger adults, whereas television, and to a lesser extent print newspapers, were favoured by older people. Online news sites and radio were most popular among middle-aged groups.\n\nThe use of social media declined steadily with age. It was by far the most common source among 16 to 24-year-olds, at 79%, but its share fell in every successive group to just 19% of those aged 65 and over. Television followed the opposite pattern, climbing from 38% of the youngest adults to 84% of the oldest, and the two sources were almost level among people aged 35 to 44, at 56% and 54% respectively. Print newspapers showed a similar upward trend to television, although from a much lower base: only 6% of the youngest group read them, compared with 45% of the over-65s.\n\nNews websites and apps, by contrast, peaked in the middle of the age range, reaching 55% among 35 to 44-year-olds before falling to 27% in the oldest group. Radio was also most popular with middle-aged and older listeners, rising from 18% of the youngest adults to a high of 42% among those aged 55 to 64 and then dipping slightly to 39%.",
+        "commentary": "Task Achievement (8): con 30 cifras, el modelo agrupa las fuentes por patrón (bajan con la edad, suben con la edad, pico en la mitad) en lugar de recorrer la tabla fila a fila; esa es la clave de las tablas difíciles. Señala el punto de cruce (TV y redes casi iguales en 35–44) y todos los extremos. Datos exactos. Coherence & Cohesion (8): párrafos organizados por tendencia, no por grupo de edad; referencias claras (the opposite pattern, a similar upward trend, by contrast). Lexical Resource (8): pronounced generational divide, successive, from a much lower base, dipping slightly. Grammatical Range & Accuracy (8): comparativos complejos, respectively, participios y relativas sin errores."
+      },
+      {
+        "level": "7",
+        "text": "The table gives information about how many adults of different ages in Calderia used television, news websites and apps, social media, print newspapers and radio to get news in 2024.\n\nOverall, young people mainly used social media, while older people preferred television. Print newspapers were the least popular source for most age groups.\n\nSocial media was the most popular source for the youngest group, at 79%, and it was also the most common for those aged 25 to 34, at 68%. However, the figure fell as age increased, and only 19% of people aged 65 and over used it. Television showed the opposite trend. Just 38% of 16 to 24-year-olds watched the news on TV, but this rose to 84% of the oldest group. Similarly, the percentage reading print newspapers increased from 6% to 45%.\n\nNews websites and apps were used by around half of people aged 25 to 54, with the highest figure of 55% among 35 to 44-year-olds, while only 27% of the oldest group used them. Radio was less popular than television in every group, but its use increased with age until 55 to 64, where it reached 42%, before falling slightly to 39%.",
+        "commentary": "Task Achievement (7): overview correcto y agrupación por tendencia acertada. Sin embargo, la segunda frase del overview es engañosa: es cierta para los menores de 55, pero oculta que entre los mayores de 65 la prensa es la segunda fuente más usada (45 %), un rasgo clave de la tabla y no menciona el punto en que TV y redes se igualan (35–44). Coherence & Cohesion (7): progresión clara; Similarly y the opposite trend bien usados. Lexical Resource (7): adecuado, aunque repite used y popular. Grammatical Range & Accuracy (7): buena variedad (as age increased, before falling), sin errores relevantes. Para subir a 8: comprobar que cada afirmación del overview es cierta para todos los grupos y señalar el punto de cruce."
+      },
+      {
+        "level": "6",
+        "text": "The table shows the sources of news that people use in Calderia in 2024 for different ages.\n\nFor the people of 16–24, the most popular is social media with 79%, then websites with 41% and television with 38%. Radio is 18% and newspapers only 6%. For the people of 25–34 social media is also the first with 68%.\n\nFor the people of 35–44 television is 56% and websites 55% and social media 54%, so they are very similar. The websites are more popular in the middle ages and less popular for the young and the old people. For 45–54 and 55–64 the television is the most popular, with 67% and 76%. For the people of 65 and over the television is 84%, newspapers 45% and radio 39%, but social media is only 19%. Print newspapers are not very popular for the young people, only 6% and 9%, but they are more popular for the old people.\n\nIn conclusion, young people use more social media and old people use more television and newspapers.",
+        "commentary": "Task Achievement (6): los datos son correctos y la conclusión recoge la idea principal, pero el informe recorre la tabla grupo por grupo, sin describir tendencias (no dice que las redes bajan de forma constante con la edad ni que la radio y las webs tienen un pico intermedio). Coherence & Cohesion (6): organización mecánica y repetitiva (For the people of…). Lexical Resource (6): muy limitado (is, the most popular, the first) y errores como the people of 16–24 (people aged 16 to 24). Grammatical Range & Accuracy (6): presente para datos de 2024, oraciones simples encadenadas. Para subir a 7: overview al principio, organizar por fuente/tendencia y usar estructuras como rose from… to… among."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-hard-3",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "process",
+    "prompt": "The diagram below shows how river water is treated to produce drinking water, and how waste water is treated before being returned to the river.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "process",
+      "title": "Drinking water supply and waste water treatment",
+      "cyclic": true,
+      "steps": [
+        {
+          "label": "Stage 1 – Intake",
+          "detail": "river water pumped through screens that remove leaves, branches and litter"
+        },
+        {
+          "label": "Coagulation",
+          "detail": "chemicals added; tiny particles stick together to form larger clumps"
+        },
+        {
+          "label": "Sedimentation",
+          "detail": "clumps sink to the bottom of a settling tank over 4–6 hours"
+        },
+        {
+          "label": "Filtration",
+          "detail": "water passes through layers of sand and gravel"
+        },
+        {
+          "label": "Disinfection",
+          "detail": "chlorine added to kill bacteria"
+        },
+        {
+          "label": "Storage and supply",
+          "detail": "stored in a covered reservoir, then piped to homes and businesses"
+        },
+        {
+          "label": "Stage 2 – Sewers",
+          "detail": "used water from homes and businesses carried to the treatment works"
+        },
+        {
+          "label": "Primary treatment",
+          "detail": "solids settle in large tanks and are removed as sludge"
+        },
+        {
+          "label": "Branch: sludge",
+          "detail": "sludge either dried and spread on farmland as fertiliser OR burned to generate electricity"
+        },
+        {
+          "label": "Secondary treatment",
+          "detail": "liquid aerated; bacteria break down remaining organic matter"
+        },
+        {
+          "label": "Release",
+          "detail": "treated water returned to the river downstream of the intake"
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: two stages (drinking water treatment, then waste water treatment) forming a cycle that begins and ends at the river.",
+      "Stage 1: intake/screening → coagulation → sedimentation → filtration → chlorine disinfection → storage and supply (6 steps).",
+      "Stage 2: sewers → primary treatment (sludge removed) → secondary treatment with bacteria → release downstream.",
+      "The branch: sludge is either dried and used as fertiliser or burned to generate electricity."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The diagram illustrates how water taken from a river is made safe to drink and, after use, treated again before being returned to the same river.\n\nOverall, the process consists of two main stages, the purification of drinking water and the treatment of waste water, which together form a cycle beginning and ending at the river. A by-product, sludge, is separated during the second stage and can be used in one of two ways.\n\nIn the first stage, river water is pumped through screens that remove large debris such as leaves and litter. Chemicals are then added so that tiny particles stick together into larger clumps, which sink to the bottom of a settling tank over a period of four to six hours. The water subsequently passes through layers of sand and gravel and is disinfected with chlorine to kill bacteria, after which it is stored in a covered reservoir and piped to homes and businesses.\n\nOnce it has been used, the water is carried through sewers to a treatment works. There, solids settle in large tanks and are removed as sludge, which is either dried and spread on farmland as fertiliser or burned to generate electricity. Meanwhile, the remaining liquid is aerated so that bacteria can break down any organic matter left in it. Finally, the treated water is released back into the river at a point downstream of where it was originally taken.",
+        "commentary": "Task Achievement (8): overview modélico para un proceso con dos etapas y una bifurcación: dice cuántas etapas hay, que forman un ciclo y que existe un subproducto con dos destinos posibles. Todos los pasos aparecen, con detalles relevantes (4–6 horas, aguas abajo). Coherence & Cohesion (8): un párrafo por etapa; secuenciadores variados (then, subsequently, after which, Once it has been used, Meanwhile, Finally) y la rama se integra con either… or sin romper la secuencia. Lexical Resource (8): purification, by-product, debris, aerated, downstream, organic matter. Grammatical Range & Accuracy (8): pasiva en presente (lo esperable en un proceso), oraciones finales con so that y relativas, sin errores."
+      },
+      {
+        "level": "7",
+        "text": "The diagram shows the process of producing drinking water from a river and treating waste water before it goes back into the river.\n\nOverall, there are two stages, each with several steps. In the first, river water is cleaned so that people can drink it, and in the second, used water is treated so that it can safely return to the river.\n\nFirst, water from the river is pumped through screens, which remove leaves, branches and litter. Next, chemicals are added to make small particles form larger clumps, and these clumps sink to the bottom of a settling tank in four to six hours. After that, the water is filtered through sand and gravel, and chlorine is added to kill bacteria. The clean water is then stored in a reservoir before it is supplied to homes and businesses.\n\nIn the second stage, waste water travels through sewers to a treatment works. Solids settle in large tanks and are removed as sludge. This sludge can be dried and used as fertiliser on farms, or it can be burned to produce electricity. The rest of the water is aerated, and bacteria break down the organic matter. Finally, the treated water is released into the river again.",
+        "commentary": "Task Achievement (7): todos los pasos y la bifurcación aparecen; overview claro aunque no menciona el carácter cíclico ni la bifurcación del lodo, que es un rasgo clave. Omite que el agua vuelve aguas abajo del punto de captación. Coherence & Cohesion (7): secuenciadores correctos pero predecibles (First, Next, After that, Finally). Lexical Resource (7): vocabulario adecuado (settle, aerated, supplied), con alguna repetición. Grammatical Range & Accuracy (7): buen uso de la pasiva y de so that; sin errores importantes. Para subir a 8: incluir la rama y el ciclo en el overview y variar más las conexiones (after which, once…, meanwhile)."
+      },
+      {
+        "level": "6",
+        "text": "The diagram shows how the water from the river is cleaned for drinking and how the dirty water is cleaned after.\n\nFirst, the water is taken from the river and there are screens for remove leaves and litter. Then they put chemicals and the small particles become big. These go to the bottom of the tank. After, the water go through sand and gravel and they add chlorine for kill bacteria. Then the water is in a reservoir and it goes to the houses.\n\nWhen people use the water, it goes in the sewers to the treatment works. The solids go down and become sludge. The sludge is used for fertiliser or for electricity. Then bacteria clean the water and at the end the water goes to the river again.\n\nIn conclusion, the process has many steps and the water is used two times.",
+        "commentary": "Task Achievement (6): con unas 144 palabras no llega al mínimo de 150, lo que por sí solo ya penaliza este criterio. Además, cubre las dos etapas y la mayoría de los pasos, pero el overview final es pobre (many steps, used two times) y la bifurcación se presenta con poca precisión (no explica que el lodo se seca o se quema). Omite detalles relevantes (tiempo de sedimentación, aireación). Coherence & Cohesion (6): secuencia comprensible, pero then se repite y after se usa mal como adverbio (afterwards). Lexical Resource (6): impreciso (become big, go down, clean the water) y they put chemicals en lugar de chemicals are added. Grammatical Range & Accuracy (6): for + infinitivo (for remove, for kill) en lugar de to remove/to kill, concordancia (the water go) y pocas pasivas. Para subir a 7: usar la pasiva, to + infinitivo para la finalidad y un overview con las dos etapas al principio."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-hard-4",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "map",
+    "prompt": "The maps below show the centre of the town of Calloway in 1985 and 2025.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "map",
+      "title": "Calloway town centre, 1985 and 2025",
+      "maps": [
+        {
+          "title": "1985",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              {
+                "kind": "road",
+                "x": 0,
+                "y": 175,
+                "w": 600,
+                "h": 35,
+                "label": "High Street"
+              },
+              {
+                "kind": "road",
+                "x": 280,
+                "y": 0,
+                "w": 32,
+                "h": 400,
+                "label": "Bridge Road"
+              },
+              {
+                "kind": "building",
+                "x": 30,
+                "y": 30,
+                "w": 110,
+                "h": 70,
+                "label": "Bus station"
+              },
+              {
+                "kind": "field",
+                "x": 160,
+                "y": 30,
+                "w": 110,
+                "h": 120,
+                "label": "Open-air market"
+              },
+              {
+                "kind": "building",
+                "x": 340,
+                "y": 25,
+                "w": 230,
+                "h": 130,
+                "label": "Factory"
+              },
+              {
+                "kind": "building",
+                "x": 30,
+                "y": 240,
+                "w": 110,
+                "h": 70,
+                "label": "Cinema"
+              },
+              {
+                "kind": "building",
+                "x": 160,
+                "y": 240,
+                "w": 110,
+                "h": 130,
+                "label": "Terraced houses"
+              },
+              {
+                "kind": "building",
+                "x": 340,
+                "y": 240,
+                "w": 85,
+                "h": 80,
+                "label": "Primary school"
+              },
+              {
+                "kind": "park",
+                "x": 440,
+                "y": 240,
+                "w": 140,
+                "h": 140,
+                "label": "Park"
+              }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        },
+        {
+          "title": "2025",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              {
+                "kind": "road",
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 20,
+                "label": "Ring road"
+              },
+              {
+                "kind": "path",
+                "x": 0,
+                "y": 175,
+                "w": 600,
+                "h": 35,
+                "label": "High Street (pedestrians only)"
+              },
+              {
+                "kind": "road",
+                "x": 280,
+                "y": 20,
+                "w": 32,
+                "h": 380,
+                "label": "Bridge Road"
+              },
+              {
+                "kind": "path",
+                "x": 316,
+                "y": 20,
+                "w": 10,
+                "h": 380,
+                "label": "Tram line"
+              },
+              {
+                "kind": "building",
+                "x": 30,
+                "y": 30,
+                "w": 110,
+                "h": 70,
+                "label": "Public library"
+              },
+              {
+                "kind": "building",
+                "x": 160,
+                "y": 30,
+                "w": 110,
+                "h": 120,
+                "label": "Covered market"
+              },
+              {
+                "kind": "building",
+                "x": 340,
+                "y": 30,
+                "w": 150,
+                "h": 125,
+                "label": "Shopping centre"
+              },
+              {
+                "kind": "parking",
+                "x": 500,
+                "y": 30,
+                "w": 80,
+                "h": 125,
+                "label": "Multi-storey car park"
+              },
+              {
+                "kind": "building",
+                "x": 30,
+                "y": 240,
+                "w": 110,
+                "h": 70,
+                "label": "Bus station"
+              },
+              {
+                "kind": "building",
+                "x": 160,
+                "y": 240,
+                "w": 110,
+                "h": 130,
+                "label": "Terraced houses"
+              },
+              {
+                "kind": "building",
+                "x": 340,
+                "y": 240,
+                "w": 130,
+                "h": 80,
+                "label": "Primary school (extended)"
+              },
+              {
+                "kind": "park",
+                "x": 340,
+                "y": 330,
+                "w": 130,
+                "h": 50,
+                "label": "Playground"
+              },
+              {
+                "kind": "park",
+                "x": 480,
+                "y": 240,
+                "w": 100,
+                "h": 140,
+                "label": "Park"
+              }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: the centre became more commercial and pedestrian-friendly, with new transport infrastructure; industry disappeared; only the terraced houses and Bridge Road were unchanged.",
+      "Transport: ring road added along the north; High Street pedestrianised; tram line along Bridge Road; bus station moved from the north-west to the former cinema site (south-west).",
+      "North: bus station → public library; open-air market → covered market; factory → shopping centre and multi-storey car park.",
+      "South-east: school extended and a playground added, both at the expense of the park, which became smaller."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The maps compare the centre of Calloway in 1985 with its layout in 2025.\n\nOverall, the town centre was transformed from a partly industrial area into a commercial and pedestrian-friendly one, with considerably improved transport links. Almost every site changed, the only exceptions being the terraced houses and Bridge Road.\n\nIn 1985, the centre was divided into four quarters by High Street, running east to west, and Bridge Road, running north to south. The north-west contained a bus station and an open-air market, while a large factory occupied the north-east. South of High Street stood a cinema and a row of terraced houses to the west, and a primary school next to a park to the east.\n\nBy 2025, a ring road had been built along the northern edge of the centre, High Street had been closed to traffic, and a tram line had been laid alongside Bridge Road. The factory had been demolished to make way for a shopping centre and a multi-storey car park, and the market had been moved indoors. The bus station had been relocated to the former cinema site in the south-west, and its original building had become a public library. Finally, the primary school had been extended and a playground had been added beside it, both of which reduced the size of the park.",
+        "commentary": "Task Achievement (8): en un mapa con ocho cambios, el overview los resume en una idea (de industrial a comercial y peatonal, mejor transporte) y además indica lo que no cambia. Ningún cambio se omite y todos se ubican con precisión. Coherence & Cohesion (8): descripción inicial por cuadrantes y cambios agrupados (transporte, norte, sur); los referentes son claros (its original building, the former cinema site, both of which). Lexical Resource (8): léxico de transformación urbana: closed to traffic, laid, demolished to make way for, relocated, moved indoors. Grammatical Range & Accuracy (8): serie de pasivas en pasado perfecto bien controladas, absolutas (the only exceptions being…) y relativas no especificativas."
+      },
+      {
+        "level": "7",
+        "text": "The two maps show how the centre of Calloway changed between 1985 and 2025.\n\nOverall, the town centre changed a great deal. The factory disappeared and there are now more shops and better transport, and High Street became a pedestrian area.\n\nIn 1985, there was a bus station and an open-air market in the north-west of the centre, and a factory in the north-east. In the south-west, there was a cinema and some terraced houses, and in the south-east there was a primary school and a park.\n\nIn 2025, a new ring road had been built in the north, and cars could no longer use High Street. A tram line was also built next to Bridge Road. The bus station was moved to the south-west, where the cinema used to be, and the old bus station became a library. The market was replaced by a covered market, and the factory was replaced by a shopping centre and a multi-storey car park. In the south-east, the school was made bigger and a playground was built, so the park became smaller. The terraced houses did not change.",
+        "commentary": "Task Achievement (7): todos los cambios aparecen, ubicados con puntos cardinales; overview correcto aunque algo enumerativo. Coherence & Cohesion (7): organización lógica antes/después; dentro del último párrafo, los cambios se suceden sin agrupar. Lexical Resource (7): vocabulario adecuado pero repetitivo (was replaced by ×2, was built ×2, made bigger). Grammatical Range & Accuracy (7): buen uso de la pasiva y de where… used to be, pero mezcla tiempos en el overview (disappeared / there are now) y entre pasado perfecto y pasado simple. Para subir a 8: tiempos coherentes, agrupar los cambios por tema y variar verbos (demolished, relocated, converted, extended)."
+      },
+      {
+        "level": "6",
+        "text": "The maps shows the centre of Calloway town in 1985 and in 2025. There are a lot of changes.\n\nIn 1985 there were a bus station, a market, a factory, a cinema, houses, a school and a park. The roads were High Street and Bridge Road.\n\nIn 2025 there is a ring road on the top. The High Street is only for pedestrians and there is a tram line. The factory is now a shopping centre and a car park. The bus station is a library and the new bus station is where the cinema was. The market is covered now and it is not open-air. The terraced houses are the same and Bridge Road is the same too. The school is more big and there is a playground, and the park is smaller.\n\nIn conclusion, the town is more modern and there are more things for the people.",
+        "commentary": "Task Achievement (6): con unas 149 palabras no llega al mínimo de 150, lo que por sí solo ya penaliza este criterio. Además, menciona casi todos los cambios, pero no sitúa nada en 1985 (sólo enumera) y el overview final es vago (more modern, more things). Lo que no cambia se menciona, pero sin ubicarlo. Coherence & Cohesion (6): estructura básica antes/después; frases cortas sin conexión. Lexical Resource (6): muy limitado (is now, there is) y on the top en lugar de along the northern edge. Grammatical Range & Accuracy (6): presente para describir 2025 visto desde el pasado, concordancia (The maps shows), more big (bigger), casi sin pasivas. Para subir a 7: localizar con puntos cardinales, usar pasivas (was converted into, was extended) y abrir con un overview real."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-hard-5",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "line",
+    "prompt": "The graph below shows the average age at which men and women in Velmora first married, and the average age of mothers at the birth of their first child, between 1970 and 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "line",
+      "title": "Average age at first marriage and at first birth, Velmora, 1970–2020",
+      "xLabel": "Year",
+      "yLabel": "Average age (years)",
+      "unit": "years",
+      "categories": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2010",
+        "2020"
+      ],
+      "series": [
+        {
+          "name": "Men at first marriage",
+          "values": [
+            26.1,
+            26.8,
+            28,
+            29.9,
+            32.2,
+            33.6
+          ]
+        },
+        {
+          "name": "Women at first marriage",
+          "values": [
+            23.4,
+            24.2,
+            25.9,
+            28.1,
+            30.4,
+            31.8
+          ]
+        },
+        {
+          "name": "Mothers at first birth",
+          "values": [
+            24.6,
+            25.1,
+            26.4,
+            27.9,
+            29.5,
+            31.1
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: all three ages rose steadily; men always married later than women; women's age at marriage overtook mothers' age at first birth between 1990 and 2000.",
+      "Men: 26.1 → 33.6 (+7.5 years); women: 23.4 → 31.8 (+8.4 years), so the gap narrowed from 2.7 to 1.8 years.",
+      "Mothers at first birth: 24.6 → 31.1 (+6.5 years), the slowest increase.",
+      "Until 1990 women typically married before having a first child; from 2000 the first birth came, on average, before marriage."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The line graph tracks three demographic indicators in Velmora between 1970 and 2020: the average age at first marriage for men and for women, and the average age of mothers when their first child was born.\n\nOverall, all three ages rose steadily over the fifty years, with men consistently marrying later than women. The most significant feature, however, is that the line for women's age at marriage crossed that for mothers' age at first birth between 1990 and 2000, indicating that women began, on average, to have their first child before marrying.\n\nIn 1970, men married at an average age of 26.1, while women married at 23.4, some 2.7 years younger. Both figures increased gradually during the 1970s and 1980s and then more quickly, reaching 33.6 and 31.8 respectively by 2020. Because the age for women rose by 8.4 years compared with 7.5 for men, the gap between the sexes narrowed slightly to 1.8 years.\n\nThe age of mothers at first birth followed a similar but slightly flatter upward path, from 24.6 in 1970 to 31.1 in 2020, an increase of 6.5 years. Until 1990 it remained above the average age at which women married, standing at 26.4 compared with 25.9 in that year. By 2000, however, the positions had reversed, at 27.9 and 28.1, and the difference widened to 0.7 years by 2020.",
+        "commentary": "Task Achievement (8): el overview identifica la tendencia general y, sobre todo, el rasgo más importante: el cruce de dos líneas y lo que significa. Todas las cifras son exactas y los cálculos correctos (+8,4 frente a +7,5; brecha de 2,7 a 1,8 años; 31,8 − 31,1 = 0,7). Coherence & Cohesion (8): un párrafo para la edad al casarse (con la comparación hombres/mujeres) y otro para la maternidad y el cruce; transiciones precisas (By 2000, however, the positions had reversed). Lexical Resource (8): demographic indicators, consistently, followed a flatter upward path, narrowed, widened. Grammatical Range & Accuracy (8): participios (indicating), comparaciones con compared with, respectively y pasado perfecto sin errores."
+      },
+      {
+        "level": "7",
+        "text": "The graph shows the average age when men and women in Velmora got married for the first time and the average age of mothers when they had their first child, from 1970 to 2020.\n\nOverall, all three ages increased over the period, and men always married later than women. Another important point is that, after 1990, women had their first child at a younger age than the age at which they first married.\n\nIn 1970, the average age at first marriage was 26.1 for men and 23.4 for women. These figures went up slowly until 1990, reaching 28.0 and 25.9, and then rose more sharply. By 2020, men were marrying at 33.6 on average and women at 31.8, so the difference between them became smaller.\n\nMothers were 24.6 years old on average when they had their first baby in 1970, which was older than the average age of marriage for women. This figure increased steadily to 26.4 in 1990 and 27.9 in 2000, when it was lower than the age at which women married, 28.1. It continued to rise and reached 31.1 in 2020.",
+        "commentary": "Task Achievement (7): overview claro que incluye el cruce, aunque lo sitúa de forma algo imprecisa (after 1990 en lugar de between 1990 and 2000). Datos correctos, pero no cuantifica el cambio de la brecha entre hombres y mujeres (became smaller sin cifras) ni el aumento total. Coherence & Cohesion (7): organización lógica y referencias claras (These figures, This figure). Lexical Resource (7): adecuado (went up slowly, rose more sharply), algo informal (got married, first baby). Grammatical Range & Accuracy (7): relativas y pasado continuo (were marrying) bien usados. Para subir a 8: precisar el momento del cruce, cuantificar diferencias y un registro más académico."
+      },
+      {
+        "level": "6",
+        "text": "The graph shows the age of men and women when they marry and the age of mothers when they have the first child in Velmora from 1970 to 2020.\n\nIn 1970 men married with 26.1 years and women with 23.4 years. In 2020 men married with 33.6 and women with 31.8. So both increased a lot. Men always are older than women, but the difference is smaller in 2020. The increase was slow in 1970 and 1980 but after 1990 it was more fast.\n\nThe mothers had the first child with 24.6 years in 1970. This increased to 26.4 in 1990 and 27.9 in 2000, and in 2020 it was 31.1. In 1970 and 1980 and 1990 the mothers were older than the women who married, but in 2000, 2010 and 2020 they were younger.\n\nIn conclusion, people in Velmora marry and have children later than before.",
+        "commentary": "Task Achievement (6): con unas 147 palabras no llega al mínimo de 150, lo que por sí solo ya penaliza este criterio. Además, da las cifras principales y menciona el cambio de posición entre las dos líneas, pero sin destacarlo como rasgo clave; el overview es una sola frase al final. Apenas hay comparación (no calcula la brecha ni los aumentos). Coherence & Cohesion (6): párrafos breves y conexiones mínimas (So, In conclusion). Lexical Resource (6): limitado y con un calco del español muy típico: married with 26.1 years (married at the age of 26.1 / at 26.1). Grammatical Range & Accuracy (6): orden del adverbio (Men always are → are always), more fast (faster), mezcla de presente y pasado, oraciones simples. Para subir a 7: overview al principio con el cruce, at the age of… y comparar cifras con while/whereas."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-hard-6",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "mixed",
+    "prompt": "The bar chart below shows the average time per day that men and women spent on unpaid domestic work in five countries in 2023. The pie charts show how this time was divided between different tasks in one of those countries, Corvia.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "mixed",
+      "title": "Unpaid domestic work, 2023",
+      "visuals": [
+        {
+          "type": "bar",
+          "title": "Average time spent on unpaid domestic work per day",
+          "xLabel": "Country",
+          "yLabel": "Minutes per day",
+          "unit": "minutes",
+          "categories": [
+            "Arden",
+            "Belmar",
+            "Corvia",
+            "Dalesh",
+            "Estova"
+          ],
+          "series": [
+            {
+              "name": "Men",
+              "values": [
+                142,
+                96,
+                168,
+                75,
+                121
+              ]
+            },
+            {
+              "name": "Women",
+              "values": [
+                248,
+                281,
+                214,
+                302,
+                233
+              ]
+            }
+          ]
+        },
+        {
+          "type": "pie",
+          "title": "How domestic work time was divided in Corvia",
+          "unit": "%",
+          "pies": [
+            {
+              "title": "Men",
+              "slices": [
+                {
+                  "label": "Cooking",
+                  "value": 22
+                },
+                {
+                  "label": "Cleaning and laundry",
+                  "value": 15
+                },
+                {
+                  "label": "Childcare",
+                  "value": 24
+                },
+                {
+                  "label": "Shopping",
+                  "value": 17
+                },
+                {
+                  "label": "Repairs and gardening",
+                  "value": 22
+                }
+              ]
+            },
+            {
+              "title": "Women",
+              "slices": [
+                {
+                  "label": "Cooking",
+                  "value": 31
+                },
+                {
+                  "label": "Cleaning and laundry",
+                  "value": 27
+                },
+                {
+                  "label": "Childcare",
+                  "value": 26
+                },
+                {
+                  "label": "Shopping",
+                  "value": 12
+                },
+                {
+                  "label": "Repairs and gardening",
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: women did more unpaid domestic work than men in all five countries, but the gap varied widely; in Corvia, men and women also did different kinds of tasks.",
+      "Largest gap in Dalesh (302 vs 75 minutes: about four times as much); smallest in Corvia (214 vs 168), where men did the most of any country.",
+      "Belmar also had a large gap (281 vs 96); Arden and Estova were in between.",
+      "Corvia: women spent the largest shares on cooking (31%) and cleaning (27%); men's time was more evenly spread, with childcare highest (24%) and repairs/gardening 22% compared with only 4% for women."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The bar chart compares the average daily time that men and women spent on unpaid domestic work in five countries in 2023, while the pie charts break down this time by task for each sex in Corvia.\n\nOverall, women carried out considerably more unpaid work than men in every country, although the size of the gap varied greatly. In Corvia, where the division of labour was most equal, men and women also tended to focus on different tasks.\n\nThe disparity was greatest in Dalesh, where women spent 302 minutes a day on domestic work, roughly four times as long as men, at 75 minutes. Belmar showed a similar imbalance, with figures of 281 and 96 minutes respectively. Arden and Estova were in an intermediate position, with women doing roughly 110 minutes more than men. Corvia, by contrast, had the narrowest gap: men there did more domestic work than in any other country, 168 minutes, compared with 214 minutes for women.\n\nWithin Corvia, women devoted the largest shares of their time to cooking (31%) and cleaning and laundry (27%), followed closely by childcare (26%). Men's time was spread more evenly, with childcare accounting for the largest proportion (24%), and cooking and repairs and gardening for 22% each. The most marked difference concerned repairs and gardening, which took up 22% of men's domestic work but only 4% of women's, while cleaning and laundry made up just 15% of men's time, compared with 27% of women's.",
+        "commentary": "Task Achievement (8): overview que conecta ambos visuales y explica por qué Corvia es relevante (el reparto más igualitario). Selección eficaz: extremos (Dalesh y Corvia), agrupación de los casos intermedios (Arden 106 y Estova 112 minutos de diferencia → roughly 110) y contrastes clave de los pies. Cálculo correcto: 302 ÷ 75 ≈ 4. Coherence & Cohesion (8): un párrafo por visual, referencias claras (there, Within Corvia). Lexical Resource (8): disparity, imbalance, division of labour, devoted, spread more evenly, most marked difference. Grammatical Range & Accuracy (8): relativas, comparativos (roughly four times as long as) y respectively, sin errores. Los porcentajes de los pies son de cada sexo por separado, y el modelo no los compara como si fueran minutos: un fallo habitual que evita."
+      },
+      {
+        "level": "7",
+        "text": "The bar chart shows how many minutes per day men and women spent on unpaid domestic work in five countries in 2023, and the pie charts show what kinds of tasks this time was used for in Corvia.\n\nOverall, women did much more domestic work than men in all five countries. In Corvia, women spent most of their time on cooking and cleaning, while men's time was more evenly divided.\n\nWomen in Dalesh did the most unpaid work, at 302 minutes a day, whereas men there did the least, at only 75 minutes. There was also a big difference in Belmar, where women spent 281 minutes on housework and men just 96. In Arden and Estova, women did 248 and 233 minutes, compared with 142 and 121 minutes for men. Corvia was the most equal country, with 214 minutes for women and 168 for men.\n\nIn Corvia, cooking made up the largest part of women's domestic work, at 31%, followed by cleaning and laundry at 27% and childcare at 26%. For men, the largest category was childcare, at 24%, while cooking and repairs and gardening both accounted for 22%. Women spent only 4% of their time on repairs and gardening, and men spent 15% of theirs on cleaning.",
+        "commentary": "Task Achievement (7): overview claro y datos correctos de todos los países. Falta interpretación: no cuantifica la diferencia máxima (unas cuatro veces) ni explica en el overview que el reparto varía mucho de un país a otro. Coherence & Cohesion (7): buena organización, aunque el párrafo de los países es una lista con poca jerarquía. Lexical Resource (7): made up, accounted for, evenly divided; algo repetitivo (spent, did). Grammatical Range & Accuracy (7): estructuras variadas y precisas. Para subir a 8: agrupar los países intermedios, cuantificar contrastes y explicar la relación entre los dos visuales."
+      },
+      {
+        "level": "6",
+        "text": "The bar chart shows the time that men and women spend doing housework in five countries and the pie charts show the housework of men and women in Corvia.\n\nIn all the countries the women work more than the men. In Dalesh the women work 302 minutes and the men 75 minutes, this is a big difference. In Belmar it is 281 and 96. In Corvia the men work 168 minutes and the women 214, so it is more equal. Arden and Estova are in the middle.\n\nIn the pie charts, the women do more cooking, 31%, than the men, 22%. The women do also more cleaning, 27% and 15%. But the men do more repairs and gardening, 22% and only 4% for the women. Childcare is 24% for men and 26% for women.\n\nTo conclude, women do more housework than men in every country.",
+        "commentary": "Task Achievement (6): con unas 145 palabras no llega al mínimo de 150, lo que por sí solo ya penaliza este criterio. Además, identifica la idea principal y los extremos, pero compara los porcentajes de los pies como si fueran cantidades absolutas (the women do more cooking, 31%, than the men, 22%), lo cual es engañoso: son proporciones del tiempo de cada uno. Omite las cifras de Arden y Estova. Coherence & Cohesion (6): estructura simple; comma splice (…75 minutes, this is a big difference). Lexical Resource (6): básico y repetitivo (work, do). Grammatical Range & Accuracy (6): presente para datos de 2023, orden del adverbio (do also more → also do more), oraciones simples. Para subir a 7: overview al principio, hablar de proportion/share of their time en los pies y usar el pasado."
+      }
+    ]
+  }
+]

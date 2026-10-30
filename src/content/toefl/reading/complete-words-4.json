@@ -1,0 +1,68 @@
+[
+  {
+    "id": "toefl-ctw-m3-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "module": "router",
+    "title": "Harvesting natural ice",
+    "task": "complete-words",
+    "text": "Before electric refrigerators existed, people relied on natural ice to keep food cold. In the nineteenth century, workers [[cut|c]] large blocks from frozen lakes [[during|dur]] the winter months. The blocks [[were|we]] packed in sawdust and stored [[in|i]] thick-walled ice houses, where they [[could|co]] last until late [[summer|sum]]. Ships [[even|ev]] carried ice from New England to [[distant|dis]] ports in the Caribbean and India. The trade [[collapsed|coll]] quickly, however, once mechanical cooling [[became|bec]] cheap and reliable.",
+    "explanation": "«workers cut large blocks»: pasado de cut (irregular, igual que el presente). «during the winter months» = durante + sustantivo. «The blocks were packed»: pasiva en pasado, sujeto plural. «stored in … ice houses»: preposición de lugar. «they could last» = podían durar (modal + infinitivo). «Ships even carried» = incluso transportaban (énfasis). «distant ports» = puertos lejanos. «collapsed» = se hundió; «became cheap» = se volvió barata. Truco: el pasado del relato (carried, collapsed) te dice el tiempo verbal de cada hueco."
+  },
+  {
+    "id": "toefl-ctw-m3-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 3,
+    "module": "lower",
+    "title": "Farmers' markets",
+    "task": "complete-words",
+    "text": "Farmers' markets allow people to buy food directly from the people who grow it. Most markets [[take|ta]] place outdoors once or [[twice|tw]] a week. Shoppers can [[find|fi]] fresh fruit, vegetables, bread, [[and|a]] cheese. Because the food does [[not|n]] travel far, it is often [[picked|pic]] only a day before it is [[sold|so]]. Many shoppers also [[enjoy|en]] talking with farmers and learning [[how|h]] their food is [[produced|prod]]. Some markets also offer cooking demonstrations on weekends.",
+    "explanation": "«take place» = tener lugar (colocación fija). «once or twice a week» = una o dos veces por semana. «can find» = pueden encontrar. En una lista, el último elemento va con «and». «does not travel» = negación con do. «it is picked … before it is sold»: pasivas (se recoge / se vende). «enjoy + -ing» (enjoy talking). «learning how their food is produced» = aprender cómo se produce. Truco: después de «is» suele venir un participio (picked, sold, produced)."
+  },
+  {
+    "id": "toefl-ctw-m3-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 3,
+    "module": "upper",
+    "title": "Echolocation in bats",
+    "task": "complete-words",
+    "text": "Many bats navigate and hunt in complete darkness by means of echolocation. They emit high-frequency calls [[and|a]] interpret the echoes [[that|th]] return from [[surrounding|surro]] objects. [[Because|Bec]] the time delay reveals distance, a bat can judge how far away [[an|a]] insect is with remarkable [[precision|prec]]. Some moths, [[however|how]], have evolved defenses against this [[strategy|stra]]: certain species can [[detect|det]] bat calls and dive abruptly, while others [[even|ev]] produce clicks that jam the predator's sonar.",
+    "explanation": "«calls and interpret»: dos verbos coordinados con el mismo sujeto. «the echoes that return»: relativo de sujeto. «surrounding objects» = objetos de alrededor (adjetivo en -ing). «Because …, a bat can judge»: causa al principio. «an insect»: «an» delante de vocal. «with remarkable precision»: sustantivo en -sion tras adjetivo. «Some moths, however, …»: conector de contraste entre comas. «this strategy» = esta estrategia. «detect bat calls» = detectar. «others even produce» = algunas incluso producen. Truco: tras «with + adjetivo» hace falta un sustantivo (precision, no precisely)."
+  },
+  {
+    "id": "toefl-ctw-m4-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "title": "Lighthouses",
+    "task": "complete-words",
+    "text": "Before modern navigation systems, lighthouses were essential for sailors traveling at night. Most [[were|we]] built on rocky points or small islands [[where|whe]] ships were in the greatest danger. Early lighthouses [[burned|bur]] wood or oil, but their light could [[not|n]] be seen from very far. In 1822, a French engineer [[invented|inve]] a special lens that [[made|ma]] the beam much brighter. Each lighthouse [[also|al]] flashed in its own pattern, so sailors could tell [[which|wh]] one they were looking at. Today, most lighthouses [[work|wo]] automatically, and [[few|f]] have keepers.",
+    "explanation": "«Most were built»: pasiva en pasado (fueron construidos). «where ships were…»: relativo de lugar. «burned wood or oil»: pasado regular (ortografía estadounidense, 6 letras). «could not be seen»: modal negativo + pasiva. «invented a special lens»: pasado. «made the beam much brighter»: make + objeto + adjetivo (hacía el haz mucho más brillante). «also» = también. «tell which one» = distinguir cuál. «work automatically»: presente, porque habla de hoy («Today»). «few have keepers» = pocos tienen farero («few» + plural)."
+  },
+  {
+    "id": "toefl-ctw-m4-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "title": "A short history of tea",
+    "task": "complete-words",
+    "text": "Tea is one of the most popular drinks in the world. It is made [[from|fr]] the leaves of a plant [[that|th]] grows in warm, wet places. [[People|Peo]] in China were drinking tea [[more|mo]] than two thousand years ago. Later, traders [[brought|bro]] it to Europe, where it [[became|bec]] very fashionable. Today, there [[are|a]] many kinds of tea, [[such|su]] as green, black, and herbal. Some people [[drink|dr]] it hot, while others [[prefer|pre]] it cold.",
+    "explanation": "«made from» = hecho de (material transformado). «a plant that grows»: relativo. «People in China»: sujeto en mayúscula al inicio de frase. «more than» = más de. «brought» = pasado de bring (traer). «became» = pasado de become (llegar a ser). «there are many kinds»: plural. «such as» = como, por ejemplo. «drink it hot» / «prefer it cold»: contraste con «while». Truco: «more ___ than» y «such ___ as» son parejas fijas."
+  },
+  {
+    "id": "toefl-ctw-m4-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "title": "How antibiotic resistance spreads",
+    "task": "complete-words",
+    "text": "Antibiotic resistance arises through a straightforward process of natural selection. When a bacterial population is [[exposed|exp]] to a drug, the [[majority|majo]] of cells die, but a few may [[possess|pos]] mutations that allow them to [[survive|sur]]. These survivors then reproduce, passing the advantageous [[trait|tr]] to their descendants. [[Consequently|Conseq]], an infection that [[previously|previ]] responded to treatment may become [[virtually|virt]] untreatable. Overprescription accelerates the problem, [[since|si]] each unnecessary dose gives resistant strains [[another|ano]] opportunity to spread.",
+    "explanation": "«is exposed to» = está expuesta a (pasiva + to). «the majority of cells» = la mayoría (sustantivo en -ity). «may possess» = pueden poseer. «allow them to survive» = permitir + objeto + to + infinitivo. «advantageous trait» = rasgo ventajoso. «Consequently» = en consecuencia (conector de resultado). «previously responded» = antes respondía (adverbio en -ly). «virtually untreatable» = prácticamente intratable. «since» = ya que (causa). «another opportunity» = otra oportunidad (singular). Truco: delante de un adjetivo (untreatable) va un adverbio en -ly."
+  }
+]

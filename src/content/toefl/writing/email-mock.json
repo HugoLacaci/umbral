@@ -1,0 +1,48 @@
+[
+  {
+    "id": "toefl-email-m1", "difficulty": "medium", "usage": "mock", "mock": 1,
+    "scenario": "For the past two months, you have been attending a free evening conversation class for adult language learners at your local community center. Yesterday you received a message saying that the class will be canceled next term because too few people signed up. You have found the class very helpful, and you know several people who would join if they knew about it. Write an email to Mr. Osei, the community center's program coordinator.",
+    "to": "Mr. Osei, Program Coordinator",
+    "subject": "Evening conversation class next term",
+    "tasks": [
+      "Explain how the class has helped you.",
+      "Describe why you think more people did not sign up.",
+      "Suggest ways to keep the class running next term."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Mr. Osei,\n\nI was very sorry to hear that the Tuesday evening conversation class will be canceled next term. I have attended it since September, and I wanted to share how much it has helped me. When I started, I was too nervous to speak on the phone or talk to my neighbors. Thanks to the weekly practice and our teacher's patient feedback, I now feel confident enough to handle appointments and small talk at work.\n\nI think the main reason more people did not sign up is that very few know the class exists. The only information I have seen is a small poster inside the center, and the class is not listed on the center's website. In addition, registration closed two weeks before the term began, which is too early for many people who work shifts.\n\nI would suggest promoting the class at the public library and on local community pages online, and keeping registration open until the first week. I already know four people who would join. If it helps, I would be happy to hand out flyers or talk to people about the class.\n\nThank you for considering this.\n\nBest regards,\nAna Lima",
+        "commentary": "Nivel 5: explica el beneficio con un antes y un después concreto, ofrece dos causas plausibles y bien razonadas (poca difusión, inscripción que cierra demasiado pronto) y propone soluciones concretas, incluida su propia ayuda y cuatro posibles alumnos. Organización clara, tono amable y constructivo y lenguaje variado y correcto."
+      },
+      {
+        "level": "3",
+        "text": "Dear Mr. Osei,\n\nThe class is very good for me, I learned a lot of things. Please don't cancel the class.\n\nMaybe people don't know about the class. Or they are busy.\n\nYou can make more publicity. I have friends that want to come.\n\nThank you\nAna",
+        "commentary": "Nivel 3: responde a las tres tareas, pero con ideas mínimas y sin ejemplos: no explica cómo le ha ayudado la clase, las causas son suposiciones sin desarrollar y la sugerencia «make more publicity» es vaga (además, «make publicity» es un calco del español; mejor «advertise it more»). Las frases son cortas y simples, con poca variedad gramatical. Sin fórmula de cierre adecuada."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-m2", "difficulty": "medium", "usage": "mock", "mock": 2,
+    "scenario": "You are a second-year psychology student. You recently read on the department website that Dr. Lindqvist's research lab, which studies sleep and memory, is looking for undergraduate volunteers to help with a new study next semester. You have no research experience yet, but you are very interested in the topic and would like to apply. Write an email to Dr. Lindqvist.",
+    "to": "Dr. Lindqvist",
+    "subject": "Interest in volunteering in the Sleep and Memory Lab",
+    "tasks": [
+      "Introduce yourself and explain why you are interested in the lab's research.",
+      "Describe skills or qualities that would make you a useful volunteer.",
+      "Ask about the time commitment and next steps for applying."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Dr. Lindqvist,\n\nMy name is Jonah Brenner, and I am a second-year psychology major. I saw on the department website that your lab is looking for undergraduate volunteers for a new study next semester, and I would very much like to be considered.\n\nI became interested in sleep research last year in Introduction to Cognitive Psychology, when we discussed experiments showing that sleep helps the brain consolidate new memories. I found it fascinating that something we all do every night could have such an important effect on learning, and I have been reading more about the topic ever since.\n\nAlthough I do not have formal research experience yet, I believe I could be a reliable volunteer. I received an A in Statistics I and am comfortable using spreadsheets to organize data. I am also very organized and punctual, which I imagine is important when scheduling participants.\n\nCould you tell me how many hours per week volunteers are expected to work, and whether evening or overnight sessions are involved? I would also be grateful to know what the next steps are for applying.\n\nThank you for your time.\n\nSincerely,\nJonah Brenner",
+        "commentary": "Nivel 5: se presenta adecuadamente, conecta su interés con una experiencia académica concreta, compensa su falta de experiencia con habilidades relevantes y verificables (estadística, hojas de cálculo, puntualidad) y formula preguntas precisas sobre dedicación y proceso. Tono formal y entusiasta, cohesión clara y lenguaje académico apropiado («consolidate memories», «be considered»)."
+      },
+      {
+        "level": "3",
+        "text": "Dear Dr. Lindqvist,\n\nI am a psychology student and I am very interesting in your lab. Sleep is a very interesting topic for me.\n\nI am a hard worker and I learn fast. I don't have experience but I can learn.\n\nHow many hours I have to work? What I need to do now?\n\nThank you,\nJonah",
+        "commentary": "Nivel 3: cubre las tres tareas, pero de forma genérica: no explica por qué le interesa el tema y las cualidades («hard worker», «learn fast») no van acompañadas de ningún ejemplo. Errores típicos: «I am very interesting» (debería ser «interested»), preguntas sin inversión («How many hours I have to work?», «What I need to do now?»). Repetición de «interesting» y poca variedad de vocabulario."
+      }
+    ]
+  }
+]

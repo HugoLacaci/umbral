@@ -1,0 +1,756 @@
+[
+  {
+    "id": "toefl-talk-m3-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "module": "router",
+    "task": "academic-talk",
+    "title": "Light in the deep sea",
+    "context": "Listen to part of a talk in a marine biology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Alvarez",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today we're heading down into the deep ocean, below about two hundred meters, where sunlight fades almost completely. You might expect total darkness down there, but it's actually full of light, because a huge proportion of deep-sea animals make their own. This is called bioluminescence, and it's produced by a chemical reaction inside the animal's body."
+        },
+        {
+          "s": "p",
+          "t": "So why make light? One reason is to find food. The anglerfish is the classic example. It dangles a glowing lure in front of its mouth, and small fish that swim toward the light get eaten."
+        },
+        {
+          "s": "p",
+          "t": "A second reason is defense. Some deep-sea shrimp, when they're attacked, release a cloud of glowing fluid, a bit like an octopus releasing ink, and they escape while the predator is confused. There's also what's called the burglar alarm idea. Certain jellyfish flash brightly when they're grabbed, and the light may attract an even larger predator, one that attacks whatever is attacking the jellyfish."
+        },
+        {
+          "s": "p",
+          "t": "Now, notice that almost all of this light is blue. That's because blue light travels farthest through seawater, and most deep-sea animals can only see blue. Which makes one fish especially clever. The dragonfish produces red light, which its prey can't detect. So it can light up its surroundings without being noticed, a bit like a hunter using an invisible flashlight."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How sunlight reaches the deep ocean",
+          "Why deep-sea animals produce their own light",
+          "How octopuses use ink to escape",
+          "Why most deep-sea animals are blue"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She says sunlight fades almost completely at those depths.",
+          "Correct. She explains feeding and defense uses of bioluminescence and why most of it is blue.",
+          "The octopus is only a comparison.",
+          "The light is blue, not the animals."
+        ],
+        "explanation": "The professor organizes the talk around the reasons deep-sea animals make light: finding food and defense."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, how do some deep-sea shrimp defend themselves?",
+        "options": [
+          "They flash brightly to call other shrimp.",
+          "They hide behind glowing jellyfish.",
+          "They produce red light that predators cannot see.",
+          "They release a glowing cloud and escape."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Calling other shrimp is not mentioned.",
+          "Jellyfish are a separate example.",
+          "Red light is used by the dragonfish to hunt.",
+          "Correct. They release glowing fluid and escape while the predator is confused."
+        ],
+        "explanation": "Some shrimp release a cloud of glowing fluid that confuses the predator.",
+        "evidence": "release a cloud of glowing fluid"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention that most deep-sea animals can only see blue?",
+        "options": [
+          "To explain why the dragonfish's red light gives it an advantage",
+          "To explain why anglerfish lures are not very effective",
+          "To show that bioluminescence evolved recently",
+          "To argue that red light travels farther than blue light"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Because prey can't see red, the dragonfish can light up its surroundings unnoticed.",
+          "She presents the anglerfish lure as effective.",
+          "The age of bioluminescence is not discussed.",
+          "She says the opposite: blue travels farthest."
+        ],
+        "explanation": "The fact that prey see only blue is what makes the dragonfish's red light an 'invisible flashlight'.",
+        "evidence": "The dragonfish produces red light, which its prey can't detect"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "According to the burglar alarm idea, how does a jellyfish's flash help it?",
+        "options": [
+          "It blinds the predator for a moment.",
+          "It warns other jellyfish of danger.",
+          "It may bring a larger animal that attacks the jellyfish's attacker.",
+          "It shows that the jellyfish is poisonous."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Blinding is not mentioned.",
+          "Warning other jellyfish is not mentioned.",
+          "Correct. The light may attract a bigger predator that targets the attacker.",
+          "Poison is not mentioned."
+        ],
+        "explanation": "Like a burglar alarm calling the police, the flash may attract a larger predator that attacks the jellyfish's attacker.",
+        "evidence": "attacks whatever is attacking the jellyfish"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m3-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 3,
+    "module": "lower",
+    "task": "academic-talk",
+    "title": "How sand dunes move",
+    "context": "Listen to part of a talk in a geography class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Hughes",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Let's talk about sand dunes, those hills of sand you find in deserts and along coastlines. A dune starts with wind and some kind of obstacle. Wind picks up grains of sand, but sand is fairly heavy, so the grains don't float very high. Instead, they bounce along close to the ground. When they hit an obstacle, say a rock or a small bush, the wind slows down, and the sand drops and starts to pile up."
+        },
+        {
+          "s": "p",
+          "t": "Once a pile forms, it grows. Wind pushes sand up the gentle side of the dune, the side facing the wind. At the top, the sand falls over the edge and slides down the other side, which is much steeper. Because sand is constantly being moved from one side to the other, the whole dune slowly travels in the direction the wind blows. Some dunes move several meters a year."
+        },
+        {
+          "s": "p",
+          "t": "This movement can cause problems, since dunes can bury roads and fields. That's why people often plant grasses on coastal dunes. The roots hold the sand in place."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why deserts are getting larger",
+          "How plants grow in sandy soil",
+          "How sand dunes form and move",
+          "Why coastal roads are often damaged"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Desert growth is not discussed.",
+          "Grasses are mentioned only as a solution.",
+          "Correct. He explains how dunes start, grow and travel.",
+          "Buried roads are one consequence, not the topic."
+        ],
+        "explanation": "The professor explains how dunes begin, grow and move with the wind."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What causes sand to start piling up?",
+        "options": [
+          "The wind slows down when it hits an obstacle.",
+          "Rain makes the sand heavier.",
+          "Grass roots catch the sand.",
+          "Sand floats high and then falls."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. When grains hit an obstacle, the wind slows and the sand drops.",
+          "Rain is not mentioned.",
+          "Roots hold dunes in place later; they don't start them.",
+          "He says grains don't float very high."
+        ],
+        "explanation": "When wind meets an obstacle it slows down and drops the sand.",
+        "evidence": "the wind slows down, and the sand drops and starts to pile up"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Which side of a dune is steeper?",
+        "options": [
+          "The side facing the wind",
+          "The side covered with grass",
+          "Both sides are equally steep.",
+          "The side away from the wind"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The side facing the wind is the gentle side.",
+          "Grass is not linked to steepness.",
+          "He contrasts a gentle side with a much steeper side.",
+          "Correct. Sand slides down the other side, which is much steeper."
+        ],
+        "explanation": "Sand is pushed up the gentle windward side and slides down the much steeper other side.",
+        "evidence": "slides down the other side, which is much steeper"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why do people plant grasses on coastal dunes?",
+        "options": [
+          "To make the beaches more attractive",
+          "To stop the sand from moving",
+          "To provide food for animals",
+          "To make the dunes grow taller"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Appearance is not mentioned.",
+          "Correct. The roots hold the sand in place, stopping dunes from burying roads and fields.",
+          "Animals are not mentioned.",
+          "The goal is to fix the sand, not make dunes taller."
+        ],
+        "explanation": "Moving dunes can bury roads and fields, so grasses are planted because their roots hold the sand in place.",
+        "evidence": "The roots hold the sand in place"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m3-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 3,
+    "module": "upper",
+    "task": "academic-talk",
+    "title": "The anchoring effect",
+    "context": "Listen to part of a talk in a psychology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Whitfield",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-GB"
+        },
+        {
+          "id": "s",
+          "name": "Jake",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Last time we discussed shortcuts people use when they make estimates. Today, one of the most robust: anchoring. In a famous experiment from the nineteen seventies, Tversky and Kahneman spun a wheel of fortune in front of participants. The wheel was set up to stop at either ten or sixty-five. Participants were then asked what percentage of African countries belonged to the United Nations. Those who saw ten gave a median estimate of twenty-five percent. Those who saw sixty-five said forty-five. A number they knew was random still pulled their answers toward it."
+        },
+        {
+          "s": "s",
+          "t": "But that's a trivia question. Wouldn't experts be harder to fool?"
+        },
+        {
+          "s": "p",
+          "t": "You'd hope so. But in a later study, experienced real estate agents toured a house and were given a listing price that, without their knowledge, had been set higher or lower for different groups. Their valuations moved with the listing price, and yet most of them insisted they hadn't taken it into account. So expertise doesn't seem to protect you much, and that's what I find most troubling, because it means you can't simply tell people to be careful."
+        },
+        {
+          "s": "p",
+          "t": "Why does this happen? One explanation is that we start at the anchor and adjust, but we stop adjusting too early. Another is that the anchor makes us search our memory for information that's consistent with it. Interestingly, one technique that does seem to help is deliberately asking yourself why the anchor might be wrong, which fits the second explanation rather nicely."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "The history of the United Nations",
+          "How real estate agents set prices",
+          "Why trivia questions are poor research tools",
+          "How an initial number can bias people's estimates"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The UN question was just the material of an experiment.",
+          "Agents are one example of the effect.",
+          "The student raises this doubt, but the talk is not about it.",
+          "Correct. The talk explains anchoring, evidence for it and possible explanations."
+        ],
+        "explanation": "The professor defines anchoring, gives two studies and discusses explanations."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What did the wheel of fortune experiment show?",
+        "options": [
+          "People could predict where the wheel would stop.",
+          "People's estimates were influenced by a number they knew was random.",
+          "People knew the correct percentage of African countries in the UN.",
+          "People who saw the higher number gave more accurate answers."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Prediction of the wheel is not discussed.",
+          "Correct. A random number still pulled their answers toward it.",
+          "Accuracy of their knowledge is not the point.",
+          "Accuracy is not compared; only the shift toward the anchor."
+        ],
+        "explanation": "Even a number participants knew was random shifted their estimates.",
+        "evidence": "A number they knew was random still pulled their answers toward it"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention the study of real estate agents?",
+        "options": [
+          "To respond to the student's suggestion that experts might not be affected",
+          "To show that listing prices are usually accurate",
+          "To explain how houses are valued",
+          "To give an example of the second explanation of anchoring"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The student asks whether experts are harder to fool, and the agent study shows they are not.",
+          "The study shows agents were swayed by the price, not that prices are accurate.",
+          "Valuation methods are not explained.",
+          "The explanations come later and are not linked to this study."
+        ],
+        "explanation": "The agent study answers the student: even experienced professionals were influenced by the anchor.",
+        "evidence": "So expertise doesn't seem to protect you much"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's attitude toward simply telling people to be careful about anchors?",
+        "options": [
+          "She thinks it is the most effective solution.",
+          "She thinks it works only for experts.",
+          "She doubts that it would be effective.",
+          "She thinks it has never been tested."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "She says the opposite.",
+          "Experts were affected too, which is her point.",
+          "Correct. She finds it troubling that you can't simply tell people to be careful.",
+          "She does not discuss whether it has been tested."
+        ],
+        "explanation": "Because even experts were affected without realizing it, she doubts that warnings alone are enough.",
+        "evidence": "you can't simply tell people to be careful"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m4-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "academic-talk",
+    "title": "Mangrove forests",
+    "context": "Listen to part of a talk in an ecology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Roy",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today I want to look at mangroves, the trees that grow along tropical and subtropical coasts, right where the land meets the sea. Twice a day the tide covers their roots in salt water, which would kill most trees."
+        },
+        {
+          "s": "p",
+          "t": "So how do they survive? Some species filter out most of the salt at their roots before water even enters the plant. Others take the salt in and then get rid of it through special glands on their leaves. If you lick a leaf from one of these, it actually tastes salty. The mud is another problem, since it holds very little oxygen. Many mangroves solve this with roots that grow upward, sticking out of the mud like pencils, so they can take in air at low tide."
+        },
+        {
+          "s": "p",
+          "t": "Mangroves matter to people, too. Their dense roots slow down waves and trap sediment, which protects the shore from erosion and storms. After the Indian Ocean tsunami in two thousand four, some studies suggested that villages behind mangroves suffered less damage, although scientists still debate how much protection they can give against a wave that size. Mangrove soils also store large amounts of carbon."
+        },
+        {
+          "s": "p",
+          "t": "Unfortunately, large areas have been cleared, often to build shrimp farms, so many countries are now replanting them."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How shrimp farms damage coastlines",
+          "How mangroves survive in their environment and why they are valuable",
+          "Why tsunamis cause so much damage",
+          "How scientists measure carbon in soil"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Shrimp farms are mentioned only at the end.",
+          "Correct. He covers their adaptations to salt and mud, then their benefits.",
+          "The tsunami is one example of protection.",
+          "Carbon storage is mentioned briefly."
+        ],
+        "explanation": "The talk explains mangrove adaptations and their importance to coasts and people."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, how do some mangroves deal with salt?",
+        "options": [
+          "They store it in their roots.",
+          "They grow only where the water is fresh.",
+          "They release it through glands on their leaves.",
+          "They need salt to absorb oxygen."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Storing salt in roots is not mentioned; some species filter it out at the roots.",
+          "They live in salt water twice a day.",
+          "Correct. Some take salt in and get rid of it through leaf glands.",
+          "Oxygen is a separate problem, solved by upward roots."
+        ],
+        "explanation": "Some species remove salt through special glands on their leaves.",
+        "evidence": "get rid of it through special glands on their leaves"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's view about mangroves and the 2004 tsunami?",
+        "options": [
+          "He is cautious about how much protection mangroves provided.",
+          "He is certain mangroves prevented all damage.",
+          "He believes the studies were badly designed.",
+          "He thinks mangroves made the damage worse."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. He notes that scientists still debate how much protection they give against such a large wave.",
+          "He says only that some studies suggested less damage.",
+          "He doesn't criticize the studies' design.",
+          "Nothing suggests mangroves increased damage."
+        ],
+        "explanation": "He reports the suggestion but adds that its extent is still debated.",
+        "evidence": "scientists still debate how much protection they can give against a wave that size"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why do many mangroves have roots that grow upward?",
+        "options": [
+          "To filter salt from the water",
+          "To trap sediment from waves",
+          "To support the trees in strong winds",
+          "To get air because the mud lacks oxygen"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Salt filtering happens at roots generally, not specifically upward roots.",
+          "Trapping sediment is a function of dense roots in general.",
+          "Wind support is not mentioned.",
+          "Correct. Upward roots take in air at low tide."
+        ],
+        "explanation": "The mud holds very little oxygen, so upward roots let the trees take in air.",
+        "evidence": "so they can take in air at low tide"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m4-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "academic-talk",
+    "title": "Why the sky is blue",
+    "context": "Listen to part of a talk in a physics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Bennett",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-NZ"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Here's a question children often ask: why is the sky blue? Sunlight looks white, but it's actually a mix of all the colors of the rainbow. When sunlight enters the atmosphere, it hits tiny molecules of gas in the air, and these molecules scatter the light in every direction."
+        },
+        {
+          "s": "p",
+          "t": "The key point is that they don't scatter all colors equally. Blue light has a shorter wavelength than red light, and shorter wavelengths are scattered much more strongly. So when you look at any part of the sky away from the Sun, you're seeing blue light that has been bounced around by the air."
+        },
+        {
+          "s": "p",
+          "t": "Now, violet light has an even shorter wavelength, so you might ask why the sky isn't violet. Part of the reason is that our eyes are much more sensitive to blue than to violet."
+        },
+        {
+          "s": "p",
+          "t": "And sunsets? When the Sun is low, its light passes through much more air before it reaches us. By then, most of the blue has been scattered away, so the light that's left looks orange and red."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why the sky looks blue and sunsets look red",
+          "How rainbows are formed",
+          "How the human eye sees violet",
+          "Why sunlight looks white"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. She explains scattering of blue light and why sunsets are red.",
+          "The rainbow is mentioned only to describe sunlight.",
+          "Eye sensitivity is a small detail.",
+          "White sunlight is the starting point, not the topic."
+        ],
+        "explanation": "The professor explains why the sky is blue and extends the idea to sunsets."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why is blue light scattered more than red light?",
+        "options": [
+          "It is brighter than red light.",
+          "It is absorbed by our eyes.",
+          "It comes from a different part of the Sun.",
+          "It has a shorter wavelength."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Brightness is not the reason given.",
+          "Eye sensitivity explains blue versus violet, not blue versus red.",
+          "Not mentioned.",
+          "Correct. Shorter wavelengths are scattered much more strongly."
+        ],
+        "explanation": "Shorter wavelengths, like blue, are scattered more strongly by air molecules.",
+        "evidence": "shorter wavelengths are scattered much more strongly"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why doesn't the sky look violet, according to the professor?",
+        "options": [
+          "Violet light is not part of sunlight.",
+          "Our eyes are more sensitive to blue than to violet.",
+          "Violet light has a longer wavelength than blue.",
+          "Violet light is scattered only at sunset."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Sunlight contains all colors.",
+          "Correct. She gives eye sensitivity as part of the reason.",
+          "Violet has an even shorter wavelength.",
+          "Not mentioned."
+        ],
+        "explanation": "Part of the reason is that our eyes are more sensitive to blue than to violet.",
+        "evidence": "our eyes are much more sensitive to blue than to violet"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why do sunsets look orange and red?",
+        "options": [
+          "The Sun becomes cooler in the evening.",
+          "Air molecules scatter red light more in the evening.",
+          "Light travels through more air, so most blue light is removed.",
+          "Clouds reflect red light at the end of the day."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The Sun's temperature does not change.",
+          "Red is not scattered more; blue is scattered away.",
+          "Correct. The longer path through air scatters away the blue, leaving orange and red.",
+          "Clouds are not mentioned."
+        ],
+        "explanation": "At sunset light passes through more air, which scatters away most of the blue.",
+        "evidence": "most of the blue has been scattered away"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m4-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "academic-talk",
+    "title": "The light bulb cartel",
+    "context": "Listen to part of a talk in a business history class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Sandoval",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        },
+        {
+          "id": "s",
+          "name": "Oliver",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "When people complain that products are designed to break, they often point to one real historical case. In nineteen twenty-four, the major light bulb manufacturers, including Osram, Philips and companies linked to General Electric, formed an agreement known as the Phoebus cartel. Among other things, members agreed to limit the life of standard bulbs to one thousand hours, at a time when many bulbs lasted considerably longer. Factories even sent sample bulbs for testing, and a company whose bulbs lasted too long could be fined."
+        },
+        {
+          "s": "s",
+          "t": "So that's proof of planned obsolescence, isn't it?"
+        },
+        {
+          "s": "p",
+          "t": "It's certainly evidence that the companies coordinated, and that's illegal for good reason. But here's where it gets more complicated. With an incandescent bulb, there's a real trade-off. If you run the filament hotter, the bulb gives more light for the same electricity, but the filament wears out faster. Some engineers have argued that a shorter life was partly a reasonable choice for efficiency. The trouble is that the cartel took that choice away from customers."
+        },
+        {
+          "s": "p",
+          "t": "The cartel fell apart around the start of the Second World War. And personally, I think the term planned obsolescence gets used too loosely today. A phone that slows down after a software update might be deliberate, or it might be the result of trade-offs, like the bulb. You have to look at the evidence case by case."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why incandescent bulbs were replaced",
+          "How General Electric became a large company",
+          "A historical case often used as an example of products designed to fail",
+          "How engineers test the life of a product"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Replacement of incandescent bulbs is not discussed.",
+          "GE's growth is not the topic.",
+          "Correct. She discusses the Phoebus cartel and how it relates to planned obsolescence.",
+          "Testing is a detail of the cartel's rules."
+        ],
+        "explanation": "The professor examines the Phoebus cartel as a case of planned obsolescence and complicates the usual interpretation."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What did members of the cartel agree to do?",
+        "options": [
+          "Limit standard bulbs to a life of one thousand hours",
+          "Produce bulbs that lasted longer than before",
+          "Share their engineers with each other",
+          "Sell bulbs only in their home countries"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. They agreed to limit bulb life to one thousand hours.",
+          "The opposite; many bulbs had lasted longer.",
+          "Sharing engineers is not mentioned.",
+          "Markets are not discussed."
+        ],
+        "explanation": "Members agreed to limit standard bulbs to one thousand hours.",
+        "evidence": "limit the life of standard bulbs to one thousand hours"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor describe the trade-off between a filament's temperature and its life?",
+        "options": [
+          "To show that the cartel's members were good engineers",
+          "To explain why bulbs became cheaper",
+          "To argue that the cartel should have been legal",
+          "To suggest that the student's conclusion is too simple"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "She doesn't praise the members.",
+          "Price is not discussed.",
+          "She says coordination is illegal for good reason.",
+          "Correct. She complicates the student's claim that the case is simply proof of planned obsolescence."
+        ],
+        "explanation": "After the student calls the case proof, she introduces the trade-off to show that a shorter life could partly be an efficiency choice.",
+        "evidence": "But here's where it gets more complicated"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's opinion about the term planned obsolescence today?",
+        "options": [
+          "It should be used only for light bulbs.",
+          "It is often applied without enough evidence.",
+          "It is used too rarely by consumers.",
+          "It describes most modern products accurately."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She applies the idea to phones, too.",
+          "Correct. She thinks it is used too loosely and cases must be judged on evidence.",
+          "She says the opposite: it's used too loosely.",
+          "She says each case needs to be examined."
+        ],
+        "explanation": "She says the term gets used too loosely and each case needs evidence.",
+        "evidence": "the term planned obsolescence gets used too loosely today"
+      }
+    ]
+  }
+]

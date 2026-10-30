@@ -1,0 +1,95 @@
+[
+  {
+    "id": "ielts-l-m2-p2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "part": 2,
+    "title": "School visits to Maple Ridge Heritage Farm",
+    "context": "You will hear an education officer giving information to teachers who are planning school trips to a heritage farm.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Kevin", "role": "Education officer", "gender": "m", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good morning, and thanks for joining this briefing for teachers and group leaders who are bringing classes to Maple Ridge Heritage Farm this spring. I'm Kevin, the education officer here, and I'll explain how the day works and what activities are available." },
+        { "s": "a", "t": "First, a little background. Maple Ridge was run by the Hartley family for more than a hundred years. When the last member of the family retired, the city council looked into buying the land, but they decided it would be too expensive. In the end the farm was taken over by a charity, the Rural Heritage Trust, which still runs it today. So any money you spend here goes straight back into the farm." },
+        { "s": "a", "t": "Now, arrival times. Our gates open at nine, but between nine and nine thirty our staff are busy feeding the animals, so please don't arrive then. Equally, if you come much after ten, you'll struggle to fit everything in. So please aim to arrive between nine thirty and ten." },
+        { "s": "a", "t": "Lunch. On a fine day, groups eat at the picnic tables beside the pond. If it rains, a lot of teachers assume they can use the visitor centre, but that's only for café customers, and it gets very crowded. Instead, we open up the big red barn, which has plenty of room for several classes. Please don't plan to eat on your buses, because most drivers won't allow it." },
+        { "s": "a", "t": "The children can get really close to the animals here. They're welcome to stroke and feed the goats and the rabbits, and the sheep too. The one exception is the horses. They're gentle most of the time, but they can kick if they're surprised, so children mustn't touch them." },
+        { "s": "a", "t": "As for cost, it's twelve dollars per child, and teachers come free. Lunch isn't included, so children should bring a packed lunch. What is included is a worksheet pack, which we'll email to you a week before your visit, so you can prepare the class. Some schools ask about souvenirs, and there is a gift shop, but nothing is included in the price." },
+        { "s": "a", "t": "Okay, now the activities. None of these needs to be booked in advance. You just sign up at the information desk when you arrive. First, sheep shearing. This only takes place in the mornings, because in the afternoon it gets too warm for the sheep, so do that one first if you can." },
+        { "s": "a", "t": "Pond dipping is always popular. The children use nets to catch tiny creatures and look at them under a magnifying glass. It's very safe, but the edges of the pond are muddy, so children have to wear boots. If anyone forgets, we have a few spare pairs." },
+        { "s": "a", "t": "Then there's the tractor ride, which takes about twenty minutes and goes all round the farm. The ride costs an extra two dollars per child, because of the fuel. Even very young children can go on it, as long as they sit next to an adult." },
+        { "s": "a", "t": "In the old dairy, children can try cheese making. The dairy's quite a small building, so we can only take fifteen children at a time. If your class is bigger, we'll split it into two groups." },
+        { "s": "a", "t": "And finally, the maze. It's made from tall hedges and it's great fun, but it's very easy to get lost, so we don't allow children under five to go in. Older children love it." },
+        { "s": "a", "t": "I should just mention that the hay bale slide, which some of you may remember from last year, is closed this season while we build a new one. Right, I'll send all of this to you in an email, and if you have any questions, please get in touch." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 11–15\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q11", "kind": "mcq", "qtype": "mcq", "prompt": "Who runs Maple Ridge Heritage Farm now?",
+            "options": ["the Hartley family", "the city council", "a charity"], "answer": 2,
+            "explanation": "The Hartleys ran it in the past and the council decided not to buy it; a charity took it over.",
+            "evidence": "the farm was taken over by a charity",
+            "optionNotes": ["They ran it in the past.", "It considered buying it but decided it was too expensive.", "Correct."] },
+          { "id": "q12", "kind": "mcq", "qtype": "mcq", "prompt": "Groups are asked to arrive",
+            "options": ["as soon as the gates open.", "between nine thirty and ten.", "after ten o'clock."], "answer": 1,
+            "explanation": "Staff feed the animals from nine to nine thirty, and arriving after ten leaves too little time.",
+            "evidence": "So please aim to arrive between nine thirty and ten.",
+            "optionNotes": ["Staff are feeding the animals then.", "Correct.", "There wouldn't be enough time."] },
+          { "id": "q13", "kind": "mcq", "qtype": "mcq", "prompt": "If it rains, groups should eat their lunch",
+            "options": ["in the visitor centre.", "in the barn.", "on their buses."], "answer": 1,
+            "explanation": "The visitor centre is for café customers, and most drivers do not allow eating on buses; the red barn is opened for groups.",
+            "evidence": "Instead, we open up the big red barn",
+            "optionNotes": ["Only for café customers.", "Correct.", "Most drivers won't allow it."] },
+          { "id": "q14", "kind": "mcq", "qtype": "mcq", "prompt": "Which animals must children NOT touch?",
+            "options": ["the goats", "the horses", "the sheep"], "answer": 1,
+            "explanation": "Goats, rabbits and sheep can be stroked; the horses are the exception because they may kick.",
+            "evidence": "The one exception is the horses.",
+            "optionNotes": ["Children can stroke and feed them.", "Correct.", "Children can stroke them too."] },
+          { "id": "q15", "kind": "mcq", "qtype": "mcq", "prompt": "The price per child includes",
+            "options": ["lunch.", "a worksheet pack.", "a souvenir."], "answer": 1,
+            "explanation": "Lunch and souvenirs are not included; the worksheet pack is.",
+            "evidence": "What is included is a worksheet pack",
+            "optionNotes": ["Children bring a packed lunch.", "Correct.", "There is a gift shop, but nothing is included."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching",
+        "instructions": "Questions 16–20\nWhat does Kevin say about each activity?\nChoose FIVE answers from the box and write the correct letter, A–G, next to Questions 16–20.",
+        "options": [
+          { "key": "A", "text": "It must be booked in advance." },
+          { "key": "B", "text": "It only happens in the morning." },
+          { "key": "C", "text": "There is an extra charge." },
+          { "key": "D", "text": "Children need to wear boots." },
+          { "key": "E", "text": "Group size is limited." },
+          { "key": "F", "text": "It is not suitable for very young children." },
+          { "key": "G", "text": "It is closed this season." }
+        ],
+        "items": [
+          { "id": "q16", "kind": "match", "qtype": "matching", "prompt": "Sheep shearing", "answer": "B",
+            "explanation": "It only takes place in the mornings because the afternoons are too warm for the sheep. Nothing needs to be booked in advance (A).",
+            "evidence": "This only takes place in the mornings" },
+          { "id": "q17", "kind": "match", "qtype": "matching", "prompt": "Pond dipping", "answer": "D",
+            "explanation": "The edges are muddy, so children must wear boots.",
+            "evidence": "so children have to wear boots" },
+          { "id": "q18", "kind": "match", "qtype": "matching", "prompt": "Tractor ride", "answer": "C",
+            "explanation": "It costs an extra two dollars per child. Young children CAN go with an adult, so F is wrong.",
+            "evidence": "The ride costs an extra two dollars per child" },
+          { "id": "q19", "kind": "match", "qtype": "matching", "prompt": "Cheese making", "answer": "E",
+            "explanation": "Only fifteen children at a time because the dairy is small.",
+            "evidence": "we can only take fifteen children at a time" },
+          { "id": "q20", "kind": "match", "qtype": "matching", "prompt": "The maze", "answer": "F",
+            "explanation": "Children under five are not allowed in. G refers to the hay bale slide, not the maze.",
+            "evidence": "we don't allow children under five to go in" }
+        ]
+      }
+    ]
+  }
+]

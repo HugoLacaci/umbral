@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ielts-l-p3-02",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 3,
+    "title": "Feedback on a food waste project",
+    "context": "You will hear a student, Priya, discussing the draft of her research project on food waste with her tutor, Dr Grant.",
+    "audio": {
+      "speakers": [
+        { "id": "grant", "name": "Dr Grant", "role": "tutor", "gender": "m", "accent": "en-US" },
+        { "id": "priya", "name": "Priya", "role": "student", "gender": "f", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "grant", "t": "Come in, Priya, have a seat. So, I've read through the draft of your project on food waste in the campus cafeterias, and overall it's coming along well." },
+        { "s": "priya", "t": "Oh, that's a relief. I was worried the topic was too narrow." },
+        { "s": "grant", "t": "It is narrow, but at this level that's actually a strength. The first thing I want to talk about is your research question. At the moment it's, how much food is wasted on campus." },
+        { "s": "priya", "t": "Is that not OK?" },
+        { "s": "grant", "t": "It's measurable, which is good, but it's purely descriptive. You've also collected data on why students leave food, so the question ought to reflect that." },
+        { "s": "priya", "t": "So something like, what factors lead students to waste food?" },
+        { "s": "grant", "t": "Exactly. That makes it analytical rather than just a count." },
+        { "s": "priya", "t": "OK, I'll change that. Then there's the data itself. I weighed the food left on plates in two cafeterias over three weeks. I was thinking of going back and doing another week, because one of the three was during exams." },
+        { "s": "grant", "t": "I wondered about that too, at first. But actually, I'd keep it. The exam week gives you a contrast. You found waste went down that week, didn't you?" },
+        { "s": "priya", "t": "Yes, by quite a lot. Students seemed to buy smaller portions." },
+        { "s": "grant", "t": "Then that's an interesting finding in its own right. Rather than repeat the data collection, write a paragraph treating it as a separate result and explaining what was different." },
+        { "s": "priya", "t": "Right. The other thing is the questionnaire. I only got sixty-two responses. Is that enough?" },
+        { "s": "grant", "t": "It's on the low side. But you've got a good spread across the year groups, which matters more for your purpose. What I'd do is be completely open about the numbers in your limitations section. Don't try to hide it." },
+        { "s": "priya", "t": "Should I mention that I only handed the questionnaire out at lunchtime?" },
+        { "s": "grant", "t": "Yes, mention it, because people who eat breakfast on campus might behave differently. But there's no need to go back and survey them." },
+        { "s": "priya", "t": "OK. I also interviewed the manager of the main cafeteria. She said a lot of the waste happens in the kitchen, before the food even reaches students. I was going to add a whole chapter on kitchen waste." },
+        { "s": "grant", "t": "There isn't room for that, and you'd need completely different data. But don't throw it away either. Put it in your discussion as a direction for future research." },
+        { "s": "priya", "t": "That's a good compromise. Could we go through the individual sections?" },
+        { "s": "grant", "t": "Sure. Your introduction is fine in terms of content, but it runs to nearly two pages. In a project of this length, half a page is plenty." },
+        { "s": "priya", "t": "I'll cut it down. And the literature review? I was worried it wasn't long enough." },
+        { "s": "grant", "t": "The length is fine. The issue is that most of what you cite is from the early two thousands. There's been a lot published on food waste in the last five years, and you need to bring that in." },
+        { "s": "priya", "t": "OK. What about the methodology?" },
+        { "s": "grant", "t": "Honestly, that's the strongest section. You explain exactly how you weighed the plates and why, so someone else could repeat the study. I wouldn't change a thing." },
+        { "s": "priya", "t": "Great. I thought the results might be a problem, though." },
+        { "s": "grant", "t": "The tables themselves are clear, but you don't tell the reader what they show. Each chart needs a sentence or two pointing out what we should notice." },
+        { "s": "priya", "t": "And the discussion? I wasn't sure about the headings I'd used there." },
+        { "s": "grant", "t": "The headings are fine, actually. The problem is that the first page basically says the same thing as your results section all over again. Delete most of that and go straight into the interpretation." },
+        { "s": "priya", "t": "And the conclusion?" },
+        { "s": "grant", "t": "It's good, but you've included the full set of recommendations for the catering team, with all the costings. That belongs at the back of the project, in an appendix. In the conclusion, just summarise the main points." },
+        { "s": "priya", "t": "That makes sense. Thanks, Dr Grant. I'll get started on it this weekend." },
+        { "s": "grant", "t": "Good. Send me the next draft by the twentieth, and we'll meet again after that." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–24\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q1", "kind": "mcq", "qtype": "mcq",
+            "prompt": "Why does the tutor want Priya to change her research question?",
+            "options": ["It is too narrow for a project.", "It only describes the situation.", "It cannot easily be measured."],
+            "answer": 1,
+            "optionNotes": ["He says narrowness is a strength.", "Correct: it is 'purely descriptive'.", "He says it is measurable."],
+            "explanation": "The tutor says the question is measurable but 'purely descriptive'; it should be analytical. Priya's worry about narrowness is dismissed.",
+            "evidence": "It's measurable, which is good, but it's purely descriptive."
+          },
+          {
+            "id": "q2", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What does the tutor suggest Priya does with the data from exam week?",
+            "options": ["replace it with data from another week", "present it as a separate finding", "remove it from the analysis"],
+            "answer": 1,
+            "optionNotes": ["This was Priya's plan, but the tutor advises against it.", "Correct.", "He says 'I'd keep it'."],
+            "explanation": "Priya wanted to collect another week, but the tutor says to keep it and treat it as a separate result.",
+            "evidence": "write a paragraph treating it as a separate result"
+          },
+          {
+            "id": "q3", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What does the tutor say about the questionnaire?",
+            "options": ["It includes too few students from some year groups.", "It should also be given to students at breakfast.", "Its small size should be acknowledged."],
+            "answer": 2,
+            "optionNotes": ["He says there is a good spread across year groups.", "He says there is no need to survey breakfast eaters.", "Correct: be open about the numbers in the limitations section."],
+            "explanation": "Sixty-two is 'on the low side', so she must be open about it in the limitations section. The spread of year groups is good, and there's no need to go back and survey breakfast eaters.",
+            "evidence": "be completely open about the numbers in your limitations section"
+          },
+          {
+            "id": "q4", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What will Priya do with the information about kitchen waste?",
+            "options": ["write an extra chapter about it", "leave it out of the project", "suggest it as a topic for future research"],
+            "answer": 2,
+            "optionNotes": ["The tutor says there isn't room.", "He says 'don't throw it away either'.", "Correct."],
+            "explanation": "A new chapter is rejected for lack of space and data, but it should not be discarded: it goes in the discussion as a direction for future research.",
+            "evidence": "Put it in your discussion as a direction for future research."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching",
+        "instructions": "Questions 25–30\nWhat comment does the tutor make about each section of Priya's draft?\nChoose SIX answers from the box and write the correct letter, A–H, next to Questions 25–30.",
+        "options": [
+          { "key": "A", "text": "It should be much shorter." },
+          { "key": "B", "text": "It needs more up-to-date sources." },
+          { "key": "C", "text": "It needs clearer headings." },
+          { "key": "D", "text": "It repeats material from another section." },
+          { "key": "E", "text": "Part of it should be moved elsewhere." },
+          { "key": "F", "text": "It needs no changes." },
+          { "key": "G", "text": "It needs more comment on the data." },
+          { "key": "H", "text": "It is missing some references." }
+        ],
+        "items": [
+          { "id": "q5", "kind": "match", "qtype": "matching", "prompt": "Introduction", "answer": "A",
+            "explanation": "Nearly two pages; half a page is plenty.", "evidence": "half a page is plenty" },
+          { "id": "q6", "kind": "match", "qtype": "matching", "prompt": "Literature review", "answer": "B",
+            "explanation": "Most sources are from the early 2000s; she needs work from the last five years. Length is fine.", "evidence": "There's been a lot published on food waste in the last five years, and you need to bring that in." },
+          { "id": "q7", "kind": "match", "qtype": "matching", "prompt": "Methodology", "answer": "F",
+            "explanation": "The strongest section: 'I wouldn't change a thing'.", "evidence": "I wouldn't change a thing." },
+          { "id": "q8", "kind": "match", "qtype": "matching", "prompt": "Results", "answer": "G",
+            "explanation": "Tables are clear, but she must tell the reader what each chart shows.", "evidence": "Each chart needs a sentence or two pointing out what we should notice." },
+          { "id": "q9", "kind": "match", "qtype": "matching", "prompt": "Discussion", "answer": "D",
+            "explanation": "The headings are fine (not C); the first page repeats the results section.", "evidence": "the first page basically says the same thing as your results section all over again" },
+          { "id": "q10", "kind": "match", "qtype": "matching", "prompt": "Conclusion", "answer": "E",
+            "explanation": "The recommendations and costings should go in an appendix.", "evidence": "That belongs at the back of the project, in an appendix." }
+        ]
+      }
+    ]
+  }
+]

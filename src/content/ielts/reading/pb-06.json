@@ -1,0 +1,95 @@
+[
+  {
+    "id": "ielts-r-pb-06",
+    "difficulty": "hard",
+    "usage": "practice",
+    "passageNo": 3,
+    "title": "Rewilding Europe",
+    "subtitle": "Ecological restoration or romantic dream?",
+    "paragraphs": [
+      { "label": "A", "text": "Across much of Europe, a quiet transformation is taking place. Wolves have returned to the outskirts of Berlin, beavers are reshaping rivers in Scotland, and herds of European bison graze in the Carpathian Mountains, where the species had been absent for more than two centuries. These changes are partly the result of deliberate projects and partly the consequence of wider social trends, but they are increasingly gathered under a single banner: rewilding. The term is used so loosely, however, that it has become a source of confusion, and the debate about its merits often suffers as a result." },
+      { "label": "B", "text": "In its original North American form, developed in the 1990s, rewilding focused on large protected cores connected by wildlife corridors, and on the return of top predators such as wolves. In Europe, where almost every landscape has been shaped by people for thousands of years, the concept has taken on a different emphasis. Here it generally refers to scaling back human management and allowing natural processes, such as flooding, grazing, decay and predation, to determine how a landscape develops. Crucially, rewilding does not aim at a fixed target, such as a particular habitat or a list of species; the outcome is deliberately left open. To my mind, this open-endedness is both the approach's greatest strength and its most serious political weakness." },
+      { "label": "C", "text": "One reason rewilding has become possible is that Europe's countryside is emptying. Between 2000 and 2030, according to some projections, around thirty million hectares of farmland, an area roughly the size of Italy, could be abandoned, mostly in mountainous or remote areas where agriculture is no longer profitable. Abandoned land does not remain empty; it is gradually colonised by scrub and forest. Rewilding advocates argue that, rather than spending public money trying to maintain traditional farming in such places, governments should treat this process as an opportunity. Critics reply that abandonment brings its own risks, including more frequent wildfires as scrub accumulates, and the loss of cultural landscapes valued by residents and visitors alike." },
+      { "label": "D", "text": "The best-known experiments illustrate both the potential and the pitfalls. At the Knepp Estate in southern England, a farm that had been losing money for years was turned over to free-roaming herds of cattle, ponies, pigs and deer from 2001 onwards. The animals' grazing, trampling and rooting created a shifting mosaic of scrub, grassland and woodland, and within two decades the estate had become home to species that had declined sharply elsewhere in the country, including turtle doves and nightingales. Meanwhile, the owners earned income from eco-tourism and from selling meat produced by the herds. The Oostvaardersplassen, a reserve created on reclaimed land in the Netherlands, tells a more troubling story. There, large populations of cattle, horses and red deer were left largely to themselves, without predators. After the hard winter of 2017–2018, thousands of animals died of starvation, and the resulting public outrage forced the authorities to introduce culling. In my view, the episode demonstrated not that rewilding is cruel, but that a process-led approach cannot ignore public values." },
+      { "label": "E", "text": "The return of predators raises similar tensions. Wolves are now present in most countries of mainland Europe, largely because legal protection has allowed them to spread from remaining populations, rather than through deliberate reintroduction. Farmers, especially sheep farmers, have suffered real losses, and in several regions conflict has become intensely political. Compensation schemes and subsidies for protective measures such as electric fencing and guard dogs have reduced damage where they have been well funded. It would be naive to pretend that such conflicts will disappear, but they are not a reason to abandon the effort. Some studies suggest that wolves can also benefit farmers indirectly, by reducing numbers of wild boar and deer that damage crops and young trees." },
+      { "label": "F", "text": "Critics raise a further objection: that rewilding reflects the preferences of urban environmentalists rather than those of people who live and work in the countryside. There is some truth in this. Projects imposed from outside, without the consent of local communities, have frequently provoked resentment. Yet the most successful schemes have tended to be those that create new sources of local income, whether from tourism, hunting, or the sale of high-quality meat, and that involve residents in decision-making from the outset." },
+      { "label": "G", "text": "Rewilding is not a solution for every landscape, and it should not replace conventional conservation of fragile habitats such as wildflower meadows, which depend on traditional management to survive. But in the vast areas of Europe that farming is already leaving behind, it offers a cheaper and potentially richer alternative to either costly subsidies or uncontrolled abandonment. Its advocates would do well, however, to spend less time describing an idealised wilderness and more time explaining what local people stand to gain." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "ynng",
+        "instructions": "Questions 1–5\nDo the following statements agree with the views of the writer in the reading passage?\nWrite\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+        "items": [
+          { "id": "q1", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "The wide range of meanings given to the word 'rewilding' has damaged discussion of the subject.", "answer": "YES",
+            "explanation": "The writer says the term 'is used so loosely' that it causes confusion 'and the debate about its merits often suffers as a result'. 'Damaged discussion' paraphrases 'the debate ... suffers'.",
+            "evidence": "The term is used so loosely, however, that it has become a source of confusion, and the debate about its merits often suffers as a result." },
+          { "id": "q2", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "The absence of a fixed goal in European rewilding is entirely an advantage.", "answer": "NO",
+            "explanation": "The writer sees open-endedness as 'both the approach's greatest strength and its most serious political weakness'. Calling it entirely an advantage contradicts this, so NO.",
+            "evidence": "this open-endedness is both the approach's greatest strength and its most serious political weakness" },
+          { "id": "q3", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "Events at the Oostvaardersplassen showed that rewilding is cruel by nature.", "answer": "NO",
+            "explanation": "The writer says the episode 'demonstrated not that rewilding is cruel, but that a process-led approach cannot ignore public values' – a direct rejection of the statement.",
+            "evidence": "the episode demonstrated not that rewilding is cruel, but that a process-led approach cannot ignore public values" },
+          { "id": "q4", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "Compensation payments to farmers for wolf attacks are usually made too slowly.", "answer": "NOT GIVEN",
+            "explanation": "Compensation schemes are mentioned as reducing damage 'where they have been well funded', but the writer says nothing about how quickly payments are made. Funding is not the same as speed, so NOT GIVEN." },
+          { "id": "q5", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "Supporters of rewilding should focus more on the benefits it can bring to local communities.", "answer": "YES",
+            "explanation": "The writer advises advocates to spend 'more time explaining what local people stand to gain'. 'Benefits ... to local communities' paraphrases 'what local people stand to gain'.",
+            "evidence": "Its advocates would do well, however, to spend less time describing an idealised wilderness and more time explaining what local people stand to gain." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-endings",
+        "instructions": "Questions 6–10\nComplete each sentence with the correct ending, A–H, below.",
+        "options": [
+          { "key": "A", "text": "in upland or isolated places where farming no longer pays." },
+          { "key": "B", "text": "been funded entirely by eco-tourism." },
+          { "key": "C", "text": "the return of major predators and the linking of protected areas." },
+          { "key": "D", "text": "given local people both an income and a voice in decisions." },
+          { "key": "E", "text": "the reintroduction of bison onto working farmland." },
+          { "key": "F", "text": "reducing human control so that natural processes shape the land." },
+          { "key": "G", "text": "by spreading on their own from surviving populations." },
+          { "key": "H", "text": "through official reintroduction programmes." }
+        ],
+        "items": [
+          { "id": "q6", "kind": "match", "qtype": "matching-endings", "prompt": "In North America, rewilding originally concentrated on", "answer": "C",
+            "explanation": "The North American form 'focused on large protected cores connected by wildlife corridors, and on the return of top predators'. 'Linking' = 'connected by wildlife corridors'.",
+            "evidence": "rewilding focused on large protected cores connected by wildlife corridors, and on the return of top predators such as wolves" },
+          { "id": "q7", "kind": "match", "qtype": "matching-endings", "prompt": "In the European context, rewilding usually means", "answer": "F",
+            "explanation": "In Europe it 'generally refers to scaling back human management and allowing natural processes ... to determine how a landscape develops'. 'Reducing human control' = 'scaling back human management'.",
+            "evidence": "Here it generally refers to scaling back human management and allowing natural processes" },
+          { "id": "q8", "kind": "match", "qtype": "matching-endings", "prompt": "Most of the farmland expected to be abandoned lies", "answer": "A",
+            "explanation": "Abandonment will happen 'mostly in mountainous or remote areas where agriculture is no longer profitable'. 'Upland or isolated' = 'mountainous or remote'; 'no longer pays' = 'no longer profitable'.",
+            "evidence": "mostly in mountainous or remote areas where agriculture is no longer profitable" },
+          { "id": "q9", "kind": "match", "qtype": "matching-endings", "prompt": "Most of Europe's wolves have arrived in their current locations", "answer": "G",
+            "explanation": "Wolves spread 'from remaining populations, rather than through deliberate reintroduction'. H is the trap: the text explicitly rejects reintroduction as the main cause.",
+            "evidence": "legal protection has allowed them to spread from remaining populations, rather than through deliberate reintroduction" },
+          { "id": "q10", "kind": "match", "qtype": "matching-endings", "prompt": "The most successful rewilding projects have generally", "answer": "D",
+            "explanation": "Successful schemes 'create new sources of local income' and 'involve residents in decision-making from the outset'. B is wrong: tourism is only one of several income sources.",
+            "evidence": "the most successful schemes have tended to be those that create new sources of local income" }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "table-completion",
+        "instructions": "Questions 11–14\nComplete the table below.\nChoose ONE WORD ONLY from the passage for each answer.",
+        "title": "Two European rewilding sites",
+        "template": "| Site | Animals | Results |\n|---|---|---|\n| Knepp Estate, England | cattle, ponies, pigs and deer | grazing created a changing {{q11}} of habitats; declining birds such as turtle doves and {{q12}} arrived; owners earned money from eco-tourism and {{q13}} |\n| Oostvaardersplassen, Netherlands | cattle, horses and red deer, with no {{q14}} | thousands of animals starved in the winter of 2017–2018; culling introduced |",
+        "items": [
+          { "id": "q11", "kind": "gap", "qtype": "table-completion", "answers": ["mosaic"], "maxWords": 1,
+            "explanation": "The animals 'created a shifting mosaic of scrub, grassland and woodland'. 'Changing' paraphrases 'shifting'.",
+            "evidence": "created a shifting mosaic of scrub, grassland and woodland" },
+          { "id": "q12", "kind": "gap", "qtype": "table-completion", "answers": ["nightingales"], "maxWords": 1,
+            "explanation": "The estate became home to declining species 'including turtle doves and nightingales'.",
+            "evidence": "including turtle doves and nightingales" },
+          { "id": "q13", "kind": "gap", "qtype": "table-completion", "answers": ["meat"], "maxWords": 1,
+            "explanation": "The owners 'earned income from eco-tourism and from selling meat produced by the herds'.",
+            "evidence": "the owners earned income from eco-tourism and from selling meat produced by the herds" },
+          { "id": "q14", "kind": "gap", "qtype": "table-completion", "answers": ["predators"], "maxWords": 1,
+            "explanation": "The herds 'were left largely to themselves, without predators'. 'With no' paraphrases 'without'.",
+            "evidence": "were left largely to themselves, without predators" }
+        ]
+      }
+    ]
+  }
+]

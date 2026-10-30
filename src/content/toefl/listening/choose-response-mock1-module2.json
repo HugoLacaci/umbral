@@ -1,0 +1,156 @@
+[
+  {
+    "id": "toefl-cr-m1-lower-1", "difficulty": "easy", "usage": "mock", "mock": 1, "module": "lower", "task": "choose-response", "title": "Favorite study spot",
+    "audio": { "speakers": [{ "id": "s1", "name": "Ashley", "gender": "f", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "What's your favorite place to study on campus?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["The quiet room on the top floor of the library.", "I study biology and chemistry.", "I have class at ten.", "Yes, I like studying here."],
+      "answer": 0,
+      "optionNotes": ["Correct: names a place.", "Answers 'what do you study?'.", "Answers 'when'.", "A yes/no answer to a wh-question."],
+      "explanation": "The question asks for a place. A names one."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-lower-2", "difficulty": "easy", "usage": "mock", "mock": 1, "module": "lower", "task": "choose-response", "title": "Paying by card",
+    "audio": { "speakers": [{ "id": "s1", "name": "George", "gender": "m", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "Can I pay by card here?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It's ten pounds altogether.", "Yes, we take all major cards.", "I paid for it last week.", "The cards are on the table."],
+      "answer": 1,
+      "optionNotes": ["Gives the price, not the payment method.", "Correct: answers yes.", "Repeats 'pay' in the wrong tense.", "Uses 'cards' with a different meaning."],
+      "explanation": "A yes/no question about payment. B answers it directly."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-lower-3", "difficulty": "easy", "usage": "mock", "mock": 1, "module": "lower", "task": "choose-response", "title": "Post office",
+    "audio": { "speakers": [{ "id": "s1", "name": "Jessica", "gender": "f", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Where's the closest post office?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It opens at nine tomorrow.", "I posted the letter yesterday.", "Just around the corner, next to the bank.", "Yes, it's a nice office."],
+      "answer": 2,
+      "optionNotes": ["Answers 'when'.", "Repeats 'post' in a different sense.", "Correct: gives a location.", "A yes/no answer to a 'where' question."],
+      "explanation": "'Where' needs a place: C."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-lower-4", "difficulty": "easy", "usage": "mock", "mock": 1, "module": "lower", "task": "choose-response", "title": "Afternoon weather",
+    "audio": { "speakers": [{ "id": "s1", "name": "Adam", "gender": "m", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "Is it going to rain this afternoon?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It rained a lot last spring.", "I'm going this afternoon.", "I trained this afternoon.", "The forecast says it should stay dry."],
+      "answer": 3,
+      "optionNotes": ["Wrong time: talks about the past.", "Repeats 'going' and 'this afternoon'.", "Sound-alike trap: 'rain/trained'.", "Correct: answers with the forecast."],
+      "explanation": "D answers the question about rain (it will stay dry). The others repeat sounds or words."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-lower-5", "difficulty": "easy", "usage": "mock", "mock": 1, "module": "lower", "task": "choose-response", "title": "Booking study rooms",
+    "audio": { "speakers": [{ "id": "s1", "name": "Eleanor", "gender": "f", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "Who's in charge of booking the study rooms?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["The staff at the front desk handle that.", "You need to book a week ahead.", "I charged my phone last night.", "The rooms are on the second floor."],
+      "answer": 0,
+      "optionNotes": ["Correct: identifies who is responsible.", "Explains booking rules, not who is in charge.", "Plays on 'in charge / charged'.", "Answers 'where'."],
+      "explanation": "'Who' needs a person or group: A."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-lower-6", "difficulty": "easy", "usage": "mock", "mock": 1, "module": "lower", "task": "choose-response", "title": "Coffee before class",
+    "audio": { "speakers": [{ "id": "s1", "name": "Brandon", "gender": "m", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "Would you like some coffee before class?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I liked the class a lot.", "Sure, I could really use some.", "Class starts at ten thirty.", "I'd like to take that class."],
+      "answer": 1,
+      "optionNotes": ["Repeats 'like' and 'class' in the past.", "Correct: accepts the offer.", "Gives a time, but doesn't accept or refuse.", "Repeats 'like' and 'class' but changes the topic."],
+      "explanation": "An offer needs acceptance or refusal. B accepts."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-lower-7", "difficulty": "easy", "usage": "mock", "mock": 1, "module": "lower", "task": "choose-response", "title": "Essay length",
+    "audio": { "speakers": [{ "id": "s1", "name": "Madison", "gender": "f", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "How many pages does the essay need to be?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It's due on Wednesday.", "I've read a lot of pages today.", "It's about the history of the city.", "At least five, not counting the references."],
+      "answer": 3,
+      "optionNotes": ["Answers 'when'.", "Repeats 'pages' but not about the essay.", "Answers 'what is it about?'.", "Correct: gives a number of pages."],
+      "explanation": "'How many pages' needs a number: D."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-upper-1", "difficulty": "hard", "usage": "mock", "mock": 1, "module": "upper", "task": "choose-response", "title": "Overrated café",
+    "audio": { "speakers": [{ "id": "s1", "name": "Justin", "gender": "m", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "I hear the new café on Main Street is pretty overrated." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I heard it on the radio this morning.", "Main Street's closed for repairs.", "Really? I thought their pastries were amazing.", "I'll hear about it at the meeting."],
+      "answer": 2,
+      "optionNotes": ["Takes 'hear' literally.", "Repeats 'Main Street' but ignores the opinion.", "Correct: politely disagrees with the opinion.", "Repeats 'hear' in the future."],
+      "explanation": "'I hear...' means 'people say...'. The speaker shares an opinion; C reacts with a different opinion, which is natural."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-upper-2", "difficulty": "hard", "usage": "mock", "mock": 1, "module": "upper", "task": "choose-response", "title": "Library outlets",
+    "audio": { "speakers": [{ "id": "s1", "name": "Amelia", "gender": "f", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "You'd think the library would have more outlets by now." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Tell me about it. I always end up fighting for one.", "I think they're out of stock.", "The library opened in nineteen sixty-five.", "I'd think about it if I were you."],
+      "answer": 0,
+      "optionNotes": ["Correct: 'Tell me about it' means 'I agree completely'.", "Plays on 'outlets/out'.", "Gives a fact, not a reaction to the complaint.", "Repeats 'think' as advice."],
+      "explanation": "The speaker complains about too few power outlets. A agrees using the idiom 'Tell me about it' and adds a personal experience."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-upper-3", "difficulty": "hard", "usage": "mock", "mock": 1, "module": "upper", "task": "choose-response", "title": "Deadline extension",
+    "audio": { "speakers": [{ "id": "s1", "name": "Lachlan", "gender": "m", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "I wouldn't count on the professor extending the deadline." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I've already counted them twice.", "I know. I'm planning to finish by Thursday anyway.", "The deadline's at five o'clock.", "He extended his office hours this week."],
+      "answer": 1,
+      "optionNotes": ["Takes 'count' literally.", "Correct: accepts the warning and shows a plan.", "Repeats 'deadline' without reacting to the warning.", "Repeats 'extend' about a different thing."],
+      "explanation": "'Don't count on it' means 'don't expect it'. B accepts the warning naturally."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-upper-4", "difficulty": "hard", "usage": "mock", "mock": 1, "module": "upper", "task": "choose-response", "title": "Internship day",
+    "audio": { "speakers": [{ "id": "s1", "name": "Brooke", "gender": "f", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "Aren't you supposed to be at your internship today?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I supposed it would be harder.", "Yes, the internship pays really well.", "I'm in my second year now.", "They gave us the day off for the holiday."],
+      "answer": 3,
+      "optionNotes": ["Repeats 'supposed' with a different meaning.", "Says 'yes' but talks about pay, not about today.", "Unrelated personal information.", "Correct: explains why the listener isn't at the internship."],
+      "explanation": "The negative question shows surprise ('Why are you here?'). D explains the situation without saying 'no' directly."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-upper-5", "difficulty": "hard", "usage": "mock", "mock": 1, "module": "upper", "task": "choose-response", "title": "Confusing instructions",
+    "audio": { "speakers": [{ "id": "s1", "name": "Henry", "gender": "m", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "I can't make heads or tails of these lab instructions." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Heads, I think. Let's flip again.", "I can't make it to the lab today either.", "Let's go through them together. Step one's pretty clear, at least.", "The lab's in the science building."],
+      "answer": 2,
+      "optionNotes": ["Takes 'heads or tails' as a coin toss.", "Repeats 'can't make' with a different meaning.", "Correct: offers help with the confusing instructions.", "Gives a location nobody asked for."],
+      "explanation": "'Can't make heads or tails of' means 'can't understand'. C offers to help understand them."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-upper-6", "difficulty": "hard", "usage": "mock", "mock": 1, "module": "upper", "task": "choose-response", "title": "Concert line",
+    "audio": { "speakers": [{ "id": "s1", "name": "Kayla", "gender": "f", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "So much for getting into the concert early." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Yeah, who knew the line would wrap around the block?", "It cost so much to get in.", "The concert starts at eight.", "Thanks so much for the ticket."],
+      "answer": 0,
+      "optionNotes": ["Correct: agrees that their plan failed and explains why.", "Repeats 'so much' about price.", "Gives a time but ignores the disappointment.", "Repeats 'so much' as thanks."],
+      "explanation": "'So much for X' means 'X didn't happen as planned'. A reacts to the failed plan."
+    }]
+  },
+  {
+    "id": "toefl-cr-m1-upper-7", "difficulty": "hard", "usage": "mock", "mock": 1, "module": "upper", "task": "choose-response", "title": "Joining the museum trip",
+    "audio": { "speakers": [{ "id": "s1", "name": "Connor", "gender": "m", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "Mind if I tag along to the museum this weekend?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I don't mind museums at all.", "The more the merrier. We're leaving at ten.", "There's a price tag on the back.", "The museum's free on Sundays."],
+      "answer": 1,
+      "optionNotes": ["Repeats 'mind' but talks about liking museums.", "Correct: welcomes the speaker and gives a useful detail.", "Plays on 'tag'.", "A fact about the museum, not an answer to the request."],
+      "explanation": "'Tag along' means 'join you'. B accepts with the idiom 'the more the merrier'."
+    }]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ielts-l-p2-04",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 2,
+    "title": "The new Riverside Library",
+    "context": "You will hear a librarian talking to local residents at the opening of a new community library.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Michelle", "role": "Head librarian", "gender": "f", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good afternoon, everybody, and thank you for coming to the opening of the new Riverside Library. I'm Michelle, the head librarian. We've been waiting three years for this building, so it's very exciting to finally welcome you inside. In a moment you can explore, but first I'll explain the layout of the ground floor, using the plan on the leaflet you were given at the door." },
+        { "s": "a", "t": "You'll see that the main entrance is in the middle of the south wall, at the bottom of the plan, and the reception desk is just inside the door. The staircase to the upper floor is in the centre of the building, straight ahead of you as you come in." },
+        { "s": "a", "t": "Let's start with the café. As you come in through the main entrance, the café is immediately on your right, in the south-east corner. We put it there deliberately, because it has its own outside door, so people can use it even when the library is closed." },
+        { "s": "a", "t": "Now, many people expected the children's library to be right by the entrance too, but we decided against that. The corner on your left as you enter, the south-west corner, is actually where parents can leave their strollers. The children's library is a little further along the west wall, in the middle of the west side of the building. It's got lots of natural light from the big windows there." },
+        { "s": "a", "t": "If you walk straight past the reception desk and go around the staircase, you'll find the computers directly behind the stairs, against the north wall, in the middle. There are thirty machines, and they're free to use for an hour at a time." },
+        { "s": "a", "t": "In the north-west corner, there's the local history room. It holds old maps, photographs and newspapers going back to the 1850s, and our volunteers can help you trace your family history." },
+        { "s": "a", "t": "Many of you asked for somewhere really quiet to work, so the silent study room is in the north-east corner, as far as possible from the café and the children. Phones must be switched off in there, I'm afraid." },
+        { "s": "a", "t": "And finally, along the east wall, between the café and the silent study room, you'll find our brand new makerspace, with sewing machines, a 3D printer and electronics kits. Oh, and to the left of the stairs there's a reading area with today's newspapers and magazines." },
+        { "s": "a", "t": "Now, a few practical points. If you'd like to join the library today, it only takes a few minutes. You don't need photo ID, but you do need something that proves where you live, like a utility bill or a bank statement. And you don't need to bring a photograph, because we'll print your card at the desk." },
+        { "s": "a", "t": "Our opening hours on weekdays will stay the same as at the old library, nine until eight, and on Saturdays we close at five. But there's some good news. From next month, for the first time ever, we'll be open on Sundays, from noon until five." },
+        { "s": "a", "t": "Some of you have already asked about the makerspace. Using the equipment is completely free, and you don't need to book. However, before you use the 3D printer, you must attend a short training course, which takes about thirty minutes. They run every Saturday morning." },
+        { "s": "a", "t": "And lastly, overdue books. In the past, you'll remember, we charged twenty-five cents a day for late returns. Well, I'm pleased to say we've removed those fines completely. We'd much rather have the books back than collect the money. You'll still get a reminder by email if something's late, though." },
+        { "s": "a", "t": "Right, that's enough from me. Please go and explore, and enjoy your new library." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "map-labelling",
+        "instructions": "Questions 11–16\nLabel the plan below.\nWrite the correct letter, A–H, next to Questions 11–16.",
+        "title": "Riverside Library – Ground floor",
+        "options": [
+          { "key": "A", "text": "A" }, { "key": "B", "text": "B" }, { "key": "C", "text": "C" }, { "key": "D", "text": "D" },
+          { "key": "E", "text": "E" }, { "key": "F", "text": "F" }, { "key": "G", "text": "G" }, { "key": "H", "text": "H" }
+        ],
+        "diagram": {
+          "width": 600,
+          "height": 400,
+          "compass": true,
+          "shapes": [
+            { "kind": "room", "x": 20, "y": 20, "w": 560, "h": 350 },
+            { "kind": "room", "x": 270, "y": 150, "w": 60, "h": 60, "label": "Stairs" },
+            { "kind": "room", "x": 250, "y": 285, "w": 100, "h": 45, "label": "Reception" },
+            { "kind": "label", "x": 300, "y": 390, "label": "Main entrance" }
+          ],
+          "markers": [
+            { "key": "A", "x": 80, "y": 320 },
+            { "key": "B", "x": 80, "y": 195 },
+            { "key": "C", "x": 80, "y": 70 },
+            { "key": "D", "x": 300, "y": 70 },
+            { "key": "E", "x": 520, "y": 70 },
+            { "key": "F", "x": 520, "y": 195 },
+            { "key": "G", "x": 520, "y": 320 },
+            { "key": "H", "x": 195, "y": 180 }
+          ]
+        },
+        "items": [
+          { "id": "q11", "kind": "match", "qtype": "map-labelling", "prompt": "Café", "answer": "G",
+            "explanation": "Immediately on the right of the entrance, in the south-east corner.",
+            "evidence": "the café is immediately on your right, in the south-east corner" },
+          { "id": "q12", "kind": "match", "qtype": "map-labelling", "prompt": "Children's library", "answer": "B",
+            "explanation": "Not the south-west corner (A, where strollers are left) but the middle of the west side.",
+            "evidence": "in the middle of the west side of the building" },
+          { "id": "q13", "kind": "match", "qtype": "map-labelling", "prompt": "Computers", "answer": "D",
+            "explanation": "Directly behind the stairs, against the north wall, in the middle.",
+            "evidence": "you'll find the computers directly behind the stairs, against the north wall, in the middle" },
+          { "id": "q14", "kind": "match", "qtype": "map-labelling", "prompt": "Local history room", "answer": "C",
+            "explanation": "It is in the north-west corner.",
+            "evidence": "In the north-west corner, there's the local history room." },
+          { "id": "q15", "kind": "match", "qtype": "map-labelling", "prompt": "Silent study room", "answer": "E",
+            "explanation": "It is in the north-east corner, far from the café and the children.",
+            "evidence": "the silent study room is in the north-east corner" },
+          { "id": "q16", "kind": "match", "qtype": "map-labelling", "prompt": "Makerspace", "answer": "F",
+            "explanation": "Along the east wall, between the café (south-east) and the silent study room (north-east). H, left of the stairs, is the newspaper area.",
+            "evidence": "along the east wall, between the café and the silent study room, you'll find our brand new makerspace" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 17–20\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q17", "kind": "mcq", "qtype": "mcq", "prompt": "To join the library, people need to bring",
+            "options": ["photo identification.", "proof of their address.", "a passport photograph."], "answer": 1,
+            "explanation": "Photo ID and a photograph are not needed; you need something that proves where you live.",
+            "evidence": "you do need something that proves where you live",
+            "optionNotes": ["Not needed.", "Correct.", "Not needed: the card is printed at the desk."] },
+          { "id": "q18", "kind": "mcq", "qtype": "mcq", "prompt": "What change to the opening hours will happen next month?",
+            "options": ["The library will open on Sundays.", "The library will open earlier on weekdays.", "The library will close later on Saturdays."], "answer": 0,
+            "explanation": "Weekday hours stay the same and Saturdays still close at five; Sunday opening is new.",
+            "evidence": "we'll be open on Sundays, from noon until five",
+            "optionNotes": ["Correct.", "Weekday hours stay the same.", "It still closes at five on Saturdays."] },
+          { "id": "q19", "kind": "mcq", "qtype": "mcq", "prompt": "Before using the 3D printer, people must",
+            "options": ["pay a small fee.", "book a time in advance.", "complete a short course."], "answer": 2,
+            "explanation": "The equipment is free and needs no booking, but a 30-minute training course is required for the 3D printer.",
+            "evidence": "you must attend a short training course",
+            "optionNotes": ["Using the equipment is free.", "You don't need to book.", "Correct."] },
+          { "id": "q20", "kind": "mcq", "qtype": "mcq", "prompt": "What does Michelle say about overdue books?",
+            "options": ["Fines for late returns have been removed.", "Fines for late returns have increased.", "Reminders are now sent by text message."], "answer": 0,
+            "explanation": "The library has removed fines completely. Reminders are still sent, but by email.",
+            "evidence": "we've removed those fines completely",
+            "optionNotes": ["Correct.", "The opposite is true.", "Reminders are sent by email, not text."] }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "ielts-t1-line-1",
+    "difficulty": "easy",
+    "usage": "practice",
+    "chartType": "line",
+    "prompt": "The graph below shows the number of visitors to three museums in Harbourton between 2010 and 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "line",
+      "title": "Visitors to three museums in Harbourton, 2010–2020",
+      "xLabel": "Year",
+      "yLabel": "Visitors (thousands)",
+      "unit": "thousand",
+      "categories": ["2010", "2012", "2014", "2016", "2018", "2020"],
+      "series": [
+        { "name": "Science Museum", "values": [420, 460, 510, 580, 640, 700] },
+        { "name": "Art Museum", "values": [350, 340, 330, 310, 300, 290] },
+        { "name": "History Museum", "values": [200, 240, 290, 330, 360, 400] }
+      ]
+    },
+    "keyFeatures": [
+      "The Science Museum was the most visited throughout and grew the most in absolute terms (420,000 → 700,000).",
+      "Visitor numbers at the History Museum doubled (200,000 → 400,000).",
+      "The Art Museum was the only one to decline, falling steadily from 350,000 to 290,000.",
+      "The History Museum overtook the Art Museum between 2014 and 2016."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The line graph illustrates the number of people who visited three museums in Harbourton between 2010 and 2020, measured in thousands.\n\nOverall, the Science Museum was consistently the most popular attraction and saw the largest growth, while attendance at the History Museum also rose steadily. By contrast, the Art Museum experienced a gradual decline and was overtaken by the History Museum midway through the period.\n\nIn 2010, the Science Museum attracted 420,000 visitors, compared with 350,000 for the Art Museum and just 200,000 for the History Museum. Over the following decade, the figure for the Science Museum climbed at every two-year interval, reaching a peak of 700,000 in 2020, an increase of two-thirds.\n\nThe History Museum followed a similar upward trend, doubling its visitor numbers from 200,000 to 400,000. Meanwhile, the Art Museum's figures fell slowly but consistently, slipping to 310,000 in 2016 and ending the period at 290,000. As a result, the History Museum, which welcomed 330,000 visitors in 2016, moved ahead of the Art Museum at some point between 2014 and 2016 and remained ahead thereafter.",
+        "commentary": "Task Achievement (8): overview claro en el segundo párrafo (el Science Museum lidera, History sube, Art baja y es superado) y datos seleccionados con criterio: no copia cada cifra, sino inicio, final y el cruce entre History y Art. Todos los números coinciden con el gráfico. Coherence & Cohesion (8): los párrafos agrupan las líneas que suben frente a la que baja; conectores variados y naturales (By contrast, Meanwhile, As a result). Lexical Resource (8): vocabulario de tendencias preciso (climbed, slipping, moved ahead of, remained ahead thereafter) y expresiones de proporción (an increase of two-thirds, doubling). Grammatical Range & Accuracy (8): oraciones de relativo, participios y comparaciones sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The graph show the visitors of three museums from 2010 to 2020.\n\nThe Science Museum had 420 thousand visitors in 2010. In 2012 it had 460 thousand and in 2014 it had 510 thousand. Then it increase to 580 thousand in 2016 and 640 thousand in 2018. In 2020 it was 700 thousand, so it go up a lot.\n\nThe Art Museum start with 350 thousand visitors in 2010. After it decreased to 340 thousand in 2012 and 330 thousand in 2014. In 2016 was 310 thousand and in 2018 it was 300 thousand. Finally in 2020 it was 290 thousand.\n\nThe History Museum had 200 thousand visitors in 2010 and it increased to 240 thousand in 2012. In 2014 it was 290 thousand and 330 thousand in 2016. In 2018 there was 360 thousand visitors and in 2020 there was 400 thousand.\n\nIn conclusion, the Science Museum is the most popular museum and the Art Museum is decreasing.",
+        "commentary": "Task Achievement (6): cubre las tres líneas y los datos son correctos, pero es un listado mecánico de todas las cifras sin seleccionar lo importante; no hay overview al principio y la conclusión final es muy pobre (no menciona que History supera a Art ni que se duplica). Coherence & Cohesion (6): un párrafo por museo, pero sin comparaciones entre ellos; conectores repetitivos (In 2012… In 2014… Then… Finally). Lexical Resource (6): vocabulario limitado y repetido (it was, it had, go up a lot). Grammatical Range & Accuracy (6): estructuras simples y errores frecuentes de concordancia y tiempo verbal (The graph show, it increase, it go up, start, In 2016 was, there was 360 thousand visitors), aunque el mensaje se entiende."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-line-2",
+    "difficulty": "medium",
+    "usage": "practice",
+    "chartType": "line",
+    "prompt": "The graph below shows the percentage of electricity generated from renewable sources in three countries between 1995 and 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "line",
+      "title": "Share of electricity from renewable sources, 1995–2020",
+      "xLabel": "Year",
+      "yLabel": "% of total electricity",
+      "unit": "%",
+      "categories": ["1995", "2000", "2005", "2010", "2015", "2020"],
+      "series": [
+        { "name": "Norland", "values": [45, 47, 50, 55, 61, 68] },
+        { "name": "Castavia", "values": [10, 12, 15, 24, 35, 47] },
+        { "name": "Belmont", "values": [20, 19, 18, 18, 20, 22] }
+      ]
+    },
+    "keyFeatures": [
+      "Norland had the highest share throughout (45% → 68%).",
+      "Castavia showed the most dramatic growth, especially after 2005 (10% → 47%), overtaking Belmont by 2010.",
+      "Belmont's share remained almost stable at around 20% (18–22%).",
+      "Overall, renewables grew in importance in two of the three countries."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The line graph compares the percentage of electricity generated from renewable sources in Norland, Castavia and Belmont over the 25-year period from 1995 to 2020.\n\nOverall, renewables accounted for a growing share of electricity in Norland and Castavia, with Norland remaining the clear leader throughout. Castavia, however, recorded by far the most dramatic rise, whereas the figure for Belmont changed very little.\n\nIn 1995, almost half of Norland's electricity (45%) came from renewable sources, more than double the proportion in Belmont (20%) and four and a half times that in Castavia (10%). Norland's share grew slowly at first, reaching 50% in 2005, before accelerating to 68% by 2020.\n\nCastavia's growth was even more striking. After modest increases to 15% in 2005, its renewable share jumped to 24% in 2010, overtaking Belmont, and then climbed steeply to 47% by the end of the period, almost five times its 1995 level. Belmont, in contrast, saw its figure dip slightly to 18% by 2005, where it remained in 2010, before recovering only marginally, to 22%, in 2020.",
+        "commentary": "Task Achievement (8): overview completo (dos países crecen, Norland lidera, Castavia crece más, Belmont estable) y cifras clave bien elegidas: punto de partida, aceleración, cruce Castavia-Belmont y final. Las comparaciones (more than double, four and a half times, almost five times) son exactas. Coherence & Cohesion (8): progresión lógica, un párrafo para la situación inicial y Norland y otro para el contraste Castavia/Belmont; referencias claras (its renewable share, the figure for Belmont). Lexical Resource (8): léxico preciso y variado (accelerating, jumped, climbed steeply, dip slightly, recover only marginally). Grammatical Range & Accuracy (8): participios (overtaking Belmont), comparativos complejos y frases subordinadas sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The graph shows information about renewable energy in three countries, Norland, Castavia and Belmont, between 1995 and 2020.\n\nNorland had the highest percentage in all the years. In 1995 it was 45% and it increased to 50% in 2005. After that it increased more quickly and in 2020 it was 68%.\n\nCastavia started with only 10% in 1995. It grew slowly until 2005, when it was 15%, but after this the percentage raise very fast and it reached to 47% in 2020. In 2010 Castavia was more than Belmont.\n\nBelmont was 20% in 1995 and then it decrease a little to 18%. In 2020 it was 22%, so it didn't changed so much in all the period.\n\nIn general, the renewable energy is increasing in the countries and this is good for the environment because there is less pollution, so other countries should use more renewable energy too.",
+        "commentary": "Task Achievement (6): describe las tres tendencias con datos correctos, pero el overview es tardío y vago, y la conclusión añade una opinión (good for the environment, other countries should…), algo que no se pide en Task 1 y penaliza. Coherence & Cohesion (6): organización clara por países, pero apenas compara entre ellos; conectores básicos (After that, then, so). Lexical Resource (6): suficiente para la tarea pero repetitivo (it increased, it was) y con errores de forma (the percentage raise en lugar de rose, reached to). Grammatical Range & Accuracy (6): mezcla de frases simples y algunas complejas correctas (when it was 15%), pero con errores visibles (it decrease, didn't changed)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-line-3",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "line",
+    "prompt": "The graph below shows the number of passengers using three forms of public transport in Lindgate at different times on an average weekday.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "line",
+      "title": "Passengers on an average weekday in Lindgate, by time of day",
+      "xLabel": "Time",
+      "yLabel": "Passengers (thousands)",
+      "unit": "thousand",
+      "categories": ["06:00", "08:00", "10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "series": [
+        { "name": "Metro", "values": [15, 95, 40, 35, 38, 60, 105, 45, 20] },
+        { "name": "Bus", "values": [10, 50, 30, 32, 30, 42, 55, 25, 12] },
+        { "name": "Bike share", "values": [2, 14, 6, 8, 7, 10, 18, 9, 3] }
+      ]
+    },
+    "keyFeatures": [
+      "The metro carried the most passengers at every time of day; bike share the fewest.",
+      "All three modes show two peaks: a morning rush (08:00) and a higher evening rush (18:00).",
+      "Usage was moderate and fairly stable in the middle of the day.",
+      "Numbers were lowest early in the morning and late at night."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The line graph shows how many passengers used the metro, buses and the bike-share scheme in Lindgate at two-hour intervals on a typical weekday, from 6 am to 10 pm.\n\nOverall, the metro was by far the most heavily used form of transport at every time of day. All three modes followed the same pattern, with two distinct peaks corresponding to the morning and evening rush hours, the evening peak being slightly higher in each case.\n\nAt 6 am, passenger numbers were low, ranging from just 2,000 for bike share to 15,000 for the metro. Usage then surged to a morning high at 8 am, when the metro carried 95,000 people, almost double the bus figure of 50,000, while 14,000 used shared bikes.\n\nDuring the middle of the day, demand fell back and remained fairly stable, at roughly 35,000 to 40,000 for the metro and around 30,000 for buses. A second, larger surge occurred at 6 pm, when the metro reached its daily maximum of 105,000 passengers, compared with 55,000 for buses and 18,000 for bikes. Numbers then declined sharply, and by 10 pm they had returned to levels close to those of the early morning.",
+        "commentary": "Task Achievement (8): el overview identifica los dos rasgos esenciales (el metro domina siempre y el patrón de doble pico, con el de la tarde más alto). En un gráfico con 27 datos, el texto selecciona bien: extremos, picos y la meseta del mediodía con cifras aproximadas correctas. Coherence & Cohesion (8): organización cronológica (mañana, mediodía, tarde-noche) que permite comparar los tres medios a la vez en lugar de describirlos por separado. Lexical Resource (8): surged, fell back, remained fairly stable, daily maximum, corresponding to the rush hours. Grammatical Range & Accuracy (8): cláusula absoluta (the evening peak being slightly higher), relativas con when y pasado perfecto (had returned) usados con precisión."
+      },
+      {
+        "level": "6",
+        "text": "The line graph gives information about the passengers of metro, bus and bike share in one day.\n\nFirstly, the metro is the most popular transport. At 6:00 there is 15,000 passengers and at 8:00 there is 95,000 passengers. After this the number go down to 40,000 at 10:00 and 35,000 at 12:00. In the evening at 18:00 is the maximum with 105,000 passengers and then it fall to 20,000 at 22:00.\n\nSecondly, the bus has less passengers than the metro. The highest number is at 18:00 with 55,000 and also at 8:00 there are 50,000. In the middle of the day it is about 30,000 and it don't change very much.\n\nFinally, the bike share is the less popular. It have only 2,000 at 6:00 and the maximum is 18,000 at 18:00.\n\nTo sum up, people use more the transport when they go to work and when they come back to home.",
+        "commentary": "Task Achievement (6): las cifras son correctas y la conclusión apunta a los picos, pero el patrón común de doble pico no se presenta como overview claro y la descripción de las bicis es muy escasa. Usa el presente para datos de un día concreto, lo cual se acepta, pero de forma inconsistente. Coherence & Cohesion (6): estructura mecánica Firstly / Secondly / Finally, un medio por párrafo y sin comparaciones entre ellos en el mismo momento del día. Lexical Resource (6): vocabulario limitado (go down, the maximum) y errores (less passengers en lugar de fewer, the less popular en lugar de the least popular, come back to home). Grammatical Range & Accuracy (6): errores de concordancia frecuentes (there is 15,000 passengers, the number go down, it fall, It have) y orden incorrecto (use more the transport)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-bar-1",
+    "difficulty": "easy",
+    "usage": "practice",
+    "chartType": "bar",
+    "prompt": "The chart below shows the number of books borrowed from Westbrook Public Library in five categories in 2015 and 2023.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "bar",
+      "title": "Books borrowed from Westbrook Public Library, by category",
+      "xLabel": "Category",
+      "yLabel": "Loans (thousands)",
+      "unit": "thousand",
+      "categories": ["Fiction", "Children's", "Biography", "Travel", "Science"],
+      "series": [
+        { "name": "2015", "values": [48, 30, 15, 12, 9] },
+        { "name": "2023", "values": [36, 42, 17, 6, 14] }
+      ]
+    },
+    "keyFeatures": [
+      "Fiction was the most borrowed category in 2015 but was overtaken by children's books in 2023.",
+      "Children's books showed the largest increase (30,000 → 42,000).",
+      "Fiction (−25%) and travel (halved) were the only categories to fall.",
+      "Science and biography loans rose."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The bar chart compares the number of books borrowed from Westbrook Public Library in five categories in 2015 and 2023.\n\nOverall, fiction lost its position as the most borrowed genre to children's books, which saw the largest increase over the eight-year period. While loans of science and biography titles also grew, travel books moved from fourth place to become the least popular category of all.\n\nIn 2015, fiction was clearly the most popular genre, with 48,000 loans, followed by children's books at 30,000. Considerably fewer people borrowed biographies (15,000), travel guides (12,000) or science books (9,000).\n\nBy 2023, the picture had changed noticeably. Borrowing of children's books rose by 12,000 to 42,000, overtaking fiction, which fell by a quarter to 36,000. Science titles recorded the second-largest gain, increasing from 9,000 to 14,000, and biographies edged up slightly to 17,000, a rise of only 2,000. Travel was the only category apart from fiction to decline, with loans halving from 12,000 to just 6,000, so it ended the period as the least borrowed genre.",
+        "commentary": "Task Achievement (8): overview claro (cambio de líder, mayor subida, categoría menos popular) y datos exactos para los dos años; los cálculos (by a quarter, halving, rose by 12,000) son correctos. Coherence & Cohesion (8): un párrafo por año, y en 2023 agrupa los aumentos y las caídas; buena referencia (which, so it ended). Lexical Resource (8): variedad para evitar repetir 'books' (genre, titles, loans, travel guides) y verbos de cambio (edged up, overtaking, recorded the second-largest gain). Grammatical Range & Accuracy (8): pasado perfecto (had changed), relativas y participios bien empleados; sin errores relevantes."
+      },
+      {
+        "level": "6",
+        "text": "The bar chart shows how many books people borrowed in a library in 2015 and 2023. There are five kinds of books: fiction, children's, biography, travel and science.\n\nIn 2015 fiction was the most popular with 48,000 books and it was much more than the other kinds. Children's books was 30,000, biography was 15,000, travel was 12,000 and science was 9,000.\n\nIn 2023 fiction decreased to 36,000 but children's books increased to 42,000, so children's books were more popular. Biography was 17,000 and it is a little more than 2015. Travel books decreased very much to 6,000, it is the half. Science books increased to 14,000, so it was not the last anymore.\n\nIn conclusion, some kinds of books increased and other decreased. I think children read more books now because parents want they read more and less people like travel books because they use internet for travel information.",
+        "commentary": "Task Achievement (6): todas las cifras son correctas y se menciona el cambio de líder, pero el primer párrafo es una lista de números, el overview final es demasiado general (some increased and other decreased) y la frase I think… introduce explicaciones inventadas que no están en el gráfico. Coherence & Cohesion (6): organización por años aceptable, pero pocas comparaciones (no dice cuánto cae fiction ni que travel se reduce a la mitad). Lexical Resource (6): vocabulario básico y repetitivo (was, increased, decreased very much). Grammatical Range & Accuracy (6): errores de concordancia y estructura (Children's books was, other decreased, want they read, less people), aunque no impiden la comunicación."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-bar-2",
+    "difficulty": "medium",
+    "usage": "practice",
+    "chartType": "bar",
+    "prompt": "The chart below shows the percentage of employees in five sectors who worked from home at least one day per week in 2018, 2021 and 2024.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "bar",
+      "title": "Employees working from home at least one day per week, by sector",
+      "xLabel": "Sector",
+      "yLabel": "% of employees",
+      "unit": "%",
+      "categories": ["Finance", "IT", "Education", "Retail", "Healthcare"],
+      "series": [
+        { "name": "2018", "values": [22, 35, 8, 3, 5] },
+        { "name": "2021", "values": [71, 85, 46, 12, 18] },
+        { "name": "2024", "values": [54, 72, 15, 6, 11] }
+      ]
+    },
+    "keyFeatures": [
+      "Remote working rose sharply in every sector from 2018 to 2021, then fell by 2024 but stayed above 2018 levels.",
+      "IT had the highest rate in all three years; retail the lowest.",
+      "Office-based sectors (IT, finance) had much higher rates than retail and healthcare.",
+      "Education saw the biggest proportional jump (8% → 46%) and the biggest fall afterwards (→ 15%)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The bar chart shows the proportion of employees in five sectors who worked from home for at least one day per week in 2018, 2021 and 2024.\n\nOverall, remote working rose sharply in every sector between 2018 and 2021 before falling back by 2024, although in all cases the final figure remained higher than at the start. Office-based sectors such as IT and finance had far higher rates than retail and healthcare throughout.\n\nIn 2018, just over a third of IT workers (35%) and 22% of those in finance worked from home weekly, while the figures for the other three sectors were negligible, ranging from 3% in retail to 8% in education. Three years later, these proportions had soared, reaching 85% in IT and 71% in finance. Education saw the most dramatic change, with its figure rising almost sixfold to 46%.\n\nBy 2024, rates had declined everywhere. IT (72%) and finance (54%) still had a majority of staff working remotely, but education dropped back to just 15%. Retail and healthcare, where remote work is least practical, ended at only 6% and 11% respectively.",
+        "commentary": "Task Achievement (8): el overview recoge las dos ideas clave (subida generalizada y caída posterior sin volver al nivel inicial; diferencia entre sectores de oficina y el resto). Las cifras son exactas y bien agrupadas; almost sixfold (8 → 46) es correcto. La breve explicación 'where remote work is least practical' es razonable, aunque conviene no abusar de interpretaciones. Coherence & Cohesion (8): organización cronológica por años con agrupación de sectores parecidos; muy buen uso de respectively y de referencias (those in finance, these proportions). Lexical Resource (8): negligible, soared, dropped back, a majority of staff. Grammatical Range & Accuracy (8): pasado perfecto, participios y relativas variados y precisos."
+      },
+      {
+        "level": "6",
+        "text": "The chart shows the percentage of workers who work at home in five different sectors in 2018, 2021 and 2024. The sectors are finance, IT, education, retail and healthcare.\n\nIn 2018 the IT sector had 35% and finance 22%, they were the highest. Education had 8%, retail 3% and healthcare 5%. In 2021 all the sectors increased very much because of the pandemic. IT was 85%, finance was 71% and education was 46%. Retail and healthcare were 12% and 18%.\n\nIn 2024 the percentages decreased in all the sectors. IT had 72%, finance had 54%, education had 15%, retail 6% and healthcare 11%.\n\nIn conclusion, IT is the sector with more people working from home and retail is the sector with less. Working from home increased in 2021 and after it decreased in 2024, but it is still more than in 2018 in all the sectors.",
+        "commentary": "Task Achievement (6): todos los datos son correctos y la conclusión contiene un overview razonable, pero el cuerpo es una lista de cifras año por año, sin destacar el cambio espectacular de education ni comparar sectores. Atribuir la subida a 'the pandemic' es información que no aparece en el gráfico. Coherence & Cohesion (6): párrafos lógicos, pero muy pocos conectores y ninguna referencia comparativa entre sectores. Lexical Resource (6): repetitivo (had, was, increased very much) y algún uso poco natural (work at home, the sector with more people / with less). Grammatical Range & Accuracy (6): casi todo son frases simples; la precisión es aceptable pero el rango es limitado."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-bar-3",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "bar",
+    "prompt": "The chart below shows annual water consumption per person in six countries, divided into agricultural, industrial and domestic use.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "bar",
+      "title": "Annual water consumption per person, by use (cubic metres)",
+      "xLabel": "Country",
+      "yLabel": "Cubic metres per person",
+      "unit": "m³",
+      "horizontal": true,
+      "categories": ["Aldoria", "Bresk", "Corvany", "Delmar", "Estova", "Fenwick"],
+      "series": [
+        { "name": "Agricultural", "values": [820, 310, 150, 540, 95, 400] },
+        { "name": "Industrial", "values": [140, 420, 260, 90, 380, 210] },
+        { "name": "Domestic", "values": [110, 160, 130, 70, 80, 120] }
+      ]
+    },
+    "keyFeatures": [
+      "Two groups: agriculture is the main use in Aldoria, Delmar and Fenwick; industry is the main use in Bresk, Corvany and Estova.",
+      "Domestic use is the smallest category in every country and varies little (70–160 m³).",
+      "Aldoria has the highest total consumption (1,070 m³), driven by agriculture (820 m³).",
+      "Bresk has the highest industrial use (420 m³)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The bar chart compares annual water consumption per person in six countries, broken down into agricultural, industrial and domestic use and measured in cubic metres.\n\nOverall, the countries fall into two distinct groups: in Aldoria, Delmar and Fenwick, agriculture accounted for most of the water consumed, whereas in Bresk, Corvany and Estova, industry was the main user. In every country, domestic use was the smallest of the three categories.\n\nAldoria stands out as the most water-intensive nation, with a total of 1,070 cubic metres per person, of which 820 went to farming. Agriculture also dominated in Delmar (540) and Fenwick (400), where industrial demand was considerably lower, at 90 and 210 cubic metres respectively.\n\nAmong the more industrialised countries, Bresk had the highest industrial consumption, at 420 cubic metres, followed by Estova (380) and Corvany (260). In these three nations, agricultural use was lower, ranging from 310 cubic metres in Bresk to just 95 in Estova.\n\nDomestic consumption varied relatively little, from 70 cubic metres per person in Delmar to 160 in Bresk.",
+        "commentary": "Task Achievement (8): con 18 datos, el texto encuentra el patrón que importa (dos grupos de países según el uso principal) y lo presenta en el overview; además calcula correctamente el total de Aldoria (820 + 140 + 110 = 1,070). Coherence & Cohesion (8): un párrafo por grupo y otro para el uso doméstico; los países se comparan dentro de cada grupo en vez de describirse uno a uno. Lexical Resource (8): stands out, water-intensive, accounted for, broken down into, demand. Grammatical Range & Accuracy (8): relativas (of which 820 went to farming, where industrial demand…), respectively y estructuras de rango (ranging from… to…) sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The bar chart show the water consumption in six countries for agriculture, industry and domestic.\n\nAldoria uses 820 cubic metres for agriculture, this is the highest in the chart. Also it uses 140 for industry and 110 for domestic. Bresk uses more water for industry, 420, and 310 for agriculture and 160 for domestic. Corvany uses 150 for agriculture and 260 for industry and 130 for domestic.\n\nDelmar uses 540 for agriculture but only 90 for industry and 70 for domestic, this is the lowest. Estova uses 95 for agriculture, it is very low, and 380 for industry. Fenwick uses 400 for agriculture and 210 for industry and 120 for domestic, so it is similar to Aldoria but less.\n\nIn conclusion, the countries use water in different way, some countries use more for agriculture and some countries use more for industry. Domestic use is not very important in all the countries.",
+        "commentary": "Task Achievement (6): datos correctos y la conclusión insinúa los dos grupos, pero sin decir qué países pertenecen a cada uno; el cuerpo describe país por país sin seleccionar (falta el uso doméstico de Estova y el total de Aldoria). 'Not very important' es una interpretación imprecisa: lo correcto es decir que es la categoría más pequeña. Coherence & Cohesion (6): la agrupación en párrafos es arbitraria (tres países por párrafo) y abundan las comas que unen oraciones (this is the highest in the chart). Lexical Resource (6): muy repetitivo (uses… for… and… for) y 'domestic' usado como sustantivo. Grammatical Range & Accuracy (6): errores como The bar chart show, in different way; predominan frases simples."
+      }
+    ]
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "id": "ielts-l-p4-07",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 4,
+    "title": "Why batteries wear out",
+    "context": "You will hear part of an engineering lecture about why lithium-ion batteries lose capacity and what alternatives are being developed.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "lec",
+          "name": "Dr Martin Leclerc",
+          "role": "lecturer",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "lec",
+          "t": "Good afternoon. In today's lecture on energy storage, I want to explain why the lithium-ion batteries in our phones, laptops and electric cars gradually lose their capacity, and then look at some of the alternative chemistries that researchers are developing."
+        },
+        {
+          "s": "lec",
+          "t": "Let's begin with how a lithium-ion cell actually works. Every cell has two electrodes. The negative electrode, the anode, is usually made of graphite, which is a form of carbon arranged in thin layers. The positive electrode, the cathode, is a metal oxide containing lithium. Between them is a liquid called the electrolyte, and a very thin porous plastic sheet known as the separator, which keeps the two electrodes from touching. When you charge the cell, lithium ions leave the cathode, travel through the electrolyte and slot in between the layers of graphite in the anode. When you use the battery, they travel back again, and that movement is what allows electrons to flow through your device."
+        },
+        {
+          "s": "lec",
+          "t": "In theory, this could be repeated forever. In reality, a battery starts to lose capacity from the very first time it's charged. The main reason is something that happens on the surface of the anode during those first few cycles. The electrolyte reacts with the graphite and forms a very thin film, which has the rather long name of the solid electrolyte interphase. The trouble is that building this film uses up some of the lithium, and that lithium is then trapped permanently. It can never carry charge again. Now, you might think manufacturers would try to stop this film forming altogether. But in fact it's essential. Once it's in place, it acts as a barrier that prevents the continuing decomposition of the electrolyte. Without it, the battery would destroy itself very quickly. The challenge is that the film keeps growing slowly throughout the battery's life, so it goes on consuming lithium, just at a much lower rate."
+        },
+        {
+          "s": "lec",
+          "t": "The second major problem is linked to how we charge batteries. If you charge a cell very quickly, or when it's very cold, the lithium ions arrive at the anode faster than they can slot into the graphite. Instead, they pile up on the surface as metallic lithium. This is known as lithium plating, and over time it can grow into thin, branching structures called dendrites. And these are dangerous, not just inefficient. If a dendrite grows long enough, it can pierce the separator, and then the two electrodes are effectively connected, which causes a short circuit inside the cell."
+        },
+        {
+          "s": "lec",
+          "t": "A short circuit can produce a great deal of heat very quickly. In the worst case, that heat triggers further chemical reactions, which produce more heat, and so on. This chain reaction is called thermal runaway, and it's the reason why battery fires are so hard to put out."
+        },
+        {
+          "s": "lec",
+          "t": "The third factor surprises many people. Batteries deteriorate even when they're not being used at all. Engineers call this calendar ageing, to distinguish it from the damage caused by charging and discharging. It's much faster when a battery is kept fully charged and in a hot place. So if you leave your laptop plugged in on a sunny windowsill all summer, you're shortening its life."
+        },
+        {
+          "s": "lec",
+          "t": "Right. So what are the alternatives? I'll briefly compare three. The first is already very common, and that's lithium iron phosphate. Here, the cathode is made from iron and phosphate rather than the usual mixture of metals. Its great advantage is that it contains no cobalt or nickel, which are both expensive. These batteries also last for many thousands of cycles and are much less likely to overheat. The disadvantage is a lower energy density, meaning that a car with this type of battery will generally travel a shorter distance on a single charge."
+        },
+        {
+          "s": "lec",
+          "t": "The second alternative is the sodium-ion battery. It works in a very similar way, but uses sodium instead of lithium. The attraction is that sodium is extremely abundant. It's found in ordinary salt, so supplies are cheap and widely available, and they don't depend on a few countries. Sodium-ion cells also perform rather better in cold weather. Their weakness is weight. Sodium ions are larger and heavier, so for the same amount of energy, the battery is heavier, which makes it more suitable for storing electricity in buildings than for long-range vehicles."
+        },
+        {
+          "s": "lec",
+          "t": "Finally, there are solid-state batteries, which many people see as the next big step. As the name suggests, they replace the flammable liquid electrolyte with a solid material, usually a ceramic or a special glass. That should make them much safer, and it may also allow a pure lithium metal anode, which would greatly increase capacity. So why aren't they in every car already? The main obstacle is manufacturing. Making a thin, perfect solid layer that stays in contact with the electrodes is possible in a laboratory, but it has proved extremely difficult to do at scale, and at a reasonable cost."
+        },
+        {
+          "s": "lec",
+          "t": "In our next session, we'll look at recycling, and how the materials from old batteries can be recovered."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–36\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Why lithium-ion batteries lose capacity",
+        "template": "How a cell works\n• on charging, ions migrate via the {{q31}} and enter the layers of the graphite anode\n\nAgeing processes\n• a film created on the anode in the first cycles permanently locks away some {{q32}}\n• but this film is necessary, as it stops the ongoing {{q33}} of the liquid inside the cell\n• rapid or cold charging produces metal deposits that form branching {{q34}}\n• these can break through the {{q35}}, connecting the electrodes\n• deterioration while a battery is not in use is known as {{q36}} ageing",
+        "items": [
+          {
+            "id": "q31",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "electrolyte"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Lithium ions leave the cathode and travel through the electrolyte to the anode.",
+            "evidence": "travel through the electrolyte"
+          },
+          {
+            "id": "q32",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "lithium"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Building the film uses up some of the lithium, which is then trapped permanently (\"locks away\").",
+            "evidence": "building this film uses up some of the lithium"
+          },
+          {
+            "id": "q33",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "decomposition"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "The film prevents the continuing decomposition of the electrolyte (\"ongoing\" = \"continuing\").",
+            "evidence": "prevents the continuing decomposition of the electrolyte"
+          },
+          {
+            "id": "q34",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "dendrites"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Lithium plating can grow into thin, branching structures called dendrites.",
+            "evidence": "thin, branching structures called dendrites"
+          },
+          {
+            "id": "q35",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "separator"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "A long dendrite can pierce the separator and connect the electrodes (\"break through\" = \"pierce\").",
+            "evidence": "it can pierce the separator"
+          },
+          {
+            "id": "q36",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "calendar"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Ageing that happens even without use is called calendar ageing.",
+            "evidence": "Engineers call this calendar ageing"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "table-completion",
+        "instructions": "Questions 37–40\nComplete the table below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Alternative battery chemistries",
+        "template": "| Type | Benefit | Drawback |\n|---|---|---|\n| Lithium iron phosphate | free of nickel and {{q37}} | vehicles have a shorter range |\n| Sodium-ion | the main element is {{q38}} and inexpensive | heavy for the energy stored |\n| Solid-state | no {{q39}} liquid inside the cell | hard to manufacture at {{q40}} |",
+        "items": [
+          {
+            "id": "q37",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": [
+              "cobalt"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "It contains no cobalt or nickel.",
+            "evidence": "it contains no cobalt or nickel"
+          },
+          {
+            "id": "q38",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": [
+              "abundant"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Sodium is extremely abundant and cheap (\"inexpensive\").",
+            "evidence": "sodium is extremely abundant"
+          },
+          {
+            "id": "q39",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": [
+              "flammable"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "They replace the flammable liquid electrolyte with a solid.",
+            "evidence": "they replace the flammable liquid electrolyte with a solid material"
+          },
+          {
+            "id": "q40",
+            "kind": "gap",
+            "qtype": "table-completion",
+            "answers": [
+              "scale"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Making the solid layer has proved extremely difficult to do at scale.",
+            "evidence": "extremely difficult to do at scale"
+          }
+        ]
+      }
+    ]
+  }
+]

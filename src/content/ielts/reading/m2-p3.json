@@ -1,0 +1,209 @@
+[
+  {
+    "id": "ielts-r-m2-p3",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 2,
+    "passageNo": 3,
+    "title": "Does Language Shape Thought?",
+    "subtitle": "The fall and cautious revival of a controversial idea",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "The idea that the language we speak influences the way we think has had an unusually turbulent intellectual history. In the 1930s and 1940s, the American linguist Benjamin Lee Whorf, a fire-prevention inspector by profession who studied Native American languages in his spare time, argued that speakers of different languages inhabit, in effect, different conceptual worlds. Whorf's claims captured the public imagination, and the phrase 'the Whorfian hypothesis' entered the textbooks. Within a few decades, however, the idea had fallen into disrepute among linguists, and for much of the late twentieth century to suggest that language shaped thought was to risk being regarded as naive. Its recent revival, in a more modest and more carefully tested form, is in my view one of the more instructive episodes in the cognitive sciences."
+      },
+      {
+        "label": "B",
+        "text": "Part of the reason for the decline was that Whorf's evidence was weak. His most famous claim - that the Hopi language of Arizona contains no words or grammatical forms referring to time, and that Hopi speakers therefore conceive of time differently from Europeans - was later shown to be mistaken: a detailed study of the language found tense-like forms and a wealth of expressions for units of time. More fundamentally, Whorf tended to infer differences in thought directly from differences in grammar, an argument that is circular: one cannot show that language shapes thought by pointing only to the language. What was required was evidence from non-linguistic behaviour, and that was largely missing."
+      },
+      {
+        "label": "C",
+        "text": "The intellectual climate also turned against him. From the 1960s onwards, the dominant view in linguistics emphasised what all human languages share, and treated the differences between them as relatively superficial. Influential studies of colour terminology appeared to support this view, suggesting that, despite great variation in the number of basic colour words that languages possess, speakers everywhere perceive colours in essentially the same way and pick out the same 'best examples' of red or blue. Such findings were widely taken as a decisive refutation of linguistic relativity, though it is worth noting that they addressed only one rather narrow domain of experience."
+      },
+      {
+        "label": "D",
+        "text": "The revival began in the 1990s, when researchers designed experiments that measured thought without relying on language. Some of the most striking work concerns spatial orientation. Speakers of English and most European languages describe locations relative to their own bodies: the cup is to the left of the plate. Speakers of certain other languages, however, including Guugu Yimithirr in north-eastern Australia and Tzeltal in southern Mexico, routinely use fixed directions such as north and south, even for small objects on a table. When speakers of such languages are shown a row of objects, turned through 180 degrees and asked to recreate the arrangement, they tend to preserve its compass orientation, whereas English speakers preserve its left-to-right order. Speakers of these languages also keep track of their orientation with an accuracy that astonishes visitors."
+      },
+      {
+        "label": "E",
+        "text": "Other studies have reported subtler effects. Russian, unlike English, obliges speakers to distinguish between lighter blue (goluboy) and darker blue (siniy). In one experiment, Russian speakers were slightly faster at telling two shades of blue apart when the shades fell on opposite sides of this boundary, and the advantage disappeared when participants were required to repeat a string of digits silently at the same time - a task that occupies verbal resources. This suggests that language influences perception while a task is being performed, rather than permanently restructuring the visual system."
+      },
+      {
+        "label": "F",
+        "text": "It would be easy to overstate what these findings show, and some popular accounts have done exactly that. None demonstrates that a language makes particular thoughts impossible for its speakers; Russian speakers can distinguish shades of blue regardless, and English speakers can learn to use compass directions if they need to. The effects are typically matters of degree, of habit and of attention. Moreover, the direction of cause and effect is not always clear. A community whose way of life depends on navigating open landscapes might develop both a preference for absolute directions and the vocabulary to express it; the language may reflect habits of thought as much as create them. Several researchers have also argued that the size of some reported effects has shrunk as studies have grown larger and more rigorous."
+      },
+      {
+        "label": "G",
+        "text": "Nevertheless, I believe the modern work has established something of real importance. The question is no longer whether language determines thought - it does not - but how, when and to what extent it shapes the habitual patterns of attention and memory that make up everyday cognition. That is a less dramatic claim than Whorf's, but a far more defensible one. It also carries a broader lesson: if languages draw attention to different aspects of experience, then the loss of a language, which is now occurring at an alarming rate, may represent the loss of a distinctive way of engaging with the world, and not merely of a vocabulary."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "ynng",
+        "instructions": "Questions 27–32\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+        "items": [
+          {
+            "id": "q27",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "The recent return of interest in linguistic relativity is a valuable case for the cognitive sciences to learn from.",
+            "answer": "YES",
+            "evidence": "is in my view one of the more instructive episodes in the cognitive sciences",
+            "explanation": "'Instructive' means it teaches useful lessons; 'in my view' marks this as the writer's own claim."
+          },
+          {
+            "id": "q28",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Whorf was correct that the Hopi language has no way of expressing time.",
+            "answer": "NO",
+            "evidence": "was later shown to be mistaken",
+            "explanation": "The writer says Whorf's Hopi claim 'was later shown to be mistaken', because the language has tense-like forms and many time expressions. This contradicts the statement."
+          },
+          {
+            "id": "q29",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "The studies of colour terminology were unreliable because they included too few languages.",
+            "answer": "NOT GIVEN",
+            "explanation": "The writer's only reservation is that the colour studies covered 'one rather narrow domain of experience'. Nothing is said about how many languages were studied, so NOT GIVEN. Don't confuse 'narrow domain' with 'too few languages'."
+          },
+          {
+            "id": "q30",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Some descriptions of the new research written for the general public have exaggerated its importance.",
+            "answer": "YES",
+            "evidence": "It would be easy to overstate what these findings show, and some popular accounts have done exactly that.",
+            "explanation": "'Popular accounts' = descriptions for the general public; 'overstate' = exaggerate."
+          },
+          {
+            "id": "q31",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "The language a person speaks can prevent them from having certain thoughts.",
+            "answer": "NO",
+            "evidence": "None demonstrates that a language makes particular thoughts impossible for its speakers",
+            "explanation": "The writer says no study shows a language makes thoughts impossible, and in paragraph G states plainly that language does not determine thought. NO."
+          },
+          {
+            "id": "q32",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Governments should pay for programmes to protect endangered languages.",
+            "answer": "NOT GIVEN",
+            "explanation": "The writer says language loss is alarming and may mean losing a way of engaging with the world, but makes no recommendation about governments or funding. NOT GIVEN."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-info",
+        "instructions": "Questions 33–36\nReading Passage 3 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 33–36 on your answer sheet.\nNB You may use any letter more than once.",
+        "options": [
+          { "key": "A", "text": "Paragraph A" },
+          { "key": "B", "text": "Paragraph B" },
+          { "key": "C", "text": "Paragraph C" },
+          { "key": "D", "text": "Paragraph D" },
+          { "key": "E", "text": "Paragraph E" },
+          { "key": "F", "text": "Paragraph F" },
+          { "key": "G", "text": "Paragraph G" }
+        ],
+        "items": [
+          {
+            "id": "q33",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "an explanation of why a particular way of arguing was logically flawed",
+            "answer": "B",
+            "evidence": "an argument that is circular: one cannot show that language shapes thought by pointing only to the language",
+            "explanation": "Paragraph B explains that inferring thought from grammar alone is 'circular'. Paragraph C also describes criticism of Whorf, but it is about the intellectual climate, not a logical flaw."
+          },
+          {
+            "id": "q34",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a reference to an additional task that caused an effect to disappear",
+            "answer": "E",
+            "evidence": "the advantage disappeared when participants were required to repeat a string of digits silently at the same time",
+            "explanation": "In the Russian blue experiment, silently repeating digits made the speed advantage disappear."
+          },
+          {
+            "id": "q35",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a mention of an ability that outsiders find surprising",
+            "answer": "D",
+            "evidence": "keep track of their orientation with an accuracy that astonishes visitors",
+            "explanation": "'Outsiders find surprising' paraphrases 'astonishes visitors'."
+          },
+          {
+            "id": "q36",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "the suggestion that thinking habits may influence language rather than the reverse",
+            "answer": "F",
+            "evidence": "the language may reflect habits of thought as much as create them",
+            "explanation": "Paragraph F questions the direction of cause and effect: a way of life could produce both the habit and the vocabulary."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "summary-completion",
+        "instructions": "Questions 37–40\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nWrite your answers in boxes 37–40 on your answer sheet.",
+        "title": "Evidence from modern experiments",
+        "template": "English speakers usually describe where objects are in relation to their own {{q37}}, whereas speakers of Guugu Yimithirr and Tzeltal use fixed directions such as north and south. In one type of experiment, participants look at a row of objects and are then turned through {{q38}} degrees before rebuilding the row. Speakers of languages that use fixed directions keep the row's {{q39}}, while English speakers keep its left-to-right order. A study of Russian speakers suggests that language affects perception during a task, rather than permanently changing the {{q40}}.",
+        "items": [
+          {
+            "id": "q37",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["bodies"],
+            "maxWords": 2,
+            "allowNumber": true,
+            "evidence": "describe locations relative to their own bodies",
+            "explanation": "'In relation to' paraphrases 'relative to'; English speakers use their own bodies as the reference point."
+          },
+          {
+            "id": "q38",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["180"],
+            "maxWords": 2,
+            "allowNumber": true,
+            "evidence": "turned through 180 degrees",
+            "explanation": "Participants are 'turned through 180 degrees' before recreating the arrangement."
+          },
+          {
+            "id": "q39",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["compass orientation"],
+            "maxWords": 2,
+            "allowNumber": true,
+            "evidence": "they tend to preserve its compass orientation",
+            "explanation": "'Keep' paraphrases 'preserve'; fixed-direction speakers preserve the compass orientation. 'Orientation' alone loses the key contrast with left-to-right order."
+          },
+          {
+            "id": "q40",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["visual system"],
+            "maxWords": 2,
+            "allowNumber": true,
+            "evidence": "rather than permanently restructuring the visual system",
+            "explanation": "'Permanently changing' paraphrases 'permanently restructuring'; the thing not changed is the visual system."
+          }
+        ]
+      }
+    ]
+  }
+]

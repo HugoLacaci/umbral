@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ielts-l-p4-04",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 4,
+    "title": "The science of remembering",
+    "context": "You will hear part of a psychology lecture about memory and effective ways of studying.",
+    "audio": {
+      "speakers": [
+        { "id": "lec", "name": "Dr Martin Leclerc", "role": "lecturer", "gender": "m", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "lec", "t": "Good morning. Since most of you will be sitting exams in a few weeks, I thought today we'd look at what memory research can tell us about how to study. And I should warn you that some of it may be a little uncomfortable, because the methods that most students rely on turn out to be among the least effective." },
+        { "s": "lec", "t": "Let's go back to the beginning of the scientific study of memory, in the eighteen eighties, with a German researcher called Hermann Ebbinghaus. Ebbinghaus wanted to measure memory in a pure form, without the influence of meaning, so he memorised long lists of nonsense syllables, combinations like one consonant, one vowel and another consonant that don't form real words. He then tested himself at different intervals to see how much he had kept. What he found is now known as the forgetting curve. Forgetting was extremely rapid at first. The majority of what he learned was lost within the first day, and after that the rate of loss slowed down considerably." },
+        { "s": "lec", "t": "But Ebbinghaus also noticed something more encouraging. If he spread his learning sessions out over several days, rather than repeating a list many times in one sitting, he remembered it far better. This is the spacing effect, and it's one of the most reliable findings in the whole of psychology. Studying in one long session, which is what psychologists call massed practice, and what you probably call cramming, can work for a test the next morning. But for long-term retention, spaced practice wins every time." },
+        { "s": "lec", "t": "Why should this be? There are several theories, but a widely accepted one is that when you come back to material after a gap, you've partly forgotten it, so you have to work harder to bring it back. And it's precisely that extra effort that strengthens the memory. In other words, the forgetting isn't a waste. It's part of the process." },
+        { "s": "lec", "t": "The second finding I want to discuss is the testing effect, sometimes called retrieval practice. In a typical experiment, students read a short scientific text. One group then read it again, while the other group closed the book and wrote down everything they could remember. When both groups were tested a week later, the group that had practised recalling the information did much better. What's fascinating, though, is that the rereading group were more confident about how well they'd do. So our own sense of how well we've learned something is not a good guide." },
+        { "s": "lec", "t": "A third technique is called interleaving. Normally we practise one type of problem at a time, in blocks. Interleaving means mixing different types together. In one well known study, art students learned to recognise the styles of a dozen painters. Those who saw the paintings mixed up, rather than grouped by artist, were much better at identifying new paintings later. Mixing forces you to notice the differences between categories, not just the similarities within them." },
+        { "s": "lec", "t": "I also need to mention sleep, because it's the thing students are most likely to sacrifice before an exam. There's strong evidence that memories are consolidated, that is, made more stable, while we sleep. During deep sleep, a part of the brain called the hippocampus seems to replay the experiences of the day, and this helps transfer them into long-term storage. So staying up all night to revise may actually undo some of the work you've done." },
+        { "s": "lec", "t": "So if these techniques are so effective, why don't more students use them? Surveys consistently show that the most popular study methods are rereading notes and highlighting. These feel productive because the material starts to seem familiar. But familiarity is easily mistaken for real learning. Recognising something when you see it on the page is very different from being able to produce it in an exam." },
+        { "s": "lec", "t": "The psychologist Robert Bjork has a useful term for this. He talks about desirable difficulties. Spacing, testing yourself and interleaving all feel harder and slower than rereading, and you'll probably make more mistakes. But those difficulties are exactly what make them effective. So my advice for the next few weeks is simple. If your revision feels easy, it probably isn't working. Next time, we'll look at how these principles can be built into the design of whole courses, and whether they work equally well for every kind of subject." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–36\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Memory and studying",
+        "template": "Ebbinghaus (1880s)\n• learned lists of nonsense {{q1}}\n• forgetting curve: most information forgotten during the first {{q2}}\n\nThe spacing effect\n• cramming is also known as {{q3}} practice\n• returning to material after a gap requires more {{q4}}, which strengthens memory\n\nThe testing effect\n• students who reread a text felt more {{q5}} but remembered less\n\nInterleaving\n• art students learned to identify painters' {{q6}} more successfully when examples were mixed",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "note-completion", "answers": ["syllables"], "maxWords": 1, "allowNumber": false,
+            "explanation": "He memorised long lists of nonsense syllables.", "evidence": "he memorised long lists of nonsense syllables" },
+          { "id": "q2", "kind": "gap", "qtype": "note-completion", "answers": ["day"], "maxWords": 1, "allowNumber": false,
+            "explanation": "'The majority of what he learned was lost within the first day.'", "evidence": "The majority of what he learned was lost within the first day" },
+          { "id": "q3", "kind": "gap", "qtype": "note-completion", "answers": ["massed"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Psychologists call one long session 'massed practice', i.e. cramming.", "evidence": "what psychologists call massed practice" },
+          { "id": "q4", "kind": "gap", "qtype": "note-completion", "answers": ["effort"], "maxWords": 1, "allowNumber": false,
+            "explanation": "You must work harder to recall the material, and that extra effort strengthens the memory.", "evidence": "it's precisely that extra effort that strengthens the memory" },
+          { "id": "q5", "kind": "gap", "qtype": "note-completion", "answers": ["confident"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The rereading group performed worse but were more confident.", "evidence": "the rereading group were more confident" },
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["styles", "style"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Art students learned to recognise the styles of a dozen painters.", "evidence": "learned to recognise the styles of a dozen painters" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "summary-completion",
+        "instructions": "Questions 37–40\nComplete the summary below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Sleep and study habits",
+        "template": "Research suggests that memories become more stable during sleep, when an area of the brain known as the {{q7}} replays recent events. Despite this evidence, the most common study methods are rereading notes and {{q8}}. These methods make material seem familiar, but this {{q9}} can be confused with genuine learning. Bjork argues that methods which feel harder, which he calls desirable {{q10}}, are more effective.",
+        "items": [
+          { "id": "q7", "kind": "gap", "qtype": "summary-completion", "answers": ["hippocampus"], "maxWords": 1, "allowNumber": false,
+            "explanation": "During deep sleep the hippocampus seems to replay the day's experiences.", "evidence": "a part of the brain called the hippocampus seems to replay the experiences of the day" },
+          { "id": "q8", "kind": "gap", "qtype": "summary-completion", "answers": ["highlighting"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The most popular methods are rereading notes and highlighting.", "evidence": "the most popular study methods are rereading notes and highlighting" },
+          { "id": "q9", "kind": "gap", "qtype": "summary-completion", "answers": ["familiarity"], "maxWords": 1, "allowNumber": false,
+            "explanation": "'Familiarity is easily mistaken for real learning.' The noun is needed after 'this'.", "evidence": "But familiarity is easily mistaken for real learning." },
+          { "id": "q10", "kind": "gap", "qtype": "summary-completion", "answers": ["difficulties"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Bjork's term is 'desirable difficulties'.", "evidence": "He talks about desirable difficulties." }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ielts-r-pc-03",
+    "difficulty": "hard",
+    "usage": "practice",
+    "passageNo": 3,
+    "title": "Charting the Ocean Floor",
+    "subtitle": "Why most of the seabed has still not been mapped in detail",
+    "paragraphs": [
+      { "label": "A", "text": "It is often said that we have better maps of the surface of Mars than of the floor of our own oceans, and the claim is broadly true. Because light and radio waves penetrate only a short distance into seawater, the techniques used to map land, and other planets, from orbit cannot see the seabed directly. Satellites can estimate the shape of the ocean floor indirectly, by measuring tiny variations in the height of the sea surface caused by the gravitational pull of underwater mountains, but the resulting maps have a resolution of several kilometres at best. That is enough to reveal large ridges and seamounts, but not the features that matter for navigation, for laying cables or for the study of marine habitats. Detailed maps can be obtained only by sending instruments into the water itself." },
+      { "label": "B", "text": "For most of history, depth was measured by lowering a weighted line until it touched the bottom, a method that could take hours in deep water and produced a single measurement at a time. Echo sounders, introduced in the 1920s, transformed the task by timing the return of a pulse of sound. Even so, early sounders recorded depth only along a single line directly beneath the ship. It was from such lines of data, collected over many years, that the geologist Marie Tharp and her colleague Bruce Heezen drew their celebrated maps of the Atlantic floor in the 1950s, revealing a continuous rift valley along the crest of the Mid-Atlantic Ridge. Tharp's interpretation was initially dismissed by some colleagues, though it later became important evidence for the theory of plate tectonics. Yet the maps were, by necessity, partly educated guesswork: between the survey lines lay vast areas that nobody had measured." },
+      { "label": "C", "text": "Modern survey vessels use multibeam echosounders, which send out a fan-shaped pulse of sound and listen for echoes from hundreds of points across a strip of seabed at once. The width of this strip, known as the swath, is typically several times the depth of the water, so a ship working over the deep ocean can map a band many kilometres wide on each pass, while one working near the coast covers far less. The process is not as simple as it sounds. The time an echo takes to return depends on the speed of sound in water, which varies with temperature, salinity and pressure. Survey teams therefore lower a probe through the water at intervals to record a sound velocity profile, which is used to correct the raw timings. Allowance must also be made for the ship's own movement, since pitching and rolling change the direction in which each beam is pointing. Only after this processing, and the removal of false echoes from fish or air bubbles, can the depths be combined into a grid and turned into a map." },
+      { "label": "D", "text": "The scale of what remains to be done is daunting. When the international project known as Seabed 2030 was launched in 2017, with the aim of producing a complete high-resolution map of the ocean floor by the end of the decade, only around six per cent of the seabed had been mapped to modern standards. Within six years the figure had risen to roughly a quarter. Much of that increase, however, came not from new voyages but from gathering data that already existed and had been held by governments, companies and universities, often in archives that outside researchers did not know about. Once such sources are exhausted, progress is likely to slow, and mapping the remaining area with conventional survey ships would, by some estimates, take several hundred ship-years. Shallow coastal waters are particularly slow to survey, because the narrow swath means that a ship must make many more passes to cover the same area." },
+      { "label": "E", "text": "Researchers are therefore turning to new technologies. Uncrewed surface vessels powered by wind or solar energy can carry echosounders for months at a time, and autonomous underwater vehicles can travel close to the seabed, producing far more detailed images than a ship at the surface. Some projects have also equipped fishing boats and private yachts with low-cost sensors, an approach known as crowdsourced bathymetry. None of these methods is a complete solution: autonomous vehicles cover small areas slowly, and data from volunteers vary in quality. Nevertheless, the benefits of a complete map would be considerable. Accurate depth data are needed to predict how tsunamis will travel, to model the ocean currents that distribute heat around the planet, and to identify habitats that may need protection. Some scientists, however, have expressed concern that detailed maps will also make it easier to locate mineral deposits for deep-sea mining, a prospect that many marine biologists regard with alarm." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-headings",
+        "instructions": "Questions 1–4\nReading Passage 3 has five paragraphs, A–E.\nChoose the correct heading for paragraphs B–E from the list of headings below.\nWrite the correct number, i–ix, in boxes 1–4 on your answer sheet.\n\nExample: Paragraph A – v",
+        "title": "List of Headings",
+        "options": [
+          { "key": "i", "text": "Lines of data and the gaps between them" },
+          { "key": "ii", "text": "A discovery that was welcomed from the start" },
+          { "key": "iii", "text": "Converting raw echoes into reliable depths" },
+          { "key": "iv", "text": "Why sound travels at different speeds in the sea" },
+          { "key": "v", "text": "Why existing maps of the seabed are so coarse" },
+          { "key": "vi", "text": "Recent progress that owes more to sharing than to surveying" },
+          { "key": "vii", "text": "An international goal that has almost been reached" },
+          { "key": "viii", "text": "Emerging methods and the reasons to complete the map" },
+          { "key": "ix", "text": "Amateur sailors take over from professional surveyors" }
+        ],
+        "items": [
+          { "id": "q1", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph B", "answer": "i",
+            "explanation": "Paragraph B traces measurement from weighted lines to single-beam echo sounders, and ends with the unmeasured areas 'between the survey lines'. Heading ii is the close distractor: Tharp's work was 'initially dismissed by some colleagues', so it was not welcomed from the start.",
+            "evidence": "between the survey lines lay vast areas that nobody had measured" },
+          { "id": "q2", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph C", "answer": "iii",
+            "explanation": "The paragraph explains every correction needed before echo timings become a map: sound velocity, ship movement, false echoes. Heading iv is too narrow: the speed of sound is only one detail within the process.",
+            "evidence": "Only after this processing, and the removal of false echoes from fish or air bubbles, can the depths be combined into a grid and turned into a map." },
+          { "id": "q3", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph D", "answer": "vi",
+            "explanation": "The key point is that much of the rise from six per cent to a quarter came 'not from new voyages but from gathering data that already existed'. Heading vii is wrong: a quarter is far from a complete map.",
+            "evidence": "Much of that increase, however, came not from new voyages but from gathering data that already existed" },
+          { "id": "q4", "kind": "match", "qtype": "matching-headings", "prompt": "Paragraph E", "answer": "viii",
+            "explanation": "Paragraph E covers new technologies and then the benefits of a complete map. Heading ix exaggerates: volunteer data are one approach among several, and 'vary in quality'.",
+            "evidence": "Nevertheless, the benefits of a complete map would be considerable." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "tfng",
+        "instructions": "Questions 5–8\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 5–8 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          { "id": "q5", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Satellites are unable to provide any information about the shape of the seabed.", "answer": "FALSE",
+            "explanation": "Satellites 'can estimate the shape of the ocean floor indirectly', at a resolution of several kilometres. They give limited information, not none – watch the word 'any'.",
+            "evidence": "Satellites can estimate the shape of the ocean floor indirectly" },
+          { "id": "q6", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "The maps produced by Tharp and Heezen were based entirely on measured depths.", "answer": "FALSE",
+            "explanation": "The maps were 'partly educated guesswork', because large areas between survey lines had never been measured. 'Entirely' is contradicted.",
+            "evidence": "the maps were, by necessity, partly educated guesswork" },
+          { "id": "q7", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "A multibeam echosounder usually maps a wider strip of seabed in deep water than in shallow water.", "answer": "TRUE",
+            "explanation": "The swath is 'typically several times the depth of the water', so it is wider over the deep ocean, and a ship near the coast 'covers far less'. 'Usually' matches 'typically'.",
+            "evidence": "The width of this strip, known as the swath, is typically several times the depth of the water" },
+          { "id": "q8", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Most of the funding for Seabed 2030 has come from governments.", "answer": "NOT GIVEN",
+            "explanation": "Governments are mentioned only as holders of existing data, together with companies and universities. Nothing is said about who funds the project." }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching-endings",
+        "instructions": "Questions 9–11\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 9–11 on your answer sheet.",
+        "options": [
+          { "key": "A", "text": "the speed of sound in seawater depends on its salinity." },
+          { "key": "B", "text": "the direction of each beam changes as the vessel moves." },
+          { "key": "C", "text": "they can remain at sea for months without a crew." },
+          { "key": "D", "text": "they are able to operate near the bottom of the sea." },
+          { "key": "E", "text": "they could help to find places where minerals might be extracted." },
+          { "key": "F", "text": "they would make it harder to predict how tsunamis travel." }
+        ],
+        "items": [
+          { "id": "q9", "kind": "match", "qtype": "matching-endings", "prompt": "Survey teams must make corrections for the ship's pitching and rolling because", "answer": "B",
+            "explanation": "'Pitching and rolling change the direction in which each beam is pointing.' A is true, but it is the reason for the sound velocity profile, not for the movement corrections.",
+            "evidence": "since pitching and rolling change the direction in which each beam is pointing" },
+          { "id": "q10", "kind": "match", "qtype": "matching-endings", "prompt": "Autonomous underwater vehicles produce more detailed images than ships because", "answer": "D",
+            "explanation": "They 'can travel close to the seabed'. C is true of uncrewed surface vessels, not underwater vehicles, and explains endurance, not detail.",
+            "evidence": "autonomous underwater vehicles can travel close to the seabed, producing far more detailed images than a ship at the surface" },
+          { "id": "q11", "kind": "match", "qtype": "matching-endings", "prompt": "Some scientists are worried about detailed seabed maps because", "answer": "E",
+            "explanation": "Maps may 'make it easier to locate mineral deposits for deep-sea mining'. F reverses a benefit: maps help predict tsunamis.",
+            "evidence": "detailed maps will also make it easier to locate mineral deposits for deep-sea mining" }
+        ]
+      },
+      {
+        "id": "g4",
+        "qtype": "flowchart-completion",
+        "instructions": "Questions 12–14\nComplete the flow-chart below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 12–14 on your answer sheet.",
+        "title": "Producing a map with a multibeam echosounder",
+        "template": "The ship sends out a fan-shaped {{q12}} of sound\n↓\nEchoes return from hundreds of points across the swath\n↓\nA probe lowered through the water records a sound velocity {{q13}}, used to correct the timings\n↓\nAdjustments are made for the movement of the ship\n↓\nFalse echoes caused by fish or {{q14}} are removed\n↓\nThe depths are combined into a grid to produce the map",
+        "items": [
+          { "id": "q12", "kind": "gap", "qtype": "flowchart-completion", "answers": ["pulse"], "maxWords": 2, "allowNumber": false,
+            "explanation": "Multibeam echosounders 'send out a fan-shaped pulse of sound'.",
+            "evidence": "send out a fan-shaped pulse of sound" },
+          { "id": "q13", "kind": "gap", "qtype": "flowchart-completion", "answers": ["profile"], "maxWords": 2, "allowNumber": false,
+            "explanation": "The probe records 'a sound velocity profile, which is used to correct the raw timings'.",
+            "evidence": "to record a sound velocity profile, which is used to correct the raw timings" },
+          { "id": "q14", "kind": "gap", "qtype": "flowchart-completion", "answers": ["air bubbles", "bubbles"], "maxWords": 2, "allowNumber": false,
+            "explanation": "False echoes come 'from fish or air bubbles'.",
+            "evidence": "the removal of false echoes from fish or air bubbles" }
+        ]
+      }
+    ]
+  }
+]

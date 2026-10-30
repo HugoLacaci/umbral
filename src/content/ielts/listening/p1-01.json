@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ielts-l-p1-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "part": 1,
+    "title": "Booking a holiday cottage",
+    "context": "You will hear a man phoning a company that rents holiday cottages by a river.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Margaret", "role": "Booking agent", "gender": "f", "accent": "en-GB" },
+        { "id": "b", "name": "Daniel", "role": "Customer", "gender": "m", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good morning, Heron Cottages, Margaret speaking. How can I help?" },
+        { "s": "b", "t": "Oh, hello. I'm ringing about renting one of your cottages by the river this summer. I saw on a map that you're right beside the water, and that's exactly what my family wants." },
+        { "s": "a", "t": "We are, yes. July is filling up quite quickly, but I'm sure we can find something. Let me take a few details first. Could I have your name, please?" },
+        { "s": "b", "t": "Sure. My first name is Daniel, and my surname is Whitlock. That's W-H-I-T-L-O-C-K." },
+        { "s": "a", "t": "Thank you, Mr Whitlock. And what's the best number to contact you on?" },
+        { "s": "b", "t": "My mobile is best, because I'm hardly ever at home. It's 0 7 7 0 0, and then 9 1 3 2 4 6." },
+        { "s": "a", "t": "Let me read that back. 0 7 7 0 0, 9 1 3 2 4 6. Lovely. Now, how many people will there be in your group?" },
+        { "s": "b", "t": "Two adults, that's my wife and me, and the children. We've got two of our own, but my nephew is coming along with us this year as well, so that makes three children altogether." },
+        { "s": "a", "t": "Two adults and three children. And what date were you hoping to arrive?" },
+        { "s": "b", "t": "Well, we'd originally planned on the 12th of July, but my wife can't finish work until the Wednesday that week. So could we make it the 14th of July instead, for seven nights?" },
+        { "s": "a", "t": "Let me have a look. Right, Otter Cottage is free that week, but I should warn you that all the bedrooms are upstairs, and the stairs are rather steep." },
+        { "s": "b", "t": "Ah, that might not be ideal. My father-in-law may come and stay for a couple of nights, and he finds stairs quite difficult these days." },
+        { "s": "a", "t": "In that case I'd recommend Kingfisher Cottage. It has one bedroom on the ground floor, and the garden goes right down to the river." },
+        { "s": "b", "t": "Kingfisher sounds perfect. How much would that be?" },
+        { "s": "a", "t": "In July the price is normally £110 a night. But because you're arriving midweek, you'd qualify for our reduced rate of £95 a night." },
+        { "s": "b", "t": "Oh, that's better than I expected. And is there anything extra to pay for cleaning?" },
+        { "s": "a", "t": "No, cleaning at the end of your stay is included. Now, is there anything special you'll need while you're there?" },
+        { "s": "b", "t": "Yes, actually. Our youngest is only one, so we'll need a cot. Do you provide those?" },
+        { "s": "a", "t": "We do, and there's no charge for it. Would you like a high chair as well?" },
+        { "s": "b", "t": "No, thanks. We've got a folding high chair that we take everywhere, so we'll bring our own." },
+        { "s": "a", "t": "That's fine. And will you be driving down?" },
+        { "s": "b", "t": "Yes. We'll have one car, and we'll also be bringing a boat. It's only a little rowing boat, but it does need its own space. Is that going to be a problem?" },
+        { "s": "a", "t": "Not at all. There's room beside Kingfisher for one car and a boat, and you can launch it from the end of the garden." },
+        { "s": "b", "t": "Brilliant. The kids will love that. So how do I pay?" },
+        { "s": "a", "t": "To hold the booking we ask for a deposit of twenty percent, and the rest is due four weeks before you arrive." },
+        { "s": "b", "t": "Can I pay the deposit by credit card?" },
+        { "s": "a", "t": "I'm afraid we only take cards for the final balance. The deposit has to be paid by bank transfer, and I'll email you our account details today." },
+        { "s": "b", "t": "Okay, I'll do that this evening." },
+        { "s": "a", "t": "Thank you. Check-in is any time after four o'clock, and the key will be in a small box by the front door. Oh, and just one last question for our records. Could you tell me how you heard about us?" },
+        { "s": "b", "t": "Let me think. I was going to say your website, but no, it was before that. It was an advert in a magazine, a travel magazine that my wife buys every month." },
+        { "s": "a", "t": "A magazine. That's really useful to know, thank you. So that's Kingfisher Cottage from the 14th of July. You'll get an email confirmation within the hour." },
+        { "s": "b", "t": "Wonderful. Thanks very much for your help, Margaret." },
+        { "s": "a", "t": "You're very welcome. Enjoy the rest of your day." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–10\nComplete the form below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Heron Cottages – Booking enquiry",
+        "template": "Name: Daniel {{q1}}\nMobile: 07700 {{q2}}\nGroup: 2 adults and {{q3}} children\nArrival date: {{q4}} July (7 nights)\nCottage: {{q5}} Cottage\nPrice: £{{q6}} per night\nSpecial requirements: a {{q7}} for the baby\nParking: one car and a {{q8}}\nDeposit: 20%, paid by bank {{q9}}\nHeard about company from: a {{q10}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Whitlock"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Daniel spells his surname letter by letter: W-H-I-T-L-O-C-K.", "evidence": "That's W-H-I-T-L-O-C-K." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["913246"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The number after 07700 is 9 1 3 2 4 6, and Margaret reads it back to confirm.", "evidence": "It's 0 7 7 0 0, and then 9 1 3 2 4 6." },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["3", "three"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He has two children of his own, but his nephew is also coming, so the total is three. 'Two' is a trap.", "evidence": "so that makes three children altogether" },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["14", "14th", "fourteenth"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The original plan was the 12th, but he changes it to the 14th because his wife is working.", "evidence": "So could we make it the 14th of July instead" },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["Kingfisher"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Otter Cottage is mentioned first but rejected because of the stairs; Margaret recommends Kingfisher and Daniel accepts.", "evidence": "Kingfisher sounds perfect." },
+          { "id": "q6", "kind": "gap", "qtype": "form-completion", "answers": ["95"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The normal July price is £110, but arriving midweek gives the reduced rate of £95.", "evidence": "reduced rate of £95 a night" },
+          { "id": "q7", "kind": "gap", "qtype": "form-completion", "answers": ["cot"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The baby needs a cot. A high chair is offered but they will bring their own, so it is not a requirement.", "evidence": "we'll need a cot" },
+          { "id": "q8", "kind": "gap", "qtype": "form-completion", "answers": ["boat"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He is bringing a little rowing boat that needs its own space. 'Rowing boat' would be two words, so write only 'boat'.", "evidence": "we'll also be bringing a boat" },
+          { "id": "q9", "kind": "gap", "qtype": "form-completion", "answers": ["transfer"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Cards are only accepted for the final balance; the deposit must be paid by bank transfer.", "evidence": "The deposit has to be paid by bank transfer" },
+          { "id": "q10", "kind": "gap", "qtype": "form-completion", "answers": ["magazine"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He starts to say 'website' but corrects himself: it was an advert in a magazine.", "evidence": "It was an advert in a magazine" }
+        ]
+      }
+    ]
+  }
+]

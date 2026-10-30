@@ -1,0 +1,890 @@
+[
+  {
+    "id": "toefl-dl-21",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "email",
+    "title": "Lease renewal options",
+    "task": "daily-life",
+    "text": "From: Greenway Property Management\nTo: Residents of 44 Alder Court\nSubject: Lease renewals for the coming year\n\nDear Resident,\n\nAs your current lease ends on July 31, we are writing to outline your renewal options. If you renew for twelve months, your monthly rent will increase by 4 percent. If you prefer a six-month lease, the increase will be 7 percent, reflecting the additional cost of preparing units for new tenants more frequently.\n\nResidents who sign a renewal agreement by May 15 will have their increase reduced by one percentage point. Please note that this discount does not apply to month-to-month arrangements, which will be offered only if a unit has not been rented to a new tenant by August 1 and will cost an additional $150 per month.\n\nIf you do not intend to renew, written notice is required at least 60 days before your lease ends. Residents who fail to provide notice may be charged one month's rent.\n\nWe value you as a resident and hope you will stay with us.\n\nSincerely,\nGreenway Property Management",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why did Greenway Property Management send this email?",
+        "options": [
+          "To explain residents' choices and conditions for continuing to rent",
+          "To inform residents that their building will be sold",
+          "To apologize for a mistake in last year's rent",
+          "To ask residents to move out by July 31"
+        ],
+        "answer": 0,
+        "explanation": "El correo presenta las opciones de renovación del contrato, sus subidas, el descuento por firmar pronto y el aviso necesario si no se renueva.",
+        "evidence": "we are writing to outline your renewal options",
+        "optionNotes": [
+          "Correcta: describe las opciones de renovación (12 meses, 6 meses, mes a mes) y sus condiciones.",
+          "No se menciona ninguna venta.",
+          "No hay ninguna disculpa.",
+          "Al contrario: espera que se queden."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A resident who now pays $1,000 a month signs a twelve-month renewal on May 10. What will the new monthly rent be?",
+        "options": [
+          "$1,040",
+          "$1,060",
+          "$1,030",
+          "$1,070"
+        ],
+        "answer": 2,
+        "explanation": "Doce meses = +4 %; como firma antes del 15 de mayo, se reduce un punto: +3 %. 1,000 × 1.03 = 1,030.",
+        "evidence": "Residents who sign a renewal agreement by May 15 will have their increase reduced by one percentage point.",
+        "optionNotes": [
+          "Sería la subida del 4 % sin el descuento.",
+          "Sería el contrato de 6 meses con descuento (7 % − 1).",
+          "Correcta: 4 % − 1 punto por firmar antes del 15 de mayo = 3 % → $1,030.",
+          "Sería el contrato de 6 meses sin descuento."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is the latest date by which a resident who plans to move out should give written notice?",
+        "options": [
+          "May 15",
+          "June 1",
+          "July 1",
+          "August 1"
+        ],
+        "answer": 1,
+        "explanation": "El aviso debe darse al menos 60 días antes del fin del contrato (31 de julio): 30 días de julio + 30 de junio → 1 de junio.",
+        "evidence": "written notice is required at least 60 days before your lease ends",
+        "optionNotes": [
+          "Es la fecha límite del descuento por renovar, no del aviso.",
+          "Correcta: 60 días antes del 31 de julio es el 1 de junio.",
+          "Sólo serían 30 días de aviso.",
+          "Es la fecha relacionada con los contratos mes a mes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-22",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "notice",
+    "title": "Fitness center guest policy",
+    "task": "daily-life",
+    "text": "Westfield Community Fitness Center — Updated Guest Policy (effective September 1)\n\nTo reduce crowding during busy hours, we are revising our guest policy. Members may still bring guests, but the following rules will now apply.\n\nEach member may bring up to two guests per visit and no more than six guest visits per calendar month. Guests must be at least 16 years old; guests aged 16 or 17 must be accompanied by a parent or guardian who signs a waiver. The guest fee is $10 per visit, except on weekdays before 3 PM, when guests may enter for free.\n\nBetween 5 PM and 8 PM on weekdays, guests are not permitted at all. This restriction does not apply to Premium members, whose guests may visit at any time during opening hours, although the monthly limit still applies.\n\nGuests must present photo identification at the front desk. Members are responsible for their guests' behavior and for any damage they cause.\n\nQuestions may be directed to the front desk or emailed to members@westfieldfit.org.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the notice?",
+        "options": [
+          "To advertise the benefits of a Premium membership",
+          "To explain why the center is closing early on weekdays",
+          "To ask members to pay their monthly fees on time",
+          "To announce new limits on bringing visitors to the center"
+        ],
+        "answer": 3,
+        "explanation": "El aviso explica las nuevas normas para traer invitados, cuyo objetivo es reducir las aglomeraciones.",
+        "evidence": "To reduce crowding during busy hours, we are revising our guest policy.",
+        "optionNotes": [
+          "Menciona a los socios Premium sólo como excepción.",
+          "No se habla de cierres.",
+          "No se habla de cuotas de socios.",
+          "Correcta: revisa la política de invitados para reducir aglomeraciones."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Which of the following visits would be permitted under the new policy?",
+        "options": [
+          "A standard member brings one guest on a Wednesday at 6 PM.",
+          "A Premium member brings two guests on a Tuesday at 7 PM.",
+          "A Premium member brings a guest for the seventh time in one month.",
+          "A member brings a 17-year-old friend whose parent is not present."
+        ],
+        "answer": 1,
+        "explanation": "Hay que combinar varias normas: los Premium están exentos de la franja de 5 a 8 PM, pero no del límite de seis visitas al mes ni de las reglas de edad.",
+        "evidence": "This restriction does not apply to Premium members, whose guests may visit at any time during opening hours",
+        "optionNotes": [
+          "Los socios normales no pueden traer invitados de 5 a 8 PM entre semana.",
+          "Correcta: la franja de 5 a 8 PM no afecta a los Premium y dos invitados por visita está permitido.",
+          "El límite mensual (seis) también se aplica a los Premium.",
+          "Con 16 o 17 años hace falta un padre o tutor que firme."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "How much would a member pay to bring one guest on a Saturday at 11 AM?",
+        "options": [
+          "Nothing",
+          "$5",
+          "$10",
+          "$20"
+        ],
+        "answer": 2,
+        "explanation": "La tarifa es de $10 por visita salvo entre semana antes de las 3 PM. El sábado no es día laborable, así que se pagan $10.",
+        "evidence": "The guest fee is $10 per visit, except on weekdays before 3 PM, when guests may enter for free.",
+        "optionNotes": [
+          "Gratis sólo de lunes a viernes antes de las 3 PM.",
+          "No existe tarifa reducida de $5.",
+          "Correcta: la entrada gratis es sólo entre semana antes de las 3 PM; el sábado se paga la tarifa normal.",
+          "Sería el precio de dos invitados."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-23",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "webpage",
+    "title": "Bike-share FAQ",
+    "task": "daily-life",
+    "text": "CityCycle — Frequently Asked Questions\n\nHow does pricing work?\nWith a Day Pass ($8), you can take unlimited rides of up to 30 minutes each within 24 hours. Annual members ($90 per year) get unlimited rides of up to 45 minutes. On either plan, each additional 15 minutes (or part of 15 minutes) costs $2.\n\nWhat if a station is full when I arrive?\nUse the app to request a 15-minute time credit, then ride to the nearest station with space. You will not be charged for the extra time.\n\nAre electric bikes included?\nElectric bikes carry a surcharge of $0.15 per minute for Day Pass users. Annual members pay a reduced surcharge of $0.10 per minute.\n\nCan I share my account?\nAn annual membership is for one rider only. However, a member may purchase up to three Day Passes for friends through the app.\n\nWhat happens if I don't return a bike?\nBikes not returned within 24 hours are considered lost, and a $1,200 fee will be charged to your card.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why does the page mention the 15-minute time credit?",
+        "options": [
+          "To explain how riders can avoid extra charges when they cannot return a bike",
+          "To encourage riders to take longer rides",
+          "To explain why electric bikes cost more",
+          "To describe a benefit available only to annual members"
+        ],
+        "answer": 0,
+        "explanation": "El crédito de 15 minutos sirve para ir a otra estación con sitio cuando la tuya está llena, sin que te cobren ese tiempo.",
+        "evidence": "You will not be charged for the extra time.",
+        "optionNotes": [
+          "Correcta: si la estación está llena, el crédito evita pagar el tiempo extra.",
+          "Es para llegar a otra estación, no para alargar el paseo.",
+          "No tiene relación con las eléctricas.",
+          "Se ofrece a cualquier usuario («you»), no sólo a socios anuales."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "An annual member rides a standard (non-electric) bike for 50 minutes. How much extra will she be charged?",
+        "options": [
+          "Nothing",
+          "$5",
+          "$4",
+          "$2"
+        ],
+        "answer": 3,
+        "explanation": "Los socios anuales tienen 45 minutos por viaje. Los 5 minutos extra cuentan como un bloque de 15 minutos (o parte), que cuesta $2.",
+        "evidence": "each additional 15 minutes (or part of 15 minutes) costs $2",
+        "optionNotes": [
+          "Superó los 45 minutos incluidos.",
+          "No se cobra por minuto en bicis normales.",
+          "Sólo se cobra un bloque, no dos.",
+          "Correcta: 45 minutos incluidos; los 5 restantes son «parte de 15 minutos» → $2."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred about an annual member who wants to go riding with two friends?",
+        "options": [
+          "Her friends can use her membership if they ride separately.",
+          "She can buy Day Passes for her friends using the app.",
+          "Her friends must buy annual memberships.",
+          "She must pay a surcharge for each friend."
+        ],
+        "answer": 1,
+        "explanation": "La cuenta anual no se comparte, pero el socio puede comprar hasta tres Day Passes para amigos desde la app; dos amigos entran dentro del límite.",
+        "evidence": "a member may purchase up to three Day Passes for friends through the app",
+        "optionNotes": [
+          "La cuenta anual es para un solo usuario.",
+          "Correcta: puede comprar hasta tres pases de día para amigos.",
+          "No es necesario; pueden usar pases de día.",
+          "El recargo es para bicis eléctricas, no por amigos."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-24",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "schedule",
+    "title": "Museum summer workshops",
+    "task": "daily-life",
+    "text": "Riverside Science Museum — Summer Workshops for Children\n\nRobotics Basics (ages 8–10): Mondays & Wednesdays, 9:00–11:00 — $95¹\nRocket Building (ages 10–13): Tuesdays, 1:00–3:30 — $70²\nPond Life Explorers (ages 6–8): Thursdays, 10:00–11:30 — $55³\nCoding with Games (ages 11–14): Fridays, 1:00–4:00 — $85¹\n\nAll workshops run for four weeks, beginning the week of July 7.\n\n¹ Each participant needs a laptop. A limited number can be borrowed for a $15 deposit, refunded at the end of the course.\n² The final session takes place outdoors at Miller Field. Parents must provide transportation.\n³ A parent or guardian must stay with the child for the entire session.\n\nMuseum members receive 20% off all workshop prices. Siblings enrolled in the same workshop receive an additional $10 off for the second child. Registration closes June 27. Refunds are available up to one week before the first session, minus a $10 processing fee.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A parent of a 7-year-old cannot stay at the museum during workshops. What can be concluded?",
+        "options": [
+          "The child can join Robotics Basics.",
+          "The child can join Pond Life Explorers if a laptop is borrowed.",
+          "None of the workshops is suitable for the child.",
+          "The child can join Rocket Building if transportation is arranged."
+        ],
+        "answer": 2,
+        "explanation": "Por edad, el niño sólo encaja en Pond Life Explorers (6–8), pero la nota 3 obliga a un adulto a quedarse toda la sesión. Por tanto, ningún taller le sirve.",
+        "evidence": "³ A parent or guardian must stay with the child for the entire session.",
+        "optionNotes": [
+          "Robotics es para 8–10 años.",
+          "Pond Life exige la presencia del adulto; el portátil es para otros talleres.",
+          "Correcta: el único taller para 7 años (Pond Life) exige que un adulto se quede toda la sesión.",
+          "Rocket Building es para 10–13 años."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "How much would a museum member pay to register one child for Rocket Building?",
+        "options": [
+          "$56",
+          "$60",
+          "$50",
+          "$70"
+        ],
+        "answer": 0,
+        "explanation": "Los socios tienen un 20 % de descuento: 70 × 0.8 = 56. El descuento de $10 es sólo para el segundo hermano.",
+        "evidence": "Museum members receive 20% off all workshop prices.",
+        "optionNotes": [
+          "Correcta: $70 − 20 % = $56.",
+          "Sería restar $10 (descuento de hermanos), que no se aplica.",
+          "Restaría el 20 % y además $10.",
+          "Es el precio sin descuento de socio."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why is footnote ² included in the schedule?",
+        "options": [
+          "To explain where the museum is located",
+          "To tell parents that the workshop may be canceled",
+          "To describe an additional fee for Rocket Building",
+          "To warn parents about an extra responsibility for one session"
+        ],
+        "answer": 3,
+        "explanation": "La nota 2 avisa de que la última sesión es al aire libre en Miller Field y los padres deben encargarse del transporte.",
+        "evidence": "² The final session takes place outdoors at Miller Field. Parents must provide transportation.",
+        "optionNotes": [
+          "Habla de Miller Field, no de la ubicación del museo.",
+          "No se menciona ninguna cancelación.",
+          "No hay tarifa extra en esa nota.",
+          "Correcta: la última sesión es fuera y los padres deben llevar a los niños."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-25",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "text-messages",
+    "title": "Splitting a cabin rental",
+    "task": "daily-life",
+    "text": "Jordan (Mon 7:05 PM): OK, the lake cabin is $480 for Friday and Saturday nights, plus a $60 cleaning fee. If all six of us go, that's $90 each.\n\nAisha (Mon 7:09 PM): Sounds good. I'm in, but I can only come on Saturday, so can I pay half?\n\nJordan (Mon 7:12 PM): Hmm, the cleaning fee is the same either way. How about you pay half the rent part plus your full share of the cleaning?\n\nAisha (Mon 7:13 PM): Fair enough.\n\nMarco (Mon 7:20 PM): Bad news, my cousin's wedding got moved to that weekend. Count me out. Sorry!\n\nJordan (Mon 7:24 PM): No problem. That changes the math, though. I'll recalculate tonight and post it. The owner needs the full payment by Thursday, so please send your money by Wednesday night.\n\nLiz (Mon 7:30 PM): Can someone bring a grill? The listing says there's one, but the reviews say it's broken.\n\nJordan (Mon 7:31 PM): I'll ask the owner before anyone hauls one up there.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Before Marco dropped out, how much had Aisha agreed to pay?",
+        "options": [
+          "$45",
+          "$50",
+          "$60",
+          "$90"
+        ],
+        "answer": 1,
+        "explanation": "Jordan propone que pague la mitad de la parte del alquiler (80/2 = 40) más su parte entera de limpieza (10): $50.",
+        "evidence": "How about you pay half the rent part plus your full share of the cleaning?",
+        "optionNotes": [
+          "Sería la mitad de los $90 totales, pero la limpieza no se reduce.",
+          "Correcta: mitad de su parte del alquiler ($480 ÷ 6 = $80 → $40) + su parte completa de la limpieza ($60 ÷ 6 = $10).",
+          "No corresponde a ningún cálculo del texto.",
+          "Es la cuota completa, para quien va las dos noches."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred from Jordan's message at 7:24 PM?",
+        "options": [
+          "The trip will have to be canceled.",
+          "Marco will still have to pay his share.",
+          "The owner has lowered the price.",
+          "The remaining people will probably each pay more."
+        ],
+        "answer": 3,
+        "explanation": "Si Marco no va y el precio total no cambia, Jordan tiene que recalcular: el coste por persona subirá para los demás.",
+        "evidence": "That changes the math, though. I'll recalculate tonight and post it.",
+        "optionNotes": [
+          "Nada indica una cancelación.",
+          "Jordan dice «No problem» y recalcula sin él.",
+          "No se habla de rebaja.",
+          "Correcta: con una persona menos, el mismo coste se divide entre menos gente."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why does Jordan say, \"I'll ask the owner before anyone hauls one up there\"?",
+        "options": [
+          "To avoid someone bringing a grill that might not be needed",
+          "To complain that the listing was dishonest",
+          "To refuse Liz's request to have a grill",
+          "To ask Liz to buy a new grill"
+        ],
+        "answer": 0,
+        "explanation": "El anuncio dice que hay parrilla pero las reseñas dicen que está rota. Jordan preguntará al dueño para que nadie lleve una sin necesidad («haul» = cargar con algo pesado).",
+        "evidence": "The listing says there's one, but the reviews say it's broken.",
+        "optionNotes": [
+          "Correcta: quiere confirmar si la parrilla de la cabaña funciona antes de que alguien cargue con otra.",
+          "No se queja; sólo quiere comprobarlo.",
+          "No rechaza la idea; la deja pendiente de confirmar.",
+          "No pide comprar nada."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-26",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "form",
+    "title": "Study abroad scholarship form",
+    "task": "daily-life",
+    "text": "Global Pathways Scholarship — Application Form (Section B: Eligibility)\n\nPlease read before completing this section.\n\nThe scholarship covers program tuition for one semester abroad at a partner university. It does not cover airfare or housing; however, recipients with demonstrated financial need may apply separately for a travel supplement of up to $800.\n\n1. Current GPA: _____ (minimum 3.0; applicants between 2.7 and 2.99 may apply if they include a letter of support from their academic advisor)\n2. Credits completed by the application deadline: _____ (minimum 30)\n3. Language of instruction at host university: _____\nIf not English, attach proof of at least two semesters of study in that language, or a placement test result at intermediate level or above.\n4. Have you previously studied abroad through a university program? Yes / No\n(Students who have already studied abroad are eligible only for programs in a different country.)\n\nIncomplete applications will not be reviewed. Submit to the International Office by October 15. Decisions will be emailed by December 1.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of this section of the form?",
+        "options": [
+          "To collect information about applicants' housing",
+          "To determine whether applicants meet the requirements",
+          "To explain how to choose a partner university",
+          "To announce the names of scholarship winners"
+        ],
+        "answer": 1,
+        "explanation": "La sección B recoge los datos que permiten comprobar si el solicitante cumple los requisitos de la beca.",
+        "evidence": "Section B: Eligibility",
+        "optionNotes": [
+          "El alojamiento no se cubre ni se pregunta.",
+          "Correcta: es la sección de requisitos («Eligibility»): nota media, créditos, idioma y estancias previas.",
+          "No orienta sobre cómo elegir universidad.",
+          "Las decisiones se envían el 1 de diciembre."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Which applicant is eligible to apply?",
+        "options": [
+          "A student with a 2.8 GPA and 40 credits who has not asked an advisor for a letter",
+          "A student with a 3.4 GPA who will have completed 25 credits by the deadline",
+          "A student with a 2.9 GPA and an advisor's letter, 35 credits, applying to a Spanish-language program after placing at intermediate level in Spanish",
+          "A student with a 3.1 GPA and 60 credits who studied in Japan last year and is applying to a program in Japan"
+        ],
+        "answer": 2,
+        "explanation": "Hay que comprobar cada condición: nota (o carta si está entre 2.7 y 2.99), 30 créditos, idioma y, si ya estudió fuera, otro país. Sólo la opción correcta las cumple todas.",
+        "evidence": "applicants between 2.7 and 2.99 may apply if they include a letter of support from their academic advisor",
+        "optionNotes": [
+          "Con 2.8 necesita la carta de su tutor.",
+          "Necesita al menos 30 créditos.",
+          "Correcta: cumple todas las condiciones (carta para 2.7–2.99, más de 30 créditos, prueba de nivel intermedio).",
+          "Si ya estudió fuera, debe ir a un país distinto."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is true about the cost of airfare?",
+        "options": [
+          "Some recipients can get limited help with it through a separate application.",
+          "It is fully covered by the scholarship.",
+          "It is included in the program tuition.",
+          "Students must pay it before October 15."
+        ],
+        "answer": 0,
+        "explanation": "La beca no cubre el vuelo, pero los becarios con necesidad económica demostrada pueden solicitar aparte un suplemento de viaje de hasta $800.",
+        "evidence": "recipients with demonstrated financial need may apply separately for a travel supplement of up to $800",
+        "optionNotes": [
+          "Correcta: quienes demuestren necesidad económica pueden pedir aparte hasta $800 para el viaje.",
+          "Falso: la beca no cubre el vuelo.",
+          "Sólo se cubre la matrícula, que no incluye el vuelo.",
+          "El 15 de octubre es el plazo de solicitud."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-27",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "ad",
+    "title": "Summer sublet near campus",
+    "task": "daily-life",
+    "text": "SUMMER SUBLET — Furnished Room Near Campus\n\nAvailable June 1 to August 20 (dates slightly flexible at the end, but not at the start). Private bedroom in a quiet three-bedroom apartment, a ten-minute walk from the main library. You'd be sharing the kitchen and bathroom with two graduate students who keep regular hours.\n\nRent is $650 a month, including utilities and internet. For August, I'll charge only for the days you stay. A deposit equal to one month's rent is due when you sign; it will be returned within two weeks of move-out if nothing is damaged.\n\nThe building doesn't allow pets, and smoking is prohibited anywhere on the property. There's no parking included, but there's a bus stop right outside and street parking is free after 6 PM.\n\nIdeal for a summer research student or intern. I'd prefer someone who can take the full period, but I'll consider shorter stays of at least six weeks. Message me with a little about yourself and your dates.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why does the writer say the dates are \"slightly flexible at the end, but not at the start\"?",
+        "options": [
+          "To explain that the rent for June depends on the start date",
+          "To suggest that the apartment might not be ready on June 1",
+          "To encourage people to stay longer than August 20",
+          "To show that the tenant must move in on June 1 but may leave a little before or after August 20"
+        ],
+        "answer": 3,
+        "explanation": "La frase indica que la fecha de entrada (1 de junio) es fija y que la de salida admite pequeños cambios.",
+        "evidence": "dates slightly flexible at the end, but not at the start",
+        "optionNotes": [
+          "Al contrario: el pago proporcional es para agosto.",
+          "Nada indica que no esté listo.",
+          "Sólo dice que es algo flexible, no que anime a quedarse más.",
+          "Correcta: el inicio es fijo; el final se puede ajustar un poco."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is true about the deposit?",
+        "options": [
+          "It will be returned only if the room is left undamaged.",
+          "It is half of one month's rent.",
+          "It is paid on the day the tenant moves out.",
+          "It covers the cost of parking."
+        ],
+        "answer": 0,
+        "explanation": "La fianza (un mes de alquiler) se paga al firmar y se devuelve en dos semanas si no hay desperfectos.",
+        "evidence": "it will be returned within two weeks of move-out if nothing is damaged",
+        "optionNotes": [
+          "Correcta: se devuelve en dos semanas si no hay daños.",
+          "Equivale a un mes completo ($650).",
+          "Se paga al firmar.",
+          "No incluye aparcamiento."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Which person does NOT meet the writer's conditions?",
+        "options": [
+          "An intern who wants to stay from June 1 to July 20",
+          "A student who needs the room only from June 1 to June 30",
+          "A researcher who wants to stay from June 1 to August 23",
+          "A student who does not own a car"
+        ],
+        "answer": 1,
+        "explanation": "Acepta estancias más cortas si duran al menos seis semanas. Del 1 al 30 de junio son poco más de cuatro semanas.",
+        "evidence": "I'll consider shorter stays of at least six weeks",
+        "optionNotes": [
+          "Son unas siete semanas: lo acepta.",
+          "Correcta: un mes (unas cuatro semanas) es menos de las seis semanas mínimas.",
+          "Tres días después del 20 de agosto: el final es algo flexible.",
+          "No tener coche no es un problema; hay autobús."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-28",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "email",
+    "title": "Dropping and withdrawing from courses",
+    "task": "daily-life",
+    "text": "From: Office of the Registrar\nTo: All undergraduate students\nDate: September 10\nSubject: Important dates — dropping and withdrawing from courses\n\nDear Students,\n\nWe would like to remind you of the difference between dropping and withdrawing from a course.\n\nCourses dropped on or before September 19 are removed from your record entirely, and tuition for the course is refunded in full. After that date, you may still withdraw from a course until October 31. A withdrawal appears on your transcript as a \"W\" but does not affect your grade point average. Withdrawals are not eligible for a tuition refund.\n\nStudents receiving financial aid should be aware that falling below 12 credits may reduce their aid for the semester. Before withdrawing, we strongly recommend meeting with a financial aid counselor.\n\nInternational students on student visas must remain enrolled full-time and therefore need written approval from the International Student Office before withdrawing from any course that would take them below 12 credits.\n\nAfter October 31, students may leave a course only in cases of documented medical or family emergency, through a petition to the Dean's Office.\n\nRegards,\nOffice of the Registrar",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why did the Registrar send this email?",
+        "options": [
+          "To announce that tuition will increase next semester",
+          "To tell international students that they must take more courses",
+          "To clarify the rules and consequences of leaving a course at different times",
+          "To remind students to register for next semester's courses"
+        ],
+        "answer": 2,
+        "explanation": "El correo recuerda la diferencia entre darse de baja (drop) y retirarse (withdraw), con sus fechas y consecuencias.",
+        "evidence": "We would like to remind you of the difference between dropping and withdrawing from a course.",
+        "optionNotes": [
+          "No se menciona una subida de matrícula.",
+          "Sólo deben mantener 12 créditos; no se les pide más.",
+          "Correcta: explica la diferencia entre «drop» y «withdraw» y sus plazos y efectos.",
+          "No se habla de matrícula del próximo semestre."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A student leaves a course on October 5. What will happen?",
+        "options": [
+          "The course will be removed from her record and her tuition refunded.",
+          "The course will appear on her transcript, but her GPA will not change.",
+          "She will receive a failing grade that lowers her GPA.",
+          "She will need to petition the Dean's Office."
+        ],
+        "answer": 1,
+        "explanation": "El 5 de octubre está entre el 19 de septiembre y el 31 de octubre, así que es una retirada: «W» en el expediente, sin efecto en la media y sin reembolso.",
+        "evidence": "A withdrawal appears on your transcript as a \"W\" but does not affect your grade point average.",
+        "optionNotes": [
+          "Eso sólo ocurre si se deja antes del 19 de septiembre.",
+          "Correcta: después del 19 de septiembre ya es una «withdrawal»: aparece una «W» y no afecta a la media.",
+          "Una «W» no afecta a la media.",
+          "La petición sólo es necesaria después del 31 de octubre."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "An international student taking 15 credits wants to withdraw from one 3-credit course on October 20. What is true?",
+        "options": [
+          "She needs written approval from the International Student Office.",
+          "She must petition the Dean's Office.",
+          "She cannot withdraw because she holds a student visa.",
+          "She can withdraw without the International Student Office's approval because she will still have 12 credits."
+        ],
+        "answer": 3,
+        "explanation": "La aprobación es necesaria sólo si la retirada deja al estudiante por debajo de 12 créditos. Con 15 − 3 = 12, no baja de 12.",
+        "evidence": "need written approval from the International Student Office before withdrawing from any course that would take them below 12 credits",
+        "optionNotes": [
+          "Sólo hace falta si se queda por debajo de 12 créditos.",
+          "Aún está dentro del plazo (31 de octubre).",
+          "Los estudiantes con visado pueden retirarse cumpliendo la norma.",
+          "Correcta: 15 − 3 = 12; la aprobación sólo hace falta si baja de 12."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-29",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "notice",
+    "title": "Laptop lending policy",
+    "task": "daily-life",
+    "text": "Laptop Lending Program — Policy Update\n\nBeginning this semester, the library's laptop lending program will operate under the following rules.\n\nStandard laptops may be borrowed for up to 4 hours and must stay inside the library building. Students enrolled in courses that require specialized software may instead borrow a high-performance laptop for up to 3 days, but only with a referral form signed by their instructor.\n\nLate returns are charged at $5 per hour for standard laptops and $20 per day for high-performance laptops, up to a maximum equal to the replacement cost. Borrowing privileges are suspended for any student with unpaid fines over $25.\n\nTo be fair to all users, a student may not borrow a second laptop on the same day after returning one late. Reservations are not accepted; laptops are lent on a first-come, first-served basis, though students with registered disability accommodations may reserve a device up to 24 hours ahead.\n\nIf a laptop is damaged while on loan, report it immediately. Students who report damage themselves will not be charged for normal wear.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the notice?",
+        "options": [
+          "To explain revised conditions for borrowing library laptops",
+          "To announce that the library is buying new laptops",
+          "To ask students to report stolen laptops",
+          "To advertise courses that use specialized software"
+        ],
+        "answer": 0,
+        "explanation": "El aviso detalla las nuevas reglas del programa de préstamo de portátiles.",
+        "evidence": "the library's laptop lending program will operate under the following rules",
+        "optionNotes": [
+          "Correcta: presenta las nuevas normas del préstamo de portátiles.",
+          "No se habla de compras.",
+          "Habla de daños, no de robos.",
+          "Los cursos se mencionan sólo como requisito."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A student returns a high-performance laptop two days late and does not pay the fine. What will happen?",
+        "options": [
+          "She will be charged the full replacement cost.",
+          "She will be charged $10, which she can pay later.",
+          "She will be unable to borrow laptops until she pays.",
+          "She will lose her instructor's referral form."
+        ],
+        "answer": 2,
+        "explanation": "Dos días de retraso en un portátil de alto rendimiento son $40. Las multas impagadas de más de $25 suspenden el derecho de préstamo.",
+        "evidence": "Borrowing privileges are suspended for any student with unpaid fines over $25.",
+        "optionNotes": [
+          "El coste de reposición es sólo el máximo de la multa.",
+          "Serían 2 horas de un portátil estándar ($5 por hora); el de alto rendimiento cuesta $20 por día.",
+          "Correcta: 2 días × $20 = $40, más de $25, así que se le suspende el préstamo.",
+          "No se dice nada de eso."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Who is allowed to reserve a laptop in advance?",
+        "options": [
+          "Any student with an instructor's referral form",
+          "A student with a registered disability accommodation",
+          "A student who has never returned a laptop late",
+          "Any student, up to 24 hours ahead"
+        ],
+        "answer": 1,
+        "explanation": "Las reservas no se aceptan, salvo para estudiantes con adaptaciones por discapacidad registradas, que pueden reservar con 24 horas de antelación.",
+        "evidence": "students with registered disability accommodations may reserve a device up to 24 hours ahead",
+        "optionNotes": [
+          "El formulario permite pedir un portátil potente, no reservar.",
+          "Correcta: es la única excepción a «no se aceptan reservas».",
+          "No existe esa excepción.",
+          "En general no se aceptan reservas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-30",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "webpage",
+    "title": "Concert hall ticket information",
+    "task": "daily-life",
+    "text": "Harbor Hall — Ticket Information\n\nCan I get a refund?\nAll ticket sales are final. If an event is canceled, refunds are issued automatically to the original payment method within 10 business days. If an event is postponed, your tickets remain valid for the new date; refunds are available only if requested within 14 days of the announcement of the new date.\n\nCan I transfer my ticket to someone else?\nMobile tickets can be transferred through our app up to 2 hours before the doors open. Printed tickets cannot be transferred, since each is linked to the buyer's ID, which must be shown at entry.\n\nAre there age restrictions?\nMost shows are open to all ages, but anyone under 16 must be accompanied by an adult. Events marked \"21+\" are restricted because alcohol is served throughout the venue; no exceptions are made, even for guests accompanied by parents.\n\nWhat can I bring?\nSmall bags (under 30 × 20 cm) are permitted. Professional cameras, outside food, and umbrellas are not allowed. A coat check is available for $3 per item.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why does the page mention that printed tickets are linked to the buyer's ID?",
+        "options": [
+          "To encourage buyers to print their tickets",
+          "To explain how refunds are paid",
+          "To describe the age restrictions",
+          "To explain why they cannot be given to another person"
+        ],
+        "answer": 3,
+        "explanation": "La identificación del comprador es la razón por la que las entradas impresas no se pueden transferir.",
+        "evidence": "Printed tickets cannot be transferred, since each is linked to the buyer's ID",
+        "optionNotes": [
+          "Más bien sugiere lo contrario: las móviles son más flexibles.",
+          "Los reembolsos van al método de pago original.",
+          "La edad se trata en otra sección.",
+          "Correcta: como la entrada va ligada al DNI del comprador, otra persona no podría entrar con ella."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A concert is postponed, and the new date is announced on May 1. A fan asks for a refund on May 20. What will most likely happen?",
+        "options": [
+          "She will receive a refund within 10 business days.",
+          "She will not receive a refund.",
+          "She will receive a refund automatically.",
+          "She will receive a refund only if she has a mobile ticket."
+        ],
+        "answer": 1,
+        "explanation": "En un aplazamiento, el reembolso sólo se da si se pide en los 14 días siguientes al anuncio. Del 1 al 20 de mayo han pasado 19 días.",
+        "evidence": "refunds are available only if requested within 14 days of the announcement of the new date",
+        "optionNotes": [
+          "Los 10 días hábiles son para eventos cancelados.",
+          "Correcta: el plazo era de 14 días desde el anuncio (hasta el 15 de mayo).",
+          "El reembolso automático es sólo si se cancela.",
+          "El tipo de entrada no afecta a los reembolsos."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Which of the following is permitted?",
+        "options": [
+          "An 18-year-old attending a \"21+\" event with his parents",
+          "A guest bringing a sandwich from home",
+          "A 15-year-old attending an all-ages show with her father",
+          "A guest bringing an umbrella into the hall"
+        ],
+        "answer": 2,
+        "explanation": "Los espectáculos para todas las edades admiten menores de 16 si van con un adulto.",
+        "evidence": "anyone under 16 must be accompanied by an adult",
+        "optionNotes": [
+          "En eventos 21+ no hay excepciones, ni con padres.",
+          "No se permite comida de fuera.",
+          "Correcta: los menores de 16 pueden ir acompañados de un adulto.",
+          "Los paraguas no están permitidos."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-31",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "email",
+    "title": "Car repair estimate",
+    "task": "daily-life",
+    "text": "From: Dave Kowalczyk, Northside Auto Repair\nTo: Hannah Lee\nSubject: Your car — inspection results\n\nHi Hannah,\n\nWe've finished inspecting your car. The noise you mentioned is coming from the front brake pads, which are worn almost down to the metal. Replacing them will cost $210, including labor. I'd recommend doing this right away — driving much longer could damage the rotors, and replacing those would add about $300.\n\nWe also noticed that your rear tires are fairly worn. They're still legal, so there's no urgency, but you'll probably want new ones before winter. If you'd like us to do both jobs at once, we can take 10% off the tire price, which is normally $380 for the pair.\n\nYour car is ready to pick up today, but since it's not safe to drive far with the brakes in this condition, I'd suggest leaving it with us. If you approve the brake job by 3 PM, we can have it done by tomorrow morning. Parts ordered after 3 PM don't arrive until the following afternoon.\n\nLet me know how you'd like to proceed.\n\nDave",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of Dave's email?",
+        "options": [
+          "To tell Hannah that her car has been repaired",
+          "To report what he found and ask Hannah to decide on repairs",
+          "To apologize for damaging the rotors",
+          "To advertise a winter tire sale"
+        ],
+        "answer": 1,
+        "explanation": "Dave informa de los resultados de la inspección, presupuesta las reparaciones y pide a Hannah que decida.",
+        "evidence": "Let me know how you'd like to proceed.",
+        "optionNotes": [
+          "Sólo se ha inspeccionado; nada está reparado aún.",
+          "Correcta: explica los problemas, da precios y pregunta cómo quiere seguir.",
+          "Los discos aún no están dañados; es un riesgo.",
+          "El descuento es sólo si hace los dos trabajos a la vez."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "If Hannah approves both the brake job and the new tires, how much will she pay?",
+        "options": [
+          "$590",
+          "$531",
+          "$852",
+          "$552"
+        ],
+        "answer": 3,
+        "explanation": "El descuento del 10 % es sólo sobre los neumáticos: 380 × 0.9 = 342. Más los frenos (210): 552.",
+        "evidence": "we can take 10% off the tire price, which is normally $380 for the pair",
+        "optionNotes": [
+          "Sería sin descuento en los neumáticos.",
+          "Aplicaría el 10 % a todo el total.",
+          "Incluiría los $300 de los discos, que todavía no hacen falta.",
+          "Correcta: $210 + ($380 − 10 %) = $210 + $342 = $552."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "If Hannah approves the brake job at 4 PM today, when will her car most likely be ready?",
+        "options": [
+          "Not before tomorrow afternoon",
+          "By 5 PM today",
+          "By tomorrow morning",
+          "Before winter"
+        ],
+        "answer": 0,
+        "explanation": "Si aprueba después de las 3 PM, las piezas no llegarán hasta la tarde del día siguiente, así que el coche no estará listo por la mañana.",
+        "evidence": "Parts ordered after 3 PM don't arrive until the following afternoon.",
+        "optionNotes": [
+          "Correcta: las piezas pedidas después de las 3 PM no llegan hasta la tarde siguiente.",
+          "Ni siquiera tendrían las piezas.",
+          "Eso sólo si aprueba antes de las 3 PM.",
+          "Es el plazo sugerido para los neumáticos."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-32",
+    "difficulty": "hard",
+    "usage": "practice",
+    "format": "notice",
+    "title": "New package room policy",
+    "task": "daily-life",
+    "text": "Maple Court Residents — New Package Room Policy\n\nBecause of the growing number of deliveries, the management office can no longer store packages for residents. Starting October 1, all deliveries will go to the new package room in the lobby, which is open 24 hours a day.\n\nWhen a package arrives, you will receive a text message with a six-digit code that opens the locker containing your delivery. Codes expire after 5 days. After that, uncollected packages are moved to a storage area and can be picked up only from the office during business hours (weekdays, 9 AM–5 PM), for a $5 handling fee.\n\nPackages that are too large for a locker will be placed on the shelves at the back of the room, and you will receive a text describing the item. Perishable items, such as groceries and flowers, cannot be held. If they are not collected within 24 hours, they will be thrown away.\n\nResidents expecting a delivery while away for more than 5 days are encouraged to have it sent to another address or to ask a neighbor to collect it using the code.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why was this notice written?",
+        "options": [
+          "To announce that the management office will close",
+          "To ask residents to stop ordering groceries online",
+          "To inform residents of a change in how deliveries are handled",
+          "To explain why some packages were lost"
+        ],
+        "answer": 2,
+        "explanation": "El aviso explica el nuevo sistema: los paquetes irán a una sala con taquillas en lugar de a la oficina.",
+        "evidence": "Starting October 1, all deliveries will go to the new package room in the lobby",
+        "optionNotes": [
+          "La oficina sigue abierta en horario laboral.",
+          "Sólo explica qué pasa con los perecederos.",
+          "Correcta: la oficina ya no guarda paquetes; ahora van a una sala con taquillas.",
+          "No se menciona ninguna pérdida."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A resident receives a code on a Monday but does not try to collect her package until the following Sunday. What will she have to do?",
+        "options": [
+          "Wait until a weekday and pay a fee at the office",
+          "Use the same code to open the locker",
+          "Ask a neighbor for a new code",
+          "Collect the package from the shelves at the back of the room"
+        ],
+        "answer": 0,
+        "explanation": "Del lunes al domingo pasan seis días; el código caduca a los cinco. El paquete se traslada al almacén y sólo puede recogerse en la oficina entre semana pagando $5.",
+        "evidence": "can be picked up only from the office during business hours (weekdays, 9 AM–5 PM), for a $5 handling fee",
+        "optionNotes": [
+          "Correcta: el código caduca a los 5 días; el paquete pasa al almacén, que sólo se recoge entre semana, con una tarifa de $5.",
+          "El código habrá caducado (seis días después).",
+          "Los vecinos sólo pueden usar tu código, no generar otro.",
+          "Las estanterías son para paquetes grandes."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What happens to a delivery of flowers that is not collected within a day?",
+        "options": [
+          "It is moved to the storage area.",
+          "It is returned to the sender.",
+          "It is placed on the shelves.",
+          "It is thrown away."
+        ],
+        "answer": 3,
+        "explanation": "Los productos perecederos, como las flores, no se guardan: si no se recogen en 24 horas, se tiran.",
+        "evidence": "If they are not collected within 24 hours, they will be thrown away.",
+        "optionNotes": [
+          "El almacén es para paquetes normales tras 5 días.",
+          "No se dice que se devuelvan.",
+          "Las estanterías son para paquetes demasiado grandes.",
+          "Correcta: los perecederos se tiran si no se recogen en 24 horas."
+        ]
+      }
+    ]
+  }
+]

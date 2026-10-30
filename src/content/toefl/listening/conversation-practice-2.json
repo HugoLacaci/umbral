@@ -1,0 +1,790 @@
+[
+  {
+    "id": "toefl-conv-09",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Summer sublet",
+    "context": "Listen to a conversation between two friends.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Chloe",
+          "gender": "f",
+          "accent": "en-GB"
+        },
+        {
+          "id": "b",
+          "name": "Ryan",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "So, I finally accepted the summer internship in Toronto."
+        },
+        {
+          "s": "b",
+          "t": "That's great! But what about your apartment here? Aren't you still paying rent for June and July?"
+        },
+        {
+          "s": "a",
+          "t": "Yeah, that's what I'm worried about. My lease doesn't end until August."
+        },
+        {
+          "s": "b",
+          "t": "Could you sublet it? My cousin's taking summer classes here, and she's looking for a place."
+        },
+        {
+          "s": "a",
+          "t": "Really? That would be amazing. I'd have to check with my landlord first, though. I think the lease says I need written permission."
+        },
+        {
+          "s": "b",
+          "t": "I'll give her your number in the meantime, so you two can talk."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the man mention his cousin?",
+        "options": [
+          "She could rent the woman's apartment.",
+          "She also has an internship in Toronto.",
+          "She knows the woman's landlord.",
+          "She is looking for a roommate."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: she needs a place for the summer.",
+          "Not mentioned.",
+          "Not mentioned.",
+          "She's looking for a place, not a roommate."
+        ],
+        "explanation": "He mentions her as a possible person to sublet the apartment.",
+        "evidence": "My cousin's taking summer classes here, and she's looking for a place."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What must the woman do before subletting?",
+        "options": [
+          "Pay the rent for August",
+          "Find a new apartment in Toronto",
+          "Get her landlord's written permission",
+          "Meet the man's cousin in person"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not mentioned.",
+          "Not mentioned.",
+          "Correct: the lease requires written permission.",
+          "They'll talk, but this isn't a requirement."
+        ],
+        "explanation": "She says she needs to check with her landlord because the lease requires written permission.",
+        "evidence": "I'd have to check with my landlord first, though."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-10",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Password problem",
+    "context": "Listen to a conversation between a student and an employee at the IT help desk.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Jasmine",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-US"
+        },
+        {
+          "id": "b",
+          "name": "Daniel",
+          "role": "IT staff",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hi, I can't log in to the student portal. I think I forgot my password."
+        },
+        {
+          "s": "b",
+          "t": "No problem. Have you tried the reset link on the login page?"
+        },
+        {
+          "s": "a",
+          "t": "I did, but the email goes to my old high school address, and I can't access that anymore."
+        },
+        {
+          "s": "b",
+          "t": "I see. In that case, you'll need to come to the help desk in person with your student ID. We can update your email and reset the password there."
+        },
+        {
+          "s": "a",
+          "t": "Where is the help desk, exactly?"
+        },
+        {
+          "s": "b",
+          "t": "It's in the basement of the library. We're open until six today."
+        },
+        {
+          "s": "a",
+          "t": "Okay, I'll go right after my lab."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why didn't the reset link solve the woman's problem?",
+        "options": [
+          "The link was broken.",
+          "Her student account was closed.",
+          "She didn't know the link existed.",
+          "It sends the email to an address she can't use."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not mentioned.",
+          "Not mentioned.",
+          "She did try it.",
+          "Correct: it goes to her old high school email."
+        ],
+        "explanation": "The reset email goes to an old address she no longer has access to.",
+        "evidence": "the email goes to my old high school address, and I can't access that anymore"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the woman need to bring to the help desk?",
+        "options": [
+          "Her laptop",
+          "Her old password",
+          "Her student ID",
+          "A form from the registrar"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not mentioned.",
+          "Not mentioned.",
+          "Correct.",
+          "Not mentioned."
+        ],
+        "explanation": "The employee tells her to come in person with her student ID.",
+        "evidence": "you'll need to come to the help desk in person with your student ID"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-11",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Essay feedback",
+    "context": "Listen to a conversation between two students.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Josh",
+          "gender": "m",
+          "accent": "en-AU"
+        },
+        {
+          "id": "b",
+          "name": "Emma",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "I got my history essay back. A B minus. I spent three weeks on that thing."
+        },
+        {
+          "s": "b",
+          "t": "Ouch. What did the comments say?"
+        },
+        {
+          "s": "a",
+          "t": "Mostly that my argument was buried. Apparently I spent the first two pages on background before getting to my point."
+        },
+        {
+          "s": "b",
+          "t": "That's actually really common. Doctor Patel said the same thing to me last year. Once I moved my thesis to the first paragraph, my grades went up almost right away."
+        },
+        {
+          "s": "a",
+          "t": "Huh. I guess I always thought you had to build up to it."
+        },
+        {
+          "s": "b",
+          "t": "Not in her class. She wants the argument up front, and then the evidence."
+        },
+        {
+          "s": "a",
+          "t": "Well, the next essay's due in two weeks. I'll try it your way."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the woman talk about her experience last year?",
+        "options": [
+          "To show that the professor grades unfairly",
+          "To show that the problem can be fixed",
+          "To explain why she dropped the class",
+          "To suggest he ask for a new grade"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She doesn't criticize the professor.",
+          "Correct: her grades improved once she changed her approach.",
+          "She never says she dropped it.",
+          "Not mentioned."
+        ],
+        "explanation": "She had the same problem and solved it, which shows him what to do.",
+        "evidence": "Once I moved my thesis to the first paragraph, my grades went up almost right away."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What did the man previously believe about writing essays?",
+        "options": [
+          "The main argument should come later in the essay.",
+          "Background information is unnecessary.",
+          "Longer essays get higher grades.",
+          "The professor prefers short paragraphs."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: 'build up to it' means delay the main point.",
+          "He wrote two pages of background, so he thought it was important.",
+          "Not mentioned.",
+          "Not mentioned."
+        ],
+        "explanation": "'Build up to it' means leading slowly toward the main point instead of stating it first.",
+        "evidence": "I guess I always thought you had to build up to it."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-12",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Returning a jacket",
+    "context": "Listen to a conversation between a customer and a sales assistant.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Mia",
+          "role": "Customer",
+          "gender": "f",
+          "accent": "en-AU"
+        },
+        {
+          "id": "b",
+          "name": "Carlos",
+          "role": "Sales assistant",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hi, I'd like to return this jacket. It's too small, and I haven't worn it."
+        },
+        {
+          "s": "b",
+          "t": "Sure. Do you have the receipt?"
+        },
+        {
+          "s": "a",
+          "t": "Um, no. It was a gift from my aunt, so I don't have one."
+        },
+        {
+          "s": "b",
+          "t": "That's okay. Without a receipt, we can't give you cash back, but we can give you store credit for the full amount."
+        },
+        {
+          "s": "a",
+          "t": "Could I just exchange it for a bigger size instead?"
+        },
+        {
+          "s": "b",
+          "t": "Of course. Let me check. Yep, we've got it in a medium in the same color."
+        },
+        {
+          "s": "a",
+          "t": "Perfect, I'll take that."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why can't the woman get her money back?",
+        "options": [
+          "She has already worn the jacket.",
+          "The jacket was on sale.",
+          "She does not have a receipt.",
+          "The store does not accept returns."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "She says she hasn't worn it.",
+          "Not mentioned.",
+          "Correct: no receipt means no cash refund.",
+          "The store offers store credit, so it does accept returns."
+        ],
+        "explanation": "The assistant explains that without a receipt they can't give cash back.",
+        "evidence": "Without a receipt, we can't give you cash back"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the woman probably do?",
+        "options": [
+          "Accept store credit",
+          "Exchange the jacket for a larger size",
+          "Ask her aunt for the receipt",
+          "Choose a jacket in a different color"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She asks for an exchange instead.",
+          "Correct: she takes the medium.",
+          "Not mentioned.",
+          "The medium is in the same color."
+        ],
+        "explanation": "She asks to exchange it, the store has a medium, and she says she'll take it.",
+        "evidence": "we've got it in a medium in the same color"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-13",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Conference travel",
+    "context": "Listen to a conversation between two graduate students.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Olivia",
+          "gender": "f",
+          "accent": "en-US"
+        },
+        {
+          "id": "b",
+          "name": "Harry",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "So, are you presenting at the student research conference in Chicago?"
+        },
+        {
+          "s": "b",
+          "t": "My abstract was accepted, which is great. The problem is getting there. Flights alone are almost four hundred dollars."
+        },
+        {
+          "s": "a",
+          "t": "Doesn't the department cover travel for students who present?"
+        },
+        {
+          "s": "b",
+          "t": "They used to. This year they're only covering registration, apparently because of budget cuts."
+        },
+        {
+          "s": "a",
+          "t": "Have you looked into the graduate student association? I'm pretty sure they have small travel grants. My lab mate got one last spring."
+        },
+        {
+          "s": "b",
+          "t": "I had no idea. Do you know when the deadline is?"
+        },
+        {
+          "s": "a",
+          "t": "Not off the top of my head, but their website should say. I'd apply soon, though. The money tends to run out."
+        },
+        {
+          "s": "b",
+          "t": "Right. I'll check tonight."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the man's main problem?",
+        "options": [
+          "He cannot afford the trip to the conference.",
+          "His abstract was rejected.",
+          "He missed the registration deadline.",
+          "He does not know where the conference is."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: travel costs are the problem.",
+          "It was accepted.",
+          "Registration is covered; no deadline issue.",
+          "It's in Chicago."
+        ],
+        "explanation": "His abstract was accepted; the issue is paying for travel, since flights are expensive and the department no longer covers them.",
+        "evidence": "The problem is getting there."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the woman imply about the travel grants?",
+        "options": [
+          "They are only for students in her lab.",
+          "They cover the full cost of travel.",
+          "There is limited money, so early applicants have a better chance.",
+          "They are no longer available because of budget cuts."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Her lab mate got one, but that doesn't mean only her lab qualifies.",
+          "She calls them 'small'.",
+          "Correct: 'the money tends to run out'.",
+          "The budget cuts were in the department, not the association."
+        ],
+        "explanation": "She advises applying soon because the money runs out, meaning funds are limited.",
+        "evidence": "I'd apply soon, though. The money tends to run out."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-14",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Locked out",
+    "context": "Listen to a conversation between a student and a resident assistant in a dormitory.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Owen",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-CA"
+        },
+        {
+          "id": "b",
+          "name": "Zoe",
+          "role": "Resident assistant",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hi, sorry to bother you. I locked myself out of my room."
+        },
+        {
+          "s": "b",
+          "t": "Don't worry, it happens all the time. What's your room number?"
+        },
+        {
+          "s": "a",
+          "t": "Three twelve. My roommate's away this weekend, so he can't let me in."
+        },
+        {
+          "s": "b",
+          "t": "Okay. I can open it for you now, but I have to write it down in the lockout log. After three lockouts, there's a fifteen-dollar fee."
+        },
+        {
+          "s": "a",
+          "t": "Got it. This is my first time, so I should be fine."
+        },
+        {
+          "s": "b",
+          "t": "Great. Let me just grab the master key."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the man talk to the woman?",
+        "options": [
+          "He lost his student ID.",
+          "He needs to pay a fee.",
+          "He wants to change rooms.",
+          "He cannot get into his room."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not mentioned.",
+          "He won't have to pay; it's his first time.",
+          "Not mentioned.",
+          "Correct: he locked himself out."
+        ],
+        "explanation": "He says he locked himself out of his room.",
+        "evidence": "I locked myself out of my room."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "When do students have to pay a fee?",
+        "options": [
+          "Every time they are locked out",
+          "When they lose their key",
+          "After their third lockout",
+          "When the RA uses the master key at night"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Only after three lockouts.",
+          "Not mentioned.",
+          "Correct.",
+          "Not mentioned."
+        ],
+        "explanation": "The RA says the fee applies after three lockouts.",
+        "evidence": "After three lockouts, there's a fifteen-dollar fee."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-15",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "At the pharmacy",
+    "context": "Listen to a conversation between a student and a pharmacist at the campus clinic.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Ruth",
+          "role": "Pharmacist",
+          "gender": "f",
+          "accent": "en-GB"
+        },
+        {
+          "id": "b",
+          "name": "Kevin",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Here's your prescription. You'll take one tablet twice a day, with food."
+        },
+        {
+          "s": "b",
+          "t": "With food? I usually skip breakfast, to be honest."
+        },
+        {
+          "s": "a",
+          "t": "Then try to have at least something small, like toast or yogurt. On an empty stomach, these can upset your stomach."
+        },
+        {
+          "s": "b",
+          "t": "Okay. And how long do I take them for?"
+        },
+        {
+          "s": "a",
+          "t": "For ten days. Even if you start feeling better after three or four, please finish the whole course."
+        },
+        {
+          "s": "b",
+          "t": "Got it. Can I still drink coffee?"
+        },
+        {
+          "s": "a",
+          "t": "Coffee's fine. Just avoid alcohol until you've finished."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why does the pharmacist tell the man to eat something before taking the tablets?",
+        "options": [
+          "To avoid an upset stomach",
+          "To help the medicine work faster",
+          "Because the tablets are hard to swallow",
+          "Because he should stop drinking coffee"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct.",
+          "Not mentioned.",
+          "Not mentioned.",
+          "She says coffee is fine."
+        ],
+        "explanation": "She warns that the tablets can upset an empty stomach.",
+        "evidence": "On an empty stomach, these can upset your stomach."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What should the man do if he feels better after a few days?",
+        "options": [
+          "Stop taking the tablets",
+          "Take one tablet a day instead of two",
+          "Keep taking the tablets for the full ten days",
+          "Come back to see the pharmacist"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "She says the opposite.",
+          "Not mentioned.",
+          "Correct: finish the whole course.",
+          "Not mentioned."
+        ],
+        "explanation": "She tells him to finish the whole ten-day course even if he feels better.",
+        "evidence": "please finish the whole course"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-16",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Early study group",
+    "context": "Listen to a conversation between two classmates.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Ben",
+          "gender": "m",
+          "accent": "en-AU"
+        },
+        {
+          "id": "b",
+          "name": "Nora",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "So the study group voted, and we're meeting on Sundays at eight a.m., starting this week."
+        },
+        {
+          "s": "b",
+          "t": "Eight a.m. on a Sunday? Well, that's going to be fun."
+        },
+        {
+          "s": "a",
+          "t": "I know, I know. It was the only time everyone else could make it. Two people work on weekend evenings."
+        },
+        {
+          "s": "b",
+          "t": "Fine, but don't be surprised if I show up in my pajamas. Where are we meeting?"
+        },
+        {
+          "s": "a",
+          "t": "The library doesn't open until ten on Sundays, so Priya offered her apartment. It's a ten-minute walk from your place."
+        },
+        {
+          "s": "b",
+          "t": "Oh, that's not bad, actually. Okay, I'll be there. Should I bring anything?"
+        },
+        {
+          "s": "a",
+          "t": "Maybe your chemistry notes from last week. Mine are a mess."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What does the woman mean when she says this: \"Eight a.m. on a Sunday? Well, that's going to be fun.\"",
+        "options": [
+          "She is not happy about the meeting time.",
+          "She is excited about the early meeting.",
+          "She thinks the group should meet more often.",
+          "She is surprised that the group voted."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the sarcastic tone shows she dislikes the time.",
+          "She is being sarcastic, so she means the opposite.",
+          "Not implied.",
+          "Her reaction is to the time, not the vote."
+        ],
+        "explanation": "'That's going to be fun' is sarcastic here; Ben's reply 'I know, I know' confirms she is complaining.",
+        "evidence": "Eight a.m. on a Sunday? Well, that's going to be fun."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why will the group meet at Priya's apartment?",
+        "options": [
+          "It is closer to campus than the library.",
+          "The library study rooms are fully booked.",
+          "Priya has the chemistry notes.",
+          "The library is not open that early on Sundays."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Distance to the library isn't compared.",
+          "Not mentioned.",
+          "Ben asks Nora, not Priya, for notes.",
+          "Correct: the library opens at ten on Sundays."
+        ],
+        "explanation": "They can't use the library at eight because it opens at ten on Sundays.",
+        "evidence": "The library doesn't open until ten on Sundays"
+      }
+    ]
+  }
+]

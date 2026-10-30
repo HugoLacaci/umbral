@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ielts-l-p2-06",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 2,
+    "title": "A tour of Ashcombe Heritage Village",
+    "context": "You will hear a guide welcoming visitors to an open-air heritage village.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Graham", "role": "Guide", "gender": "m", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Morning, everyone. Welcome to Ashcombe Heritage Village. I'm Graham, and I'll give you a quick introduction here in the car park before you head across the river into the village itself." },
+        { "s": "a", "t": "Ashcombe is a real village, not a reconstruction. By the 1960s most of the families had moved away, and the county council planned to flood the whole valley to create a reservoir. A wealthy businessman offered to buy the village at one point, but he pulled out at the last minute. In the end, it was a group of local residents who saved it. They raised the money themselves, bought the buildings one by one, and opened them to the public." },
+        { "s": "a", "t": "Now, a word about your tickets. Most visitors assume they're only valid for today, but in fact your ticket lets you come back as often as you like for the next twelve months. You just need to sign the back of it and show it at the gate." },
+        { "s": "a", "t": "On a normal weekend we'd have actors in costume in every building and horse and cart rides along the High Street. I'm afraid our horse is unwell, so there won't be any rides today. But there is something extra this weekend, which we don't usually offer. A potter is visiting from Devon, and she's running a pottery workshop in the schoolhouse, which is free for anyone with a ticket." },
+        { "s": "a", "t": "Right, please take a look at your map. We're in the car park, which is on the east bank of the river. To get to the village, you cross the bridge and walk west along the High Street." },
+        { "s": "a", "t": "As you come off the bridge, the first building on your left, right on the riverbank, is the toll house. That's where travellers had to pay to cross the river, two hundred years ago." },
+        { "s": "a", "t": "Then take the first turning on your right, which is Mill Lane. Follow it right to the end, and you'll see the water mill on your right, beside the river. The wheel still turns, and they grind flour there on Saturdays." },
+        { "s": "a", "t": "Directly opposite the mill, on the other side of the lane, is the old schoolhouse. That's where the pottery workshop is today." },
+        { "s": "a", "t": "Then come back down Mill Lane to the High Street and turn right, so you're heading west. You'll soon pass the church on your right. Between the church and the street, there's a small cottage with a thatched roof. That's the weaver's cottage, and you can try the loom inside." },
+        { "s": "a", "t": "If you keep going west, right to the far end of the village, you'll find the blacksmith's forge on the right, just beyond the church. It's very hot in there, so keep children close." },
+        { "s": "a", "t": "Now cross over the High Street to the village green, on the south side. The bakery is on the east side of the green, and it sells bread made with flour from our own mill. The house on the opposite side of the green, to the west, is still privately owned, so please don't go into the garden." },
+        { "s": "a", "t": "The museum shop is at the bottom of the green, on its southern side. It's the last stop for most people, and it sells books, local honey and copies of old photographs." },
+        { "s": "a", "t": "Oh, and if you've brought a picnic, there are tables back on this side of the river, just south of the car park. Right, off you go, and enjoy your visit." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 11–13\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q11", "kind": "mcq", "qtype": "mcq", "prompt": "Who saved the village from being flooded?",
+            "options": ["a wealthy businessman", "the county council", "a group of local residents"], "answer": 2,
+            "explanation": "The council planned the flooding, and the businessman withdrew; local residents raised the money and saved it.",
+            "evidence": "it was a group of local residents who saved it",
+            "optionNotes": ["He pulled out at the last minute.", "The council wanted to flood the valley.", "Correct."] },
+          { "id": "q12", "kind": "mcq", "qtype": "mcq", "prompt": "Visitors' tickets are valid for",
+            "options": ["one day only.", "the whole weekend.", "a year."], "answer": 2,
+            "explanation": "Most people think the ticket is for one day, but it allows return visits for twelve months.",
+            "evidence": "your ticket lets you come back as often as you like for the next twelve months",
+            "optionNotes": ["What most visitors wrongly assume.", "Not mentioned.", "Correct."] },
+          { "id": "q13", "kind": "mcq", "qtype": "mcq", "prompt": "What is available this weekend that is not usually offered?",
+            "options": ["actors in costume", "a pottery workshop", "horse and cart rides"], "answer": 1,
+            "explanation": "Actors and cart rides are normal features (and the rides are cancelled today). The pottery workshop is an extra this weekend.",
+            "evidence": "she's running a pottery workshop in the schoolhouse",
+            "optionNotes": ["A normal weekend feature.", "Correct.", "Normally offered, but cancelled today because the horse is unwell."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "map-labelling",
+        "instructions": "Questions 14–20\nLabel the map below.\nWrite the correct letter, A–I, next to Questions 14–20.",
+        "title": "Ashcombe Heritage Village",
+        "options": [
+          { "key": "A", "text": "A" }, { "key": "B", "text": "B" }, { "key": "C", "text": "C" }, { "key": "D", "text": "D" },
+          { "key": "E", "text": "E" }, { "key": "F", "text": "F" }, { "key": "G", "text": "G" }, { "key": "H", "text": "H" },
+          { "key": "I", "text": "I" }
+        ],
+        "diagram": {
+          "width": 600,
+          "height": 400,
+          "compass": true,
+          "shapes": [
+            { "kind": "water", "x": 440, "y": 0, "w": 50, "h": 400, "label": "River" },
+            { "kind": "road", "x": 20, "y": 180, "w": 420, "h": 40, "label": "High Street" },
+            { "kind": "path", "x": 430, "y": 185, "w": 70, "h": 30, "label": "Bridge" },
+            { "kind": "parking", "x": 510, "y": 140, "w": 80, "h": 110, "label": "Car park" },
+            { "kind": "park", "x": 160, "y": 260, "w": 150, "h": 90, "label": "Village Green" },
+            { "kind": "building", "x": 170, "y": 50, "w": 90, "h": 70, "label": "Church" },
+            { "kind": "path", "x": 330, "y": 20, "w": 20, "h": 160, "label": "Mill Lane" }
+          ],
+          "markers": [
+            { "key": "A", "x": 400, "y": 90 },
+            { "key": "B", "x": 295, "y": 90 },
+            { "key": "C", "x": 80, "y": 90 },
+            { "key": "D", "x": 405, "y": 245 },
+            { "key": "E", "x": 345, "y": 305 },
+            { "key": "F", "x": 100, "y": 305 },
+            { "key": "G", "x": 235, "y": 375 },
+            { "key": "H", "x": 215, "y": 150 },
+            { "key": "I", "x": 550, "y": 320 }
+          ]
+        },
+        "items": [
+          { "id": "q14", "kind": "match", "qtype": "map-labelling", "prompt": "Toll house", "answer": "D",
+            "explanation": "Walking west off the bridge, 'on your left' means the south side of the street, by the river.",
+            "evidence": "the first building on your left, right on the riverbank, is the toll house" },
+          { "id": "q15", "kind": "match", "qtype": "map-labelling", "prompt": "Water mill", "answer": "A",
+            "explanation": "Walking north up Mill Lane, 'on your right' is the east side, beside the river.",
+            "evidence": "you'll see the water mill on your right, beside the river" },
+          { "id": "q16", "kind": "match", "qtype": "map-labelling", "prompt": "Schoolhouse", "answer": "B",
+            "explanation": "It is opposite the mill, on the west side of Mill Lane.",
+            "evidence": "Directly opposite the mill, on the other side of the lane, is the old schoolhouse." },
+          { "id": "q17", "kind": "match", "qtype": "map-labelling", "prompt": "Weaver's cottage", "answer": "H",
+            "explanation": "It is between the church and the High Street.",
+            "evidence": "Between the church and the street, there's a small cottage with a thatched roof." },
+          { "id": "q18", "kind": "match", "qtype": "map-labelling", "prompt": "Blacksmith's forge", "answer": "C",
+            "explanation": "At the far western end, on the right (north side), beyond the church.",
+            "evidence": "you'll find the blacksmith's forge on the right, just beyond the church" },
+          { "id": "q19", "kind": "match", "qtype": "map-labelling", "prompt": "Bakery", "answer": "E",
+            "explanation": "On the east side of the green. F, on the west side, is a private house.",
+            "evidence": "The bakery is on the east side of the green" },
+          { "id": "q20", "kind": "match", "qtype": "map-labelling", "prompt": "Museum shop", "answer": "G",
+            "explanation": "At the bottom (south side) of the green. I, across the river, is the picnic area.",
+            "evidence": "The museum shop is at the bottom of the green, on its southern side." }
+        ]
+      }
+    ]
+  }
+]

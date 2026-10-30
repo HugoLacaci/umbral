@@ -1,0 +1,156 @@
+[
+  {
+    "id": "toefl-cr-m2-lower-1", "difficulty": "easy", "usage": "mock", "mock": 2, "module": "lower", "task": "choose-response", "title": "Bus pass",
+    "audio": { "speakers": [{ "id": "s1", "name": "Taylor", "gender": "f", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "Where can I buy a bus pass?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["At the student center, on the first floor.", "It costs forty dollars a month.", "The bus passes every ten minutes.", "I bought one yesterday."],
+      "answer": 0,
+      "optionNotes": ["Correct: gives a place.", "Answers 'how much'.", "Plays on 'pass/passes'.", "Says when the listener bought one, not where."],
+      "explanation": "'Where' needs a place: A."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-lower-2", "difficulty": "easy", "usage": "mock", "mock": 2, "module": "lower", "task": "choose-response", "title": "Dentist appointment",
+    "audio": { "speakers": [{ "id": "s1", "name": "Hamish", "gender": "m", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "What time is your dentist appointment?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["At the clinic on Park Road.", "Two thirty, right after lunch.", "I see her every six months.", "Yes, I made one."],
+      "answer": 1,
+      "optionNotes": ["Answers 'where'.", "Correct: gives a time.", "Answers 'how often'.", "A yes/no answer to a wh-question."],
+      "explanation": "'What time' needs a time: B."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-lower-3", "difficulty": "easy", "usage": "mock", "mock": 2, "module": "lower", "task": "choose-response", "title": "Borrowing a pen",
+    "audio": { "speakers": [{ "id": "s1", "name": "Paige", "gender": "f", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "Do you have a pen I could borrow?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I borrowed a book last week.", "I have a pen pal in Japan.", "Sure, here you go.", "It's open until six."],
+      "answer": 2,
+      "optionNotes": ["Repeats 'borrow' about something else.", "Repeats 'pen' in another expression.", "Correct: agrees and gives the pen.", "Sound-alike trap: 'pen/open'."],
+      "explanation": "A simple request. C agrees."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-lower-4", "difficulty": "easy", "usage": "mock", "mock": 2, "module": "lower", "task": "choose-response", "title": "The weekend",
+    "audio": { "speakers": [{ "id": "s1", "name": "Alfie", "gender": "m", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "How was your weekend?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It's next weekend, isn't it?", "I went with my cousin.", "I'll be working this weekend.", "Really relaxing, thanks. I mostly stayed in."],
+      "answer": 3,
+      "optionNotes": ["Talks about a future event.", "Answers 'who with'.", "Wrong time: future, not past.", "Correct: describes how the weekend was."],
+      "explanation": "'How was' asks for a description of a past event: D."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-lower-5", "difficulty": "easy", "usage": "mock", "mock": 2, "module": "lower", "task": "choose-response", "title": "Vending machine",
+    "audio": { "speakers": [{ "id": "s1", "name": "Matilda", "gender": "f", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Is there a vending machine in this building?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Yes, there's one by the elevators.", "I'm sending it right now.", "This building is very old.", "I bought a snack this morning."],
+      "answer": 0,
+      "optionNotes": ["Correct: says yes and where.", "Sound-alike trap: 'vending/sending'.", "Repeats 'building' only.", "Related to snacks but doesn't answer."],
+      "explanation": "A yes/no question. A answers it and adds where the machine is."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-lower-6", "difficulty": "easy", "usage": "mock", "mock": 2, "module": "lower", "task": "choose-response", "title": "Going to the game",
+    "audio": { "speakers": [{ "id": "s1", "name": "Jordan", "gender": "m", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "Who are you going to the game with?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It starts at seven.", "A few friends from my dorm.", "We're taking the bus.", "Our team won last time."],
+      "answer": 1,
+      "optionNotes": ["Answers 'when'.", "Correct: names people.", "Answers 'how'.", "Talks about the team, not companions."],
+      "explanation": "'Who with' needs people: B."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-lower-7", "difficulty": "easy", "usage": "mock", "mock": 2, "module": "lower", "task": "choose-response", "title": "Opening the window",
+    "audio": { "speakers": [{ "id": "s1", "name": "Imogen", "gender": "f", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "Could you open the window, please?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["The shop opens at nine.", "I'll close the door at night.", "Of course. It is a bit stuffy in here.", "There's a nice view from the window."],
+      "answer": 2,
+      "optionNotes": ["Repeats 'open' about a shop.", "Talks about closing a door, not the request.", "Correct: agrees to the request.", "Repeats 'window' but ignores the request."],
+      "explanation": "A polite request. C agrees and gives a reason."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-upper-1", "difficulty": "hard", "usage": "mock", "mock": 2, "module": "upper", "task": "choose-response", "title": "Wrong meeting room",
+    "audio": { "speakers": [{ "id": "s1", "name": "Carter", "gender": "m", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "I could've sworn the meeting was in Room two ten." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I swore I'd never be late again.", "It was supposed to be, but they moved it to 214.", "There were ten people at the meeting.", "I couldn't find room for it in my bag."],
+      "answer": 1,
+      "optionNotes": ["Repeats 'swear' with a different meaning.", "Correct: explains the speaker's confusion.", "Gives a number, not an explanation.", "Plays on 'room'."],
+      "explanation": "'I could've sworn' means 'I was sure (but I seem to be wrong)'. B explains why the speaker's memory doesn't match reality."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-upper-2", "difficulty": "hard", "usage": "mock", "mock": 2, "module": "upper", "task": "choose-response", "title": "Café renovations",
+    "audio": { "speakers": [{ "id": "s1", "name": "Alexis", "gender": "f", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "You've got to be kidding. The café's closed for renovations?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["No, my kids are at home.", "The new design looks great, doesn't it?", "I've got a coffee for you.", "I'm afraid so, until the end of the month."],
+      "answer": 3,
+      "optionNotes": ["Plays on 'kidding/kids'.", "Assumes the renovation is finished.", "Repeats 'got' but ignores the question.", "Correct: confirms the bad news with a detail."],
+      "explanation": "The speaker is surprised and asks for confirmation. D confirms ('I'm afraid so') and says how long."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-upper-3", "difficulty": "hard", "usage": "mock", "mock": 2, "module": "upper", "task": "choose-response", "title": "Early class",
+    "audio": { "speakers": [{ "id": "s1", "name": "Cooper", "gender": "m", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Remind me never to sign up for an eight a.m. class again." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I'll set a reminder for eight.", "Rough morning, huh? You look exhausted.", "Classes start again in August.", "Never mind, I'll sign it later."],
+      "answer": 1,
+      "optionNotes": ["Takes 'remind me' literally.", "Correct: sympathizes with the speaker's complaint.", "Repeats 'class' and 'again'.", "Repeats 'never' and 'sign'."],
+      "explanation": "This is a complaint, not a real request for a reminder. B sympathizes."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-upper-4", "difficulty": "hard", "usage": "mock", "mock": 2, "module": "upper", "task": "choose-response", "title": "Free tutoring",
+    "audio": { "speakers": [{ "id": "s1", "name": "Florence", "gender": "f", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "If I'd known about the free tutoring, I'd have gone weeks ago." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I'm going to tutor weeks from now.", "I knew it would cost a lot.", "Well, it's not too late. They're open till the end of term.", "I didn't know you were free."],
+      "answer": 2,
+      "optionNotes": ["Repeats 'tutor' and 'weeks'.", "Contradicts 'free'.", "Correct: encourages the speaker to go now.", "Uses 'free' to mean 'available'."],
+      "explanation": "The speaker regrets not knowing earlier. C reassures them that they can still go."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-upper-5", "difficulty": "hard", "usage": "mock", "mock": 2, "module": "upper", "task": "choose-response", "title": "Too much reading",
+    "audio": { "speakers": [{ "id": "s1", "name": "Dylan", "gender": "m", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "There's no way I'm finishing this reading by tomorrow." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Why not just focus on the first two chapters? That's what we'll discuss.", "There's a way through the park.", "I'll be reading in the garden tomorrow.", "Yes, it was finished yesterday."],
+      "answer": 0,
+      "optionNotes": ["Correct: offers practical advice.", "Plays on 'no way / a way'.", "Repeats 'reading' and 'tomorrow'.", "Repeats 'finish' in the wrong tense."],
+      "explanation": "'There's no way...' means 'it's impossible'. A offers a useful strategy."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-upper-6", "difficulty": "hard", "usage": "mock", "mock": 2, "module": "upper", "task": "choose-response", "title": "Study abroad doubts",
+    "audio": { "speakers": [{ "id": "s1", "name": "Avery", "gender": "f", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "I'm having second thoughts about the study abroad program." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["The second program is in Spain.", "Yes, it's a two-semester program.", "I thought it was the first one.", "How come? You seemed so excited about it last month."],
+      "answer": 3,
+      "optionNotes": ["Plays on 'second'.", "Describes the program but ignores the doubt.", "Plays on 'second/first' and 'thought'.", "Correct: asks why the speaker has doubts."],
+      "explanation": "'Having second thoughts' means 'doubting a decision'. D shows surprise and asks for the reason."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-upper-7", "difficulty": "hard", "usage": "mock", "mock": 2, "module": "upper", "task": "choose-response", "title": "Bad weather walk",
+    "audio": { "speakers": [{ "id": "s1", "name": "Rupert", "gender": "m", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "I'd rather not walk back across campus in this weather." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Whether or not you go, I'm staying.", "Want me to call a taxi, or should we just wait it out?", "I'd rather have tea, thanks.", "The campus is beautiful in the spring."],
+      "answer": 1,
+      "optionNotes": ["Sound-alike trap: 'weather/whether'.", "Correct: offers solutions to the speaker's problem.", "Repeats 'I'd rather' about a drink.", "Talks about campus but ignores the weather problem."],
+      "explanation": "The speaker indirectly says they don't want to walk in bad weather. B offers two practical options."
+    }]
+  }
+]

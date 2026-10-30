@@ -1,0 +1,679 @@
+[
+  {
+    "id": "toefl-dl-11",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "webpage",
+    "title": "Recreation center membership FAQ",
+    "text": "Campus Recreation Center — Membership FAQ\n\nWho can join?\nAll enrolled students are automatically members; the fee is included in tuition. Faculty and staff may purchase a membership for $35 per month or $300 per year.\n\nCan I bring a guest?\nMembers may bring up to two guests per visit. Guests pay $8 each and must show photo ID. Guests under 16 are not permitted in the weight room.\n\nCan I cancel my membership?\nAnnual memberships may be cancelled within 30 days of purchase for a full refund. After 30 days, refunds are given only for medical reasons, with a doctor's note. Monthly memberships can be cancelled at any time but are not refunded for the current month.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "How do students pay for their membership?",
+        "options": [
+          "The cost is part of their tuition.",
+          "They pay $300 once a year.",
+          "They pay $35 at the start of each month.",
+          "They pay $8 each time they visit."
+        ],
+        "answer": 0,
+        "explanation": "Los estudiantes son socios automáticamente y la cuota va incluida en la matrícula.",
+        "evidence": "the fee is included in tuition",
+        "optionNotes": [
+          "Correcta.",
+          "Es la cuota anual para profesores y personal.",
+          "Es la cuota mensual para profesores y personal.",
+          "Es lo que pagan los invitados."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A staff member bought an annual membership two months ago. She now wants to cancel it because she is moving to a new job. What will most likely happen?",
+        "options": [
+          "She will receive a full refund.",
+          "She will be refunded for the months she has not used.",
+          "She will not receive any money back.",
+          "She will be refunded if she shows her new contract."
+        ],
+        "answer": 2,
+        "explanation": "Han pasado más de 30 días, y después de ese plazo sólo se devuelve el dinero por motivos médicos con justificante. Cambiar de trabajo no cuenta.",
+        "evidence": "After 30 days, refunds are given only for medical reasons, with a doctor's note.",
+        "optionNotes": [
+          "El reembolso completo es sólo dentro de los 30 primeros días.",
+          "No se menciona ningún reembolso proporcional.",
+          "Correcta.",
+          "El único justificante válido es una nota médica."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A member visits the center with her 14-year-old brother. What is true?",
+        "options": [
+          "Her brother can enter without paying.",
+          "She must pay $16 for her brother's visit.",
+          "She will not be allowed to bring another guest that day.",
+          "Her brother will not be allowed to use the weight room."
+        ],
+        "answer": 3,
+        "explanation": "Los invitados menores de 16 no pueden entrar en la sala de pesas.",
+        "evidence": "Guests under 16 are not permitted in the weight room.",
+        "optionNotes": [
+          "Los invitados pagan 8 $.",
+          "Son 8 $ por invitado; 16 $ serían dos invitados.",
+          "Se permiten hasta dos invitados por visita.",
+          "Correcta."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-12",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "notice",
+    "title": "Interlibrary loan changes",
+    "text": "Change to Interlibrary Loan Service\n\nStarting September 1, the Hartwell University Library will no longer charge fees for interlibrary loan requests. Previously, users paid $5 for each book borrowed from another library.\n\nPlease be aware that the new system will also limit each user to ten active requests at a time, compared with no limit before. Books borrowed through interlibrary loan may be kept for three weeks and cannot be renewed, unless the lending library grants permission. Because delivery times vary, users are encouraged to submit requests at least two weeks before they need the material.\n\nQuestions may be directed to the Research Help Desk on the second floor.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Which of the following is a new restriction on the service?",
+        "options": [
+          "Users must pay $5 for each request.",
+          "Users may have no more than ten requests open at the same time.",
+          "Users must collect their books from the second floor.",
+          "Users are required to submit requests two weeks in advance."
+        ],
+        "answer": 1,
+        "explanation": "La novedad restrictiva es el límite de diez peticiones activas; antes no había límite.",
+        "evidence": "limit each user to ten active requests at a time, compared with no limit before",
+        "optionNotes": [
+          "Es la tarifa antigua, que se elimina.",
+          "Correcta.",
+          "En la segunda planta está el mostrador de ayuda para preguntas, no la recogida.",
+          "Trampa: pedir con dos semanas de antelación se recomienda («encouraged»), no es obligatorio."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What can be inferred about borrowing a book for longer than three weeks?",
+        "options": [
+          "It is never possible.",
+          "It costs an additional fee.",
+          "It depends on a decision by the Research Help Desk.",
+          "It may be possible if the other library agrees."
+        ],
+        "answer": 3,
+        "explanation": "Los libros no se pueden renovar «a menos que» la biblioteca que los presta lo permita.",
+        "evidence": "unless the lending library grants permission",
+        "optionNotes": [
+          "Ignora la excepción «unless…».",
+          "No se menciona ningún pago por renovar.",
+          "Quien decide es la biblioteca prestadora, no Hartwell.",
+          "Correcta: «the lending library» es la otra biblioteca."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-13",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "form",
+    "title": "Food bank volunteer form",
+    "text": "Riverside Food Bank — Volunteer Sign-Up\n\nName: Daniel Ortiz\nEmail: d.ortiz@mailbox.com\nAvailability (check all that apply): [ ] Weekday mornings [X] Weekday evenings [X] Saturdays [ ] Sundays\nPreferred task: [ ] Sorting donations [X] Packing food boxes [ ] Delivery driver*\nPrevious experience: Volunteered at a school kitchen for one summer.\n\n*Delivery drivers must be at least 21 and hold a valid driver's license.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "When is Daniel available to volunteer?",
+        "options": [
+          "Weekday evenings and Saturdays",
+          "Weekday mornings and Sundays",
+          "Only on weekends",
+          "Every day of the week"
+        ],
+        "answer": 0,
+        "explanation": "Ha marcado (X) «Weekday evenings» y «Saturdays».",
+        "evidence": "[X] Weekday evenings [X] Saturdays",
+        "optionNotes": [
+          "Correcta.",
+          "Son justo las casillas que NO ha marcado.",
+          "Marca los sábados, pero no los domingos, y además las tardes entre semana.",
+          "Sólo ha marcado dos opciones."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What task would Daniel prefer to do?",
+        "options": [
+          "Sort donated food",
+          "Pack boxes of food",
+          "Drive a delivery van",
+          "Cook meals in a kitchen"
+        ],
+        "answer": 1,
+        "explanation": "La casilla marcada en «Preferred task» es «Packing food boxes».",
+        "evidence": "[X] Packing food boxes",
+        "optionNotes": [
+          "Esa casilla está vacía.",
+          "Correcta.",
+          "Esa casilla está vacía.",
+          "Trabajó en una cocina escolar, pero es experiencia previa, no la tarea que prefiere."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-14",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "text-messages",
+    "title": "Broken heater",
+    "text": "Sam (8:02 a.m.): The heater in the living room stopped working again. It was freezing this morning.\n\nPriya (8:05 a.m.): Ugh. Did you call the landlord?\n\nSam (8:06 a.m.): I left a message, but he's away until Thursday. His assistant said a repair person could come tomorrow between 1 and 4.\n\nPriya (8:07 a.m.): I have class until 3 tomorrow. Can you be home?\n\nSam (8:09 a.m.): I work until 2, but I can come straight back. Can you let them in if they show up early?\n\nPriya (8:10 a.m.): Sure, I'll ask my professor if I can leave right after the quiz. It usually ends around 12:30.\n\nSam (8:11 a.m.): Perfect, thanks. I'll borrow my sister's space heater tonight.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "Why can't the landlord deal with the problem himself?",
+        "options": [
+          "He did not receive Sam's message.",
+          "His assistant refused to help.",
+          "He is away until Thursday.",
+          "He thinks the heater is working."
+        ],
+        "answer": 2,
+        "explanation": "Sam dice que el casero está fuera hasta el jueves; por eso ha hablado con su asistente.",
+        "evidence": "he's away until Thursday",
+        "optionNotes": [
+          "Sam le dejó un mensaje; no se dice que no lo recibiera.",
+          "Al contrario: el asistente organizó la visita del técnico.",
+          "Correcta.",
+          "No se menciona."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What will Priya most likely do tomorrow?",
+        "options": [
+          "Try to leave class early so she can be home",
+          "Skip her quiz to wait for the repair person",
+          "Borrow a space heater from Sam's sister",
+          "Go straight home after work at 2:00"
+        ],
+        "answer": 0,
+        "explanation": "Priya va a pedir permiso para irse justo después del examen (hacia las 12:30) y poder abrir al técnico, que puede llegar a partir de la 1.",
+        "evidence": "I'll ask my professor if I can leave right after the quiz",
+        "optionNotes": [
+          "Correcta.",
+          "Hará el examen y se irá después.",
+          "Es Sam quien va a pedir la estufa a su hermana.",
+          "Es Sam quien trabaja hasta las 2."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What does Sam plan to do tonight?",
+        "options": [
+          "Call the landlord again",
+          "Buy a new heater",
+          "Borrow a heater from his sister",
+          "Stay at his sister's home"
+        ],
+        "answer": 2,
+        "explanation": "Sam dice que esta noche pedirá prestada la estufa de su hermana.",
+        "evidence": "I'll borrow my sister's space heater tonight.",
+        "optionNotes": [
+          "No lo dice.",
+          "Va a pedirla prestada, no a comprarla.",
+          "Correcta.",
+          "La hermana aparece, pero Sam no dice que vaya a dormir allí."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-15",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "ad",
+    "title": "Language exchange night",
+    "text": "LANGUAGE EXCHANGE NIGHT\n\nWant to practice a new language in a relaxed setting? Join us every other Wednesday at Café Lumen, 7–9 p.m.\n\nHow it works: You'll be paired with a partner who speaks the language you're learning and wants to learn yours. You'll talk for 20 minutes in one language, then switch to the other language for 20 minutes. Then you'll move on to a new partner.\n\nLanguages usually represented: Spanish, French, Japanese, Korean, Arabic, and English.\n\nFree entry — just buy a drink! First-timers should arrive by 6:45 to fill out a short form about their language levels. Next event: October 9.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the advertisement?",
+        "options": [
+          "To announce the opening of a new café",
+          "To advertise paid language classes at a café",
+          "To find teachers for a language school",
+          "To promote a regular event for practicing languages"
+        ],
+        "answer": 3,
+        "explanation": "Anuncia un intercambio de idiomas que se repite cada dos miércoles.",
+        "evidence": "Join us every other Wednesday at Café Lumen",
+        "optionNotes": [
+          "El café es sólo el lugar del evento.",
+          "La entrada es gratis y no son clases.",
+          "Se emparejan participantes, no se buscan profesores.",
+          "Correcta."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What happens after the first 20 minutes with a partner?",
+        "options": [
+          "Participants move to a new partner.",
+          "The pair starts speaking the other language.",
+          "Participants fill out a form about their level.",
+          "The event ends for first-time participants."
+        ],
+        "answer": 1,
+        "explanation": "Tras 20 minutos en un idioma, la pareja cambia al otro idioma otros 20 minutos; sólo después se cambia de pareja.",
+        "evidence": "then switch to the other language for 20 minutes",
+        "optionNotes": [
+          "Se cambia de pareja después de los dos turnos de 20 minutos.",
+          "Correcta.",
+          "El formulario se rellena antes de empezar (llegando a las 6:45).",
+          "No se dice nada parecido."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "What is suggested about people attending for the first time?",
+        "options": [
+          "They must pay an entry fee.",
+          "They have to bring their own partner.",
+          "They need to speak at least two languages fluently.",
+          "They should arrive a little before the event starts."
+        ],
+        "answer": 3,
+        "explanation": "El evento empieza a las 7, pero los nuevos deben llegar antes de las 6:45 para rellenar un formulario.",
+        "evidence": "First-timers should arrive by 6:45",
+        "optionNotes": [
+          "La entrada es gratis; sólo hay que tomar algo.",
+          "El evento asigna las parejas.",
+          "Se pide nivel, no fluidez en dos idiomas.",
+          "Correcta."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-16",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "email",
+    "title": "Interview invitation",
+    "text": "From: Laura Chen, Hiring Coordinator\nTo: Marcus Webb\nSubject: Interview for Assistant Editor position\n\nDear Mr. Webb,\n\nThank you for applying for the Assistant Editor position at Northlight Press. We were impressed by your application and would like to invite you to a video interview. Please choose one of the following times by replying to this email: Monday, June 10 at 10:00 a.m. or Wednesday, June 12 at 2:30 p.m.\n\nThe interview will last about 45 minutes and will include a short editing exercise. You will receive the exercise at the start of the call, so there is no need to prepare anything in advance.\n\nKind regards,\nLaura Chen",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why did Laura Chen write to Marcus Webb?",
+        "options": [
+          "To invite him to an interview and ask him to pick a time",
+          "To offer him the Assistant Editor position",
+          "To ask him to send samples of his editing work",
+          "To change the time of an interview already arranged"
+        ],
+        "answer": 0,
+        "explanation": "Le invita a una entrevista por vídeo y le pide que elija entre dos horarios.",
+        "evidence": "would like to invite you to a video interview",
+        "optionNotes": [
+          "Correcta.",
+          "Aún no le ofrecen el puesto; es sólo la entrevista.",
+          "El ejercicio de edición se hace durante la entrevista.",
+          "La entrevista todavía no está fijada: él debe elegir."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is said about the editing exercise?",
+        "options": [
+          "It must be completed before the interview.",
+          "Marcus will receive it during the interview.",
+          "It will be sent to Marcus by email next week.",
+          "It will take about 45 minutes."
+        ],
+        "answer": 1,
+        "explanation": "Recibirá el ejercicio al principio de la videollamada, por eso no hay que preparar nada.",
+        "evidence": "You will receive the exercise at the start of the call",
+        "optionNotes": [
+          "Al contrario: «no need to prepare anything in advance».",
+          "Correcta.",
+          "No se dice.",
+          "Trampa: 45 minutos dura toda la entrevista, y el ejercicio es «short»."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-17",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "webpage",
+    "title": "Train ticket types",
+    "text": "Coastal Rail — Ticket Types\n\nAnytime ticket: Valid on any train on the date shown. Fully refundable until the day of travel.\n\nOff-Peak ticket: Valid on weekdays only on trains departing after 9:30 a.m. and on all weekend trains. Refundable for a $5 fee.\n\nAdvance ticket: Our cheapest option. Valid only on the specific train booked. Can be changed to a different train for a $10 fee plus any difference in price, but cannot be refunded.\n\nRailcard holders receive one-third off Anytime and Off-Peak tickets. Railcard discounts do not apply to Advance tickets.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A passenger needs to travel at 8:15 a.m. on a Tuesday and wants to be able to get all of her money back if her plans change before the trip. Which ticket should she buy?",
+        "options": [
+          "An Advance ticket",
+          "An Off-Peak ticket",
+          "An Anytime ticket",
+          "An Off-Peak ticket with a railcard"
+        ],
+        "answer": 2,
+        "explanation": "Un martes a las 8:15 el Off-Peak no vale (sólo después de las 9:30 entre semana). El Advance no se reembolsa. El Anytime vale para cualquier tren y se reembolsa íntegro hasta el día del viaje.",
+        "evidence": "Fully refundable until the day of travel.",
+        "optionNotes": [
+          "No se puede reembolsar.",
+          "No es válido en trenes que salen antes de las 9:30 entre semana, y además su reembolso cuesta 5 $.",
+          "Correcta.",
+          "La tarjeta no cambia el horario de validez del Off-Peak."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What is true about Advance tickets?",
+        "options": [
+          "They can be switched to another train if the passenger pays a fee.",
+          "Railcard holders get one-third off them.",
+          "They can be used on any train on the date shown.",
+          "They can be refunded for a $5 fee."
+        ],
+        "answer": 0,
+        "explanation": "Se puede cambiar a otro tren pagando 10 $ más la diferencia de precio.",
+        "evidence": "Can be changed to a different train for a $10 fee plus any difference in price",
+        "optionNotes": [
+          "Correcta.",
+          "El descuento de la railcard no se aplica al Advance.",
+          "Eso describe el Anytime; el Advance sólo vale para el tren reservado.",
+          "Eso es del Off-Peak; el Advance no se reembolsa."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "A railcard holder plans to take a train at 7:00 a.m. on a Saturday. Which statement is true?",
+        "options": [
+          "She can get one-third off an Advance ticket.",
+          "She must buy an Anytime ticket because the train leaves before 9:30.",
+          "She can use an Off-Peak ticket with a one-third discount.",
+          "Off-Peak tickets are not sold for weekend trains."
+        ],
+        "answer": 2,
+        "explanation": "La restricción de las 9:30 es sólo entre semana; el Off-Peak vale en todos los trenes de fin de semana, y la railcard da un tercio de descuento en Off-Peak.",
+        "evidence": "and on all weekend trains",
+        "optionNotes": [
+          "La railcard no se aplica al Advance.",
+          "Trampa: el límite de las 9:30 se aplica sólo a días laborables.",
+          "Correcta.",
+          "Al contrario: el Off-Peak vale en todos los trenes de fin de semana."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "notice",
+    "title": "Science building access",
+    "text": "ATTENTION: SCIENCE BUILDING ACCESS CHANGES\n\nFrom October 14 to November 8, the east entrance of the Morrison Science Building will be closed while the stairs are rebuilt. During this time, please use the west entrance on Campus Drive.\n\nThe building's elevator will remain in service; however, it can be reached only from the west side of the ground floor. Visitors with mobility needs who require assistance may call Facilities at ext. 4410 at least one day in advance.\n\nEvening access (after 7 p.m.) will continue to require a student ID card. Note that ID cards issued before 2022 do not work on the west entrance reader and must be replaced at the Campus Card Office (free of charge).",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the notice?",
+        "options": [
+          "To ask for volunteers to help rebuild some stairs",
+          "To announce that a new elevator has been installed",
+          "To introduce a new type of student ID card",
+          "To explain temporary changes to how people enter a building"
+        ],
+        "answer": 3,
+        "explanation": "Explica el cierre temporal de la entrada este y cómo acceder mientras tanto.",
+        "evidence": "the east entrance of the Morrison Science Building will be closed while the stairs are rebuilt",
+        "optionNotes": [
+          "No se piden voluntarios.",
+          "El ascensor sigue funcionando; no es nuevo.",
+          "Las tarjetas antiguas se sustituyen, pero no es un tipo nuevo de tarjeta ni el tema principal.",
+          "Correcta."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Which person is most likely to have trouble entering the building at 8 p.m. during the construction period?",
+        "options": [
+          "A student who needs to use the elevator",
+          "A student whose ID card was issued in 2021",
+          "A student who arrives from Campus Drive",
+          "A student whose ID card was issued in 2023"
+        ],
+        "answer": 1,
+        "explanation": "Después de las 19:00 hace falta la tarjeta, y las emitidas antes de 2022 no funcionan en el lector de la entrada oeste, la única abierta.",
+        "evidence": "ID cards issued before 2022 do not work on the west entrance reader",
+        "optionNotes": [
+          "El ascensor funciona y se llega a él desde el lado oeste.",
+          "Correcta.",
+          "La entrada oeste está precisamente en Campus Drive.",
+          "Una tarjeta de 2023 es posterior a 2022, así que funciona."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What should a visitor who needs help because of limited mobility do?",
+        "options": [
+          "Use the east entrance, which has no stairs",
+          "Arrive before 7 p.m. to use the elevator",
+          "Go to the Campus Card Office for a new card",
+          "Contact Facilities at least a day before the visit"
+        ],
+        "answer": 3,
+        "explanation": "Deben llamar a Facilities (ext. 4410) con al menos un día de antelación.",
+        "evidence": "may call Facilities at ext. 4410 at least one day in advance",
+        "optionNotes": [
+          "La entrada este está cerrada.",
+          "El horario del ascensor no está limitado a antes de las 19:00.",
+          "Eso es para tarjetas anteriores a 2022.",
+          "Correcta."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-19",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "social-post",
+    "title": "Lost backpack",
+    "text": "Lost: black backpack — please help!\nPosted by Jen K. in Oakwood Neighbors group\n\nI left my black backpack on the number 12 bus yesterday afternoon, around 5 p.m. It has a red keychain shaped like a fish and contains my laptop and a library book. The bus company says nothing has been turned in yet. If you found it, please message me here. I'm offering a $50 reward — the laptop has my thesis on it, and I don't have a recent backup!",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "Why did Jen write the post?",
+        "options": [
+          "To ask for help finding something she lost",
+          "To complain about the bus company",
+          "To return a bag she found on a bus",
+          "To sell a used backpack"
+        ],
+        "answer": 0,
+        "explanation": "Perdió su mochila en el autobús y pide ayuda para encontrarla.",
+        "evidence": "I left my black backpack on the number 12 bus",
+        "optionNotes": [
+          "Correcta.",
+          "Sólo menciona que la empresa aún no la tiene; no se queja.",
+          "Es al revés: ella la perdió.",
+          "No vende nada."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "How could someone recognize Jen's backpack?",
+        "options": [
+          "It is red with a black keychain.",
+          "It has a red fish-shaped keychain.",
+          "It is shaped like a fish.",
+          "It has the number 12 on it."
+        ],
+        "answer": 1,
+        "explanation": "La mochila es negra y lleva un llavero rojo con forma de pez.",
+        "evidence": "It has a red keychain shaped like a fish",
+        "optionNotes": [
+          "Invierte los colores.",
+          "Correcta.",
+          "Lo que tiene forma de pez es el llavero.",
+          "El 12 es el número del autobús."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "Why is Jen especially worried?",
+        "options": [
+          "She may have to pay for the library book.",
+          "The bus company refused to help her.",
+          "She may lose important work stored on her laptop.",
+          "The reward she is offering is too small."
+        ],
+        "answer": 2,
+        "explanation": "Su tesis está en el portátil y no tiene copia de seguridad reciente.",
+        "evidence": "the laptop has my thesis on it, and I don't have a recent backup",
+        "optionNotes": [
+          "El libro se menciona, pero no como motivo de preocupación.",
+          "La empresa sólo dice que no se lo han entregado todavía.",
+          "Correcta.",
+          "No se dice."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toefl-dl-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "daily-life",
+    "format": "email",
+    "title": "Conference registration problem",
+    "text": "From: Regional Teaching Conference\nTo: Ana Lima\nSubject: Your registration — please read\n\nDear Ms. Lima,\n\nThank you for registering for the Regional Teaching Conference on April 5–6. Our records show that you selected the early-bird rate of $90. However, early-bird registration closed on February 28, and your payment was received on March 2. The standard rate is $130.\n\nIf you can show that you submitted your registration form before the deadline, we will honor the early-bird rate. Otherwise, please pay the remaining amount by March 20, or your place will be released to someone on the waiting list.\n\nSincerely,\nConference Registration Team",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "dl-purpose",
+        "prompt": "What is the main purpose of the email?",
+        "options": [
+          "To explain a problem with Ana's payment and what she can do",
+          "To confirm that Ana's payment was received on time",
+          "To inform Ana that her registration has been cancelled",
+          "To invite Ana to give a talk at the conference"
+        ],
+        "answer": 0,
+        "explanation": "Le explica que pagó después del plazo de la tarifa reducida y le da dos opciones.",
+        "evidence": "However, early-bird registration closed on February 28, and your payment was received on March 2.",
+        "optionNotes": [
+          "Correcta.",
+          "El pago llegó tarde para la tarifa reducida.",
+          "Aún no se ha cancelado; sólo podría perder la plaza si no paga.",
+          "No se menciona ninguna charla."
+        ]
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "dl-inference",
+        "prompt": "If Ana cannot prove that she submitted her form on time, how much more will she need to pay?",
+        "options": [
+          "$40",
+          "$90",
+          "$130",
+          "$220"
+        ],
+        "answer": 0,
+        "explanation": "Ya pagó 90 $ y la tarifa normal es 130 $: le faltan 40 $ («the remaining amount»).",
+        "evidence": "The standard rate is $130.",
+        "optionNotes": [
+          "Correcta: 130 − 90.",
+          "Es lo que ya pagó.",
+          "Es el precio total, pero ya ha pagado una parte.",
+          "Suma las dos tarifas; no tiene sentido."
+        ]
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "dl-detail",
+        "prompt": "What will happen if Ana does nothing by March 20?",
+        "options": [
+          "She will be charged a late fee.",
+          "She will be moved to the waiting list.",
+          "Her place will be given to another person.",
+          "She will automatically receive the early-bird rate."
+        ],
+        "answer": 2,
+        "explanation": "Si no paga lo que falta antes del 20 de marzo, su plaza se cederá a alguien de la lista de espera.",
+        "evidence": "your place will be released to someone on the waiting list",
+        "optionNotes": [
+          "No se menciona recargo.",
+          "Trampa: es otra persona de la lista de espera quien recibirá su plaza.",
+          "Correcta.",
+          "La tarifa reducida sólo se respeta si demuestra que envió el formulario a tiempo."
+        ]
+      }
+    ]
+  }
+]

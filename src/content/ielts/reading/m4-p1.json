@@ -1,0 +1,75 @@
+[
+  {
+    "id": "ielts-r-m4-p1",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "passageNo": 1,
+    "title": "The Frozen Water Trade",
+    "subtitle": "How ice cut from northern lakes was sold across the world",
+    "paragraphs": [
+      { "text": "Before the age of electric refrigeration, ice was a luxury in most of the world. In cold climates, wealthy households had long collected winter ice and stored it in underground ice houses, but the idea that frozen water could be cut from northern lakes and sold in the tropics would have seemed absurd to most people at the start of the nineteenth century. Within fifty years, however, ice from New England was being shipped to the Caribbean, to South America and even to India, and an entirely new international trade had been created." },
+      { "text": "The man usually credited with founding this trade is Frederic Tudor, a Boston merchant. In 1806 he sent a ship loaded with ice to the Caribbean island of Martinique. The cargo arrived largely intact, but Tudor had made almost no arrangements for storing or selling it, and much of it melted on the quayside while local people tried to work out what to do with it. The venture lost money, and for many years afterwards Tudor struggled with debts. He persisted, nevertheless, convinced that the problem was not the product itself but the lack of a system for keeping it cold at every stage of its journey." },
+      { "text": "Tudor's solution was to build well-insulated ice houses at the ports he supplied. He experimented with different insulating materials, beginning with straw and wood shavings, and eventually settled on sawdust, a waste product of New England's timber mills that could be obtained almost free of charge. Packed tightly around blocks of ice in a ship's hold, sawdust reduced melting dramatically. The trade also benefited from a quirk of shipping. Vessels returning from the tropics often sailed back to New England loaded with sugar, cotton and other goods, but on the outward journey they frequently had little to carry. Shipowners were therefore happy to transport ice cheaply, since otherwise they would have needed to fill their holds with stones or sand simply to keep the vessel stable." },
+      { "text": "The harvesting process itself was transformed in the 1820s by Nathaniel Wyeth, one of Tudor's suppliers, who designed a horse-drawn cutter. Pulled across the frozen surface of a lake, it scored a grid of deep grooves into the ice, allowing workers to break off blocks of identical size. Previously, ice had been cut by hand with saws and axes, producing irregular pieces that were difficult to stack. Uniform blocks could be packed together with far less air between them, which meant that they melted more slowly and that more ice could be fitted into each ship. The new method was also much faster, and it greatly reduced the cost of harvesting." },
+      { "text": "The most remarkable test of the system came in 1833, when a ship carrying around 180 tons of ice sailed from Boston to Calcutta, a voyage of some four months that crossed the equator twice. About 100 tons survived the journey, and the ice was sold to the British residents of the city, who had previously relied on slower and less effective methods of cooling drinks, such as placing them in pots of water mixed with saltpetre. The trade with India continued for several decades and proved highly profitable." },
+      { "text": "By the middle of the century, ice had become an everyday product in American cities. Households bought it from delivery men who carried blocks from door to door, and kept it in wooden 'iceboxes' lined with tin or zinc. Brewers used it to produce lager, which requires cool fermentation, all year round, while railway companies developed refrigerated wagons that allowed meat from the Midwest to be sold fresh in eastern cities. Hotels and restaurants began to serve iced drinks as a matter of course, and fishermen packed their catch in ice so that it could be carried further inland. Ice harvesting also spread to other countries. Norway, in particular, became a major exporter, sending large quantities of ice across the North Sea to Britain." },
+      { "text": "Yet the natural ice trade contained the seeds of its own decline. As cities grew, many of the lakes and rivers from which ice was cut became polluted, and doctors began to warn that natural ice could carry disease. Mild winters, meanwhile, occasionally produced 'ice famines', when the harvest failed and prices rose sharply. Machines that manufactured ice artificially had existed since the mid-nineteenth century, and as they became more efficient, factory-made ice, produced from clean water in any season, steadily replaced the harvested product. By the 1930s, the spread of electric refrigerators in homes had brought the business close to an end, although a few communities continued to cut ice from lakes by hand as a local tradition." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "tfng",
+        "instructions": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          { "id": "q1", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "At the beginning of the nineteenth century, nobody in cold countries kept ice from the winter.", "answer": "FALSE",
+            "explanation": "The passage says wealthy households in cold climates 'had long collected winter ice and stored it'. What seemed absurd was selling ice in the tropics, not storing it.",
+            "evidence": "In cold climates, wealthy households had long collected winter ice and stored it in underground ice houses" },
+          { "id": "q2", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Most of Tudor's first cargo had melted before the ship reached Martinique.", "answer": "FALSE",
+            "explanation": "The cargo 'arrived largely intact'; it melted afterwards, on the quayside, because there was nowhere to store it.",
+            "evidence": "The cargo arrived largely intact" },
+          { "id": "q3", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Tudor was sent to prison because he could not pay his debts.", "answer": "NOT GIVEN",
+            "explanation": "The passage only says Tudor 'struggled with debts' for many years. It does not mention prison or any legal consequence." },
+          { "id": "q4", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Tudor believed his early failure was caused by the lack of a way to keep the ice cold, not by the ice itself.", "answer": "TRUE",
+            "explanation": "He was 'convinced that the problem was not the product itself but the lack of a system for keeping it cold'. The statement paraphrases this exactly.",
+            "evidence": "convinced that the problem was not the product itself but the lack of a system for keeping it cold at every stage of its journey" },
+          { "id": "q5", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Sawdust was the first insulating material that Tudor tested.", "answer": "FALSE",
+            "explanation": "Tudor experimented with several materials, beginning with straw and wood shavings, and 'eventually settled on sawdust' – so sawdust came after other trials, not first.",
+            "evidence": "He experimented with different insulating materials, beginning with straw and wood shavings, and eventually settled on sawdust" },
+          { "id": "q6", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "Wyeth's cutter was later adapted for use in other industries.", "answer": "NOT GIVEN",
+            "explanation": "The passage describes how the cutter changed ice harvesting (speed, cost, block size) but says nothing about other industries using it." },
+          { "id": "q7", "kind": "judge", "qtype": "tfng", "scale": "tfng", "statement": "The buyers of the ice in Calcutta had used other ways of cooling drinks before it arrived.", "answer": "TRUE",
+            "explanation": "The British residents 'had previously relied on' other methods, such as pots of water mixed with saltpetre.",
+            "evidence": "who had previously relied on slower and less effective methods of cooling drinks" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "table-completion",
+        "instructions": "Questions 8–13\nComplete the table below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 8–13 on your answer sheet.",
+        "title": "The natural ice trade",
+        "template": "| Topic | Details |\n| --- | --- |\n| Shipping | Shipowners charged little because their vessels often had nothing to carry on the {{q8}} journey |\n| Wyeth's cutter | Pulled by horses; cut a {{q9}} of grooves so blocks were all the same size |\n| Uniform blocks | Packed with less {{q10}} between them, so they melted more slowly |\n| Homes | Ice kept in wooden iceboxes lined with tin or {{q11}} |\n| Brewing | Ice allowed {{q12}} to be produced throughout the year |\n| Decline | Polluted lakes and rivers led to fears that natural ice could spread {{q13}} |",
+        "items": [
+          { "id": "q8", "kind": "gap", "qtype": "table-completion", "answers": ["outward"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Ships came back full of goods, but 'on the outward journey they frequently had little to carry', so carrying ice cheaply was better than carrying ballast.",
+            "evidence": "on the outward journey they frequently had little to carry" },
+          { "id": "q9", "kind": "gap", "qtype": "table-completion", "answers": ["grid"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The cutter 'scored a grid of deep grooves into the ice'. 'Grooves' is already in the table, so the missing word is 'grid'.",
+            "evidence": "it scored a grid of deep grooves into the ice" },
+          { "id": "q10", "kind": "gap", "qtype": "table-completion", "answers": ["air"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Uniform blocks 'could be packed together with far less air between them', which slowed melting.",
+            "evidence": "Uniform blocks could be packed together with far less air between them" },
+          { "id": "q11", "kind": "gap", "qtype": "table-completion", "answers": ["zinc"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Iceboxes were 'lined with tin or zinc'. 'Tin' is already given in the table.",
+            "evidence": "kept it in wooden 'iceboxes' lined with tin or zinc" },
+          { "id": "q12", "kind": "gap", "qtype": "table-completion", "answers": ["lager"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Brewers used ice 'to produce lager ... all year round', because lager needs cool fermentation. 'Throughout the year' paraphrases 'all year round'.",
+            "evidence": "Brewers used it to produce lager, which requires cool fermentation, all year round" },
+          { "id": "q13", "kind": "gap", "qtype": "table-completion", "answers": ["disease", "diseases"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Doctors warned 'that natural ice could carry disease' because the lakes and rivers had become polluted. 'Spread' paraphrases 'carry'.",
+            "evidence": "doctors began to warn that natural ice could carry disease" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "toefl-disc-17",
+    "difficulty": "hard",
+    "usage": "practice",
+    "course": "Bioethics",
+    "professor": {
+      "name": "Dr. Adeyemi",
+      "post": "New gene-editing technologies may soon allow doctors to change the DNA of human embryos. In theory, this could prevent serious inherited diseases before a child is born. However, the same tools could also be used to select traits such as height or intelligence, and any change would be passed on to future generations. Should parents be allowed to use gene editing on their embryos? If so, under what limits?"
+    },
+    "students": [
+      {
+        "name": "Rachel",
+        "post": "If we can prevent a child from being born with a terrible disease, it would be cruel not to do it. We already accept vaccines and surgery to protect children's health. Gene editing is just a more advanced form of medicine, so it should be allowed for serious diseases."
+      },
+      {
+        "name": "Kwame",
+        "post": "The risk is that it won't stop at diseases. Once the technology exists, rich parents will start paying for taller or smarter children, and inequality will become something written in our DNA. I think it should be banned completely before that happens."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Both Rachel and Kwame focus on what parents might choose, but I think the most important issue is consent across generations. A vaccine affects only the child who receives it, whereas an edit to an embryo's DNA would be inherited by that child's children and grandchildren, none of whom can agree to it. If a mistake is discovered decades later, it cannot simply be reversed.\n\nFor that reason, I would allow gene editing only under two strict limits. First, it should be restricted to diseases that are severe and caused by a single, well-understood gene, where the benefit is clear and the risk of unexpected effects is low. Second, approval should come from an independent national committee, not from private clinics that profit from each procedure. This would answer Kwame's concern, because selecting height or intelligence involves hundreds of genes and would simply not qualify.",
+        "commentary": "Nivel 5: no repite «curar enfermedades» ni «desigualdad», sino que introduce un ángulo nuevo (consentimiento de futuras generaciones e irreversibilidad), y propone límites concretos que además responden a Kwame con un argumento técnico (los rasgos dependen de cientos de genes). Contraste preciso con el ejemplo de Rachel («whereas»). Lenguaje académico y bien cohesionado. Unas 145 palabras."
+      },
+      {
+        "level": "4",
+        "text": "I think gene editing should be allowed, but only for serious diseases. I agree with Rachel that preventing suffering is important, but there is another reason too. Some genetic diseases are very expensive to treat for the whole life of the patient, so preventing them could also reduce costs for families and hospitals.\n\nKwame worries that rich people will use it to choose smarter children. This is a real danger, so the government should make clear laws that only allow editing for medical reasons, and doctors who break the rules should lose their license.\n\nIn this way, we can use the technology to help people without creating a new kind of inequality.",
+        "commentary": "Nivel 4: postura clara con una idea añadida (el coste de los tratamientos) y respuesta a Kwame con una propuesta razonable. La idea nueva es menos profunda y no se desarrolla con un ejemplo. Lenguaje correcto y fluido, con vocabulario menos preciso que en el nivel 5. Unas 110 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Rachel. Gene editing is good because it can stop diseases and children will be healthy. But also Kwame is right because rich people can make perfect babies and this is not fair. So the government must control it. I think is good for diseases but not for other things.",
+        "commentary": "Nivel 3: resume las dos posturas de los compañeros sin añadir ninguna idea propia ni ejemplo. La conclusión es razonable pero no se justifica. Errores: «I think is good» (falta «it»), «But also Kwame is right» (orden poco natural). Vocabulario básico. Unas 50 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "course": "Information Law",
+    "professor": {
+      "name": "Professor Castell",
+      "post": "In some places, people have a legal right to ask search engines to remove links to old information about them, such as a minor crime they committed years ago or an embarrassing news story. This is often called the right to be forgotten. Supporters say people deserve a second chance; critics say it allows people to hide the truth and limits freedom of information. Should individuals have the right to have old information about them removed from search results? Explain your view."
+    },
+    "students": [
+      {
+        "name": "Mei",
+        "post": "Yes. Everyone makes mistakes, especially when they are young. It's unfair if something you did at eighteen stops you from getting a job at thirty. People change, and the law should allow them to move on with their lives."
+      },
+      {
+        "name": "Jacob",
+        "post": "I disagree. Information that is true and was published legally should stay available. If politicians or business owners can erase their past, the public will lose important information. Freedom of the press is more important than one person's reputation."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I think the right to be forgotten is justified, but Mei and Jacob are both treating information as if it were either permanently relevant or permanently harmful. In my view, the key factor is the relationship between time and public role. Before the internet, an old newspaper article was technically public, but finding it required a trip to a library archive, so it naturally faded. Search engines have removed that natural fading, which is a new situation the law needs to address.\n\nTherefore, I would support a system where requests are judged by how old the information is and how public the person's role is. A private citizen's minor offense from ten years ago should disappear from search results, while a minister's past business scandal should not. Importantly, the original article would remain in the newspaper's archive; only the search link would be removed, which protects Jacob's concern about press freedom.",
+        "commentary": "Nivel 5: va más allá de «segunda oportunidad» y «libertad de prensa» con un argumento original (los buscadores eliminan el olvido natural que existía antes de internet) y propone criterios concretos (antigüedad y papel público). Distingue con precisión entre borrar el artículo y borrar el enlace, lo que responde a Jacob. Muy buena cohesión. Unas 150 palabras."
+      },
+      {
+        "level": "4",
+        "text": "I mostly agree with Mei. Old information can follow a person forever on the internet, and this can damage their career and their mental health. For example, I read about a teacher who lost his job because a parent found an article about a fight he had been in as a teenager, twenty years earlier.\n\nHowever, Jacob is right that the public needs some information. So I think the right to be forgotten should not apply to people with public responsibilities, like politicians or company directors, because people need to judge whether they are honest.\n\nIn general, ordinary people should be able to remove old and unimportant information about themselves.",
+        "commentary": "Nivel 4: apoya a Mei con un ejemplo concreto y efectivo, y matiza con la excepción de las figuras públicas, respondiendo a Jacob. La argumentación es sólida pero predecible y no aporta una idea realmente nueva. Lenguaje claro y correcto, con alguna estructura compleja («a fight he had been in»). Unas 110 palabras."
+      },
+      {
+        "level": "3",
+        "text": "In my opinion people must have the right to be forgotten. When you are young you do stupid things and is not fair that everybody can see it in internet. But for the politicians is different, they need to be honest. So I agree with Mei and a little with Jacob.",
+        "commentary": "Nivel 3: tiene una postura y una pequeña distinción (los políticos), pero las ideas son las de los compañeros y no hay ejemplo. Cierre vago («a little with Jacob»). Errores: «is not fair» y «for the politicians is different» (falta «it»), «in internet» (on the internet). Unas 50 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-19",
+    "difficulty": "hard",
+    "usage": "practice",
+    "course": "Moral Philosophy",
+    "professor": {
+      "name": "Dr. Halvorsen",
+      "post": "Most people believe honesty is an important moral value, yet almost everyone tells small lies to protect other people's feelings, for example by saying they love a gift they actually dislike. Some philosophers argue that even these white lies are wrong, while others say kindness sometimes matters more than truth. Is it acceptable to tell white lies to spare someone's feelings? Explain your reasoning."
+    },
+    "students": [
+      {
+        "name": "Lucas",
+        "post": "White lies are fine. If my grandmother knits me an ugly sweater, telling her I hate it would only hurt her and change nothing. Being kind in that moment is more important than being completely honest."
+      },
+      {
+        "name": "Fatima",
+        "post": "I think white lies are a problem. If people know you lie to be nice, they can never be sure when you are telling the truth. Trust is built on honesty, even when it is uncomfortable."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I believe white lies are sometimes acceptable, but the real question is not honesty versus kindness; it is whether the listener could act on the truth. In Lucas's example, his grandmother cannot unknit the sweater, so the truth would only cause pain. But imagine a friend asks whether her business plan is good before she invests her savings. A comforting lie there could cost her a great deal, because she could still change her decision.\n\nThis also partly answers Fatima's concern about trust. People generally do not lose trust in someone who praises a gift, because everyone understands the social convention. They lose trust when they discover that someone hid information they actually needed. So my rule would be simple: we can soften the truth about things that cannot be changed, but we owe people the truth when they are about to make a decision based on it.",
+        "commentary": "Nivel 5: replantea el debate con un criterio original (si la persona puede actuar en función de la verdad), lo ilustra con un contraejemplo bien elegido y lo usa para responder a Fatima con matices sobre la confianza. Conclusión formulada como una regla clara. Estructuras complejas y naturales («cannot unknit», «we owe people the truth»). Unas 150 palabras."
+      },
+      {
+        "level": "4",
+        "text": "I partly agree with both of them. White lies can be kind, as Lucas says, but I think it depends on the situation. In my culture, it is normal to tell a host that the food was delicious even if it was not, because this shows respect. Nobody sees this as dishonest.\n\nHowever, in professional situations, white lies can be harmful. For example, if a manager tells an employee that his work is great when it is not, the employee will never improve and may lose his job later. In this case, honest feedback is the kind option.\n\nSo white lies are acceptable in social situations but not when someone needs the truth to improve.",
+        "commentary": "Nivel 4: aporta dos ejemplos nuevos (la cortesía cultural y la evaluación en el trabajo) y llega a una conclusión razonable. No responde directamente al argumento de Fatima sobre la confianza y la idea central está menos elaborada que en el nivel 5. Lenguaje correcto y bien organizado. Unas 115 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Lucas, white lies are not bad. For example if your friend has a ugly haircut you don't say it is ugly because she will be sad. Is better to be kind. But big lies are bad. I think everybody tell white lies sometimes.",
+        "commentary": "Nivel 3: opinión clara con un ejemplo muy parecido al de Lucas; no hay respuesta a Fatima y la distinción entre mentiras grandes y pequeñas no se explica. Errores: «a ugly haircut» (an), «Is better» (It is better), «everybody tell» (tells). Unas 45 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "course": "Economics and Society",
+    "professor": {
+      "name": "Professor Nakamura",
+      "post": "In many large companies, chief executives now earn several hundred times more than the average employee. Some economists propose limiting this gap by law, for example by preventing companies from paying their top executive more than fifty times the salary of their typical worker. Others say governments should not interfere with private salaries. Should there be a legal limit on the ratio between executive pay and average worker pay? Why or why not?"
+    },
+    "students": [
+      {
+        "name": "Olivia",
+        "post": "Yes. No single person works three hundred times harder than a factory worker or a nurse. These huge salaries make inequality worse, and a limit would force companies to share their profits more fairly with the people who actually produce them."
+      },
+      {
+        "name": "Sam",
+        "post": "No. Companies compete globally for the best leaders, and if one country limits salaries, talented executives will simply move abroad. A good CEO can save thousands of jobs, so it makes sense to pay them very well."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I am against a strict legal ratio, but not for Sam's reason. My concern is that companies would find ways around it while the problem stayed the same. A firm could outsource its lowest-paid jobs, such as cleaning or security, to another company, which would instantly raise its average salary and allow higher pay at the top without helping a single worker. In this way, the law could even encourage the kind of outsourcing that makes jobs less secure.\n\nA better approach would be transparency combined with shareholder power. If companies were required to publish their pay ratio every year, and shareholders had a binding vote on executive packages, excessive salaries would become a reputational risk. Some pension funds already vote against extreme pay. This would address Olivia's concern about fairness while avoiding a rigid rule that clever accountants could easily defeat.",
+        "commentary": "Nivel 5: rechaza la propuesta con un argumento propio y sofisticado (el efecto perverso de externalizar los empleos peor pagados) y propone una alternativa concreta (transparencia y voto vinculante de los accionistas) que recoge la preocupación de Olivia. Vocabulario económico preciso («outsource», «binding vote», «reputational risk»). Unas 140 palabras."
+      },
+      {
+        "level": "4",
+        "text": "I support a limit on executive pay, although I think fifty times is too strict. Besides fairness, there is another reason: very high salaries can make managers think only about the short term. Many executives receive bonuses when the company's share price goes up, so they may cut jobs or research just to make the numbers look good this year.\n\nSam says that good leaders will move abroad. This could happen, but if several large countries agreed on similar rules, executives would have fewer places to go.\n\nSo a limit, maybe of one hundred times, could make companies fairer and more focused on the long term.",
+        "commentary": "Nivel 4: aporta una idea nueva y pertinente (incentivos a corto plazo por los bonus) y responde a Sam con una propuesta. El desarrollo es correcto pero menos detallado, y la cifra de «one hundred times» no se justifica. Lenguaje claro y bastante variado. Unas 105 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Olivia. The CEOs earn too much money and the workers earn very little, this is not fair. If the government make a limit, the workers will have more money. Sam say the CEOs will go to other country but I don't think so. So I support the limit.",
+        "commentary": "Nivel 3: postura clara pero basada en el argumento de Olivia; rechaza a Sam sin explicar por qué («I don't think so»). Sin ejemplos ni ideas nuevas. Errores de concordancia («the government make», «Sam say») y «other country» (another country). Unas 50 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-21",
+    "difficulty": "hard",
+    "usage": "practice",
+    "course": "Public Health Policy",
+    "professor": {
+      "name": "Dr. Ferreira",
+      "post": "In many countries, thousands of patients die each year while waiting for an organ transplant. Some governments have switched to an opt-out system: everyone is considered an organ donor after death unless they register that they do not want to be one. Supporters say this saves lives; critics say the state should not assume consent for something so personal. Should countries adopt an opt-out system for organ donation? Explain your position."
+    },
+    "students": [
+      {
+        "name": "Jonah",
+        "post": "Definitely. Most people say in surveys that they support organ donation, but they never get around to signing up. An opt-out system simply matches the law to what people already want, and it would save many lives."
+      },
+      {
+        "name": "Priscila",
+        "post": "I'm against it. Your body belongs to you, even after death. Many people, especially older or less educated people, may not even know they need to opt out, so the government would be taking organs without real consent."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I support an opt-out system, but I think both Jonah and Priscila overlook the role of families. In practice, even where the law presumes consent, doctors almost always ask the family before removing organs, and many families refuse because they are in shock and do not know what their relative wanted. So the law alone does not change much. What makes the real difference is the conversation that the new system starts.\n\nWhen a country switches to opt-out, there is usually a large public campaign, and people begin to discuss their wishes at home. That way, when a tragedy happens, families are more confident about saying yes, or about respecting a clear no. To address Priscila's valid concern, the change should come with a simple way to opt out at common moments, such as renewing a driving license or visiting a doctor, so that nobody is included without knowing it.",
+        "commentary": "Nivel 5: introduce un factor que los compañeros no mencionan (el papel decisivo de las familias en la práctica) y lo convierte en el argumento central (el sistema provoca la conversación familiar). Responde a Priscila con una solución concreta. Razonamiento sofisticado y lenguaje natural y preciso («presumes consent», «overlook»). Unas 150 palabras."
+      },
+      {
+        "level": "4",
+        "text": "I believe countries should adopt an opt-out system. Apart from saving lives, it would also reduce costs for hospitals. For example, a patient with kidney failure often needs dialysis three times a week for many years, which is extremely expensive. A transplant is cheaper in the long term and gives the patient a normal life again.\n\nI understand Priscila's concern about consent. To solve this, the government should inform everyone clearly, for example with letters and television campaigns, and make it very easy to register a refusal online.\n\nIf these conditions are met, an opt-out system respects people's choices and helps many patients.",
+        "commentary": "Nivel 4: añade un argumento propio (el coste de la diálisis frente al trasplante) con un ejemplo concreto y responde a Priscila con medidas razonables. Bien organizado y correcto, pero la idea nueva es más previsible y menos desarrollada que en el nivel 5. Unas 105 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I think opt-out system is good idea because many people are waiting organs and they die. Like Jonah say, people want to donate but they forget. If somebody don't want, he can say no. So is not a problem. I support this system.",
+        "commentary": "Nivel 3: postura clara pero apoyada sólo en la idea de Jonah; la respuesta a Priscila es superficial («So is not a problem»). Sin ejemplos. Errores frecuentes: faltan artículos («opt-out system is good idea»), «waiting organs» (waiting for), «Jonah say», «somebody don't». Unas 45 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-22",
+    "difficulty": "hard",
+    "usage": "practice",
+    "course": "Conservation Biology",
+    "professor": {
+      "name": "Professor Whitlock",
+      "post": "Scientists are working on de-extinction: using preserved DNA and genetic engineering to bring back animals that have disappeared, such as the woolly mammoth or the passenger pigeon. Supporters see it as a way to repair damage humans have caused; critics argue that the money would be better spent protecting species that still exist. Should scientists try to bring extinct species back to life? Explain your view."
+    },
+    "students": [
+      {
+        "name": "Ellie",
+        "post": "I think it's a great idea. Humans caused many of these extinctions, so we have a responsibility to fix what we did. It would also produce amazing scientific knowledge that could help us in other areas, like medicine."
+      },
+      {
+        "name": "Marcus",
+        "post": "It seems like a waste of money. Thousands of species are endangered right now, and conservation programs never have enough funding. We should save the animals we still have before spending millions on animals that are already gone."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I am skeptical about de-extinction, but my main concern is not the cost; it is the question of where these animals would live. A species is not just a set of genes but also a relationship with a habitat. The passenger pigeon depended on enormous eastern forests that have largely been replaced by farms and cities. Bringing back a few birds without that environment would produce animals that can only survive in laboratories or zoos, which is not really undoing extinction.\n\nThere is also a risk to the attitude of the public. If people believe science can reverse extinction, they may feel less urgency to protect species that are disappearing today, which would make Marcus's concern even worse. That said, I would support research on the technology if it were used to strengthen endangered populations, for example by restoring lost genetic diversity in a species that still has a habitat.",
+        "commentary": "Nivel 5: plantea dos ideas originales (la falta de hábitat y el «riesgo moral» de que el público se relaje) y las conecta con la postura de Marcus. Cierra con una concesión matizada que recoge el valor científico mencionado por Ellie. Argumentación madura y vocabulario preciso («skeptical», «genetic diversity»). Unas 150 palabras."
+      },
+      {
+        "level": "4",
+        "text": "I disagree with de-extinction, but for a different reason than Marcus. I think bringing back an extinct animal could be dangerous for current ecosystems. The world has changed since these animals disappeared, and other species now occupy their place. A returned species might compete with them or carry diseases.\n\nFor example, when rabbits were introduced to Australia, they caused huge damage because nothing controlled their population. Something similar could happen with a resurrected species.\n\nEllie says we have a responsibility to fix our mistakes, but I think the best way to do this is to protect endangered animals now.",
+        "commentary": "Nivel 4: aporta un argumento propio (el riesgo ecológico) con un ejemplo histórico pertinente y responde a Ellie. La analogía de los conejos no es exacta (eran una especie invasora, no extinguida), y la conclusión retoma la idea de Marcus sin añadir mucho. Lenguaje correcto y bien estructurado. Unas 100 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Marcus. Is very expensive to bring back the mammoth and we have many animals in danger now. Also the mammoth is from the ice age and now the world is more hot, so it will die. I think scientists should help the animals that are alive.",
+        "commentary": "Nivel 3: menciona una idea propia interesante (el clima ya no es adecuado para el mamut), pero sin desarrollarla; el resto repite a Marcus y no responde a Ellie. Errores: «Is very expensive» (It is), «more hot» (hotter). Unas 50 palabras."
+      }
+    ]
+  }
+]

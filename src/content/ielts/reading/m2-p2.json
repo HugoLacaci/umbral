@@ -1,0 +1,220 @@
+[
+  {
+    "id": "ielts-r-m2-p2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "passageNo": 2,
+    "title": "Reading Diets in Bone",
+    "subtitle": "How chemistry allows archaeologists to discover what individual people ate thousands of years ago",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "For most of the history of archaeology, reconstructing what ancient people ate meant studying what they threw away. Animal bones in rubbish pits, burnt grains in hearths and residues inside cooking pots all offer clues, but each gives only a partial picture. Food remains survive unevenly: fish bones are fragile, leafy vegetables leave almost no trace, and a pit full of cattle bones may record a single feast rather than everyday meals. Moreover, such evidence describes a community as a whole, not the diet of any particular person. Since the late 1970s, however, archaeologists have been able to ask a different question - not what was eaten at a site, but what an individual ate in the years before his or her death - by analysing the chemistry of the skeleton itself."
+      },
+      {
+        "label": "B",
+        "text": "The method relies on isotopes, forms of the same chemical element that differ slightly in weight. Carbon, for example, exists mainly as carbon-12, with a small proportion of the heavier carbon-13. Different plants take up these forms in different proportions during photosynthesis. Most plants of temperate regions, including wheat, barley and rice, belong to a group known as C3 plants, while a smaller group of mainly tropical grasses, including maize, millet and sugar cane, are called C4 plants and contain relatively more carbon-13. These chemical signatures pass into the tissues of the animals and people who eat the plants, and they remain detectable in bone for thousands of years."
+      },
+      {
+        "label": "C",
+        "text": "Nitrogen provides a second line of evidence. Each time nitrogen moves up the food chain, from plant to plant-eater to meat-eater, the proportion of the heavier isotope, nitrogen-15, increases by a predictable amount. A person who consumes a great deal of meat or milk will therefore show higher nitrogen values than one who lives mostly on plants. Marine food chains are typically longer than those on land, so people who rely heavily on fish and seafood often have the highest values of all. Combining the two elements allows researchers to distinguish, at least broadly, between diets based on land plants, land animals and marine resources."
+      },
+      {
+        "label": "D",
+        "text": "In practice, the analysis is usually carried out on collagen, the main protein in bone. A small sample, often less than a gram, is cut from a bone, cleaned and treated with acid to dissolve the mineral portion. The remaining collagen is then heated gently in water so that it dissolves, filtered and dried. Finally, it is burned in an instrument called a mass spectrometer, which measures the ratios of the different isotopes in the resulting gases. Because bone is constantly renewed during life, the result reflects the average diet over roughly the last ten years of a person's life, while teeth, which form in childhood and do not change afterwards, can reveal what someone ate as a child."
+      },
+      {
+        "label": "E",
+        "text": "The technique has overturned several long-held assumptions. One of the earliest and most celebrated studies, carried out in Denmark, showed that people living on the coast during the Mesolithic period obtained most of their protein from the sea, but that within a few centuries of the arrival of farming their successors had almost completely abandoned seafood - even though they continued to live beside the same shores. In the Americas, the spread of maize, a C4 plant, can be traced through changes in carbon values across many generations, revealing that the crop became a staple food far more slowly than archaeologists had assumed from finds of maize cobs alone."
+      },
+      {
+        "label": "F",
+        "text": "Isotope studies have also revealed differences within communities. In a number of medieval cemeteries, individuals buried in richer graves show higher nitrogen values than those in simpler burials, suggesting that wealth brought greater access to meat and fish. Elsewhere, men and women buried side by side turn out to have eaten noticeably different diets. Analyses of children's bones and teeth have even made it possible to estimate the age at which infants in past societies stopped being breastfed, since a breastfeeding baby is effectively one step higher in the food chain than its mother."
+      },
+      {
+        "label": "G",
+        "text": "The method is not without limitations. Collagen does not survive well in hot climates, and contamination from the surrounding soil can distort results if samples are not carefully prepared. Isotope values also identify broad categories of food rather than particular dishes: they cannot tell beef from mutton, or distinguish between wheat and barley. For this reason, most researchers now regard isotope analysis not as a replacement for traditional methods but as a complement to them, and the most convincing reconstructions of ancient diets are those that combine chemical evidence with plant remains, animal bones and the residues found in pots."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-headings",
+        "instructions": "Questions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number, i–x, in boxes 14–20 on your answer sheet.",
+        "title": "List of Headings",
+        "options": [
+          { "key": "i", "text": "A method that supports, rather than replaces, older approaches" },
+          { "key": "ii", "text": "How plants leave a chemical signature" },
+          { "key": "iii", "text": "The steps involved in preparing and measuring a sample" },
+          { "key": "iv", "text": "Variation in diet between members of the same society" },
+          { "key": "v", "text": "The shortcomings of traditional evidence about diet" },
+          { "key": "vi", "text": "Why seafood was more nutritious than farmed food" },
+          { "key": "vii", "text": "Detecting an individual's position in the food chain" },
+          { "key": "viii", "text": "Unexpected changes in what people ate over time" },
+          { "key": "ix", "text": "The rising cost of laboratory analysis" },
+          { "key": "x", "text": "Why skeletons decay faster in some soils" }
+        ],
+        "items": [
+          {
+            "id": "q14",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph A",
+            "answer": "v",
+            "evidence": "each gives only a partial picture",
+            "explanation": "Paragraph A explains the problems with food remains: they survive unevenly, may record one feast, and describe communities rather than individuals."
+          },
+          {
+            "id": "q15",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph B",
+            "answer": "ii",
+            "evidence": "Different plants take up these forms in different proportions during photosynthesis.",
+            "explanation": "Paragraph B explains how C3 and C4 plants absorb different proportions of carbon isotopes, creating a signature that passes into bone."
+          },
+          {
+            "id": "q16",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph C",
+            "answer": "vii",
+            "evidence": "Each time nitrogen moves up the food chain",
+            "explanation": "Nitrogen-15 increases at each step of the food chain, so it shows whether a person ate plants, animals or seafood. Heading vi is a trap: seafood is mentioned, but not its nutritional value."
+          },
+          {
+            "id": "q17",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph D",
+            "answer": "iii",
+            "evidence": "In practice, the analysis is usually carried out on collagen",
+            "explanation": "Paragraph D describes the procedure step by step: cutting, acid treatment, heating, filtering, drying and burning in a mass spectrometer."
+          },
+          {
+            "id": "q18",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph E",
+            "answer": "viii",
+            "evidence": "The technique has overturned several long-held assumptions.",
+            "explanation": "Both examples (Danish coastal people abandoning seafood, maize spreading slowly) are surprising changes in diet over time."
+          },
+          {
+            "id": "q19",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph F",
+            "answer": "iv",
+            "evidence": "Isotope studies have also revealed differences within communities.",
+            "explanation": "Rich vs poor graves, men vs women, and infants vs mothers are all differences within one society."
+          },
+          {
+            "id": "q20",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph G",
+            "answer": "i",
+            "evidence": "not as a replacement for traditional methods but as a complement to them",
+            "explanation": "The paragraph lists limitations and concludes that isotope analysis complements traditional methods. Heading x is a trap: poor survival is linked to hot climates, and soil is mentioned only as a source of contamination."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "flowchart-completion",
+        "instructions": "Questions 21–24\nComplete the flow-chart below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 21–24 on your answer sheet.",
+        "title": "Analysing a bone sample",
+        "template": "A small sample (often under one gram) is cut from a bone and cleaned\n↓\nThe sample is treated with {{q21}} so that the mineral portion dissolves\n↓\nThe remaining {{q22}} is heated gently in water, then filtered and dried\n↓\nThe material is burned in a {{q23}}\n↓\nThe isotope ratios in the {{q24}} that are produced are measured",
+        "items": [
+          {
+            "id": "q21",
+            "kind": "gap",
+            "qtype": "flowchart-completion",
+            "answers": ["acid"],
+            "maxWords": 2,
+            "evidence": "treated with acid to dissolve the mineral portion",
+            "explanation": "The sample is 'treated with acid to dissolve the mineral portion'."
+          },
+          {
+            "id": "q22",
+            "kind": "gap",
+            "qtype": "flowchart-completion",
+            "answers": ["collagen"],
+            "maxWords": 2,
+            "evidence": "The remaining collagen is then heated gently in water",
+            "explanation": "After the mineral is removed, what remains is collagen, the main protein in bone."
+          },
+          {
+            "id": "q23",
+            "kind": "gap",
+            "qtype": "flowchart-completion",
+            "answers": ["mass spectrometer"],
+            "maxWords": 2,
+            "evidence": "it is burned in an instrument called a mass spectrometer",
+            "explanation": "The collagen is burned in 'an instrument called a mass spectrometer'. 'Instrument' alone is too general."
+          },
+          {
+            "id": "q24",
+            "kind": "gap",
+            "qtype": "flowchart-completion",
+            "answers": ["gases", "resulting gases"],
+            "maxWords": 2,
+            "evidence": "measures the ratios of the different isotopes in the resulting gases",
+            "explanation": "The spectrometer measures isotope ratios 'in the resulting gases' - the gases produced by burning."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "mcq",
+        "instructions": "Questions 25–26\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 25 and 26 on your answer sheet.",
+        "items": [
+          {
+            "id": "q25",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What did the study carried out in Denmark show?",
+            "options": [
+              "Coastal people gave up eating seafood not long after farming arrived.",
+              "Mesolithic people moved away from the coast when farming began.",
+              "Early farmers ate more seafood than the people who came before them.",
+              "Seafood remained the main source of protein for many centuries."
+            ],
+            "answer": 0,
+            "evidence": "within a few centuries of the arrival of farming their successors had almost completely abandoned seafood",
+            "explanation": "After farming arrived, coastal people almost completely abandoned seafood. B is wrong because they 'continued to live beside the same shores'; C and D are the opposite of the finding.",
+            "optionNotes": [
+              "Correct: 'almost completely abandoned seafood'.",
+              "They continued to live beside the same shores.",
+              "The opposite: farmers ate less seafood.",
+              "Seafood was abandoned within a few centuries of farming."
+            ]
+          },
+          {
+            "id": "q26",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Isotope analysis can show when infants stopped being breastfed because",
+            "options": [
+              "breast milk contains a high proportion of carbon-13.",
+              "children's bones are renewed more slowly than adults' bones.",
+              "a breastfed baby is one level higher in the food chain than its mother.",
+              "teeth formed in childhood record the diet of the mother."
+            ],
+            "answer": 2,
+            "evidence": "a breastfeeding baby is effectively one step higher in the food chain than its mother",
+            "explanation": "Feeding on its mother's milk places a baby one step higher in the food chain, which raises nitrogen values; when breastfeeding stops, the values fall. The other options are not stated.",
+            "optionNotes": [
+              "Carbon-13 is linked to C4 plants, not breast milk.",
+              "The speed of bone renewal in children is not discussed.",
+              "Correct.",
+              "Teeth record what the child ate, not the mother's diet."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "toefl-email-m3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "scenario": "Your university library has group study rooms that students can reserve online. This semester, the library changed the rules: each reservation can now last only one hour, and students can book a room only on the same day. You and your classmates often prepare long group presentations together, and the new rules have made this difficult. Write an email to Ms. Patel, the library services manager.",
+    "to": "Ms. Patel, Library Services Manager",
+    "subject": "New rules for group study room reservations",
+    "tasks": [
+      "Explain how you and your classmates use the group study rooms.",
+      "Describe the problems the new rules have caused for your group.",
+      "Suggest a change to the rules that would solve the problem."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Ms. Patel,\n\nI am a third-year business student, and I am writing about the new reservation rules for the group study rooms. My classmates and I rely on these rooms every week, because most of our courses require group presentations that we have to rehearse together, using a screen and a whiteboard.\n\nUnfortunately, the new rules have made our preparation much harder. A one-hour slot is rarely enough to run through a twenty-minute presentation, discuss feedback and practice again. Last Tuesday we had to move to a noisy hallway halfway through our rehearsal. In addition, because rooms can only be booked on the same day, we often find that all of them are taken by nine in the morning, so we cannot plan our meetings in advance.\n\nI understand that the library wants to share the rooms fairly among more students. Perhaps groups of four or more could be allowed to book two-hour sessions, and reservations could open two days in advance with a weekly limit per student. This would keep the system fair while meeting the needs of larger groups.\n\nThank you for considering this suggestion.\n\nKind regards,\nDaniel Ortiz",
+        "commentary": "Nivel 5: cubre las tres tareas con detalles concretos (ensayar una presentación de veinte minutos, el pasillo ruidoso, salas ocupadas a las nueve). Reconoce el objetivo de la biblioteca antes de proponer una solución equilibrada y precisa (sesiones de dos horas para grupos, reserva con dos días de antelación y límite semanal). Tono cortés y formal, buena cohesión y gramática variada y sin errores."
+      },
+      {
+        "level": "4",
+        "text": "Dear Ms. Patel,\n\nI am writing about the new rules for the group study rooms. My classmates and I use these rooms almost every week to prepare presentations for our business courses, because we need a quiet place with a screen.\n\nThe new rules have caused some problems for us. One hour is too short to practice a whole presentation and talk about how to improve it. Also, we can only book on the same day, so many times all the rooms are already full when we try to reserve one, and we have to work in the cafeteria, where it is very noisy.\n\nI would like to suggest that groups can book a room for two hours if they need it for a presentation. It would also help if we could reserve one or two days before.\n\nThank you for your time.\n\nBest regards,\nDaniel Ortiz",
+        "commentary": "Nivel 4: responde con claridad a las tres tareas y el tono es adecuado. Los problemas se explican con algún detalle (la cafetería ruidosa), pero con menos precisión que en el nivel 5 y sin reconocer el motivo de la biblioteca. Pequeñas imprecisiones («suggest that groups can book» en vez de «could» o «be allowed to»; «many times» es menos natural que «often»). Vocabulario correcto pero algo repetitivo."
+      },
+      {
+        "level": "3",
+        "text": "Dear Ms. Patel,\n\nI am student and I use the study rooms with my friends for our works. We go there many times.\n\nThe new rules are bad for us because one hour is not enough time. Also we can't reserve before so the rooms are always full.\n\nPlease change the rules and give more time to students.\n\nThank you\nDaniel",
+        "commentary": "Nivel 3: menciona las tres tareas, pero de forma muy breve. No explica para qué usan las salas («for our works» es vago y además incorrecto: «work» es incontable en este sentido). La sugerencia «give more time to students» es poco concreta y suena a exigencia. Errores: «I am student» (falta «a»), «reserve before» (mejor «book in advance»). Frases simples y poca cohesión."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-m4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "scenario": "You are a member of your university's Korean Culture Society. The society wants to hold a cultural evening next month with food, music and a short film, and it hopes to rent the Community Hall, a large room managed by the university's events office. You have been asked to contact the office. Write an email to Mr. Fischer, the events coordinator.",
+    "to": "Mr. Fischer, Events Coordinator",
+    "subject": "Booking the Community Hall for a cultural evening",
+    "tasks": [
+      "Describe the event you are planning.",
+      "Ask whether the hall is available and what equipment it has.",
+      "Ask about the cost and any rules you need to follow."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Mr. Fischer,\n\nI am writing on behalf of the Korean Culture Society, which would like to rent the Community Hall for a cultural evening next month. The event would be open to all students and staff, and we expect around one hundred and twenty guests. The program would include a buffet of homemade Korean dishes, a traditional drum performance by our members and the screening of a twenty-five-minute short film, followed by a short discussion.\n\nCould you tell me whether the hall is available on Friday, November 21, from six to ten in the evening? If that date is taken, the following Saturday would also suit us. I would also like to know if the hall has a projector, a screen and a sound system, or whether we would need to rent this equipment separately.\n\nFinally, could you let me know how much the booking would cost for a student society, and whether there are any rules we should be aware of, for example regarding serving food, noise levels or cleaning the room afterwards?\n\nThank you very much for your help. I look forward to hearing from you.\n\nBest regards,\nMin-ji Park\nEvents Officer, Korean Culture Society",
+        "commentary": "Nivel 5: describe el evento con datos útiles para quien lo recibe (asistentes, programa, duración de la película). Las preguntas son precisas (fecha y hora concretas, alternativa, equipo exacto) y la última tarea anticipa reglas relevantes (comida, ruido, limpieza). Preguntas indirectas corteses («Could you tell me whether…»), organización clara y registro formal impecable."
+      },
+      {
+        "level": "4",
+        "text": "Dear Mr. Fischer,\n\nI am a member of the Korean Culture Society, and we would like to rent the Community Hall next month. We are planning a cultural evening for students with Korean food, a music performance and a short film. We think about one hundred people will come.\n\nIs the hall available on Friday, November 21, in the evening? I would also like to know what equipment the hall has. We need a projector and speakers for the film and the music.\n\nCould you also tell me how much it costs to rent the hall? Are there any rules about food or about the time we must finish?\n\nThank you for your help.\n\nBest regards,\nMin-ji Park",
+        "commentary": "Nivel 4: cumple las tres tareas con claridad y un tono adecuado. La descripción del evento y las preguntas son correctas pero menos detalladas (no da horario concreto ni alternativa). Predominan las preguntas directas («Is the hall available…?»), algo menos corteses que las indirectas, y la sintaxis es más simple. Sin errores importantes."
+      },
+      {
+        "level": "3",
+        "text": "Hello Mr. Fischer,\n\nWe are the Korean Culture Society and we want to do a party in the Community Hall next month with food and music and film.\n\nThe hall is free on November 21? What things the hall has?\n\nAnd how much is the price? Thank you.\n\nMin-ji",
+        "commentary": "Nivel 3: toca las tres tareas, pero de forma mínima: la descripción del evento es muy pobre y en la tercera sólo pregunta el precio, no por las reglas. Las preguntas tienen errores de orden («The hall is free…?», «What things the hall has?» en vez de «What equipment does the hall have?»). «Do a party» es un calco (mejor «hold an event»). El saludo y el cierre son demasiado informales para este destinatario."
+      }
+    ]
+  }
+]

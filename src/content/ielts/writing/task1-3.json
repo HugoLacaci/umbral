@@ -1,0 +1,340 @@
+[
+  {
+    "id": "ielts-t1-map-1",
+    "difficulty": "easy",
+    "usage": "practice",
+    "chartType": "map",
+    "prompt": "The maps below show Elmfield Park in 2005 and at the present time.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "map",
+      "title": "Elmfield Park, 2005 and now",
+      "maps": [
+        {
+          "title": "2005",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              { "kind": "road", "x": 0, "y": 360, "w": 600, "h": 40, "label": "Station Road" },
+              { "kind": "path", "x": 290, "y": 150, "w": 20, "h": 210, "label": "Main path" },
+              { "kind": "water", "x": 60, "y": 50, "w": 160, "h": 100, "label": "Pond" },
+              { "kind": "trees", "x": 400, "y": 40, "w": 170, "h": 120, "label": "Woodland" },
+              { "kind": "building", "x": 230, "y": 170, "w": 50, "h": 40, "label": "Toilets" },
+              { "kind": "field", "x": 40, "y": 230, "w": 180, "h": 110, "label": "Flower garden" },
+              { "kind": "field", "x": 360, "y": 210, "w": 200, "h": 130, "label": "Bowling green" },
+              { "kind": "label", "x": 270, "y": 345, "label": "Entrance" }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        },
+        {
+          "title": "Now",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              { "kind": "road", "x": 0, "y": 360, "w": 600, "h": 40, "label": "Station Road" },
+              { "kind": "path", "x": 290, "y": 150, "w": 20, "h": 210, "label": "Main path" },
+              { "kind": "water", "x": 60, "y": 50, "w": 160, "h": 100, "label": "Pond" },
+              { "kind": "path", "x": 40, "y": 160, "w": 200, "h": 12, "label": "Footpath" },
+              { "kind": "building", "x": 360, "y": 50, "w": 100, "h": 60, "label": "Café" },
+              { "kind": "trees", "x": 480, "y": 40, "w": 90, "h": 120, "label": "Woodland" },
+              { "kind": "building", "x": 230, "y": 180, "w": 50, "h": 40, "label": "Toilets" },
+              { "kind": "parking", "x": 40, "y": 230, "w": 180, "h": 110, "label": "Car park" },
+              { "kind": "park", "x": 360, "y": 210, "w": 200, "h": 130, "label": "Children's playground" },
+              { "kind": "label", "x": 270, "y": 345, "label": "Entrance" }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: the park now has more facilities (car park, café, playground) and less green space; the pond, toilets and main path are unchanged.",
+      "The flower garden has become a car park.",
+      "The bowling green has been replaced by a children's playground.",
+      "The woodland has been reduced to make room for a café, and a footpath has been added south of the pond."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The two maps show how Elmfield Park has changed since 2005.\n\nOverall, the park has been redeveloped to provide more facilities for visitors, particularly families and people arriving by car, at the expense of some green space. The pond, the toilets and the main path, however, have remained the same.\n\nIn 2005, the park was entered from Station Road in the south, and a main path ran north from the entrance into the centre of the park. To the west of this path lay a flower garden, with a large pond further north, while the north-eastern corner was covered by woodland. A bowling green occupied the south-eastern part of the park, and there were toilets just to the west of the main path.\n\nToday, the flower garden has been replaced by a car park, and the bowling green has been converted into a children's playground. The woodland has been reduced to around half its former size in order to make room for a café, which now stands to the north-east of the main path. Finally, a new footpath has been added along the southern edge of the pond.",
+        "commentary": "Task Achievement (8): overview claro (más instalaciones, menos zona verde, elementos que no cambian) y descripción completa y exacta de cada cambio. Coherence & Cohesion (8): primero se describe el mapa de 2005 y después los cambios, con ubicaciones precisas (To the west of this path, the north-eastern corner) que permiten al lector imaginar el plano. Lexical Resource (8): vocabulario típico de mapas usado con naturalidad (redeveloped, at the expense of, occupied, make room for, converted into). Grammatical Range & Accuracy (8): uso correcto y variado de la pasiva en present perfect (has been replaced, has been converted, has been added), imprescindible en esta tarea, y de inversiones descriptivas (To the west of this path lay a flower garden)."
+      },
+      {
+        "level": "6",
+        "text": "The maps shows Elmfield Park in 2005 and now. There are some differences between the two maps.\n\nIn 2005 there was a pond, a woodland, a flower garden and a bowling green. Also there was toilets and a main path from the Station Road to the middle of the park. The pond was in the north-west and the woodland was in the north-east.\n\nNow there are many changes. The flower garden is a car park now, so people can park there cars when they visit the park. The bowling green is changed to a children playground. There is a café near the woodland and the woodland is more small than before. There is a new footpath near the pond.\n\nThe pond, the toilets and the main path is the same as in 2005.\n\nIn conclusion, the park has more things for the people now and it is more modern than in 2005.",
+        "commentary": "Task Achievement (6): menciona todos los cambios, pero con poca precisión espacial (near the woodland, near the pond) y el overview final es vago (more things, more modern). Coherence & Cohesion (6): estructura clara antes/después, aunque con párrafos muy cortos y conectores básicos (Also, so). Lexical Resource (6): vocabulario limitado y errores de forma (children playground, more small, park there cars). Grammatical Range & Accuracy (6): casi no usa la pasiva, que es la estructura clave en mapas, y cuando la intenta falla (is changed to en lugar de has been turned into); errores de concordancia (The maps shows, there was toilets, the main path is the same)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-map-2",
+    "difficulty": "medium",
+    "usage": "practice",
+    "chartType": "map",
+    "prompt": "The maps below show the village of Ashcombe in 1990 and 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "map",
+      "title": "The village of Ashcombe, 1990 and 2020",
+      "maps": [
+        {
+          "title": "1990",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              { "kind": "water", "x": 0, "y": 170, "w": 600, "h": 40, "label": "River Ash" },
+              { "kind": "road", "x": 280, "y": 0, "w": 40, "h": 400, "label": "Main Road" },
+              { "kind": "label", "x": 325, "y": 192, "label": "Bridge" },
+              { "kind": "building", "x": 120, "y": 60, "w": 120, "h": 70, "label": "Houses" },
+              { "kind": "building", "x": 340, "y": 60, "w": 90, "h": 60, "label": "Church" },
+              { "kind": "building", "x": 460, "y": 60, "w": 90, "h": 60, "label": "Post office" },
+              { "kind": "field", "x": 20, "y": 230, "w": 240, "h": 150, "label": "Farmland" },
+              { "kind": "field", "x": 340, "y": 230, "w": 240, "h": 150, "label": "Farmland" }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        },
+        {
+          "title": "2020",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              { "kind": "water", "x": 0, "y": 170, "w": 600, "h": 40, "label": "River Ash" },
+              { "kind": "path", "x": 0, "y": 155, "w": 600, "h": 12, "label": "Riverside walk" },
+              { "kind": "road", "x": 280, "y": 0, "w": 40, "h": 400, "label": "Main Road" },
+              { "kind": "label", "x": 325, "y": 192, "label": "Bridge" },
+              { "kind": "building", "x": 120, "y": 60, "w": 120, "h": 70, "label": "Houses" },
+              { "kind": "building", "x": 340, "y": 60, "w": 90, "h": 60, "label": "Church" },
+              { "kind": "building", "x": 460, "y": 60, "w": 90, "h": 60, "label": "Café" },
+              { "kind": "building", "x": 20, "y": 230, "w": 240, "h": 55, "label": "New houses" },
+              { "kind": "road", "x": 0, "y": 292, "w": 280, "h": 22, "label": "Meadow Lane" },
+              { "kind": "building", "x": 20, "y": 320, "w": 240, "h": 60, "label": "New houses" },
+              { "kind": "building", "x": 340, "y": 230, "w": 120, "h": 85, "label": "Primary school" },
+              { "kind": "parking", "x": 340, "y": 325, "w": 120, "h": 55, "label": "School car park" },
+              { "kind": "field", "x": 475, "y": 230, "w": 105, "h": 150, "label": "Sports field" }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: the village expanded south of the river, where all the farmland disappeared; the north changed very little.",
+      "West of Main Road, farmland became a housing estate with a new road (Meadow Lane).",
+      "East of Main Road, farmland became a primary school with a car park and a sports field.",
+      "North of the river: the post office became a café and a riverside walk was added; houses, church, road and bridge unchanged."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The maps illustrate the changes that took place in the village of Ashcombe between 1990 and 2020.\n\nOverall, the village expanded considerably to the south of the river, where farmland was replaced by housing and educational facilities. The northern part of the village, by contrast, remained largely unchanged apart from a few minor developments.\n\nIn 1990, Ashcombe was divided by the River Ash, which ran from west to east, and the Main Road ran north to south through the village, crossing the river by a bridge. North of the river stood a group of houses, a church and a post office, while the entire area south of the river was farmland.\n\nBy 2020, the farmland to the west of the Main Road had been converted into a housing estate, with a new road, Meadow Lane, running through it. On the opposite side of the Main Road, a primary school had been built, together with a car park and a sports field. In the north, the houses and the church were still standing, but the post office had become a café. In addition, a riverside walk had been created along the northern bank of the river.",
+        "commentary": "Task Achievement (8): el overview distingue claramente la zona que cambia (el sur) de la que no (el norte), y el cuerpo recoge todos los cambios sin omisiones ni errores de localización. Coherence & Cohesion (8): descripción del estado inicial y luego de los cambios organizados geográficamente (to the west, On the opposite side, In the north). Lexical Resource (8): converted into, educational facilities, still standing, minor developments, the northern bank. Grammatical Range & Accuracy (8): pasado perfecto pasivo (had been converted, had been built, had been created) usado con exactitud porque se describe un estado en 2020; inversión (North of the river stood…) y participios (crossing, running through it)."
+      },
+      {
+        "level": "6",
+        "text": "The two maps show the village Ashcombe in 1990 and in 2020, and we can see many changes.\n\nIn 1990 there was a river in the middle of the village and a main road from north to south. In the north there were houses, a church and a post office. In the south there was only farmland on the left and on the right of the road.\n\nIn 2020 the farmland on the left is now new houses and there is a new road called Meadow Lane. On the right there is a primary school with a car park and a sports field. The post office is now a café. The houses and the church is the same. There is also a riverside walk next to the river.\n\nIn conclusion, the village is bigger in 2020 and it has more houses and a school, but there is not farmland anymore.",
+        "commentary": "Task Achievement (6): todos los cambios aparecen y la conclusión ofrece un overview aceptable, pero falta precisión: usa on the left / on the right en lugar de puntos cardinales y no indica en qué orilla está el paseo. Coherence & Cohesion (6): organización antes/después clara, aunque las frases se suceden sin apenas enlaces. Lexical Resource (6): vocabulario de mapas muy limitado (there is, is now) y errores (there is not farmland anymore). Grammatical Range & Accuracy (6): no usa la pasiva ni el pasado perfecto, que serían naturales aquí (had been converted); errores de concordancia (The houses and the church is) y uso del presente para describir 2020 de forma inconsistente."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-map-3",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "map",
+    "prompt": "The maps below show the waterfront area of Port Lenning in 1980 and 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "map",
+      "title": "Port Lenning waterfront, 1980 and 2020",
+      "maps": [
+        {
+          "title": "1980",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              { "kind": "building", "x": 60, "y": 40, "w": 200, "h": 90, "label": "Factory" },
+              { "kind": "field", "x": 320, "y": 40, "w": 240, "h": 90, "label": "Wasteland" },
+              { "kind": "road", "x": 0, "y": 150, "w": 600, "h": 30, "label": "Harbour Road" },
+              { "kind": "road", "x": 0, "y": 205, "w": 440, "h": 12, "label": "Railway" },
+              { "kind": "building", "x": 40, "y": 240, "w": 120, "h": 70, "label": "Warehouses" },
+              { "kind": "building", "x": 180, "y": 240, "w": 120, "h": 70, "label": "Warehouses" },
+              { "kind": "building", "x": 330, "y": 230, "w": 100, "h": 80, "label": "Fish market" },
+              { "kind": "building", "x": 460, "y": 200, "w": 120, "h": 110, "label": "Shipyard" },
+              { "kind": "water", "x": 0, "y": 320, "w": 600, "h": 80, "label": "Sea" }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        },
+        {
+          "title": "2020",
+          "diagram": {
+            "width": 600,
+            "height": 400,
+            "shapes": [
+              { "kind": "building", "x": 60, "y": 40, "w": 200, "h": 90, "label": "Hotel" },
+              { "kind": "park", "x": 320, "y": 40, "w": 140, "h": 90, "label": "Park" },
+              { "kind": "parking", "x": 470, "y": 40, "w": 90, "h": 90, "label": "Car park" },
+              { "kind": "road", "x": 0, "y": 150, "w": 600, "h": 30, "label": "Harbour Road" },
+              { "kind": "path", "x": 0, "y": 205, "w": 440, "h": 12, "label": "Cycle path" },
+              { "kind": "building", "x": 40, "y": 240, "w": 120, "h": 70, "label": "Maritime museum" },
+              { "kind": "building", "x": 180, "y": 240, "w": 120, "h": 70, "label": "Apartments" },
+              { "kind": "building", "x": 330, "y": 230, "w": 100, "h": 80, "label": "Restaurants" },
+              { "kind": "water", "x": 460, "y": 220, "w": 120, "h": 100, "label": "Marina" },
+              { "kind": "path", "x": 0, "y": 311, "w": 600, "h": 9, "label": "Promenade" },
+              { "kind": "water", "x": 0, "y": 320, "w": 600, "h": 80, "label": "Sea" }
+            ],
+            "markers": [],
+            "compass": true
+          }
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview: the area changed from an industrial port to a leisure, tourist and residential district; only Harbour Road stayed the same.",
+      "North of Harbour Road: factory → hotel; wasteland → park and car park.",
+      "South of Harbour Road: railway → cycle path; warehouses → maritime museum and apartments; fish market → restaurants.",
+      "Shipyard → marina; a promenade was built along the seafront."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The two maps show the waterfront area of Port Lenning in 1980 and 2020.\n\nOverall, the area was transformed from an industrial port into a leisure and residential district. Almost all of the industrial buildings were either demolished or converted to new uses, although Harbour Road, which crosses the area from west to east, remained unchanged.\n\nIn 1980, a large factory and an area of wasteland lay to the north of Harbour Road. Between the road and the sea, a railway line ran past two blocks of warehouses and a fish market, while a shipyard occupied the south-eastern corner of the site.\n\nBy 2020, the factory had been replaced by a hotel, and the wasteland had been turned into a park and a car park. South of Harbour Road, the railway had been removed to make way for a cycle path. The westernmost warehouses had been converted into a maritime museum, whereas those next to them had given way to apartments. The fish market had been replaced by restaurants, and the shipyard had become a marina. Finally, a promenade had been built along the entire seafront.",
+        "commentary": "Task Achievement (8): overview que resume la transformación en una sola idea (de puerto industrial a zona de ocio y residencial) y señala lo único que no cambia. Se mencionan los nueve cambios con exactitud. Coherence & Cohesion (8): agrupación espacial lógica (norte de la carretera, sur de la carretera, costa) en vez de un listado al azar; referencias claras (those next to them). Lexical Resource (8): léxico variado para evitar repetir replaced: turned into, converted into, gave way to, make way for, had become. Grammatical Range & Accuracy (8): pasiva en pasado perfecto usada de forma consistente y correcta, además de relativas (which crosses the area…); ningún error."
+      },
+      {
+        "level": "6",
+        "text": "The maps show Port Lenning in 1980 and 2020. In 1980 it was a industrial area and in 2020 it is a tourist area.\n\nIn 1980 in the north there was a factory and a wasteland. In the south there was a railway, warehouses, a fish market and a shipyard next to the sea. There was also the Harbour Road in the middle.\n\nIn 2020 the factory was demolished and they built a hotel. The wasteland is a park and a car park now. The railway changed to a cycle path. One warehouse is a museum and the other is apartments. The fish market is restaurants and the shipyard is a marina for boats. Also they built a promenade near the sea for walking. Only the Harbour Road is the same in the two maps.\n\nIn conclusion, Port Lenning changed a lot and now it is better for tourists and people who live there.",
+        "commentary": "Task Achievement (6): menciona todos los cambios y la primera línea contiene una idea general válida, pero 'better for tourists' es una valoración más que un overview, y algunos detalles son imprecisos (no son un warehouse sino dos bloques de almacenes; no dice que Harbour Road no cambia). Coherence & Cohesion (6): organización norte/sur/conclusión razonable, con párrafos breves y conectores básicos (Also). Lexical Resource (6): repetición constante de is / was y estructuras como The fish market is restaurants, poco precisas. Grammatical Range & Accuracy (6): evita la pasiva usando they built y the railway changed to; errores de artículo (a industrial area, the Harbour Road)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-process-1",
+    "difficulty": "easy",
+    "usage": "practice",
+    "chartType": "process",
+    "prompt": "The diagram below shows how honey is produced and prepared for sale.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "process",
+      "title": "Commercial honey production",
+      "cyclic": false,
+      "steps": [
+        { "label": "Bees collect nectar", "detail": "from flowers and carry it back to the hive" },
+        { "label": "Nectar stored in honeycomb", "detail": "bees fan it with their wings so that water evaporates and it thickens into honey" },
+        { "label": "Frames removed", "detail": "beekeeper takes the full frames out of the hive" },
+        { "label": "Uncapping", "detail": "wax caps sealing the cells are cut off" },
+        { "label": "Extraction", "detail": "frames spun in a centrifugal extractor to force the honey out" },
+        { "label": "Filtering", "detail": "pieces of wax and other impurities removed" },
+        { "label": "Warming and settling", "detail": "honey gently heated and left to settle in large tanks" },
+        { "label": "Packaging and distribution", "detail": "poured into jars, labelled and sent to shops" }
+      ]
+    },
+    "keyFeatures": [
+      "The process has eight stages, from nectar collection to delivery to shops.",
+      "It has a natural phase (inside the hive, done by bees) and a man-made phase (extraction, purification, packaging by the beekeeper).",
+      "Key steps: honeycomb storage, uncapping, centrifugal extraction, filtering, warming and settling, bottling."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The diagram illustrates the stages involved in the commercial production of honey, from the collection of nectar by bees to the delivery of the finished product to shops.\n\nOverall, the process consists of eight steps and can be divided into two main phases: a natural phase that takes place inside the beehive, and a mechanical phase in which the beekeeper extracts, purifies and packages the honey.\n\nThe process begins when bees collect nectar from flowers and carry it back to the hive. There, the nectar is stored in the cells of the honeycomb, and the bees fan it with their wings so that excess water evaporates and it gradually thickens into honey.\n\nOnce the honey is ready, the beekeeper removes the frames from the hive, and the wax caps that seal the cells are cut off. The frames are then spun in a centrifugal extractor, which forces the honey out of the comb. After that, the honey is filtered to remove pieces of wax and other impurities, before it is gently heated and left to settle in large tanks. Finally, it is poured into jars, labelled and distributed to shops.",
+        "commentary": "Task Achievement (8): overview que da el número de etapas y divide el proceso en dos fases (natural y mecánica), algo muy valorado; describe las ocho etapas sin omitir ninguna. Coherence & Cohesion (8): secuenciadores variados y naturales (The process begins when, There, Once, then, After that, Finally) y un párrafo por fase. Lexical Resource (8): reformula el vocabulario del diagrama en lugar de copiarlo (purifies, forces the honey out of the comb, excess water evaporates). Grammatical Range & Accuracy (8): pasiva en presente bien construida (is stored, are cut off, are spun, is filtered), combinada con voz activa cuando el agente importa (the bees fan it, the beekeeper removes)."
+      },
+      {
+        "level": "6",
+        "text": "The diagram shows how the honey is made and sold in the shops. There are eight steps in the process.\n\nFirst, the bees collect nectar from the flowers and they take it to the hive. Then they put the nectar in the honeycomb and they move their wings, so the water evaporate and it become honey.\n\nAfter that, the beekeeper take the frames from the hive. He cut the wax caps of the cells and then he put the frames in a centrifugal extractor that spin very fast and the honey go out.\n\nNext, the honey is filtered for remove the wax and other things. Then it is heated a little and it stays in big tanks. Finally the honey is put in jars, they put labels and they send it to the shops.\n\nIn conclusion, making honey is a long process and the bees and the beekeeper work very hard.",
+        "commentary": "Task Achievement (6): describe todas las etapas en orden, pero no hay overview útil al principio (solo el número de pasos) y la conclusión es una valoración (work very hard) en lugar de un resumen de las fases. Coherence & Cohesion (6): secuenciadores correctos pero mecánicos (First, Then, After that, Next, Finally). Lexical Resource (6): vocabulario sencillo, a veces impreciso (other things, go out, stays). Grammatical Range & Accuracy (6): mezcla de pasiva y activa poco controlada (they put labels) y errores frecuentes de concordancia en tercera persona (the water evaporate, it become, the beekeeper take, He cut, that spin) y de preposición (for remove)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-process-2",
+    "difficulty": "medium",
+    "usage": "practice",
+    "chartType": "process",
+    "prompt": "The diagram below shows the life cycle of the dragonfly.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "process",
+      "title": "The life cycle of the dragonfly",
+      "cyclic": true,
+      "steps": [
+        { "label": "Eggs laid", "detail": "female lays eggs on plants in or near water (spring)" },
+        { "label": "Eggs hatch", "detail": "after 1–3 weeks" },
+        { "label": "Nymph lives underwater", "detail": "feeds on small insects and tadpoles" },
+        { "label": "Nymph moults and grows", "detail": "6–15 moults over 1–3 years" },
+        { "label": "Mature nymph leaves the water", "detail": "climbs up a plant stem" },
+        { "label": "Adult emerges", "detail": "skin splits; wings expand and harden (about 2 hours)" },
+        { "label": "Adult hunts", "detail": "catches flying insects for several weeks" },
+        { "label": "Adults mate", "detail": "over water" }
+      ]
+    },
+    "keyFeatures": [
+      "It is a natural, cyclical process with three main stages: egg, nymph and adult.",
+      "The nymph stage is by far the longest (1–3 years) and takes place underwater.",
+      "The adult stage lasts only a few weeks.",
+      "The cycle restarts when adults mate and the female lays eggs."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The diagram shows the life cycle of the dragonfly, from egg to adult.\n\nOverall, the dragonfly passes through three main stages, namely egg, nymph and adult, and the cycle is repeated when adults mate and lay eggs. Most notably, the insect spends the greater part of its life underwater as a nymph, whereas the adult stage lasts only a few weeks.\n\nThe cycle begins in spring, when the female lays her eggs on plants in or near water. After one to three weeks, the eggs hatch into nymphs, which live underwater and feed on small insects and tadpoles. Over a period of one to three years, each nymph moults between six and fifteen times, growing larger at every stage.\n\nWhen it is fully mature, the nymph climbs up the stem of a plant and out of the water. Its skin then splits open and the adult dragonfly emerges, although it needs around two hours for its wings to expand and harden before it can fly. The adult hunts flying insects for several weeks and finally mates over water, after which the female lays eggs and the cycle starts again.",
+        "commentary": "Task Achievement (8): overview con las tres fases, la naturaleza cíclica y la comparación clave de duraciones (fase de ninfa larga frente a adulto breve), que es la 'comparación relevante' en un ciclo vital. Todos los datos de tiempo son correctos (1–3 semanas, 1–3 años, 6–15 mudas, unas 2 horas). Coherence & Cohesion (8): progresión cronológica fluida y cierre que conecta con el inicio del ciclo. Lexical Resource (8): vocabulario específico (hatch, moults, emerges, fully mature) y expresiones como namely o the greater part of its life. Grammatical Range & Accuracy (8): al ser un proceso natural, usa sobre todo voz activa en presente, con relativas, participios (growing larger) y subordinadas (after which, although…) sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The diagram shows the life of the dragonfly. It is a cycle and it have eight stages.\n\nFirst, the female dragonfly put eggs on plants near the water in spring. After one to three weeks the eggs hatch and the nymph is born. The nymph lives in the water and eats small insects and tadpoles. It changes the skin 6 to 15 times in one to three years and it becomes bigger.\n\nThen the nymph goes up a plant and goes out from the water. The skin breaks and the adult dragonfly come out. The wings need about two hours to be hard. After that the dragonfly eats flying insects for some weeks, so the adult life is very short.\n\nFinally, the dragonflies mate over the water and the female put eggs again, so the cycle start again.\n\nIn conclusion, the dragonfly lives a lot of time in the water.",
+        "commentary": "Task Achievement (6): todas las etapas y los datos de tiempo están presentes, pero falta un overview al principio que identifique las tres fases y compare su duración; la conclusión lo insinúa de forma muy pobre (lives a lot of time in the water). Coherence & Cohesion (6): secuencia clara pero mecánica (First, Then, After that, Finally). Lexical Resource (6): evita el vocabulario técnico con paráfrasis torpes (changes the skin en lugar de moults, goes out from the water, to be hard). Grammatical Range & Accuracy (6): errores de tercera persona repetidos (it have, the female put, the adult dragonfly come out, the cycle start) y poca variedad de estructuras."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-process-3",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "process",
+    "prompt": "The diagram below shows the process of producing olive oil.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "process",
+      "title": "How olive oil is produced",
+      "cyclic": false,
+      "steps": [
+        { "label": "Harvesting", "detail": "October–December; olives shaken from the trees" },
+        { "label": "Transport to the mill", "detail": "within 24 hours of harvesting" },
+        { "label": "Cleaning", "detail": "leaves and twigs removed; olives washed" },
+        { "label": "Crushing", "detail": "whole olives (with stones) crushed into a paste by steel hammers" },
+        { "label": "Malaxation", "detail": "paste mixed slowly for 30–40 minutes below 27°C" },
+        { "label": "Centrifuge", "detail": "oil separated from water and solids (pomace)" },
+        { "label": "Pomace reused", "detail": "solids dried and used as fuel or animal feed" },
+        { "label": "Settling", "detail": "oil stored in stainless steel tanks for 1–2 months" },
+        { "label": "Filtering and bottling", "detail": "filtered, bottled in dark glass and labelled" }
+      ]
+    },
+    "keyFeatures": [
+      "The process has nine stages, from harvesting to bottling.",
+      "It is mainly mechanical, combining crushing, mixing and separation with a natural settling stage.",
+      "The centrifuge produces a by-product (pomace), which is dried and reused as fuel or animal feed.",
+      "Time/temperature details: transport within 24 hours, mixing 30–40 minutes below 27°C, settling 1–2 months."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The diagram illustrates how olive oil is produced, from the harvesting of the fruit to the bottling of the final product.\n\nOverall, the process comprises nine stages and is largely mechanical, although it also includes a natural settling period. It begins in the olive grove and ends with the oil being packaged for sale, with a by-product, pomace, being separated out and reused along the way.\n\nFirst, olives are harvested between October and December, typically by shaking the trees, and are taken to a mill within 24 hours. At the mill, leaves and twigs are removed and the olives are washed before being crushed, stones included, into a paste by steel hammers. This paste is then mixed slowly for 30 to 40 minutes at a temperature below 27°C, a stage known as malaxation.\n\nNext, a centrifuge separates the oil from the water and solid material. The solids, known as pomace, are dried and used either as fuel or as animal feed. Meanwhile, the oil is stored in stainless steel tanks for one to two months so that any remaining particles can settle. Finally, it is filtered, bottled in dark glass and labelled.",
+        "commentary": "Task Achievement (8): overview completo (nueve etapas, carácter mecánico, subproducto reutilizado) y descripción precisa de todos los pasos con sus tiempos y temperaturas; destaca la ramificación del pomace, que es el rasgo que diferencia este proceso. Coherence & Cohesion (8): secuenciación variada (First, At the mill, then, Next, Meanwhile, Finally) y uso de Meanwhile para mostrar que la línea del aceite y la del pomace avanzan en paralelo. Lexical Resource (8): comprises, by-product, typically, stones included, remaining particles; incorpora el término técnico malaxation explicándolo. Grammatical Range & Accuracy (8): pasiva en presente dominante y correcta, before being crushed (pasiva con -ing), aposiciones y so that + modal."
+      },
+      {
+        "level": "6",
+        "text": "The diagram shows the production of olive oil. There are nine steps and it start with the harvesting and finish with the bottles.\n\nFirstly, the olives are harvested from October to December by shaking the trees and then they are transported to the mill in 24 hours. In the mill, they remove the leaves and they wash the olives. After, the olives are crushed with steel hammers and it become a paste. The paste is mixed for 30-40 minutes and the temperature must be less than 27 degrees.\n\nThen, the centrifuge separate the oil and the water and the solids. The solids are called pomace and they use it for fuel or for food of animals. The oil is stored in tanks for one or two months. In the end, the oil is filtered and put in bottles of dark glass with a label, and then it is ready for sell.",
+        "commentary": "Task Achievement (6): todas las etapas aparecen con datos correctos, pero el overview es mínimo (número de pasos, inicio y fin) y no identifica el subproducto como rasgo clave; tampoco hay conclusión. Coherence & Cohesion (6): secuencia comprensible, aunque con conectores básicos y algún uso incorrecto (After, sin complemento). Lexical Resource (6): paráfrasis torpes (food of animals, finish with the bottles) y poca precisión técnica. Grammatical Range & Accuracy (6): intenta la pasiva y a veces lo logra (are harvested, is stored), pero alterna con they remove / they use; errores de concordancia (it start, it become, the centrifuge separate)."
+      }
+    ]
+  }
+]

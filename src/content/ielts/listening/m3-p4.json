@@ -1,0 +1,195 @@
+[
+  {
+    "id": "ielts-l-m3-p4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "part": 4,
+    "title": "The marine chronometer",
+    "context": "You will hear part of a history of technology lecture about how sailors learned to find their longitude at sea.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "lec",
+          "name": "Dr Aroha Kingi",
+          "role": "lecturer",
+          "gender": "f",
+          "accent": "en-NZ"
+        }
+      ],
+      "lines": [
+        {
+          "s": "lec",
+          "t": "Good morning, everyone. In this lecture on the history of technology, I'm going to look at one of the great practical problems of the eighteenth century, which was how sailors could work out their position at sea, and in particular how a clock solved it."
+        },
+        {
+          "s": "lec",
+          "t": "A ship's position depends on two measurements: latitude, which tells you how far north or south you are, and longitude, which tells you how far east or west. Latitude was relatively easy. Sailors could calculate it by measuring the height of the sun at midday. Longitude was a different matter. Because the Earth turns through fifteen degrees every hour, you can work out how far east or west you've travelled by comparing local time on the ship with the time at a fixed reference point, such as the home port. The trouble was that there was no reliable way of knowing the time back at that reference point once you were weeks into a voyage."
+        },
+        {
+          "s": "lec",
+          "t": "The consequences of getting it wrong were severe. Ships ran aground on rocks they thought were miles away, and voyages took far longer than necessary because captains sailed cautiously along familiar routes. After a series of disasters, the British government passed the Longitude Act in seventeen fourteen. It offered an enormous prize, worth millions of pounds in today's money, to anyone who could find a practical method of determining longitude to within half a degree."
+        },
+        {
+          "s": "lec",
+          "t": "The most famous response came from a man with no formal scientific education at all. John Harrison was born in Yorkshire, and he was trained as a carpenter, like his father. He taught himself clockmaking, and his early clocks were remarkable. Instead of metal for some of the moving parts, he used a tropical hardwood called lignum vitae. This wood contains natural oils, so the parts didn't need lubricating. That mattered, because the lubricants of the time thickened and became sticky, which made clocks inaccurate."
+        },
+        {
+          "s": "lec",
+          "t": "The best clocks on land were pendulum clocks, but a pendulum is useless on a ship that's rolling from side to side. So Harrison had to deal with two enemies at once. One was the constant motion of the ship. The other was the huge changes in temperature a ship experienced between, say, the English Channel and the Caribbean, because metal expands in the heat and contracts in the cold, and that alters the speed of any clock."
+        },
+        {
+          "s": "lec",
+          "t": "His first three sea clocks were large, heavy machines, and he spent around thirty years improving them. Then, rather surprisingly, he changed direction completely. His fourth design, known today as H4, was only about thirteen centimetres across. In fact, it looked rather like an oversized pocket watch. In seventeen sixty-one it was tested on a voyage from England to Jamaica, and when the ship arrived, it had lost only about five seconds in more than eighty days. That was far better than the Act required."
+        },
+        {
+          "s": "lec",
+          "t": "You might expect that Harrison would simply have been handed the prize. But that's not what happened. The Board of Longitude, which judged the competition, included several influential astronomers, and they favoured a rival approach. Their method involved measuring the angle between the moon and particular stars, and then looking up the time in a set of printed tables. It needed a lot of calculation, but it didn't depend on an expensive machine. The Board demanded more and more tests, and asked Harrison to explain his designs in detail so that other makers could copy them. He became increasingly bitter, and in the end, he only received most of the money he was owed after the king intervened personally on his behalf, by which time Harrison was nearly eighty."
+        },
+        {
+          "s": "lec",
+          "t": "His ideas, however, were vindicated. A skilled watchmaker produced an exact copy of H4, and Captain James Cook took it on his second great voyage to the Pacific in the seventeen seventies. Cook had been doubtful at first, but he was so impressed by its accuracy that he referred to it in his journal as his trusty friend."
+        },
+        {
+          "s": "lec",
+          "t": "For several decades, though, these instruments, which came to be called marine chronometers, were extremely expensive, because each one was made by hand by a single craftsman. Only the largest ships could afford them. It wasn't until the nineteenth century that they became affordable, once they began to be produced in large workshops, where each worker specialised in making just one part. By the eighteen sixties, even quite ordinary merchant ships carried at least one, and often two or three, so that the navigator could compare them."
+        },
+        {
+          "s": "lec",
+          "t": "The chronometer remained the main tool for finding longitude until radio time signals arrived in the early twentieth century, and of course today, satellite navigation has replaced it entirely. Next week, we'll look at how those radio signals changed navigation."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–40\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "The marine chronometer",
+        "template": "The longitude problem\n• latitude could be calculated from the position of the sun\n• longitude required knowing the {{q31}} at a reference point\n• 1714: the British government offered a large {{q32}} for a solution\n\nJohn Harrison\n• originally trained as a {{q33}}\n• early clocks used a wood containing natural {{q34}}, so no lubrication was needed\n• at sea, clocks were affected by the ship's movement and by changes in {{q35}}\n• H4 resembled a large pocket {{q36}}\n• tested on a voyage to Jamaica in 1761\n\nOpposition\n• astronomers preferred a method using the position of the {{q37}} and stars\n• Harrison was paid only after the {{q38}} became involved\n\nLater developments\n• Captain Cook called a copy of H4 his trusty {{q39}}\n• chronometers became cheaper when they were made in large {{q40}}",
+        "items": [
+          {
+            "id": "q31",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "time"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Longitude is found by comparing ship time with the time at a fixed reference point such as the home port.",
+            "evidence": "comparing local time on the ship with the time at a fixed reference point"
+          },
+          {
+            "id": "q32",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "prize"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "The Longitude Act offered \"an enormous prize\".",
+            "evidence": "It offered an enormous prize"
+          },
+          {
+            "id": "q33",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "carpenter"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Harrison \"was trained as a carpenter, like his father\".",
+            "evidence": "he was trained as a carpenter"
+          },
+          {
+            "id": "q34",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "oils"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Lignum vitae contains natural oils, so the parts did not need lubricating.",
+            "evidence": "This wood contains natural oils"
+          },
+          {
+            "id": "q35",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "temperature"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "The two enemies were the motion of the ship and the huge changes in temperature.",
+            "evidence": "the huge changes in temperature"
+          },
+          {
+            "id": "q36",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "watch"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "H4 \"looked rather like an oversized pocket watch\". Thirteen centimetres is its size, not what it resembled.",
+            "evidence": "it looked rather like an oversized pocket watch"
+          },
+          {
+            "id": "q37",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "moon"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "The rival method measured the angle between the moon and particular stars.",
+            "evidence": "measuring the angle between the moon and particular stars"
+          },
+          {
+            "id": "q38",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "king"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "He only received most of the money after the king intervened personally.",
+            "evidence": "after the king intervened personally on his behalf"
+          },
+          {
+            "id": "q39",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "friend"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Cook referred to it in his journal as his trusty friend.",
+            "evidence": "he referred to it in his journal as his trusty friend"
+          },
+          {
+            "id": "q40",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "workshops"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "They became affordable once they were produced in large workshops where each worker specialised in one part (a division of labour), not by a single craftsman.",
+            "evidence": "once they began to be produced in large workshops"
+          }
+        ]
+      }
+    ]
+  }
+]

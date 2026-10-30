@@ -1,0 +1,777 @@
+[
+  {
+    "id": "toefl-talk-m1-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "module": "router",
+    "task": "academic-talk",
+    "title": "How migrating birds navigate",
+    "context": "Listen to part of a talk in a biology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Turner",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Every autumn, billions of birds migrate thousands of kilometers, and many of them return to the exact same nesting site the following spring. Today I want to look at how they navigate, because it turns out they use several different tools."
+        },
+        {
+          "s": "p",
+          "t": "The first is the Sun. Birds can use the Sun's position as a compass. But the Sun moves across the sky during the day, so to use it accurately, a bird must also have an internal clock that tells it what time it is. Researchers demonstrated this by keeping birds indoors under artificial lighting that was shifted by several hours. When released, the birds flew off in the wrong direction, by an angle that matched the time shift."
+        },
+        {
+          "s": "p",
+          "t": "Second, many birds that migrate at night use the stars. Experiments in planetariums showed that young birds learn which part of the sky rotates least, the area around the North Star, and use it to find north."
+        },
+        {
+          "s": "p",
+          "t": "Third, and most mysterious, is the magnetic sense. Birds can detect Earth's magnetic field, which allows them to navigate even on cloudy nights when neither the Sun nor the stars are visible."
+        },
+        {
+          "s": "p",
+          "t": "Having several systems is important, because each one can fail under certain conditions. The birds seem to cross-check them, and young birds in particular use one system to calibrate another."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why birds return to the same nesting site",
+          "Why some birds migrate only at night",
+          "How planetariums are used to train birds",
+          "The different methods birds use to find their way"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Returning to the same site is mentioned only as an introduction.",
+          "Night migration is a detail related to star navigation.",
+          "Planetariums were used in one experiment, not to train birds.",
+          "Correct. The talk covers the Sun compass, the stars and the magnetic sense."
+        ],
+        "explanation": "The professor describes three navigation systems and why birds use more than one."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why does a bird need an internal clock to use the Sun as a compass?",
+        "options": [
+          "Because birds migrate only in the morning",
+          "Because the Sun's position changes during the day",
+          "Because the Sun is not visible at night",
+          "Because the clock helps birds detect magnetic fields"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Migration times are not limited to mornings.",
+          "Correct. To use a moving Sun as a reference, the bird must know the time.",
+          "True, but that is not why the clock is needed for the Sun compass.",
+          "The magnetic sense is a separate system."
+        ],
+        "explanation": "Since the Sun moves across the sky, the bird needs to know the time to read direction from it.",
+        "evidence": "But the Sun moves across the sky during the day"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor describe the experiment with shifted artificial lighting?",
+        "options": [
+          "To show that birds rely on their sense of time when using the Sun",
+          "To explain how planetariums were designed",
+          "To show that indoor birds lose the ability to migrate",
+          "To show that artificial light confuses the magnetic sense"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The direction error matched the time shift, proving the clock's role.",
+          "Planetariums belong to the star experiments.",
+          "The birds still flew; they just chose the wrong direction.",
+          "The magnetic sense is not part of this experiment."
+        ],
+        "explanation": "Shifting the birds' clock shifted their direction by a matching angle, showing they use time to read the Sun.",
+        "evidence": "by an angle that matched the time shift"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the professor imply about birds' navigation systems?",
+        "options": [
+          "Only adult birds can use more than one system.",
+          "The magnetic sense is the least reliable system.",
+          "The systems act as backups for one another.",
+          "Birds choose one system and use it for life."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "He says young birds in particular combine systems.",
+          "He calls it mysterious, not unreliable; it works even on cloudy nights.",
+          "Correct. Because each system can fail, having several lets birds compensate.",
+          "Birds cross-check several systems."
+        ],
+        "explanation": "Each system can fail in some conditions, so having several lets birds rely on another when one fails.",
+        "evidence": "because each one can fail under certain conditions"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m1-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 1,
+    "module": "lower",
+    "task": "academic-talk",
+    "title": "Why leaves change color",
+    "context": "Listen to part of a talk in a botany class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Russo",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today we'll answer a question many of you have probably wondered about: why do leaves change color in the fall?"
+        },
+        {
+          "s": "p",
+          "t": "During spring and summer, leaves are green because they contain a lot of chlorophyll. Chlorophyll is the chemical that plants use to capture sunlight and make food. It's so plentiful that it hides other colors in the leaf."
+        },
+        {
+          "s": "p",
+          "t": "But the leaves also contain yellow and orange chemicals, the same kind that give carrots their color. These are there all summer. We just can't see them."
+        },
+        {
+          "s": "p",
+          "t": "In autumn, the days get shorter and the nights get cooler. The tree begins to prepare for winter, and it stops making new chlorophyll. As the green chlorophyll breaks down, the yellow and orange colors finally show through."
+        },
+        {
+          "s": "p",
+          "t": "Red is a little different. Red colors are not already in the leaf. Some trees, like many maples, actually produce red chemicals in autumn. Sunny days and cool nights help them make more of it. That's why the fall colors are especially bright in some years."
+        },
+        {
+          "s": "p",
+          "t": "So the best autumn colors usually come after a season with lots of sunny days and cool, but not freezing, nights."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How trees make food from sunlight",
+          "Why carrots are orange",
+          "How to grow maple trees",
+          "Why leaves turn different colors in autumn"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Making food is mentioned only to explain chlorophyll.",
+          "Carrots are only a comparison.",
+          "Growing trees is not discussed.",
+          "Correct. The talk explains where yellow, orange and red autumn colors come from."
+        ],
+        "explanation": "The professor explains the chemistry behind autumn leaf colors."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why can't we see yellow and orange colors in leaves during the summer?",
+        "options": [
+          "There is so much chlorophyll that it hides them.",
+          "The leaves do not contain these colors yet.",
+          "The sunlight is too strong.",
+          "The leaves are too young."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Plentiful chlorophyll covers the other colors.",
+          "She says these colors are there all summer.",
+          "Sunlight is not given as the reason.",
+          "Leaf age is not mentioned."
+        ],
+        "explanation": "The yellow and orange chemicals are present, but the large amount of green chlorophyll hides them.",
+        "evidence": "It's so plentiful that it hides other colors in the leaf."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What is different about red colors in leaves?",
+        "options": [
+          "They appear only in leaves that have fallen.",
+          "They come from the same chemicals as in carrots.",
+          "They are produced in autumn rather than being present all summer.",
+          "They appear in every kind of tree."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Fallen leaves are not discussed.",
+          "Carrot-type chemicals are yellow and orange.",
+          "Correct. Red chemicals are made by some trees in autumn.",
+          "She says 'some trees', like many maples."
+        ],
+        "explanation": "Unlike yellow and orange, red is not already in the leaf; some trees produce it in autumn.",
+        "evidence": "Red colors are not already in the leaf."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Which weather would most likely produce very bright autumn colors?",
+        "options": [
+          "Cloudy days and warm nights",
+          "Sunny days and cool nights",
+          "Rainy days and freezing nights",
+          "Hot days and hot nights"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She mentions sunny days and cool nights, the opposite.",
+          "Correct. Sunny days and cool, but not freezing, nights give the best colors.",
+          "She specifies 'not freezing'.",
+          "Cool nights are needed."
+        ],
+        "explanation": "The best colors follow a season of sunny days and cool, not freezing, nights.",
+        "evidence": "the best autumn colors usually come after a season with lots of sunny days and cool, but not freezing, nights"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m1-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 1,
+    "module": "upper",
+    "task": "academic-talk",
+    "title": "The slow acceptance of continental drift",
+    "context": "Listen to part of a talk in a history of science class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Barrett",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "When Alfred Wegener proposed in nineteen twelve that the continents had once been joined and had since drifted apart, his evidence was, in hindsight, quite persuasive. The coastlines of South America and Africa fit together remarkably well, and identical fossils of land reptiles turned up on continents now separated by vast oceans."
+        },
+        {
+          "s": "p",
+          "t": "Yet for roughly half a century, most geologists rejected the idea, some with open hostility. Why?"
+        },
+        {
+          "s": "p",
+          "t": "It's tempting to see this as simple conservatism, but that would be unfair. The central objection was mechanism. Wegener couldn't explain what force could push continents through the solid ocean floor, and physicists calculated that the forces he did propose were far too weak. To many scientists, accepting an effect without any plausible cause seemed less like boldness than carelessness."
+        },
+        {
+          "s": "p",
+          "t": "What eventually changed minds wasn't a better argument about fossils. It was new data from the ocean floor itself. In the nineteen fifties and sixties, surveys revealed that the sea floor was spreading outward from mid-ocean ridges, with magnetic stripes in the rock recording that process. This supplied the missing mechanism: continents aren't plowing through the ocean floor; they're carried along with it."
+        },
+        {
+          "s": "p",
+          "t": "The episode is often told as the story of a lone genius ignored. I'd suggest it's better read as an illustration of how science weighs evidence of a pattern against an explanation of its cause."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How magnetic stripes in rock are measured",
+          "How fossils of land reptiles spread across the oceans",
+          "Why a theory about moving continents was first rejected and later accepted",
+          "Why physicists and geologists often disagree"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Magnetic stripes are mentioned, but measurement methods are not explained.",
+          "Fossils are part of Wegener's evidence, not the topic.",
+          "Correct. The talk explains the initial rejection and the evidence that later changed minds.",
+          "Physicists appear in one detail; no general disagreement is discussed."
+        ],
+        "explanation": "The professor explains why continental drift was resisted for decades and what finally led to its acceptance."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, what was the main reason geologists rejected Wegener's idea?",
+        "options": [
+          "He could not explain what force moved the continents.",
+          "The coastlines did not actually match.",
+          "His fossil evidence was shown to be false.",
+          "He was not trained as a geologist."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The central objection was the lack of a mechanism.",
+          "He says the coastlines fit remarkably well.",
+          "The professor calls the evidence persuasive.",
+          "Wegener's training is not mentioned."
+        ],
+        "explanation": "The key problem was mechanism: no convincing force could move continents through the ocean floor.",
+        "evidence": "The central objection was mechanism."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the professor imply about the geologists who rejected Wegener's idea?",
+        "options": [
+          "They were unwilling to accept any new ideas.",
+          "They later admitted they had been careless.",
+          "They had not looked at Wegener's evidence.",
+          "Their doubts were reasonable given what was known at the time."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "He says calling it simple conservatism 'would be unfair'.",
+          "'Carelessness' describes how accepting the idea without a cause would have seemed.",
+          "Nothing suggests they ignored the evidence.",
+          "Correct. Without a plausible cause, skepticism was a defensible scientific position."
+        ],
+        "explanation": "By calling the conservatism explanation unfair and stressing the missing mechanism, he implies their caution was reasonable.",
+        "evidence": "It's tempting to see this as simple conservatism, but that would be unfair."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's opinion of the \"lone genius ignored\" version of the story?",
+        "options": [
+          "It is the most accurate way to understand the episode.",
+          "It misses a more useful lesson about how science judges evidence.",
+          "It exaggerates the quality of Wegener's evidence.",
+          "It correctly blames physicists for the delay."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "He suggests a different reading is better.",
+          "Correct. He prefers to see it as weighing a pattern against an explanation of its cause.",
+          "He actually calls Wegener's evidence persuasive.",
+          "Physicists are not blamed."
+        ],
+        "explanation": "He proposes reading the episode as a lesson in balancing evidence of a pattern against an explanation of its cause.",
+        "evidence": "I'd suggest it's better read as an illustration of how science weighs evidence of a pattern against an explanation of its cause."
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m2-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "module": "router",
+    "task": "academic-talk",
+    "title": "The bystander effect",
+    "context": "Listen to part of a talk in a psychology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Leblanc",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today we're looking at a well-known idea in social psychology called the bystander effect. It refers to the finding that people are less likely to help someone in an emergency when other people are present."
+        },
+        {
+          "s": "p",
+          "t": "In a classic experiment, students were placed in separate rooms and talked with each other over an intercom. During the conversation, one participant, who was actually working with the researchers, appeared to have a medical emergency. When participants believed they were the only other person listening, most of them went for help quickly. When they believed four other people were also listening, far fewer helped, and those who did took longer."
+        },
+        {
+          "s": "p",
+          "t": "Researchers proposed two main explanations. The first is diffusion of responsibility. When many people are present, each person feels less personally responsible, since someone else could act. The second is social influence. In an unclear situation, we look at others to decide whether something is really an emergency. If everyone else looks calm, we may conclude that nothing is wrong, even though they're all doing the same thing we are."
+        },
+        {
+          "s": "p",
+          "t": "There's a practical lesson here. If you ever need help in a crowd, don't call out to everyone. Point to one specific person and tell them directly what to do, like, you in the blue jacket, call an ambulance."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How to give first aid in an emergency",
+          "How intercoms were used in early psychology",
+          "Why people are less likely to help when others are present",
+          "Why some people stay calm in emergencies"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "First aid is not discussed.",
+          "The intercom is a detail of one experiment.",
+          "Correct. The talk defines and explains the bystander effect.",
+          "Calm appearances are part of one explanation, not the main topic."
+        ],
+        "explanation": "The professor presents the bystander effect, a classic experiment and two explanations."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What happened in the experiment when participants thought four other people were listening?",
+        "options": [
+          "Fewer of them helped, and they were slower.",
+          "They talked to the other listeners first.",
+          "They helped more quickly than before.",
+          "They realized the emergency was not real."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Far fewer helped, and those who did took longer.",
+          "Talking to the others is not mentioned.",
+          "The opposite: they were slower.",
+          "Nothing suggests they discovered the setup."
+        ],
+        "explanation": "With more perceived listeners, fewer participants helped and helpers took longer.",
+        "evidence": "When they believed four other people were also listening, far fewer helped"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the explanation based on social influence, what do people do in an unclear situation?",
+        "options": [
+          "They wait for someone with medical training.",
+          "They watch other people to judge whether there is really an emergency.",
+          "They leave the place as quickly as possible.",
+          "They ask the victim what happened."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Medical training is not mentioned.",
+          "Correct. People look at others' reactions to interpret the situation.",
+          "Leaving is not mentioned.",
+          "Asking the victim is not mentioned."
+        ],
+        "explanation": "Under social influence, people use others' reactions to decide if something is an emergency.",
+        "evidence": "we look at others to decide whether something is really an emergency"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention \"you in the blue jacket\"?",
+        "options": [
+          "To describe a participant in the experiment",
+          "To show that people notice clothing in emergencies",
+          "To give an example of social influence",
+          "To show how addressing one person can make someone take responsibility"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "It is a hypothetical example, not part of the experiment.",
+          "Clothing is just a way of identifying someone.",
+          "It is a solution to the problem, not an example of social influence.",
+          "Correct. Naming one person counters diffusion of responsibility."
+        ],
+        "explanation": "Pointing to one person removes the diffusion of responsibility, so that person is more likely to act.",
+        "evidence": "Point to one specific person and tell them directly what to do"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m2-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 2,
+    "module": "lower",
+    "task": "academic-talk",
+    "title": "The phases of the Moon",
+    "context": "Listen to part of a talk in an astronomy class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Scott",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today we're going to talk about the phases of the Moon. Many people think the Moon changes shape because the Earth's shadow covers part of it. That's a very common mistake."
+        },
+        {
+          "s": "p",
+          "t": "The Moon doesn't make its own light. We see it because it reflects light from the Sun. At any time, half of the Moon is lit by the Sun, and the other half is dark."
+        },
+        {
+          "s": "p",
+          "t": "As the Moon travels around the Earth, which takes about a month, we see different amounts of that lit half. When the Moon is between the Earth and the Sun, the lit side faces away from us, and we can hardly see the Moon at all. This is called a new moon."
+        },
+        {
+          "s": "p",
+          "t": "About two weeks later, the Moon is on the other side of the Earth. Now the whole lit side faces us, and we see a full moon. In between, we see a crescent or a half moon, depending on the Moon's position."
+        },
+        {
+          "s": "p",
+          "t": "So what about the Earth's shadow? It does fall on the Moon sometimes, but that is a different event, called a lunar eclipse. It only happens occasionally, and only during a full moon."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How long it takes the Moon to travel around the Earth",
+          "Why lunar eclipses are rare",
+          "What causes the Moon to appear in different shapes",
+          "How the Sun produces its light"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The length of the orbit is a detail.",
+          "Eclipses are mentioned at the end to separate them from phases.",
+          "Correct. The talk explains the real cause of the Moon's phases.",
+          "The Sun's light production is not explained."
+        ],
+        "explanation": "The professor explains that phases depend on how much of the Moon's sunlit half we can see."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention the Earth's shadow at the beginning of the talk?",
+        "options": [
+          "To show how the Moon makes its own light",
+          "To explain how a new moon happens",
+          "To describe what a crescent moon looks like",
+          "To introduce a common but wrong explanation"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The Moon doesn't make its own light.",
+          "A new moon happens when the lit side faces away from us, not because of the shadow.",
+          "Crescents are not caused by the shadow.",
+          "Correct. She says this idea is a very common mistake."
+        ],
+        "explanation": "She starts with a popular misconception in order to correct it.",
+        "evidence": "That's a very common mistake."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "When does a new moon happen?",
+        "options": [
+          "When the Moon is between the Earth and the Sun",
+          "When the Earth's shadow covers the Moon",
+          "When the Earth is between the Sun and the Moon",
+          "When the Moon is farthest from the Earth"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The lit side then faces away from Earth.",
+          "That describes a lunar eclipse.",
+          "That position gives a full moon.",
+          "Distance is not mentioned."
+        ],
+        "explanation": "With the Moon between Earth and Sun, its lit side faces away from us, producing a new moon.",
+        "evidence": "When the Moon is between the Earth and the Sun, the lit side faces away from us"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the professor say about lunar eclipses?",
+        "options": [
+          "They happen every month.",
+          "They happen only during a full moon.",
+          "They happen only during a new moon.",
+          "They cause the half moon."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She says they happen only occasionally.",
+          "Correct. Eclipses occur occasionally, and only at full moon.",
+          "She says the opposite: during a full moon.",
+          "The half moon is a normal phase."
+        ],
+        "explanation": "A lunar eclipse is a separate, occasional event that happens only at full moon.",
+        "evidence": "It only happens occasionally, and only during a full moon."
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-m2-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 2,
+    "module": "upper",
+    "task": "academic-talk",
+    "title": "Linguistic relativity revisited",
+    "context": "Listen to part of a talk in a linguistics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Ashworth",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        },
+        {
+          "id": "s",
+          "name": "Student",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today I want to revisit linguistic relativity, the proposal that the language we speak shapes how we think. In its strongest form, sometimes called linguistic determinism, the claim is that language actually limits thought, so that speakers simply can't conceive of distinctions their language doesn't encode. That strong version has very little support. If it were true, translation would be impossible, and so would learning a concept for which you don't yet have a word."
+        },
+        {
+          "s": "p",
+          "t": "The weaker version, that language nudges attention and memory in particular directions, has fared considerably better. Consider spatial reference. English speakers typically describe space relative to the body: the cup is to my left. But speakers of some Indigenous Australian languages, such as Guugu Yimithirr, use compass directions even for small arrangements: the cup is to the north."
+        },
+        {
+          "s": "p",
+          "t": "In experiments, speakers were shown objects arranged on a table, then turned around to face the opposite direction and asked to recreate the arrangement. English speakers tended to preserve left and right relative to themselves, whereas Guugu Yimithirr speakers preserved the compass orientation."
+        },
+        {
+          "s": "s",
+          "t": "But couldn't that just reflect culture, rather than language itself?"
+        },
+        {
+          "s": "p",
+          "t": "That's precisely the difficulty. Language and culture are deeply intertwined, so it's hard to isolate one as the cause. What the findings do establish is that habitual ways of speaking go hand in hand with habitual ways of attending to the world."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How to translate between English and Australian languages",
+          "An evaluation of two versions of the idea that language affects thought",
+          "Why compass directions are more accurate than left and right",
+          "How culture influences the way children learn words"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Translation is mentioned only as an argument against the strong version.",
+          "Correct. He rejects the strong version and discusses evidence for the weaker one.",
+          "Accuracy of direction systems is not compared.",
+          "Children's word learning is not discussed."
+        ],
+        "explanation": "The professor contrasts strong and weak linguistic relativity and evaluates the evidence for each."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention translation?",
+        "options": [
+          "To introduce the experiment with objects on a table",
+          "To show that some words cannot be translated",
+          "To argue against the strong version of the idea",
+          "To explain how Guugu Yimithirr was first studied"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The experiment is introduced later, in support of the weaker version.",
+          "He makes the opposite point.",
+          "Correct. If language limited thought, translation would be impossible, yet it happens.",
+          "The history of studying the language is not discussed."
+        ],
+        "explanation": "The possibility of translation is evidence against the claim that language limits thought.",
+        "evidence": "If it were true, translation would be impossible"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "How did Guugu Yimithirr speakers recreate the arrangement after turning around?",
+        "options": [
+          "They kept the objects on the same side of their bodies.",
+          "They placed the objects in a random order.",
+          "They asked the researchers for help.",
+          "They kept the objects in the same compass directions."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "That is what English speakers tended to do.",
+          "No random behavior is reported.",
+          "Asking for help is not mentioned.",
+          "Correct. They preserved the compass orientation."
+        ],
+        "explanation": "Guugu Yimithirr speakers kept the arrangement aligned with compass directions, not with their bodies.",
+        "evidence": "Guugu Yimithirr speakers preserved the compass orientation"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "How does the professor respond to the student's question?",
+        "options": [
+          "He accepts the concern and limits his claim to an association.",
+          "He says culture has been shown to have no effect.",
+          "He says the experiment proves language is the only cause.",
+          "He says the question is based on a misunderstanding."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. He admits causation is unclear and claims only that speech habits and attention go together.",
+          "He says language and culture are deeply intertwined.",
+          "He says it's hard to isolate one cause.",
+          "He calls it 'precisely the difficulty', so he takes it seriously."
+        ],
+        "explanation": "He agrees that culture is a confound and claims only that speaking habits go hand in hand with attention habits.",
+        "evidence": "it's hard to isolate one as the cause"
+      }
+    ]
+  }
+]

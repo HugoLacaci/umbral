@@ -1,0 +1,100 @@
+[
+  {
+    "id": "ielts-r-pb-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "passageNo": 1,
+    "title": "Turning the Sea into Drinking Water",
+    "subtitle": "How desalination plants remove salt from seawater, and what it costs",
+    "paragraphs": [
+      { "label": "A", "text": "For most of human history, the oceans have been a frustrating resource. They cover more than seventy per cent of the planet's surface, yet their water is far too salty to drink or to use on crops. Today, however, more than 20,000 desalination plants operate around the world, and in several dry countries they supply the majority of the water that comes out of household taps. The technology that makes this possible has changed dramatically in the last fifty years. Israel, Saudi Arabia and the United Arab Emirates are among the largest users, but plants can now be found from Spain and Australia to California and Chile." },
+      { "label": "B", "text": "The oldest approach is thermal desalination, which imitates the natural water cycle. Seawater is heated until it evaporates, leaving the salt behind, and the vapour is then cooled so that it condenses as fresh water. Sailors used simple versions of this method on long voyages as early as the sixteenth century. Large thermal plants were built in the Persian Gulf from the 1960s onwards, where cheap oil made the enormous energy demands of boiling water acceptable. Their main weakness is cost: heating huge volumes of water requires so much fuel that the method only makes sense where energy is abundant." },
+      { "label": "C", "text": "Most new plants now rely instead on a process called reverse osmosis. In ordinary osmosis, water moves naturally through a thin barrier from a weak solution to a stronger one. Reverse osmosis turns this process around by applying great pressure to the seawater side, forcing water molecules through a membrane while the salt is held back. The membrane itself is a remarkable piece of engineering. It is usually made of a thin layer of polyamide, a type of plastic, supported on a stronger backing sheet, and its pores are so small that they block not only salt but also most bacteria and viruses. Because the membranes are so fine, they are also delicate, and they must be protected from anything that might scratch or clog them." },
+      { "label": "D", "text": "A typical reverse osmosis plant has four main stages. First, seawater is drawn in through an intake pipe, often placed several hundred metres offshore to avoid sand and marine life. Next comes pre-treatment, in which the water passes through sand filters that remove larger particles which could block the membranes. The filtered water is then pushed by high-pressure pumps into long cylinders known as pressure vessels, each containing a number of membrane elements wound in a spiral. Fresh water, called permeate, emerges from a central tube, while the remaining concentrated salt water, known as brine, flows out of the far end of the vessel. Finally, minerals such as calcium are added back to the fresh water, because completely pure water tastes flat and can corrode metal pipes." },
+      { "label": "E", "text": "Energy use has fallen sharply. In the 1970s, early reverse osmosis plants needed around 16 kilowatt-hours of electricity to produce one cubic metre of fresh water. Modern facilities need about three. Much of this improvement comes from a device called a pressure exchanger. Because the brine leaving the membranes is still under very high pressure, the exchanger can transfer that pressure directly to the incoming seawater, so the pumps have to do far less work. Better membranes, which let water through more easily, have also played a part. Some plants are now powered partly by solar or wind energy, which further reduces their contribution to greenhouse gas emissions, although the irregular output of these sources creates difficulties for plants designed to run continuously." },
+      { "label": "F", "text": "Even so, desalination has drawbacks. For every litre of fresh water produced, a plant typically creates about one and a half litres of brine, which is usually returned to the sea. Because brine is heavier than seawater, it can sink and spread across the seabed, where it may harm organisms such as seagrasses that cannot tolerate high salt levels. To reduce this risk, engineers fit the outfall pipes with diffusers, which spray the brine upwards so that it mixes quickly with the surrounding water. Some researchers are also exploring ways of extracting useful substances, such as magnesium and lithium, from brine, turning a waste product into a source of income." },
+      { "label": "G", "text": "The question of cost remains central. Desalinated water is still several times more expensive than water taken from rivers or underground sources, and plants are expensive to build. For this reason, many water engineers argue that desalination should be treated as a form of insurance rather than a first choice: a reliable supply that a city can turn to when droughts reduce its other sources. As climate change makes rainfall less predictable, that insurance may become increasingly valuable. Others point out that repairing leaking pipes and recycling wastewater are usually far cheaper ways of increasing supply, and should be tried first." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "diagram-label",
+        "instructions": "Questions 1–4\nLabel the diagram below.\nChoose ONE WORD ONLY from the passage for each answer.",
+        "title": "Inside a reverse osmosis pressure vessel",
+        "diagram": {
+          "width": 480,
+          "height": 230,
+          "compass": false,
+          "shapes": [
+            { "kind": "room", "x": 80, "y": 60, "w": 320, "h": 100, "label": "Pressure vessel" },
+            { "kind": "label", "x": 240, "y": 115, "label": "membrane elements" },
+            { "kind": "arrow", "x": 10, "y": 110, "w": 70, "h": 0, "label": "filtered seawater in" },
+            { "kind": "arrow", "x": 400, "y": 110, "w": 70, "h": 0 },
+            { "kind": "arrow", "x": 240, "y": 160, "w": 0, "h": 45 }
+          ],
+          "markers": [
+            { "key": "q1", "x": 40, "y": 85 },
+            { "key": "q2", "x": 240, "y": 80 },
+            { "key": "q3", "x": 240, "y": 215 },
+            { "key": "q4", "x": 440, "y": 85 }
+          ]
+        },
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "diagram-label", "prompt": "Entry point: water is driven in by high-pressure ___", "answers": ["pumps"], "maxWords": 1,
+            "explanation": "Paragraph D says the filtered water 'is then pushed by high-pressure pumps into long cylinders known as pressure vessels'. 'Driven in' paraphrases 'pushed'.",
+            "evidence": "pushed by high-pressure pumps into long cylinders known as pressure vessels" },
+          { "id": "q2", "kind": "gap", "qtype": "diagram-label", "prompt": "Membrane elements: wound in a ___", "answers": ["spiral"], "maxWords": 1,
+            "explanation": "Each pressure vessel contains 'a number of membrane elements wound in a spiral'. The diagram label repeats the words almost exactly.",
+            "evidence": "each containing a number of membrane elements wound in a spiral" },
+          { "id": "q3", "kind": "gap", "qtype": "diagram-label", "prompt": "Central tube: fresh water, known as ___, comes out here", "answers": ["permeate"], "maxWords": 1,
+            "explanation": "'Fresh water, called permeate, emerges from a central tube'. 'Comes out' = 'emerges'. Do not write 'brine', which leaves from the far end.",
+            "evidence": "Fresh water, called permeate, emerges from a central tube" },
+          { "id": "q4", "kind": "gap", "qtype": "diagram-label", "prompt": "Far end of the vessel: concentrated salt water (___) flows out", "answers": ["brine"], "maxWords": 1,
+            "explanation": "'the remaining concentrated salt water, known as brine, flows out of the far end of the vessel'.",
+            "evidence": "known as brine, flows out of the far end of the vessel" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "sentence-completion",
+        "instructions": "Questions 5–9\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+        "items": [
+          { "id": "q5", "kind": "gap", "qtype": "sentence-completion", "prompt": "Thermal plants were built in the Persian Gulf because ___ was cheap there.", "answers": ["oil"], "maxWords": 1,
+            "explanation": "Paragraph B: 'cheap oil made the enormous energy demands of boiling water acceptable'. 'Fuel' or 'energy' are not the words used for what was cheap.",
+            "evidence": "where cheap oil made the enormous energy demands of boiling water acceptable" },
+          { "id": "q6", "kind": "gap", "qtype": "sentence-completion", "prompt": "The pores in a reverse osmosis membrane stop salt and also most bacteria and ___.", "answers": ["viruses"], "maxWords": 1,
+            "explanation": "The pores 'block not only salt but also most bacteria and viruses'. 'Stop' paraphrases 'block'.",
+            "evidence": "they block not only salt but also most bacteria and viruses" },
+          { "id": "q7", "kind": "gap", "qtype": "sentence-completion", "prompt": "Sand filters remove larger particles that might otherwise ___ the membranes.", "answers": ["block", "clog"], "maxWords": 1,
+            "explanation": "Pre-treatment uses 'sand filters that remove larger particles which could block the membranes'. 'Might otherwise' paraphrases 'could'.",
+            "evidence": "sand filters that remove larger particles which could block the membranes" },
+          { "id": "q8", "kind": "gap", "qtype": "sentence-completion", "prompt": "Minerals are added to desalinated water partly because pure water can damage ___ pipes.", "answers": ["metal"], "maxWords": 1,
+            "explanation": "Completely pure water 'can corrode metal pipes'. 'Damage' paraphrases 'corrode'.",
+            "evidence": "completely pure water tastes flat and can corrode metal pipes" },
+          { "id": "q9", "kind": "gap", "qtype": "sentence-completion", "prompt": "Diffusers on outfall pipes send the brine ___ so that it mixes quickly with seawater.", "answers": ["upwards", "upward"], "maxWords": 1,
+            "explanation": "Diffusers 'spray the brine upwards so that it mixes quickly with the surrounding water'. This stops the heavy brine from sinking to the seabed.",
+            "evidence": "spray the brine upwards so that it mixes quickly with the surrounding water" }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "short-answer",
+        "instructions": "Questions 10–13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+        "items": [
+          { "id": "q10", "kind": "gap", "qtype": "short-answer", "prompt": "How many kilowatt-hours does a modern plant need, approximately, to make one cubic metre of fresh water? ___", "answers": ["three", "3", "about three"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Early plants needed around 16 kWh; 'Modern facilities need about three.' Do not write 16, which refers to the 1970s.",
+            "evidence": "Modern facilities need about three." },
+          { "id": "q11", "kind": "gap", "qtype": "short-answer", "prompt": "Which device passes pressure from the outgoing brine to the incoming seawater? ___", "answers": ["pressure exchanger"], "maxWords": 2,
+            "explanation": "Paragraph E: 'a device called a pressure exchanger' can 'transfer that pressure directly to the incoming seawater'. 'Passes' paraphrases 'transfer'.",
+            "evidence": "the exchanger can transfer that pressure directly to the incoming seawater" },
+          { "id": "q12", "kind": "gap", "qtype": "short-answer", "prompt": "Which marine plants may be harmed when brine spreads across the seabed? ___", "answers": ["seagrasses", "seagrass"], "maxWords": 2,
+            "explanation": "Brine 'may harm organisms such as seagrasses that cannot tolerate high salt levels'.",
+            "evidence": "it may harm organisms such as seagrasses" },
+          { "id": "q13", "kind": "gap", "qtype": "short-answer", "prompt": "According to many water engineers, desalination should be treated as a form of what, rather than a first choice? ___", "answers": ["insurance"], "maxWords": 2,
+            "explanation": "Paragraph G: engineers argue that 'desalination should be treated as a form of insurance rather than a first choice'.",
+            "evidence": "desalination should be treated as a form of insurance rather than a first choice" }
+        ]
+      }
+    ]
+  }
+]

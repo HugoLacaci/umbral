@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ielts-l-m4-p1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "part": 1,
+    "title": "Booking a guided kayak tour",
+    "context": "You will hear a woman phoning a tour company to book a kayak trip for her family.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Rangi", "role": "Tour company employee", "gender": "m", "accent": "en-NZ" },
+        { "id": "b", "name": "Megan", "role": "Customer", "gender": "f", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Kia ora, Bay Paddle Tours, Rangi speaking." },
+        { "s": "b", "t": "Hi there. I'm visiting from the States with my family, and I'd like to book one of your kayak tours, if you have space." },
+        { "s": "a", "t": "Of course. Let me open up a booking form. What name should I put it under?" },
+        { "s": "b", "t": "Megan Lindqvist. The last name is L-I-N-D-Q-V-I-S-T." },
+        { "s": "a", "t": "Q-V-I-S-T. Got it. And how many people will be coming?" },
+        { "s": "b", "t": "It was going to be five, but my brother has decided to go fishing instead, so it'll be four of us. All adults." },
+        { "s": "a", "t": "Four adults. And which date were you thinking of?" },
+        { "s": "b", "t": "We were hoping for Friday the 17th of March. Oh wait, we've got a wine tour that day. Could we do the Saturday instead? That's the 18th." },
+        { "s": "a", "t": "Saturday the 18th is fine. Now, we run two tours a day. The morning tour goes out to the seal colony, and the sunset tour goes along the coast to the caves." },
+        { "s": "b", "t": "My kids would love the seals, but they're not great at getting up early. I think we'll take the sunset tour." },
+        { "s": "a", "t": "Good choice, it's beautiful at this time of year. Can I take a phone number in case we need to change anything? The weather can turn quite quickly." },
+        { "s": "b", "t": "Sure. I've got a local SIM card, so the number is 0 2 1 5 5 0 7 3 4 8." },
+        { "s": "a", "t": "And where are you staying while you're here?" },
+        { "s": "b", "t": "We're at a place called the Kowhai Lodge. I'd better spell that. K-O-W-H-A-I." },
+        { "s": "a", "t": "Ah yes, I know it. It's just up the hill from us. Right, that's the form done. Let me give you a few details about the tour." },
+        { "s": "b", "t": "Great. Do we need to bring anything special?" },
+        { "s": "a", "t": "We provide the kayaks, paddles, life jackets and waterproof bags. But even though it's summer, it gets cold on the water once the sun goes down, so everyone needs to bring a warm fleece. A cotton sweatshirt is no good, because it stays wet." },
+        { "s": "b", "t": "Okay. What about towels?" },
+        { "s": "a", "t": "You won't need towels. You shouldn't get very wet. But please bring a hat and some sunscreen, because the reflection from the water is very strong in the early evening." },
+        { "s": "b", "t": "Got it. And where do we meet you?" },
+        { "s": "a", "t": "Our office is on Beach Road, but the tours actually leave from the wharf. If you walk to the end of the wharf, you'll see a small white lighthouse. We meet right next to the lighthouse. There's also a café on the wharf, but it's a bit further along, so don't wait there." },
+        { "s": "b", "t": "Next to the lighthouse. And what time should we get there?" },
+        { "s": "a", "t": "The tour departs at six thirty. Our website says to arrive ten minutes before, but that's out of date. We now ask people to arrive twenty minutes before departure, because we give everyone a safety talk first." },
+        { "s": "b", "t": "Twenty minutes. No problem. And how do I pay?" },
+        { "s": "a", "t": "I'll send you a link by text, and you can pay online. It's ninety-five dollars per person." },
+        { "s": "b", "t": "Perfect. Thanks so much, Rangi." },
+        { "s": "a", "t": "No worries, Megan. See you on the eighteenth." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–6\nComplete the form below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Bay Paddle Tours – Booking form",
+        "template": "Name: Megan {{q1}}\nNumber of people: {{q2}} adults\nDate: {{q3}} March\nTour: {{q4}} tour\nPhone: {{q5}}\nAccommodation: {{q6}} Lodge",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Lindqvist"], "maxWords": 1, "allowNumber": true,
+            "explanation": "She spells it: L-I-N-D-Q-V-I-S-T.", "evidence": "The last name is L-I-N-D-Q-V-I-S-T." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["4", "four"], "maxWords": 1, "allowNumber": true,
+            "explanation": "It was going to be five, but her brother isn't coming, so four.", "evidence": "so it'll be four of us" },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["18", "18th"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The 17th clashes with a wine tour, so she changes to Saturday the 18th.", "evidence": "Saturday the 18th is fine." },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["sunset"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The children would like the seals (morning tour) but can't get up early, so she picks the sunset tour.", "evidence": "I think we'll take the sunset tour." },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["0215507348"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Her local number, read digit by digit: 0 2 1 5 5 0 7 3 4 8.", "evidence": "the number is 0 2 1 5 5 0 7 3 4 8" },
+          { "id": "q6", "kind": "gap", "qtype": "form-completion", "answers": ["Kowhai"], "maxWords": 1, "allowNumber": true,
+            "explanation": "She spells the lodge name: K-O-W-H-A-I.", "evidence": "K-O-W-H-A-I." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "note-completion",
+        "instructions": "Questions 7–10\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Sunset kayak tour – information",
+        "template": "What to bring:\n• a warm {{q7}} (not cotton)\n• a hat and {{q8}}\nMeeting point: next to the {{q9}} at the end of the wharf\nArrive {{q10}} minutes before departure for a safety talk",
+        "items": [
+          { "id": "q7", "kind": "gap", "qtype": "note-completion", "answers": ["fleece"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Everyone needs a warm fleece; a cotton sweatshirt stays wet.", "evidence": "everyone needs to bring a warm fleece" },
+          { "id": "q8", "kind": "gap", "qtype": "note-completion", "answers": ["sunscreen"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Towels are not needed; a hat and sunscreen are, because of the reflection from the water.", "evidence": "please bring a hat and some sunscreen" },
+          { "id": "q9", "kind": "gap", "qtype": "note-completion", "answers": ["lighthouse"], "maxWords": 1, "allowNumber": true,
+            "explanation": "They meet next to the lighthouse, not at the office on Beach Road or the café.", "evidence": "We meet right next to the lighthouse." },
+          { "id": "q10", "kind": "gap", "qtype": "note-completion", "answers": ["20", "twenty"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The website's ten minutes is out of date; it is now twenty minutes.", "evidence": "arrive twenty minutes before departure" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "ielts-l-m3-p2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "part": 2,
+    "title": "The Westbrook Repair Café",
+    "context": "You will hear the founder of a community repair café talking to people who are interested in volunteering.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Joanne", "role": "Founder of the repair café", "gender": "f", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi everyone, and thanks for coming along to this information evening. I'm Joanne, and I set up the Westbrook Repair Café about four years ago. For anyone who hasn't been to one of our sessions, the idea is simple. Once a month, people bring in things that are broken, a toaster, a jacket with a torn zip, a wobbly chair, and our volunteers try to fix them, for free." },
+        { "s": "a", "t": "People often assume I started it for environmental reasons, and of course keeping things out of landfill matters a great deal. And yes, visitors do pick up a few repair skills along the way. But to be honest, the real reason was more personal. I'd just moved here and didn't know a soul, and I wanted a way for neighbours to get together and actually talk to each other." },
+        { "s": "a", "t": "Our first sessions were in the library, but we ran out of room very quickly. The community centre offered us a space, but only on weekday mornings, which didn't suit most people. So for the last two years we've been in the scout hall on Mill Road, and that works really well." },
+        { "s": "a", "t": "One question we get a lot is about spare parts. We don't keep a stock of parts, because there are simply too many different kinds. So if your item needs a new part, the volunteer will tell you exactly what to get, and you buy it yourself and bring it back to the next session. We never order parts for people, and volunteers don't handle any money." },
+        { "s": "a", "t": "What's our biggest challenge? Well, you might think it's finding volunteers, but we're actually very lucky there. And people very rarely bring anything unsafe. No, the real problem is the queues. Lots of visitors turn up the minute we open, and some of them end up waiting for two hours or more. We're still working on a solution to that." },
+        { "s": "a", "t": "Now, let me tell you a bit about each of our repair tables, so you can think about where you'd like to help." },
+        { "s": "a", "t": "The electrical table is where it all began. On our very first day it was the only table we had, just me and a retired electrician with a box of screwdrivers. People expect a long wait for electrical repairs, but in fact most jobs there take less than twenty minutes." },
+        { "s": "a", "t": "The bicycle table has always been squeezed into a corner of the main hall, and bikes take up a lot of space. So from next month it'll be moving out into the covered yard at the back of the building, where there's much more room." },
+        { "s": "a", "t": "At the clothing table, the volunteers don't just mend things for you. They'll sit you down at a sewing machine and show you how to do the repair yourself, so next time you won't need us. It's become one of our most popular tables." },
+        { "s": "a", "t": "The furniture table is a bit different. Because chairs and tables are so big and awkward to carry, we can only take furniture that has been booked in beforehand, through our website. Please don't turn up with a sofa on the day." },
+        { "s": "a", "t": "Then there's the jewellery table. It's run by a lovely volunteer called Pam, who has to leave at midday to look after her grandchildren, so that table finishes an hour before everything else." },
+        { "s": "a", "t": "And finally, the computer table. People bring in laptops and tablets, and demand has grown enormously. At the moment we only have one volunteer there, so if you know anything about computers, we'd love to hear from you, because we urgently need at least two more." },
+        { "s": "a", "t": "Right, if you'd like to sign up, there are forms on the table by the door. Let's have a short break and then I'll answer your questions." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 11–14\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q11", "kind": "mcq", "qtype": "mcq", "prompt": "Why did Joanne start the repair café?",
+            "options": ["to reduce the amount of waste going to landfill", "to teach people practical skills", "to help local people meet each other"], "answer": 2,
+            "explanation": "She admits environmental reasons and skills matter, but the real reason was to help neighbours get together.",
+            "evidence": "I wanted a way for neighbours to get together and actually talk to each other",
+            "optionNotes": ["Important, but what people 'assume'.", "A side benefit only.", "Correct: 'the real reason'."] },
+          { "id": "q12", "kind": "mcq", "qtype": "mcq", "prompt": "Where are the repair sessions held now?",
+            "options": ["in the library", "in the community centre", "in the scout hall"], "answer": 2,
+            "explanation": "They started in the library, rejected the community centre, and have used the scout hall for two years.",
+            "evidence": "for the last two years we've been in the scout hall on Mill Road",
+            "optionNotes": ["The first venue, but it was too small.", "Only available on weekday mornings, so rejected.", "Correct."] },
+          { "id": "q13", "kind": "mcq", "qtype": "mcq", "prompt": "If an item needs a new part, visitors must",
+            "options": ["buy the part themselves and bring it back.", "pay the volunteer for the part.", "order the part through the café."], "answer": 0,
+            "explanation": "The café holds no parts; the visitor buys the part and brings it to the next session. Volunteers handle no money and never order parts.",
+            "evidence": "you buy it yourself and bring it back to the next session",
+            "optionNotes": ["Correct.", "Volunteers don't handle any money.", "They never order parts for people."] },
+          { "id": "q14", "kind": "mcq", "qtype": "mcq", "prompt": "According to Joanne, the café's biggest problem is",
+            "options": ["a shortage of volunteers.", "people waiting a long time.", "people bringing unsafe items."], "answer": 1,
+            "explanation": "Volunteers are plentiful in general and unsafe items are rare; the real problem is queues.",
+            "evidence": "the real problem is the queues",
+            "optionNotes": ["'We're actually very lucky there.'", "Correct.", "'Very rarely'."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching",
+        "instructions": "Questions 15–20\nWhat does Joanne say about each repair table?\nChoose SIX answers from the box and write the correct letter, A–H, next to Questions 15–20.",
+        "options": [
+          { "key": "A", "text": "only accepts items booked in advance" },
+          { "key": "B", "text": "needs more volunteers" },
+          { "key": "C", "text": "closes earlier than the others" },
+          { "key": "D", "text": "usually has the longest wait" },
+          { "key": "E", "text": "teaches visitors to do repairs" },
+          { "key": "F", "text": "will soon be in a different location" },
+          { "key": "G", "text": "was the café's first table" },
+          { "key": "H", "text": "charges a small fee" }
+        ],
+        "items": [
+          { "id": "q15", "kind": "match", "qtype": "matching", "prompt": "Electrical", "answer": "G",
+            "explanation": "It was the only table on the first day. A long wait (D) is what people expect, but jobs actually take under twenty minutes.",
+            "evidence": "The electrical table is where it all began." },
+          { "id": "q16", "kind": "match", "qtype": "matching", "prompt": "Bicycles", "answer": "F",
+            "explanation": "It is moving from the main hall to the covered yard next month.",
+            "evidence": "from next month it'll be moving out into the covered yard" },
+          { "id": "q17", "kind": "match", "qtype": "matching", "prompt": "Clothing", "answer": "E",
+            "explanation": "Volunteers show visitors how to do the repair themselves.",
+            "evidence": "show you how to do the repair yourself" },
+          { "id": "q18", "kind": "match", "qtype": "matching", "prompt": "Furniture", "answer": "A",
+            "explanation": "Furniture must be booked in beforehand through the website.",
+            "evidence": "we can only take furniture that has been booked in beforehand" },
+          { "id": "q19", "kind": "match", "qtype": "matching", "prompt": "Jewellery", "answer": "C",
+            "explanation": "Pam leaves at midday, so the table finishes an hour before the others.",
+            "evidence": "that table finishes an hour before everything else" },
+          { "id": "q20", "kind": "match", "qtype": "matching", "prompt": "Computers", "answer": "B",
+            "explanation": "There is only one volunteer and they urgently need two more. Repairs are free everywhere, so H never applies.",
+            "evidence": "we urgently need at least two more" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "toefl-disc-09", "difficulty": "medium", "usage": "practice",
+    "course": "Economics",
+    "professor": {
+      "name": "Dr. Feldman",
+      "post": "Several companies and a few governments have experimented with a four-day work week, in which employees work four days instead of five while keeping the same salary. Some trials reported that workers were happier and just as productive, while critics argue that the model cannot work in many industries, such as healthcare or retail, and may increase costs. Do you think a four-day work week should become the standard for most workers? Explain why or why not."
+    },
+    "students": [
+      {
+        "name": "Olivia",
+        "post": "I think it should become the standard. People who have more time to rest and spend with their families are healthier and less stressed. When employees are happier, they are more focused at work, so companies don't really lose anything. It's a win for everyone."
+      },
+      {
+        "name": "Ben",
+        "post": "It sounds nice, but I don't think it's realistic for most jobs. Hospitals, supermarkets, and public transportation need people every day. If workers only work four days, these employers would have to hire more staff, which would raise prices for everyone."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I don't think the four-day week should become the standard for everyone yet, but I believe it should be the standard in office jobs, where results are easier to measure than hours. Ben is right about hospitals and supermarkets, but he treats all jobs as if they worked the same way. In many offices, a large part of the day is lost in unnecessary meetings and emails, and a shorter week forces teams to cut them.\n\nMy father's accounting firm tested this last year. Before the trial, staff had an average of eleven hours of meetings per week. To finish their work in four days, the managers reduced that to about five hours, and the firm met all of its deadlines. Interestingly, several employees said the biggest benefit was not the extra day off but the more efficient way of working.\n\nSo instead of one rule for everybody, I would introduce the four-day week first where it clearly works.",
+        "commentary": "Nivel 5: postura matizada y clara, con una distinción nueva (trabajos medibles por resultados frente a por horas) que responde a Ben sin limitarse a contradecirle y va más allá del argumento de bienestar de Olivia. El ejemplo de la empresa incluye datos y un detalle revelador. Buena cohesión y vocabulario preciso. Unas 165 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Olivia because people need more time for rest. Working five days is too much and people are tired. With four days they can do sports and stay with family. Ben say hospitals need workers every day, but they can change the schedules. I think four days is better for the health and also for the companies.",
+        "commentary": "Nivel 3: opinión clara, pero repite el argumento de Olivia y responde a Ben con una solución vaga («they can change the schedules») que no tiene en cuenta el coste que él menciona. No hay ejemplo concreto. Errores: «Ben say», «stay with family», «for the health». Unas 60 palabras: insuficiente para la tarea."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-10", "difficulty": "easy", "usage": "practice",
+    "course": "History Education",
+    "professor": {
+      "name": "Professor Walsh",
+      "post": "History teachers have limited time, so they must make difficult choices about what to include in their courses. Some educators believe secondary school students should focus mainly on the history of their own country or region, since it helps them understand the society they live in. Others argue that, in a globalized world, students need a broader understanding of world history and other cultures. In your opinion, which should schools emphasize more: national history or world history? Explain your choice."
+    },
+    "students": [
+      {
+        "name": "Hannah",
+        "post": "I think national history is more important. Students need to understand how their own government and institutions developed so they can participate as citizens. If you don't know the history of your country, it's difficult to understand current political debates or to vote responsibly."
+      },
+      {
+        "name": "Diego",
+        "post": "I would choose world history. Today we buy products from all over the world, work with people from different countries, and face global problems like climate change. Understanding other cultures helps students avoid stereotypes and become more open-minded. National history is important, but it only tells part of the story."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I would emphasize world history, but not for the same reason as Diego. In my opinion, the main advantage is that it helps students understand their own country better. National history taught in isolation often looks like a series of unique events, but many of them were actually part of larger global movements.\n\nFor example, in my history class we studied the industrial development of my country as a purely local story about our inventors and factories. Only later, at university, did I learn that the same changes were happening at the same time in many other places, driven by trade and new technologies that crossed borders. Seeing the bigger picture made the national story much easier to understand and much less of a list of names and dates.\n\nSo I partly agree with Hannah that citizens need to understand their own society, but I think the best way to achieve this is through a world history perspective.",
+        "commentary": "Nivel 5: elige postura y aporta un argumento original que, además, enlaza las dos opiniones (la historia mundial ayuda a entender la nacional). El ejemplo personal es claro y relevante, y la conclusión responde a Hannah con matices. Buena organización y estructuras variadas, incluida la inversión «Only later… did I learn». Unas 160 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I think world history is more important, like Diego said. The world is very connected now. Students need to know other cultures and other countries. National history is important too but students already know it from the family and the TV. So schools should teach more world history.",
+        "commentary": "Nivel 3: opinión clara, pero el razonamiento repite la idea de Diego, y el argumento propio (los alumnos ya conocen la historia nacional por la familia y la televisión) es dudoso y no se desarrolla. No hay ningún ejemplo. Vocabulario básico y repetitivo; artículos innecesarios («the family», «the TV»). Unas 50 palabras: muy breve."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-11", "difficulty": "medium", "usage": "practice",
+    "course": "Media Studies",
+    "professor": {
+      "name": "Dr. Chen",
+      "post": "As advertising revenue has declined, many newspapers and news websites have introduced paywalls, meaning readers must pay a subscription to access most articles. News organizations argue that quality journalism is expensive and that readers should pay for it. However, critics worry that paywalls limit access to reliable information, especially for people who cannot afford subscriptions, and push readers toward free sources that may be less trustworthy. Should news organizations put their content behind paywalls? Give reasons for your answer."
+    },
+    "students": [
+      {
+        "name": "Grace",
+        "post": "I support paywalls. Investigative reporting can take months and involve lawyers, travel, and research. If people expect everything to be free, newspapers will have to cut staff, and the quality of news will drop. We pay for music and movies, so why not for journalism?"
+      },
+      {
+        "name": "Ahmed",
+        "post": "I understand the financial problem, but I think paywalls are dangerous for democracy. When the best information is only available to people who pay, everyone else gets their news from social media, where false stories spread easily. Important news should be available to everyone."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I think paywalls are necessary, but news organizations should make an exception for information that people need to stay safe or to participate in public life. Grace explains why journalism costs money, and Ahmed explains the risk to democracy, but I believe a flexible model can address both concerns.\n\nSome newspapers already do this well. During a major flood in my region two years ago, our local paper removed its paywall from all emergency coverage, including evacuation routes and shelter locations. Its subscriptions actually increased afterwards, because many readers saw how useful its reporting was and decided to support it. Similarly, a few papers offer free access to election coverage in the weeks before a vote.\n\nIn addition, offering discounted subscriptions for students and low-income readers would reduce the inequality Ahmed is worried about. In this way, newspapers can protect their income without leaving anyone uninformed when it matters most.",
+        "commentary": "Nivel 5: postura clara con un modelo intermedio bien definido (muro de pago con excepciones), que integra los argumentos de ambos compañeros en lugar de repetirlos. El ejemplo de la inundación es concreto y muestra un resultado inesperado. Añade una segunda medida que responde directamente a Ahmed. Cohesión excelente y vocabulario preciso. Unas 150 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I don't agree with paywalls. Many people don't have money to pay for the news. Like Ahmed said, they will read social media and there is a lot of fake news there. The information must be free for everybody. Newspapers can find money with other ways, for example advertising. So paywalls are not a good idea.",
+        "commentary": "Nivel 3: opinión clara, pero repite el argumento de Ahmed y la alternativa propuesta (publicidad) ignora el dato del profesor de que los ingresos publicitarios han caído. No hay ejemplo ni desarrollo. Errores: «with other ways» (debería ser «in other ways»), «The information must be free». Unas 60 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-12", "difficulty": "hard", "usage": "practice",
+    "course": "Environmental Policy",
+    "professor": {
+      "name": "Professor Lindgren",
+      "post": "When people discuss climate change, they often disagree about where responsibility lies. Some argue that real progress depends on individual choices, such as eating less meat, flying less, and using public transportation. Others believe individual actions make almost no difference compared with the decisions of governments and large corporations, and that people should focus on pressuring them instead. Which do you think is more important for addressing climate change: changes in individual behavior or government regulation? Explain your view."
+    },
+    "students": [
+      {
+        "name": "Ella",
+        "post": "Government regulation is far more important. A single law that sets emission limits for power plants can reduce more pollution than millions of people recycling. Companies will not change unless they are required to, and individuals simply don't have that kind of power."
+      },
+      {
+        "name": "Victor",
+        "post": "I think individual behavior matters more than people believe. If millions of consumers stop buying certain products, companies will change what they sell. Also, governments in democracies respond to what voters want, so change has to start with individuals. Waiting for politicians to act first is just an excuse."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I believe government regulation is more important, but I disagree with the idea that individual behavior is irrelevant, because individual actions are often what make regulation politically possible. Ella and Victor present these as competing options, yet in practice they reinforce each other.\n\nConsider the case of electric cars in Norway. In the beginning, only a small group of environmentally committed buyers chose them, despite high prices and few charging stations. However, their visible presence on the roads helped convince politicians that there was public support for stronger policies. The government then introduced tax exemptions and free parking for electric vehicles, and today the vast majority of new cars sold there are electric. The early adopters did not reduce emissions much on their own, but they changed what seemed normal and politically acceptable.\n\nTherefore, the most important role of individual choices is not their direct impact, which Ella rightly says is small, but their ability to create the conditions for effective laws.",
+        "commentary": "Nivel 5 (nota máxima de la escala 0–5): respuesta sofisticada. Elige postura pero rechaza la falsa dicotomía con un argumento nuevo (las acciones individuales hacen viable la regulación), distinto tanto del de Ella como del de Victor. El ejemplo de Noruega es pertinente y se analiza, no solo se menciona. Conclusión que retoma a Ella con precisión. Lenguaje académico rico («reinforce each other», «early adopters», «politically acceptable») y sin errores."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Ella. The governments and the big companies make the most pollution, not the normal people. If I don't use my car, it is nothing for the planet. The government must make laws for the companies. But Victor is right too, people can buy different products. Both are important but the government is more.",
+        "commentary": "Nivel 3: la postura existe pero se diluye al final («Both are important but the government is more»), y los argumentos resumen los de los dos compañeros sin aportar nada nuevo. No hay ejemplo concreto. La frase final es gramaticalmente incompleta («the government is more»). Vocabulario limitado («normal people», «make pollution»). Unas 60 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-13", "difficulty": "medium", "usage": "practice",
+    "course": "Anthropology",
+    "professor": {
+      "name": "Dr. Mensah",
+      "post": "International tourism has grown rapidly in recent decades, and many communities around the world now depend on visitors for their income. Some anthropologists argue that tourism helps preserve local traditions, because visitors are interested in authentic crafts, music, and festivals. Others warn that tourism turns culture into a product, changing traditions to satisfy visitors and making places look the same. Overall, do you think tourism helps or harms local cultures? Support your answer with reasons and examples."
+    },
+    "students": [
+      {
+        "name": "Clara",
+        "post": "I think tourism mostly helps. In many villages, young people were leaving traditional crafts because they couldn't earn a living from them. When tourists started buying handmade products, these crafts became profitable again, and young people had a reason to learn them."
+      },
+      {
+        "name": "Ravi",
+        "post": "I believe tourism does more harm. When a festival becomes a tourist attraction, it often gets shorter, more commercial, and is held on the dates that suit travel agencies rather than the traditional calendar. The tradition survives on the surface, but it loses its original meaning."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "In my opinion, tourism can help local cultures, but only when the local community controls how its culture is presented. Clara's example and Ravi's example are both true; the difference between them is who makes the decisions.\n\nWhen outside companies organize tourism, they naturally design experiences that are convenient and profitable for visitors, which leads to the problems Ravi describes. By contrast, when residents run the activities themselves, they can decide what to share and what to keep private. In a mountain town I visited in Peru, a local cooperative manages all the visits to the weaving workshops. Tourists can watch and buy textiles, but certain ceremonies are not open to the public, and the cooperative uses part of its income to teach weaving to children.\n\nFor this reason, I think governments should support community-based tourism rather than large tour operators. That way, tourism provides income without taking away the meaning of the traditions.",
+        "commentary": "Nivel 5: postura clara con un criterio nuevo (quién controla el turismo) que explica por qué Clara y Ravi pueden tener razón a la vez. El ejemplo de la cooperativa es detallado y encaja con el argumento. Termina con una propuesta concreta. Conectores eficaces («By contrast», «For this reason») y vocabulario adecuado. Unas 160 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I think tourism helps the local cultures. Tourists bring money and the people can have jobs. Also tourists learn about other cultures and this is very good. Ravi say the festivals change but I think it is normal, everything change. In my country there are many tourists and it is good for the economy.",
+        "commentary": "Nivel 3: opinión clara, pero se desvía hacia la economía y el empleo en lugar de centrarse en la cultura local, que es la pregunta. La réplica a Ravi es superficial («everything change») y el ejemplo del propio país es demasiado vago. Errores de concordancia («Ravi say», «everything change»). Unas 60 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-14", "difficulty": "hard", "usage": "practice",
+    "course": "Computer Science and Ethics",
+    "professor": {
+      "name": "Professor Hale",
+      "post": "AI writing and coding assistants can now produce essays, summaries, and computer programs in seconds. Universities are divided on how to respond. Some have banned these tools in assignments, treating their use as a form of cheating. Others allow or even encourage students to use them, as long as they explain how they used them. Should universities allow students to use AI tools when completing assignments? Explain your opinion and consider what the purpose of an assignment really is."
+    },
+    "students": [
+      {
+        "name": "Jacob",
+        "post": "Universities should allow AI tools. Students will use them in their future jobs, so they need to learn how to use them well. Banning them is also unrealistic, because it's very hard to prove that a student used AI. It's better to teach responsible use."
+      },
+      {
+        "name": "Maria",
+        "post": "I think AI tools should not be allowed in most assignments. The point of writing an essay is to learn how to organize your own thoughts. If an AI does the thinking for you, you get a grade, but you don't develop the skill the assignment was designed to build."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I think the answer should depend on the purpose of each assignment, so universities should neither ban AI tools completely nor allow them everywhere. Maria is right that some tasks exist to build a skill, while Jacob is right that students need to learn to use these tools. The solution is to tell students clearly which type of assignment they are doing.\n\nFor example, in my programming course this semester, the professor divides assignments into two categories. In the \"foundation\" assignments, we must write the code ourselves, often in class, because the goal is to understand basic logic. In the \"project\" assignments, we may use an AI assistant, but we have to submit a short report explaining what it generated, what errors we found, and how we fixed them. Interestingly, the second type is not easier, because checking the AI's code requires the very skills we practiced in the first.\n\nThis approach protects learning while still preparing students for the real world.",
+        "commentary": "Nivel 5: responde a la indicación del profesor sobre el propósito de las tareas con una propuesta clara (decidir según el objetivo de cada tarea) que integra a Jacob y Maria. El ejemplo del curso de programación es concreto y añade una observación perspicaz (verificar el código exige las habilidades básicas). Muy bien organizado y con lenguaje preciso. Unas 160 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I think universities should allow AI because is the future. All the companies use AI now. Like Jacob said, it is impossible to know if a student use AI. Maria think students don't learn, but they can learn from the AI too. So the universities need to accept the technology and not be against it.",
+        "commentary": "Nivel 3: opinión clara, pero los dos argumentos proceden de Jacob y la respuesta a Maria es una afirmación sin explicar. No reflexiona sobre el propósito de las tareas, como pedía el profesor. Sin ejemplo concreto. Errores: «because is the future» (falta sujeto), «a student use», «Maria think». Unas 60 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-15", "difficulty": "medium", "usage": "practice",
+    "course": "Architecture and Urban Design",
+    "professor": {
+      "name": "Dr. Kowalski",
+      "post": "Many growing cities face a shortage of affordable housing. At the same time, their centers contain old buildings that are expensive to maintain and often cannot hold many residents. Developers frequently propose replacing these buildings with modern apartment towers, while heritage groups argue that historic buildings give a city its identity and should be protected. When there is a housing shortage, should cities preserve old buildings or allow them to be replaced with new housing? Explain your position."
+    },
+    "students": [
+      {
+        "name": "Sophie",
+        "post": "Cities should protect their historic buildings. Once they are destroyed, they can never be replaced. These buildings attract tourists, make neighborhoods attractive, and connect people with their history. There are other places where new housing can be built, such as empty land on the edge of the city."
+      },
+      {
+        "name": "Kenji",
+        "post": "Housing people is more important than keeping old buildings. If families can't afford to live in the city, they have to move far away and spend hours commuting. A beautiful old building with only a few apartments is a luxury that growing cities can't afford."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I don't think cities have to choose between the two, because many old buildings can be converted into housing instead of being demolished. Sophie wants to protect history and Kenji wants more homes, but adaptive reuse can achieve both goals at once.\n\nIn my city, for example, an abandoned textile factory from the 1900s was empty for almost twenty years because people disagreed about whether to tear it down. Eventually, the city allowed a developer to keep the brick walls and large windows but divide the interior into ninety apartments, a third of them at reduced rents. The building is now one of the most popular places to live, and it still reminds people of the neighborhood's industrial past.\n\nI also disagree slightly with Sophie's suggestion to build on the edge of the city. As Kenji points out, that would force people into long commutes. Converting buildings in the center keeps residents close to jobs and public transportation.",
+        "commentary": "Nivel 5: plantea una tercera vía (rehabilitación para vivienda) que resuelve la tensión entre los compañeros en lugar de repetir a uno. El ejemplo de la fábrica es detallado y realista (noventa viviendas, un tercio asequibles). Además rebate con criterio una propuesta de Sophie apoyándose en Kenji. Buena organización y vocabulario específico («adaptive reuse», «tear down»). Unas 165 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Kenji. People need houses and this is the most important. The old buildings are beautiful but they are not useful, many of them are empty. The city can build big buildings with many apartments for the families. Sophie say tourists like old buildings but the people who live in the city are more important than tourists.",
+        "commentary": "Nivel 3: opinión clara, pero repite el argumento de Kenji y reduce el de Sophie al turismo, ignorando el valor de identidad e historia. Afirmaciones sin apoyo («many of them are empty») y ningún ejemplo concreto. Errores: «Sophie say», «this is the most important» (mejor «this is what matters most»). Unas 65 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-16", "difficulty": "hard", "usage": "practice",
+    "course": "Developmental Psychology",
+    "professor": {
+      "name": "Professor Ibarra",
+      "post": "Some young people decide very early what they want to do with their lives. They focus intensely on one subject, sport, or instrument from childhood and often reach a high level quickly. Others try many different activities and fields before choosing a specialty, sometimes not until their mid-twenties. Psychologists disagree about which path leads to greater success and satisfaction. Is it better for young people to specialize early or to explore many different fields first? Use reasons and examples to support your view."
+    },
+    "students": [
+      {
+        "name": "Anna",
+        "post": "I think early specialization is better. Becoming an expert takes thousands of hours of practice, and starting early gives you a big advantage. Most professional musicians and athletes started training as young children. If you wait too long, it's very difficult to catch up."
+      },
+      {
+        "name": "Tyler",
+        "post": "I prefer exploring first. Most teenagers don't really know themselves yet, so it's risky to commit to one path. Trying different things helps you discover what you actually enjoy. Otherwise, you might spend years on something you later realize you don't like."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I believe exploring different fields is better for most people, and my main reason is different from Tyler's. Beyond helping people discover what they enjoy, exploration gives them skills and ideas that they can later combine in original ways. Anna's point about music and sports is valid, but those are fields with fixed rules. In most careers, the problems change constantly, and people with broad experience often find solutions that specialists miss.\n\nMy older brother is a good example. He studied biology, then worked for two years at a video game company before becoming a researcher. Today he designs educational games that teach patients how to manage diabetes, a project his hospital considers very successful. Neither a pure biologist nor a pure game designer would probably have come up with that idea.\n\nSo while early specialization may be necessary for a small number of activities, for most young people, a period of exploration is an investment rather than a waste of time.",
+        "commentary": "Nivel 5: postura clara con una razón nueva (la exploración permite combinar conocimientos de forma original), distinta de la de Tyler, y una respuesta razonada a Anna (sus ejemplos son campos de reglas fijas). El ejemplo del hermano ilustra perfectamente la idea. Conclusión matizada y lenguaje variado («come up with», «an investment rather than a waste»). Unas 165 palabras."
+      },
+      {
+        "level": "3",
+        "text": "In my opinion is better to explore many things. When you are young you don't know what you like, like Tyler said. I changed my mind many times. If you choose too early maybe you will be unhappy. Anna say the athletes start young but not everybody want to be athlete. So exploring is better.",
+        "commentary": "Nivel 3: opinión clara, pero el argumento es el mismo que el de Tyler y la mención personal («I changed my mind many times») no se desarrolla como ejemplo. La réplica a Anna es superficial. Errores: «In my opinion is better» (falta «it»), «Anna say», «everybody want», «to be athlete». Unas 55 palabras."
+      }
+    ]
+  }
+]

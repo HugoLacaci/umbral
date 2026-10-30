@@ -1,0 +1,332 @@
+[
+  {
+    "id": "awl-10",
+    "category": "awl",
+    "sublist": 10,
+    "title": "AWL Sublist 10",
+    "titleEs": "AWL · Sublista 10",
+    "description": "Las 30 palabras de la sublista 10 de la Academic Word List, con definición, traducción, ejemplo académico, colocaciones y familia léxica.",
+    "cards": [
+      {
+        "id": "awl-adjacent",
+        "term": "adjacent",
+        "pos": "adjective",
+        "definition": "Next to or very near something else.",
+        "es": "adyacente, contiguo, colindante",
+        "example": "The new library will be built on the land adjacent to the main campus.",
+        "collocations": ["adjacent to", "adjacent rooms", "adjacent areas", "immediately adjacent"],
+        "family": ["adjacency"],
+        "warning": "Preposición: \"adjacent TO\". Muy útil en IELTS Task 1 de mapas."
+      },
+      {
+        "id": "awl-albeit",
+        "term": "albeit",
+        "pos": "conjunction",
+        "definition": "Although; used to add a fact that slightly reduces the force of what was said.",
+        "es": "aunque, si bien",
+        "example": "Unemployment fell in 2023, albeit at a slower rate than in previous years.",
+        "collocations": ["albeit slowly", "albeit briefly", "albeit at a slower rate", "albeit on a small scale"],
+        "family": [],
+        "warning": "Va seguido de un adjetivo, adverbio o frase corta, no de una oración completa: \"albeit slowly\", no \"albeit it was slow\"."
+      },
+      {
+        "id": "awl-assemble",
+        "term": "assemble",
+        "pos": "verb",
+        "definition": "To gather people or things together in one place; to fit parts together.",
+        "es": "reunir(se); montar, ensamblar",
+        "example": "The researchers assembled a large database of hospital records.",
+        "collocations": ["assemble data", "assemble a team", "assembly line", "general assembly"],
+        "family": ["assembly", "disassemble"]
+      },
+      {
+        "id": "awl-collapse",
+        "term": "collapse",
+        "pos": "verb / noun",
+        "definition": "To fall down suddenly; to fail or stop working completely.",
+        "es": "derrumbarse, hundirse; colapso",
+        "example": "The collapse of the fishing industry left many coastal towns without work.",
+        "collocations": ["economic collapse", "on the verge of collapse", "collapse of", "near collapse"],
+        "family": ["collapsible", "collapsed"],
+        "warning": "Un \"colapso\" de tráfico es \"a traffic jam\" o \"gridlock\", no \"collapse\"."
+      },
+      {
+        "id": "awl-colleague",
+        "term": "colleague",
+        "pos": "noun",
+        "definition": "A person you work with, especially in a profession or organisation.",
+        "es": "colega, compañero de trabajo",
+        "example": "Darwin discussed his early ideas with only a few trusted colleagues.",
+        "collocations": ["work colleague", "former colleague", "colleagues and friends", "consult colleagues"],
+        "family": ["collegial", "collegiality"],
+        "warning": "\"Colega\" como amigo informal es \"mate\" o \"buddy\", no \"colleague\"."
+      },
+      {
+        "id": "awl-compile",
+        "term": "compile",
+        "pos": "verb",
+        "definition": "To collect information from different sources and arrange it in a list, book or report.",
+        "es": "recopilar, compilar, elaborar",
+        "example": "The data were compiled from national census records.",
+        "collocations": ["compile a list", "compile data", "compile a report", "compiled from"],
+        "family": ["compilation", "compiler"]
+      },
+      {
+        "id": "awl-conceive",
+        "term": "conceive",
+        "pos": "verb",
+        "definition": "To form an idea or plan in your mind; to imagine; to become pregnant.",
+        "es": "concebir, idear, imaginar",
+        "example": "The project was originally conceived as a small local initiative.",
+        "collocations": ["conceive of", "conceive a plan", "originally conceived", "difficult to conceive"],
+        "family": ["conception", "concept", "conceivable", "inconceivable"]
+      },
+      {
+        "id": "awl-convince",
+        "term": "convince",
+        "pos": "verb",
+        "definition": "To make someone believe something is true or persuade them to do something.",
+        "es": "convencer",
+        "example": "The minister failed to convince voters that the tax rise was necessary.",
+        "collocations": ["convince someone that", "convincing evidence", "fully convinced", "convince someone to"],
+        "family": ["convinced", "convincing", "convincingly", "unconvincing"]
+      },
+      {
+        "id": "awl-depress",
+        "term": "depress",
+        "pos": "verb",
+        "definition": "To make someone feel sad; to reduce the level or value of something, such as prices.",
+        "es": "deprimir; reducir, hacer bajar",
+        "example": "A surplus of cheap imports depressed local wages.",
+        "collocations": ["depress prices", "depress demand", "economic depression", "clinical depression"],
+        "family": ["depression", "depressed", "depressing", "depressive"],
+        "warning": "\"Depressed\" (persona deprimida) vs \"depressing\" (algo deprimente). \"The Great Depression\" = la Gran Depresión de 1929."
+      },
+      {
+        "id": "awl-encounter",
+        "term": "encounter",
+        "pos": "verb / noun",
+        "definition": "To experience or meet something, especially a problem or difficulty; a meeting.",
+        "es": "encontrar(se con), toparse con; encuentro",
+        "example": "International students often encounter difficulties finding accommodation.",
+        "collocations": ["encounter problems", "encounter difficulties", "encounter resistance", "a brief encounter"],
+        "family": ["encountered"],
+        "warning": "Para \"encontrar\" algo que buscas usa \"find\"; \"encounter\" es toparse con algo (normalmente un problema)."
+      },
+      {
+        "id": "awl-enormous",
+        "term": "enormous",
+        "pos": "adjective",
+        "definition": "Extremely large in size or amount.",
+        "es": "enorme",
+        "example": "The internet has had an enormous impact on how students learn.",
+        "collocations": ["enormous impact", "enormous amount of", "enormous pressure", "enormously popular"],
+        "family": ["enormously", "enormity"],
+        "warning": "\"Enormity\" significa \"gravedad, atrocidad\", no solo \"tamaño enorme\"."
+      },
+      {
+        "id": "awl-forthcoming",
+        "term": "forthcoming",
+        "pos": "adjective",
+        "definition": "Happening soon; available when needed; willing to give information.",
+        "es": "próximo, venidero; disponible; comunicativo",
+        "example": "Details of the scheme will be published in a forthcoming report.",
+        "collocations": ["forthcoming election", "forthcoming publication", "not forthcoming", "forthcoming events"],
+        "family": [],
+        "warning": "\"Funding was not forthcoming\" = no llegó la financiación."
+      },
+      {
+        "id": "awl-incline",
+        "term": "incline",
+        "pos": "verb / noun",
+        "definition": "To tend to think or behave in a particular way; a slope.",
+        "es": "inclinar(se), tender a; pendiente",
+        "example": "I am inclined to agree that university education should be free.",
+        "collocations": ["be inclined to", "inclined to agree", "steep incline", "inclination to"],
+        "family": ["inclination", "inclined", "disinclined"],
+        "warning": "\"I'm inclined to think/agree\" es una forma elegante de dar tu opinión con cautela."
+      },
+      {
+        "id": "awl-integrity",
+        "term": "integrity",
+        "pos": "noun",
+        "definition": "The quality of being honest and having strong moral principles; being whole and undamaged.",
+        "es": "integridad, honradez",
+        "example": "Plagiarism undermines the integrity of academic research.",
+        "collocations": ["academic integrity", "personal integrity", "structural integrity", "maintain integrity"],
+        "family": ["integral", "integrate"]
+      },
+      {
+        "id": "awl-intrinsic",
+        "term": "intrinsic",
+        "pos": "adjective",
+        "definition": "Belonging naturally to something as part of its basic nature.",
+        "es": "intrínseco, inherente",
+        "example": "Students with intrinsic motivation tend to learn more deeply than those seeking rewards.",
+        "collocations": ["intrinsic value", "intrinsic motivation", "intrinsic to", "intrinsically linked"],
+        "family": ["intrinsically"],
+        "warning": "Su opuesto es \"extrinsic\" (extrínseco)."
+      },
+      {
+        "id": "awl-invoke",
+        "term": "invoke",
+        "pos": "verb",
+        "definition": "To use a law, principle or argument to support a decision; to mention as authority.",
+        "es": "invocar, recurrir a, apelar a",
+        "example": "The government invoked national security to justify the new surveillance law.",
+        "collocations": ["invoke a law", "invoke a principle", "invoke the right to", "frequently invoked"],
+        "family": ["invocation"]
+      },
+      {
+        "id": "awl-levy",
+        "term": "levy",
+        "pos": "noun / verb",
+        "definition": "An official tax or charge; to officially demand payment of a tax.",
+        "es": "impuesto, gravamen; gravar, imponer",
+        "example": "A levy on sugary drinks was introduced to fund school sports programmes.",
+        "collocations": ["levy a tax", "levy on", "impose a levy", "sugar levy"],
+        "family": ["levied"]
+      },
+      {
+        "id": "awl-likewise",
+        "term": "likewise",
+        "pos": "adverb",
+        "definition": "In the same way; also.",
+        "es": "del mismo modo, asimismo",
+        "example": "Germany invested heavily in solar energy; likewise, Spain expanded its wind farms.",
+        "collocations": ["Likewise, ...", "do likewise", "and likewise"],
+        "family": ["like", "alike"],
+        "warning": "Conector de comparación/semejanza; alterna con \"Similarly\"."
+      },
+      {
+        "id": "awl-nonetheless",
+        "term": "nonetheless",
+        "pos": "adverb",
+        "definition": "Despite what has just been said; nevertheless.",
+        "es": "no obstante, aun así",
+        "example": "The plan is expensive. Nonetheless, it offers the best long-term solution.",
+        "collocations": ["Nonetheless, ...", "but nonetheless", "nonetheless important"],
+        "family": [],
+        "warning": "Se escribe en una sola palabra: \"nonetheless\", no \"none the less\" (forma antigua)."
+      },
+      {
+        "id": "awl-notwithstanding",
+        "term": "notwithstanding",
+        "pos": "preposition / adverb",
+        "definition": "Despite something (very formal).",
+        "es": "a pesar de, no obstante",
+        "example": "Notwithstanding its high cost, the scheme has been widely praised.",
+        "collocations": ["notwithstanding the fact that", "notwithstanding these limitations", "these concerns notwithstanding"],
+        "family": [],
+        "warning": "Muy formal: puede ir antes o después del sustantivo (\"these problems notwithstanding\"). No lo fuerces: \"despite\" suele sonar más natural."
+      },
+      {
+        "id": "awl-odd",
+        "term": "odd",
+        "pos": "adjective",
+        "definition": "Strange or unusual; (of numbers) not divisible by two; occasional.",
+        "es": "extraño, raro; impar; ocasional",
+        "example": "It seems odd that such an important study received so little attention.",
+        "collocations": ["odd numbers", "odds are", "against the odds", "odd jobs"],
+        "family": ["oddly", "oddity", "odds"],
+        "warning": "\"Odds\" = probabilidades: \"the odds of success\". \"Odd number\" = número impar (par = \"even\")."
+      },
+      {
+        "id": "awl-ongoing",
+        "term": "ongoing",
+        "pos": "adjective",
+        "definition": "Continuing to exist or develop; still in progress.",
+        "es": "en curso, continuo, constante",
+        "example": "There is an ongoing debate about the value of standardised testing.",
+        "collocations": ["ongoing debate", "ongoing research", "ongoing process", "ongoing support"],
+        "family": [],
+        "warning": "Suele ir delante del sustantivo (\"ongoing research\"), pero también tras \"be\": \"the investigation is ongoing\" (= sigue en curso)."
+      },
+      {
+        "id": "awl-panel",
+        "term": "panel",
+        "pos": "noun",
+        "definition": "A group of experts who discuss or judge something; a flat piece of material.",
+        "es": "comité, grupo de expertos; panel",
+        "example": "An independent panel of experts reviewed the safety data.",
+        "collocations": ["panel of experts", "solar panels", "panel discussion", "advisory panel"],
+        "family": ["panellist", "panelist (US)"]
+      },
+      {
+        "id": "awl-persist",
+        "term": "persist",
+        "pos": "verb",
+        "definition": "To continue to exist; to keep trying to do something despite difficulties.",
+        "es": "persistir, perdurar; insistir",
+        "example": "Gender pay gaps persist in almost every industry.",
+        "collocations": ["persist in + -ing", "problems persist", "persistent problem", "persist with"],
+        "family": ["persistence", "persistent", "persistently"]
+      },
+      {
+        "id": "awl-pose",
+        "term": "pose",
+        "pos": "verb",
+        "definition": "To create a problem or threat; to ask a question.",
+        "es": "plantear, suponer (un riesgo o problema)",
+        "example": "Rising sea levels pose a serious threat to low-lying islands.",
+        "collocations": ["pose a threat", "pose a risk", "pose a challenge", "pose a question"],
+        "family": ["posed"],
+        "warning": "Colocación clave para Writing: \"pose a threat/risk/challenge\" (no \"make a threat\" en este sentido)."
+      },
+      {
+        "id": "awl-reluctance",
+        "term": "reluctance",
+        "pos": "noun",
+        "definition": "Unwillingness to do something.",
+        "es": "reticencia, renuencia, desgana",
+        "example": "Many farmers show reluctance to adopt new technologies because of the costs.",
+        "collocations": ["reluctance to", "show reluctance", "with some reluctance", "reluctantly agree"],
+        "family": ["reluctant", "reluctantly"],
+        "warning": "Se construye con \"to + infinitive\": \"reluctant to change\"."
+      },
+      {
+        "id": "awl-so-called",
+        "term": "so-called",
+        "pos": "adjective",
+        "definition": "Used to show the name commonly given to something, sometimes when you doubt it is accurate.",
+        "es": "llamado, denominado; supuesto",
+        "example": "The so-called 'gig economy' offers flexibility but little job security.",
+        "collocations": ["the so-called", "so-called experts", "so-called gig economy"],
+        "family": [],
+        "warning": "A veces tiene matiz irónico o de duda (\"so-called experts\" = supuestos expertos)."
+      },
+      {
+        "id": "awl-straightforward",
+        "term": "straightforward",
+        "pos": "adjective",
+        "definition": "Easy to understand or do; honest and direct.",
+        "es": "sencillo, directo; franco",
+        "example": "There is no straightforward solution to the problem of traffic congestion.",
+        "collocations": ["relatively straightforward", "straightforward process", "fairly straightforward", "straightforward answer"],
+        "family": ["straightforwardly"]
+      },
+      {
+        "id": "awl-undergo",
+        "term": "undergo",
+        "pos": "verb",
+        "definition": "To experience something, especially a change or something unpleasant.",
+        "es": "experimentar, sufrir, someterse a",
+        "example": "The city centre has undergone major changes over the past twenty years.",
+        "collocations": ["undergo change", "undergo surgery", "undergo treatment", "undergo a transformation"],
+        "family": ["underwent", "undergone"],
+        "warning": "Irregular: undergo - underwent - undergone. Muy útil en IELTS Task 1 de mapas (\"the area underwent...\")."
+      },
+      {
+        "id": "awl-whereby",
+        "term": "whereby",
+        "pos": "adverb",
+        "definition": "By which; through which (used to describe a system or method).",
+        "es": "por el cual, mediante el cual",
+        "example": "The company introduced a scheme whereby employees can work from home two days a week.",
+        "collocations": ["a system whereby", "a process whereby", "an arrangement whereby", "a scheme whereby"],
+        "family": [],
+        "warning": "Sustituye a \"by which\" tras sustantivos como \"system\", \"process\" o \"scheme\"."
+      }
+    ]
+  }
+]

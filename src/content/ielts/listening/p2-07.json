@@ -1,0 +1,118 @@
+[
+  {
+    "id": "ielts-l-p2-07",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 2,
+    "title": "The new Northgate sports campus",
+    "context": "You will hear a student ambassador giving new students information about a university's new sports campus.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Alicia", "role": "Student ambassador", "gender": "f", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi everyone, and welcome to orientation week. My name's Alicia, I'm a third-year student and a sports ambassador, and I'm here to tell you about the university's brand-new sports campus at Northgate, which opened this fall." },
+        { "s": "a", "t": "So, why did the university move all its sports facilities out here? A lot of people think it was because the old fields by the river kept flooding. That certainly happened from time to time, but it wasn't the main reason. Student numbers have grown so much over the last ten years that the old site was simply too small. And by the way, the old site isn't being turned into housing, as some people have heard. It's going to become a science park." },
+        { "s": "a", "t": "Who can use the facilities? In the past, it was strictly students and staff. Now, local residents can join too, but only at certain times, on weekday mornings before twelve and on Sunday afternoons. That was part of the agreement with the city." },
+        { "s": "a", "t": "Now, membership. You might have read that it's free for first-year students. That was the original plan, but I'm afraid the university changed its mind over the summer. Student membership is sixty dollars a year, which covers everything. That's still a lot cheaper than the ten dollars a month that most private gyms in town charge." },
+        { "s": "a", "t": "Getting there is easy. There's a free shuttle bus from the main campus. The website says it runs every ten minutes, but that's wrong. It's actually every twenty minutes, so do check the timetable." },
+        { "s": "a", "t": "Okay, let's look at the map. You'll see Northgate Road running along the bottom, and the main gate is in the middle of it. From the gate, Central Avenue runs straight north through the whole campus." },
+        { "s": "a", "t": "As you walk in through the main gate, the first building on your right is the visitor center. That's where you get your membership card, so make that your first stop." },
+        { "s": "a", "t": "Opposite the visitor center, on your left as you come in, just before you reach the sports hall, is the café. Now, the printed map in your welcome pack still shows the café in the northwest corner of the campus. Please ignore that. That building is now the physiotherapy clinic." },
+        { "s": "a", "t": "The climbing wall is on the western edge of the campus, directly north of the parking lot. It's an outdoor wall, so it closes when it rains." },
+        { "s": "a", "t": "If you walk to the far end of Central Avenue, you'll come to the swimming pool, which is on the left-hand side. And if you turn right at the end of the avenue instead, you'll reach the boathouse, which sits on the western shore of the lake. The rowing club meets there every morning at six, if you're brave enough." },
+        { "s": "a", "t": "Finally, the tennis courts. They're to the east of the athletics track, between the track and the campus boundary. Don't confuse them with the area in the southeast corner. That's the bike shelter, and it's the only place you're allowed to leave a bike." },
+        { "s": "a", "t": "Right, I'll hand out the welcome packs now, and if you have any questions, just come and find me." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 11–14\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q11", "kind": "mcq", "qtype": "mcq", "prompt": "What was the main reason for moving the sports facilities?",
+            "options": ["The old fields often flooded.", "The old site was not big enough.", "The old site was sold for housing."], "answer": 1,
+            "explanation": "Flooding happened but 'wasn't the main reason'; the site was too small for the growing number of students. It will become a science park, not housing.",
+            "evidence": "the old site was simply too small",
+            "optionNotes": ["A factor, but not the main one.", "Correct.", "It will be a science park."] },
+          { "id": "q12", "kind": "mcq", "qtype": "mcq", "prompt": "Who is now allowed to use the facilities?",
+            "options": ["only students and staff", "anyone, at any time", "local residents, at certain times"], "answer": 2,
+            "explanation": "Residents can now join, but only on weekday mornings and Sunday afternoons.",
+            "evidence": "local residents can join too, but only at certain times",
+            "optionNotes": ["That was the rule in the past.", "Residents have restricted hours.", "Correct."] },
+          { "id": "q13", "kind": "mcq", "qtype": "mcq", "prompt": "How much does student membership cost?",
+            "options": ["nothing for first-year students", "$60 a year", "$10 a month"], "answer": 1,
+            "explanation": "Free membership was only the original plan; it is now $60 a year. $10 a month is what private gyms charge.",
+            "evidence": "Student membership is sixty dollars a year",
+            "optionNotes": ["The original plan, since changed.", "Correct.", "The price at private gyms."] },
+          { "id": "q14", "kind": "mcq", "qtype": "mcq", "prompt": "How often does the shuttle bus run?",
+            "options": ["every ten minutes", "every fifteen minutes", "every twenty minutes"], "answer": 2,
+            "explanation": "The website says ten minutes, but that is wrong: it is every twenty minutes.",
+            "evidence": "It's actually every twenty minutes",
+            "optionNotes": ["What the website wrongly says.", "Not mentioned.", "Correct."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "map-labelling",
+        "instructions": "Questions 15–20\nLabel the map below.\nWrite the correct letter, A–H, next to Questions 15–20.",
+        "title": "Northgate Sports Campus",
+        "options": [
+          { "key": "A", "text": "A" },
+          { "key": "B", "text": "B" },
+          { "key": "C", "text": "C" },
+          { "key": "D", "text": "D" },
+          { "key": "E", "text": "E" },
+          { "key": "F", "text": "F" },
+          { "key": "G", "text": "G" },
+          { "key": "H", "text": "H" }
+        ],
+        "diagram": {
+          "width": 600,
+          "height": 400,
+          "compass": true,
+          "shapes": [
+            { "kind": "road", "x": 0, "y": 360, "w": 600, "h": 40, "label": "Northgate Road" },
+            { "kind": "path", "x": 285, "y": 30, "w": 30, "h": 330, "label": "Central Avenue" },
+            { "kind": "label", "x": 300, "y": 352, "label": "Main gate" },
+            { "kind": "parking", "x": 20, "y": 280, "w": 120, "h": 70, "label": "Parking lot" },
+            { "kind": "water", "x": 420, "y": 15, "w": 165, "h": 95, "label": "Lake" },
+            { "kind": "building", "x": 160, "y": 145, "w": 110, "h": 85, "label": "Sports hall" },
+            { "kind": "field", "x": 330, "y": 145, "w": 150, "h": 105, "label": "Athletics track" }
+          ],
+          "markers": [
+            { "key": "A", "x": 80, "y": 215 },
+            { "key": "B", "x": 215, "y": 295 },
+            { "key": "C", "x": 375, "y": 300 },
+            { "key": "D", "x": 540, "y": 315 },
+            { "key": "E", "x": 535, "y": 195 },
+            { "key": "F", "x": 370, "y": 60 },
+            { "key": "G", "x": 220, "y": 60 },
+            { "key": "H", "x": 70, "y": 60 }
+          ]
+        },
+        "items": [
+          { "id": "q15", "kind": "match", "qtype": "map-labelling", "prompt": "Visitor center", "answer": "C",
+            "explanation": "Walking north through the main gate, 'on your right' means east of Central Avenue, next to the road.",
+            "evidence": "the first building on your right is the visitor center" },
+          { "id": "q16", "kind": "match", "qtype": "map-labelling", "prompt": "Café", "answer": "B",
+            "explanation": "Opposite the visitor center, on the left (west) before the sports hall. H is the old café location shown on the out-of-date map; it is now the physiotherapy clinic.",
+            "evidence": "on your left as you come in, just before you reach the sports hall, is the café" },
+          { "id": "q17", "kind": "match", "qtype": "map-labelling", "prompt": "Climbing wall", "answer": "A",
+            "explanation": "On the western edge, directly north of the parking lot. H is further north, in the corner.",
+            "evidence": "directly north of the parking lot" },
+          { "id": "q18", "kind": "match", "qtype": "map-labelling", "prompt": "Swimming pool", "answer": "G",
+            "explanation": "At the far (north) end of Central Avenue, on the left-hand (west) side.",
+            "evidence": "you'll come to the swimming pool, which is on the left-hand side" },
+          { "id": "q19", "kind": "match", "qtype": "map-labelling", "prompt": "Boathouse", "answer": "F",
+            "explanation": "Turn right (east) at the end of the avenue; it is on the western shore of the lake.",
+            "evidence": "the boathouse, which sits on the western shore of the lake" },
+          { "id": "q20", "kind": "match", "qtype": "map-labelling", "prompt": "Tennis courts", "answer": "E",
+            "explanation": "East of the athletics track, by the boundary. D, in the south-east corner, is the bike shelter.",
+            "evidence": "They're to the east of the athletics track" }
+        ]
+      }
+    ]
+  }
+]

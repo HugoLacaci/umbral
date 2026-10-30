@@ -1,0 +1,239 @@
+[
+  {
+    "id": "conditionals",
+    "title": "Conditionals (zero, first, second, third and mixed)",
+    "titleEs": "Oraciones condicionales (0, 1, 2, 3 y mixtas)",
+    "level": "B2",
+    "why": "Los examinadores de IELTS (Grammatical Range and Accuracy) y los evaluadores de TOEFL premian las estructuras complejas usadas con precisión. Una condicional bien construida permite especular sobre soluciones (Task 2), hipótesis en Speaking Part 3 y argumentos en la Academic Discussion. Las condicionales mixtas y la 3.ª condicional son marcadores claros de nivel 7+ / C1.",
+    "explanation": "## Los cuatro tipos básicos\n\n| Tipo | Uso | Estructura | Ejemplo |\n|---|---|---|---|\n| 0 | Verdades generales, hechos científicos | *if* + presente, presente | *If water reaches 100°C, it boils.* |\n| 1 | Situación real o probable en el futuro | *if* + presente, *will* + infinitivo | *If the government invests in transport, congestion will fall.* |\n| 2 | Hipótesis presente/futura poco probable o irreal | *if* + pasado, *would* + infinitivo | *If cities banned cars, air quality would improve.* |\n| 3 | Pasado irreal (no ocurrió) | *if* + had + participio, *would have* + participio | *If the dam had been built, the town would have survived.* |\n\n## Condicionales mixtas\n\nCombinan tiempos distintos en cada mitad:\n\n- **Pasado irreal → consecuencia presente**: *If I had studied medicine, I would be a doctor now.*\n- **Rasgo presente → consecuencia pasada**: *If she were more organised, she would have finished the report on time.*\n\n## Detalles que suben nota\n\n- Con *if* **nunca** va *will* ni *would* en la misma cláusula: ~~*If it will rain*~~ → *If it rains*.\n- En registro formal se usa *were* para todas las personas: *If the policy were changed...*\n- Alternativas a *if*: *unless* (= if not), *provided that*, *as long as*, *on condition that*, *supposing*, *otherwise*.\n- Modales en la principal: *might*, *could*, *may* matizan la probabilidad: *If taxes rose, consumption might decline.*\n- Coma: si la cláusula con *if* va primero, ponemos coma; si va segunda, normalmente no.",
+    "examples": [
+      { "en": "If governments subsidised public transport, fewer people would rely on private cars.", "note": "2.ª condicional para proponer una solución en un ensayo." },
+      { "en": "If the experiment had been repeated, the researchers would have detected the error.", "note": "3.ª condicional con pasiva." },
+      { "en": "If I had chosen a different degree, I wouldn't be living in Shanghai now.", "note": "Mixta: pasado → presente (muy útil en Speaking)." },
+      { "en": "Unless action is taken soon, many species will disappear.", "note": "Unless = if not; nunca se combina con otra negación." },
+      { "en": "Provided that students attend regularly, they will make steady progress.", "note": "Alternativa formal a if." }
+    ],
+    "mistakes": [
+      { "wrong": "If I will have time, I will study more.", "right": "If I have time, I will study more.", "why": "En español decimos «si tengo», pero el error aparece por pensar en futuro. Tras if va presente, nunca will." },
+      { "wrong": "If I would know the answer, I would tell you.", "right": "If I knew the answer, I would tell you.", "why": "Calco del condicional español mal usado. En la cláusula con if va pasado simple, no would." },
+      { "wrong": "If I would have known, I would have come.", "right": "If I had known, I would have come.", "why": "Equivale a «si hubiera sabido»: past perfect, no would have." },
+      { "wrong": "Unless you don't study, you will fail.", "right": "Unless you study, you will fail.", "why": "Unless ya es negativo (= if not); la doble negación cambia el sentido." }
+    ],
+    "exercises": [
+      { "id": "cond-ex-1", "type": "gap", "prompt": "If the temperature ___ (fall) below zero, water freezes.", "answers": ["falls"], "explanation": "Condicional 0 (hecho científico): presente simple en ambas partes.", "tags": ["conditionals"], "level": "B1" },
+      { "id": "cond-ex-2", "type": "gap", "prompt": "If more people cycled to work, the city ___ (be) less polluted.", "answers": ["would be", "'d be"], "explanation": "2.ª condicional: if + pasado, would + infinitivo.", "tags": ["conditionals"], "level": "B1" },
+      { "id": "cond-ex-3", "type": "gap", "prompt": "If the company ___ (invest) in safety, the accident would not have happened.", "answers": ["had invested", "'d invested"], "explanation": "3.ª condicional: if + past perfect.", "tags": ["conditionals"], "level": "B2" },
+      { "id": "cond-ex-4", "type": "transform", "prompt": "I didn't take the job, so I am not living in London now. → If I ...", "answers": ["If I had taken the job, I would be living in London now.", "If I had taken the job I would be living in London now", "If I'd taken the job, I'd be living in London now.", "If I had taken the job, I would live in London now.", "If I'd taken the job, I would be living in London now."], "explanation": "Mixta: condición pasada (had taken) con consecuencia presente (would be living).", "tags": ["conditionals", "mixed"], "level": "C1" },
+      { "id": "cond-ex-5", "type": "error", "prompt": "If the government will raise taxes, consumers will spend less.", "answers": ["If the government raises taxes, consumers will spend less."], "explanation": "En la cláusula con if no se usa will: presente simple (raises).", "tags": ["conditionals"], "level": "B1" },
+      { "id": "cond-ex-6", "type": "mcq", "prompt": "___ funding is increased, the project will have to be cancelled.", "options": ["Unless", "If", "Provided that", "As long as"], "answers": ["Unless"], "explanation": "El sentido es «si NO se aumenta la financiación»: unless = if not. Las otras opciones darían un sentido contradictorio.", "tags": ["conditionals"], "level": "B2" },
+      { "id": "cond-ex-7", "type": "mcq", "prompt": "If she were more confident, she ___ for the scholarship last year.", "options": ["would have applied", "would apply", "had applied", "will apply"], "answers": ["would have applied"], "explanation": "Mixta: rasgo presente (were more confident) → consecuencia pasada (last year) con would have + participio.", "tags": ["conditionals", "mixed"], "level": "C1" }
+    ]
+  },
+  {
+    "id": "passive-voice",
+    "title": "Passive voice and the reporting passive",
+    "titleEs": "La voz pasiva y la pasiva impersonal (It is believed that…)",
+    "level": "B2",
+    "why": "La escritura académica (IELTS Task 1 de procesos, Task 2, TOEFL Academic Discussion) es impersonal: interesa el proceso o el resultado, no quién lo hace. La pasiva es obligatoria en los diagramas de procesos de IELTS Task 1 y la pasiva impersonal (It is widely believed that…) aporta tono académico y matización, lo que mejora tanto Grammatical Range como Coherence.",
+    "explanation": "## Formación\n\n**be** (en el tiempo que toque) + **participio pasado**.\n\n| Tiempo | Activa | Pasiva |\n|---|---|---|\n| Presente simple | *They recycle glass.* | *Glass is recycled.* |\n| Presente continuo | *They are building a bridge.* | *A bridge is being built.* |\n| Pasado simple | *They built it in 1990.* | *It was built in 1990.* |\n| Present perfect | *They have closed the mine.* | *The mine has been closed.* |\n| Modal | *We must reduce emissions.* | *Emissions must be reduced.* |\n| Futuro | *They will publish the results.* | *The results will be published.* |\n\n## Cuándo usarla\n\n- El agente es desconocido, obvio o irrelevante: *The data were collected in 2020.*\n- Procesos (IELTS Task 1): *The leaves are picked, then dried and finally packed.*\n- Para poner la información conocida al principio de la frase (flujo del texto).\n\n## Pasiva impersonal (reporting passive)\n\nDos estructuras con verbos como *believe, think, say, report, estimate, expect, consider, claim*:\n\n1. **It + is + participio + that...**: *It is estimated that 40% of food is wasted.*\n2. **Sujeto + is + participio + to-infinitivo**: *Food waste is estimated to account for 40%.*\n   - Para el pasado: *to have* + participio: *The fire is thought to have started in the kitchen.*\n\n## Ojo\n\n- Los verbos intransitivos (*happen, occur, arrive, die, rise, fall*) **no tienen pasiva**: ~~*The accident was happened*~~.\n- No abuses: alterna activa y pasiva para que el texto no suene mecánico.",
+    "examples": [
+      { "en": "It is widely believed that social media has changed the way young people communicate.", "note": "Pasiva impersonal: tono objetivo en la introducción de un ensayo." },
+      { "en": "The raw materials are first crushed and then heated to 1,400°C.", "note": "Proceso de IELTS Task 1 en presente simple pasivo." },
+      { "en": "The bridge is expected to be completed by 2030.", "note": "Sujeto + pasiva + to-infinitivo pasivo." },
+      { "en": "The ancient city is thought to have been abandoned after a drought.", "note": "Referencia al pasado: to have been + participio." },
+      { "en": "More money should be spent on preventive healthcare.", "note": "Modal + be + participio: típico de las recomendaciones." }
+    ],
+    "mistakes": [
+      { "wrong": "The number of tourists was increased in 2010.", "right": "The number of tourists increased in 2010.", "why": "Increase/rise/fall en las gráficas son intransitivos cuando nadie los provoca. Sólo se usa pasiva si hay un agente (prices were increased by the company)." },
+      { "wrong": "It is believed than the economy will grow.", "right": "It is believed that the economy will grow.", "why": "La estructura es It is believed THAT; than sólo aparece en comparativos." },
+      { "wrong": "Is said that the project failed.", "right": "It is said that the project failed.", "why": "En inglés el sujeto es obligatorio; el «se dice» español necesita el sujeto vacío it." },
+      { "wrong": "The accident was happened at night.", "right": "The accident happened at night.", "why": "Happen es intransitivo: no admite pasiva." }
+    ],
+    "exercises": [
+      { "id": "pass-ex-1", "type": "gap", "prompt": "Paper ___ (make) from wood pulp.", "answers": ["is made"], "explanation": "Proceso general: presente simple pasivo (is + made).", "tags": ["passive"], "level": "B1" },
+      { "id": "pass-ex-2", "type": "gap", "prompt": "A new hospital ___ (build) at the moment, so the road is closed.", "answers": ["is being built"], "explanation": "Presente continuo pasivo: is being + participio.", "tags": ["passive"], "level": "B2" },
+      { "id": "pass-ex-3", "type": "transform", "prompt": "People believe that the painting is a fake. → The painting ...", "answers": ["The painting is believed to be a fake.", "The painting is believed to be a fake"], "explanation": "Sujeto + is believed + to-infinitivo.", "tags": ["passive", "reporting-passive"], "level": "B2" },
+      { "id": "pass-ex-4", "type": "transform", "prompt": "Experts think that the fire started in the basement. → The fire ...", "answers": ["The fire is thought to have started in the basement.", "The fire is thought by experts to have started in the basement."], "explanation": "La acción es anterior al momento de pensar: to have + participio.", "tags": ["passive", "reporting-passive"], "level": "C1" },
+      { "id": "pass-ex-5", "type": "transform", "prompt": "They estimate that 2 million people live in poverty. → It ...", "answers": ["It is estimated that 2 million people live in poverty.", "It is estimated that two million people live in poverty."], "explanation": "It + is + participio + that + oración.", "tags": ["passive", "reporting-passive"], "level": "B2" },
+      { "id": "pass-ex-6", "type": "error", "prompt": "The unemployment rate was risen sharply in 2009.", "answers": ["The unemployment rate rose sharply in 2009."], "explanation": "Rise es intransitivo e irregular (rise-rose-risen); no admite pasiva.", "tags": ["passive", "data"], "level": "B2" },
+      { "id": "pass-ex-7", "type": "mcq", "prompt": "Stricter regulations ___ to reduce plastic waste.", "options": ["must be introduced", "must introduce", "must be introduce", "must have introduce"], "answers": ["must be introduced"], "explanation": "Las regulaciones no introducen nada; son introducidas: modal + be + participio.", "tags": ["passive"], "level": "B1" }
+    ]
+  },
+  {
+    "id": "relative-clauses",
+    "title": "Relative clauses (defining, non-defining, reduced, sentential which)",
+    "titleEs": "Oraciones de relativo (especificativas, explicativas, reducidas y which oracional)",
+    "level": "B2",
+    "why": "Las oraciones de relativo permiten combinar ideas en frases complejas y fluidas, algo que IELTS exige para Band 7 en Grammatical Range (a variety of complex structures). En TOEFL Build a Sentence aparecen con frecuencia, y el which que comenta toda una oración es un recurso muy natural para añadir consecuencias en ensayos.",
+    "explanation": "## Pronombres\n\n| Pronombre | Para | Ejemplo |\n|---|---|---|\n| *who* | personas | *Students who work part-time...* |\n| *which* | cosas | *The policy which was introduced...* |\n| *that* | personas/cosas (sólo especificativas) | *The book that I read...* |\n| *whose* | posesión | *Countries whose economies depend on oil...* |\n| *where / when* | lugar / tiempo | *the city where I grew up*, *the year when...* |\n| *whom* | objeto de persona (formal) | *the researcher to whom I wrote* |\n\n## Especificativas vs. explicativas\n\n- **Especificativas (defining)**: identifican; sin comas; se puede usar *that*; se puede omitir el pronombre si es objeto: *The report (that) we read was outdated.*\n- **Explicativas (non-defining)**: añaden información extra; **con comas**; **nunca** *that*; nunca se omite el pronombre: *Madrid, which is the capital of Spain, has 3 million inhabitants.*\n\n## Which referido a toda la oración\n\n*Many graduates cannot find jobs, **which** leads to frustration.* Aquí *which* = «lo cual / lo que». Nunca uses *what* para esto.\n\n## Oraciones de relativo reducidas\n\n- Activa → **-ing**: *People living in rural areas...* (= who live)\n- Pasiva → **participio**: *The data collected in 2020 show...* (= which were collected)\n- Con *the first/last/only* → **to-infinitivo**: *She was the first woman to win the prize.*\n\n## Preposición + relativo (formal)\n\n*The extent to which technology affects learning...* / *the conditions under which...*",
+    "examples": [
+      { "en": "Students who receive regular feedback tend to perform better.", "note": "Especificativa: no todos los estudiantes, sólo esos." },
+      { "en": "Tokyo, which has a population of over 13 million, is extremely safe.", "note": "Explicativa: comas obligatorias; nunca that." },
+      { "en": "Public transport fares have risen, which has encouraged more people to drive.", "note": "Which comenta toda la oración anterior." },
+      { "en": "The figures shown in the table refer to 2015.", "note": "Reducida pasiva: shown = which are shown." },
+      { "en": "It is difficult to measure the extent to which advertising influences children.", "note": "Preposición + which: muy académico." }
+    ],
+    "mistakes": [
+      { "wrong": "Many people lose their jobs, what causes stress.", "right": "Many people lose their jobs, which causes stress.", "why": "Calco de «lo que causa estrés». Para comentar una oración se usa which, nunca what." },
+      { "wrong": "My brother, that lives in Paris, is an engineer.", "right": "My brother, who lives in Paris, is an engineer.", "why": "En las explicativas (con comas) no se puede usar that." },
+      { "wrong": "The man which I met was a doctor.", "right": "The man who I met was a doctor.", "why": "Para personas se usa who (o that), no which." },
+      { "wrong": "The country where I visited was Japan.", "right": "The country (that) I visited was Japan.", "why": "Visit es transitivo y el relativo es objeto: no se usa where (where = in which)." }
+    ],
+    "exercises": [
+      { "id": "rel-ex-1", "type": "gap", "prompt": "Children ___ parents read to them develop larger vocabularies.", "answers": ["whose"], "explanation": "Posesión (los padres de los niños): whose.", "tags": ["relative-clauses"], "level": "B2" },
+      { "id": "rel-ex-2", "type": "gap", "prompt": "Many factories closed in the 1980s, ___ led to high unemployment.", "answers": ["which"], "explanation": "Which se refiere a toda la oración anterior (lo cual). What es incorrecto.", "tags": ["relative-clauses"], "level": "B2" },
+      { "id": "rel-ex-3", "type": "transform", "prompt": "The houses which were built in the 1960s are now being demolished. → (reduce the relative clause)", "answers": ["The houses built in the 1960s are now being demolished.", "The houses built in the 1960s are now being demolished"], "explanation": "Relativo pasivo reducido: which were built → built.", "tags": ["relative-clauses", "reduced"], "level": "B2" },
+      { "id": "rel-ex-4", "type": "transform", "prompt": "People who live near airports often suffer from noise. → (reduce the relative clause)", "answers": ["People living near airports often suffer from noise."], "explanation": "Relativo activo reducido: who live → living.", "tags": ["relative-clauses", "reduced"], "level": "B2" },
+      { "id": "rel-ex-5", "type": "error", "prompt": "The Amazon, that is the largest rainforest in the world, is under threat.", "answers": ["The Amazon, which is the largest rainforest in the world, is under threat."], "explanation": "Oración explicativa (entre comas): which, nunca that.", "tags": ["relative-clauses"], "level": "B2" },
+      { "id": "rel-ex-6", "type": "mcq", "prompt": "This study examines the extent ___ climate affects crop yields.", "options": ["to which", "which", "in that", "what"], "answers": ["to which"], "explanation": "La expresión fija es the extent to which (hasta qué punto).", "tags": ["relative-clauses", "academic"], "level": "C1" },
+      { "id": "rel-ex-7", "type": "mcq", "prompt": "Marie Curie was the first woman ___ a Nobel Prize.", "options": ["to win", "winning", "who won it", "won"], "answers": ["to win"], "explanation": "Tras the first / the last / the only, el relativo se reduce a to-infinitivo.", "tags": ["relative-clauses", "reduced"], "level": "B2" }
+    ]
+  },
+  {
+    "id": "inversion",
+    "title": "Inversion for emphasis",
+    "titleEs": "Inversión para dar énfasis (Not only…, Rarely…, Had I known…)",
+    "level": "C1",
+    "why": "La inversión es una de las estructuras más claras de nivel C1: un par de inversiones bien colocadas en un ensayo IELTS o en la Academic Discussion de TOEFL demuestran control gramatical avanzado (Band 8). Además, Had/Were/Should al principio de una condicional sustituyen a if con un registro muy formal.",
+    "explanation": "## Qué es\n\nTras ciertas expresiones negativas o restrictivas al **principio** de la frase, el orden pasa a ser **auxiliar + sujeto + verbo**, como en una pregunta.\n\n| Expresión | Ejemplo |\n|---|---|\n| *Not only... but (also)* | *Not only **does** pollution harm health, but it also damages the economy.* |\n| *Rarely / Seldom* | *Rarely **have** we seen such rapid change.* |\n| *Never (before)* | *Never before **has** information been so accessible.* |\n| *Little* | *Little **did** they know what would happen.* |\n| *Hardly... when / No sooner... than* | *No sooner **had** the law passed than protests began.* |\n| *Only then / Only when / Only by* | *Only by cooperating **can** countries solve this.* |\n| *Under no circumstances / On no account* | *Under no circumstances **should** data be shared.* |\n| *Not until* | *Not until 1990 **did** women gain the vote.* |\n\n## Si no hay auxiliar\n\nEn presente/pasado simple añade **do/does/did**: *Not only **does** it save money...* / *Little **did** I know...*\n\n## Condicionales sin if\n\n- *If I had known* → ***Had** I known*\n- *If the government were to act* → ***Were** the government to act*\n- *If you should need help* → ***Should** you need help*\n\nLa negación va después: *Had it **not** been for...* (nunca ~~*Hadn't it been*~~).\n\n## Consejo\n\nUsa 1–2 por texto. Abusar suena artificial.",
+    "examples": [
+      { "en": "Not only does remote work reduce commuting time, but it also lowers office costs.", "note": "La 1.ª parte invierte; la 2.ª lleva orden normal." },
+      { "en": "Rarely has a single invention transformed society as much as the smartphone.", "note": "Present perfect: el auxiliar has va antes del sujeto." },
+      { "en": "Had the warnings been taken seriously, the disaster could have been avoided.", "note": "= If the warnings had been taken seriously." },
+      { "en": "Only when governments cooperate will climate change be tackled effectively.", "note": "Only when: la inversión va en la oración principal, no tras when." },
+      { "en": "Should you require further information, please contact the department.", "note": "Muy útil en el email formal de TOEFL." }
+    ],
+    "mistakes": [
+      { "wrong": "Not only pollution harms health, but also...", "right": "Not only does pollution harm health, but it also...", "why": "Tras Not only al inicio hay que invertir con does; en español no existe este cambio y se olvida." },
+      { "wrong": "Rarely we see such dedication.", "right": "Rarely do we see such dedication.", "why": "Rarely/Seldom/Never al principio exigen auxiliar + sujeto." },
+      { "wrong": "If had I known, I would have helped.", "right": "Had I known, I would have helped.", "why": "La inversión sustituye a if; no se usan los dos a la vez." },
+      { "wrong": "Only when the results arrived we understood.", "right": "Only when the results arrived did we understand.", "why": "Con Only when la inversión va en la cláusula principal (did we understand)." }
+    ],
+    "exercises": [
+      { "id": "inv-ex-1", "type": "transform", "prompt": "If I had known about the scholarship, I would have applied. → Had ...", "answers": ["Had I known about the scholarship, I would have applied.", "Had I known about the scholarship, I'd have applied."], "explanation": "Had + sujeto + participio sustituye a If + sujeto + had.", "tags": ["inversion", "conditionals"], "level": "C1" },
+      { "id": "inv-ex-2", "type": "transform", "prompt": "We have rarely seen such a sharp rise in prices. → Rarely ...", "answers": ["Rarely have we seen such a sharp rise in prices."], "explanation": "Rarely al inicio → auxiliar (have) + sujeto (we).", "tags": ["inversion"], "level": "C1" },
+      { "id": "inv-ex-3", "type": "transform", "prompt": "The scheme saves energy and it also creates jobs. → Not only ...", "answers": ["Not only does the scheme save energy, but it also creates jobs.", "Not only does the scheme save energy but it also creates jobs.", "Not only does the scheme save energy, it also creates jobs."], "explanation": "Presente simple sin auxiliar → añade does y el verbo vuelve al infinitivo (save).", "tags": ["inversion"], "level": "C1" },
+      { "id": "inv-ex-4", "type": "gap", "prompt": "Little ___ the researchers realise how important their discovery would be.", "answers": ["did"], "explanation": "Little + did + sujeto + infinitivo para el pasado simple.", "tags": ["inversion"], "level": "C1" },
+      { "id": "inv-ex-5", "type": "error", "prompt": "Under no circumstances students should leave the exam room early.", "answers": ["Under no circumstances should students leave the exam room early."], "explanation": "Expresión negativa al inicio → modal antes del sujeto.", "tags": ["inversion"], "level": "C1" },
+      { "id": "inv-ex-6", "type": "mcq", "prompt": "No sooner ___ the lecture begun than the fire alarm went off.", "options": ["had", "has", "did", "was"], "answers": ["had"], "explanation": "No sooner + had + sujeto + participio... than + pasado simple.", "tags": ["inversion"], "level": "C1" },
+      { "id": "inv-ex-7", "type": "mcq", "prompt": "___ you have any questions, do not hesitate to contact me.", "options": ["Should", "Would", "Unless", "Were"], "answers": ["Should"], "explanation": "Should + sujeto + infinitivo = If you have... (formal, típico de emails).", "tags": ["inversion", "conditionals"], "level": "B2" }
+    ]
+  },
+  {
+    "id": "cleft-sentences",
+    "title": "Cleft sentences for emphasis",
+    "titleEs": "Oraciones escindidas (What matters is…, It was X that…)",
+    "level": "C1",
+    "why": "Las cleft sentences permiten destacar la idea clave de un argumento, algo muy útil en Speaking Part 3 y en la Academic Discussion de TOEFL para sonar natural y persuasivo. Son estructuras complejas que pocas veces usan los candidatos de nivel medio, por lo que destacan en Grammatical Range.",
+    "explanation": "## It-cleft: *It is/was + X + that/who...*\n\nDestaca un elemento concreto:\n\n- Neutra: *The government caused the crisis.*\n- Énfasis: *It was **the government** that caused the crisis.* (no otro)\n- *It was **in 1969** that humans first landed on the Moon.*\n- *It is **not the cost but the time** that worries people.*\n\n## Wh-cleft (pseudo-cleft): *What + cláusula + be + X*\n\n- *What matters most **is** education.*\n- *What I find surprising **is that** prices have doubled.*\n- *What the government should do **is (to)** invest in housing.* (con verbo: infinitivo con o sin to)\n- *What happened **was that** the system collapsed.*\n\n## Otras variantes\n\n- *The reason why... is that...*: *The reason why people move to cities **is that** there are more jobs.*\n- *All (that)... is*: *All we need **is** more time.*\n- *The thing that... is*: *The thing that surprised me **was** the price.*\n\n## Concordancia\n\n*What* es singular: *What we need **is** more teachers* (aunque teachers sea plural).",
+    "examples": [
+      { "en": "What concerns many economists is the rising level of household debt.", "note": "Wh-cleft para presentar el tema clave." },
+      { "en": "It is the lack of affordable housing that drives young people away from cities.", "note": "It-cleft: destaca la causa." },
+      { "en": "What governments should do is invest in renewable energy.", "note": "Con verbo, infinitivo sin to (también válido con to)." },
+      { "en": "The reason why remote work is popular is that it saves time.", "note": "Evita reason is because, que suena redundante." },
+      { "en": "It was not until the 1990s that the internet became widely available.", "note": "Combina it-cleft con not until." }
+    ],
+    "mistakes": [
+      { "wrong": "What I want is that you help me.", "right": "What I want is for you to help me. / I want you to help me.", "why": "Calco de «lo que quiero es que me ayudes». Want no va con that-clause." },
+      { "wrong": "The reason is because people need jobs.", "right": "The reason is that people need jobs.", "why": "Reason ya expresa causa; lo correcto y formal es the reason is that." },
+      { "wrong": "Is the price what worries me.", "right": "It is the price that worries me.", "why": "Falta el sujeto it (en español «es el precio lo que...» no tiene sujeto)." },
+      { "wrong": "What we need are more doctors.", "right": "What we need is more doctors.", "why": "Lo más seguro en registro académico es is: la cláusula con what funciona como sujeto singular (con un complemento plural también se oye are, pero is nunca falla)." }
+    ],
+    "exercises": [
+      { "id": "cleft-ex-1", "type": "transform", "prompt": "Pollution worries me most. → What ...", "answers": ["What worries me most is pollution.", "What worries me the most is pollution."], "explanation": "What + cláusula + is + elemento destacado.", "tags": ["cleft"], "level": "B2" },
+      { "id": "cleft-ex-2", "type": "transform", "prompt": "Alexander Fleming discovered penicillin. → It was ...", "answers": ["It was Alexander Fleming who discovered penicillin.", "It was Alexander Fleming that discovered penicillin."], "explanation": "It was + persona + who/that + resto.", "tags": ["cleft"], "level": "B2" },
+      { "id": "cleft-ex-3", "type": "transform", "prompt": "The economy only began to recover in 2014. → It was not until ...", "answers": ["It was not until 2014 that the economy began to recover.", "It wasn't until 2014 that the economy began to recover.", "It was not until 2014 that the economy started to recover."], "explanation": "It was not until + momento + that + oración afirmativa.", "tags": ["cleft"], "level": "C1" },
+      { "id": "cleft-ex-4", "type": "gap", "prompt": "What the city needs ___ more green spaces.", "answers": ["is"], "explanation": "La cláusula con what funciona como sujeto singular: is.", "tags": ["cleft", "agreement"], "level": "B2" },
+      { "id": "cleft-ex-5", "type": "error", "prompt": "The reason why students drop out is because they cannot afford the fees.", "answers": ["The reason why students drop out is that they cannot afford the fees.", "The reason why students drop out is that they can't afford the fees."], "explanation": "The reason... is that; because es redundante.", "tags": ["cleft"], "level": "B2" },
+      { "id": "cleft-ex-6", "type": "mcq", "prompt": "What the government should do ___ invest in teacher training.", "options": ["is", "it is", "are", "is that"], "answers": ["is"], "explanation": "What + should do + is + infinitivo (invest).", "tags": ["cleft"], "level": "C1" }
+    ]
+  },
+  {
+    "id": "modals-deduction",
+    "title": "Modals of speculation and deduction (present and past)",
+    "titleEs": "Modales de especulación y deducción (presente y pasado)",
+    "level": "B2",
+    "why": "En Speaking Part 2 y 3 (IELTS) y en la entrevista de TOEFL se especula constantemente (It might be because…, They must have…). Usar must have / can't have / might have bien conjugados muestra flexibilidad gramatical y permite matizar opiniones, un criterio de Band 7+.",
+    "explanation": "## Grados de certeza\n\n| Certeza | Presente | Pasado |\n|---|---|---|\n| Casi seguro que sí | *must* + infinitivo | *must have* + participio |\n| Posible | *may / might / could* + infinitivo | *may / might / could have* + participio |\n| Casi seguro que no | *can't / couldn't* + infinitivo | *can't / couldn't have* + participio |\n| Expectativa lógica | *should* | *should have* (también = crítica) |\n\n## Ejemplos\n\n- *She **must be** exhausted; she's been working since 6.*\n- *He **can't be** at home; his car isn't there.* (NO ~~*mustn't be*~~)\n- *The ancient builders **must have used** ramps.*\n- *The email **might have gone** to spam.*\n- *They **can't have finished** already; it's a huge project.*\n\n## Atención\n\n- **mustn't** expresa prohibición, no deducción negativa. Para deducir que algo no es posible: **can't**.\n- **could have** + participio también expresa posibilidad pasada no realizada: *You **could have** asked me!*\n- **should have** + participio = crítica o arrepentimiento: *I **should have** studied more.*\n- Continuo: *must be doing*, *might have been doing*: *They **might have been working** late.*\n\n## Alternativas académicas\n\n*It is likely/probable that...*, *There is a strong possibility that...*, *X is likely to...*",
+    "examples": [
+      { "en": "The ancient Egyptians must have had advanced engineering knowledge.", "note": "Deducción sobre el pasado: muy útil en textos de historia." },
+      { "en": "He can't have read the instructions, or he wouldn't have made that mistake.", "note": "Deducción negativa pasada: can't have." },
+      { "en": "Some people might argue that technology isolates us.", "note": "Might para introducir un punto de vista contrario." },
+      { "en": "The decline could have been caused by the economic crisis.", "note": "Modal pasado + pasiva." },
+      { "en": "You must be tired after such a long flight.", "note": "Deducción presente." }
+    ],
+    "mistakes": [
+      { "wrong": "He mustn't be at home; the lights are off.", "right": "He can't be at home; the lights are off.", "why": "Calco de «no debe de estar». Mustn't es prohibición; la deducción negativa es can't." },
+      { "wrong": "She must studied a lot.", "right": "She must have studied a lot.", "why": "Para el pasado, modal + have + participio (en español «debe de haber estudiado»)." },
+      { "wrong": "They might have went home.", "right": "They might have gone home.", "why": "Tras have va el participio (gone), no el pasado (went)." },
+      { "wrong": "Maybe he can be ill.", "right": "He may/might be ill.", "why": "Can no expresa posibilidad concreta en afirmativa; usa may/might/could." }
+    ],
+    "exercises": [
+      { "id": "mod-ex-1", "type": "gap", "prompt": "The ground is wet. It ___ rained last night. (deducción segura)", "answers": ["must have", "must've"], "explanation": "Deducción segura sobre el pasado: must have + participio.", "tags": ["modals"], "level": "B2" },
+      { "id": "mod-ex-2", "type": "gap", "prompt": "She ___ be the new director; she's only 19. (deducción negativa)", "answers": ["can't", "cannot", "can not", "couldn't"], "explanation": "Deducción negativa en presente: can't (nunca mustn't).", "tags": ["modals"], "level": "B2" },
+      { "id": "mod-ex-3", "type": "transform", "prompt": "I'm sure he forgot about the meeting. → He must ...", "answers": ["He must have forgotten about the meeting.", "He must have forgotten the meeting."], "explanation": "Certeza sobre el pasado: must have + participio (forgotten).", "tags": ["modals"], "level": "B2" },
+      { "id": "mod-ex-4", "type": "transform", "prompt": "It's impossible that they finished the project in one day. → They can't ...", "answers": ["They can't have finished the project in one day.", "They cannot have finished the project in one day.", "They can't have finished the project in a day."], "explanation": "Imposibilidad en el pasado: can't have + participio.", "tags": ["modals"], "level": "B2" },
+      { "id": "mod-ex-5", "type": "error", "prompt": "The letter might have arrive yesterday.", "answers": ["The letter might have arrived yesterday."], "explanation": "Tras have va el participio: arrived.", "tags": ["modals"], "level": "B1" },
+      { "id": "mod-ex-6", "type": "mcq", "prompt": "The lights are on, so somebody ___ in the office.", "options": ["must be", "mustn't be", "must have", "can be"], "answers": ["must be"], "explanation": "Deducción afirmativa sobre el presente: must be.", "tags": ["modals"], "level": "B1" },
+      { "id": "mod-ex-7", "type": "mcq", "prompt": "I'm not sure why the experiment failed. The samples ___ contaminated.", "options": ["might have been", "must be", "can't have been", "should be"], "answers": ["might have been"], "explanation": "Posibilidad (no certeza) sobre el pasado, en pasiva: might have been.", "tags": ["modals", "passive"], "level": "C1" }
+    ]
+  },
+  {
+    "id": "participle-clauses",
+    "title": "Participle clauses",
+    "titleEs": "Oraciones de participio (Having finished…, Built in 1900…)",
+    "level": "C1",
+    "why": "Las oraciones de participio condensan información y eliminan conectores repetitivos, dando a la escritura un estilo académico compacto. Son una marca de Band 7-8 en IELTS y de las respuestas de puntuación alta en TOEFL. También ayudan a variar el inicio de las frases en Task 1.",
+    "explanation": "## Tres formas\n\n| Forma | Sentido | Ejemplo |\n|---|---|---|\n| **-ing** (presente) | Acción simultánea o causa, voz activa | ***Realising** the danger, the authorities closed the road.* |\n| **Participio pasado** | Voz pasiva | ***Built** in 1889, the tower attracts millions.* |\n| ***Having* + participio** | Acción anterior | ***Having analysed** the data, the team published the results.* |\n\nPasiva anterior: ***Having been** rejected twice, the proposal was finally approved.*\n\n## Funciones\n\n- Causa: *Lacking funds, the school closed.* (= because it lacked)\n- Tiempo: *After graduating, she moved abroad.* (con conjunción: after, before, when, while, since)\n- Resultado: *Prices rose sharply, **reaching** a peak in 2008.* (¡ideal en Task 1!)\n- Condición: *Used correctly, this method is very effective.*\n\n## La regla de oro: mismo sujeto\n\nEl sujeto implícito del participio debe ser el **sujeto de la oración principal**. Si no, se produce un *dangling participle*:\n\n- ~~*Walking to class, the rain started.*~~ (¡la lluvia no camina!)\n- *Walking to class, **I** got caught in the rain.*",
+    "examples": [
+      { "en": "Sales increased steadily, reaching a peak of 500 units in 2015.", "note": "Participio de resultado: imprescindible en IELTS Task 1." },
+      { "en": "Having completed the survey, participants were interviewed individually.", "note": "Having + participio: acción anterior." },
+      { "en": "Located in the city centre, the museum is easily accessible.", "note": "Participio pasado con valor pasivo/descriptivo." },
+      { "en": "Not knowing the language, many migrants struggle to find work.", "note": "La negación va delante del participio." },
+      { "en": "When used responsibly, social media can be a valuable tool.", "note": "Conjunción + participio." }
+    ],
+    "mistakes": [
+      { "wrong": "Being a small country, the government invests little in defence.", "right": "Being a small country, Spain... / Because the country is small, the government invests little in defence.", "why": "Dangling participle: el sujeto principal (the government) no es «a small country»." },
+      { "wrong": "After finish the course, I got a job.", "right": "After finishing the course, I got a job.", "why": "Tras preposición (after, before, by) va -ing, no infinitivo (en español «después de terminar»)." },
+      { "wrong": "Having finished the essay, the teacher received it.", "right": "Having finished the essay, I gave it to the teacher.", "why": "Quien terminó el ensayo debe ser el sujeto de la principal." },
+      { "wrong": "The figure rose, reached 50% in 2020.", "right": "The figure rose, reaching 50% in 2020.", "why": "Para añadir el resultado se usa -ing, no un verbo conjugado tras la coma." }
+    ],
+    "exercises": [
+      { "id": "part-ex-1", "type": "gap", "prompt": "The number of visitors rose sharply, ___ (reach) 2 million in 2019.", "answers": ["reaching"], "explanation": "Participio de resultado: -ing.", "tags": ["participle-clauses", "data"], "level": "B2" },
+      { "id": "part-ex-2", "type": "gap", "prompt": "___ (write) in 1605, Don Quixote is considered the first modern novel.", "answers": ["Written"], "explanation": "Sentido pasivo (la novela fue escrita): participio pasado.", "tags": ["participle-clauses"], "level": "B2" },
+      { "id": "part-ex-3", "type": "transform", "prompt": "After the committee had reviewed the evidence, it rejected the proposal. → Having ...", "answers": ["Having reviewed the evidence, the committee rejected the proposal."], "explanation": "Having + participio expresa la acción anterior; el sujeto (the committee) pasa a la principal.", "tags": ["participle-clauses"], "level": "C1" },
+      { "id": "part-ex-4", "type": "transform", "prompt": "Because she didn't know the answer, she stayed silent. → Not ...", "answers": ["Not knowing the answer, she stayed silent.", "Not knowing the answer, she remained silent."], "explanation": "Causa negativa: Not + -ing.", "tags": ["participle-clauses"], "level": "C1" },
+      { "id": "part-ex-5", "type": "error", "prompt": "Before start the experiment, we must check the equipment.", "answers": ["Before starting the experiment, we must check the equipment.", "Before we start the experiment, we must check the equipment."], "explanation": "Tras before (preposición) va -ing. El sujeto de la principal (we) es quien empieza el experimento, así que no hay dangling participle.", "tags": ["participle-clauses"], "level": "B1" },
+      { "id": "part-ex-6", "type": "mcq", "prompt": "Which sentence is correct?", "options": ["Driving home, I saw an accident.", "Driving home, an accident happened.", "Driven home, I saw an accident.", "Drive home, I saw an accident."], "answers": ["Driving home, I saw an accident."], "explanation": "El sujeto de driving debe ser el de la principal (I). En la segunda opción, el accidente «conducía» (dangling participle).", "tags": ["participle-clauses"], "level": "B2" }
+    ]
+  },
+  {
+    "id": "nominalisation",
+    "title": "Nominalisation",
+    "titleEs": "Nominalización (convertir verbos y adjetivos en sustantivos)",
+    "level": "C1",
+    "why": "La escritura académica se apoya en sustantivos más que en verbos: The increase in prices… en lugar de Prices increased. La nominalización hace los textos más densos, objetivos y cohesionados (se puede retomar una idea como sustantivo: This growth…). Es clave en IELTS Task 1 y 2 para Lexical Resource y Grammatical Range.",
+    "explanation": "## Qué es\n\nTransformar un verbo o adjetivo en sustantivo para que la idea funcione como sujeto u objeto.\n\n| Verbal / informal | Nominalizado / académico |\n|---|---|\n| *Prices **rose** sharply.* | *There was a sharp **rise** in prices.* |\n| *Because people **are** more **aware**...* | *Due to greater **awareness**...* |\n| *If we **reduce** emissions...* | *The **reduction** of emissions...* |\n| *The company **failed** because it **managed** badly.* | *The company's **failure** was due to poor **management**.* |\n\n## Sufijos frecuentes\n\n- **-tion/-sion**: *reduce → reduction, decide → decision*\n- **-ment**: *develop → development, invest → investment*\n- **-ance/-ence**: *perform → performance, depend → dependence*\n- **-ity**: *able → ability, complex → complexity*\n- **-ness**: *aware → awareness, effective → effectiveness*\n- **-al**: *approve → approval, refuse → refusal*\n\n## Cambios que arrastra\n\n- Adverbio → adjetivo: *rose **sharply*** → *a **sharp** rise*\n- Sujeto → genitivo o *of*: *the government decided* → *the government's decision* / *the decision of the government*\n- Preposiciones fijas: *an increase **in***, *a reduction **in/of***, *access **to***, *demand **for***, *impact **on***.\n\n## Cohesión\n\n*Unemployment fell by 3%. **This decline** was mainly due to...* Retomar con *this + sustantivo* es un recurso de coherencia muy valorado.",
+    "examples": [
+      { "en": "There was a dramatic increase in the number of students studying abroad.", "note": "Nominalización típica de Task 1: verbo → sustantivo, adverbio → adjetivo." },
+      { "en": "The introduction of the new law led to a reduction in crime.", "note": "Dos nominalizaciones en una frase." },
+      { "en": "Rapid urbanisation has put pressure on housing.", "note": "Urbanise → urbanisation." },
+      { "en": "The government's failure to act has been widely criticised.", "note": "Fail → failure, con genitivo." },
+      { "en": "This growth can be attributed to lower interest rates.", "note": "This + sustantivo para retomar la idea anterior." }
+    ],
+    "mistakes": [
+      { "wrong": "There was an increase of the prices.", "right": "There was an increase in prices.", "why": "La preposición con increase/decrease/rise/fall (cambio) es in; de ahí el error del calco «aumento de»." },
+      { "wrong": "There was a sharply rise.", "right": "There was a sharp rise.", "why": "Al convertir el verbo en sustantivo, el adverbio pasa a adjetivo." },
+      { "wrong": "The develop of technology has changed our lives.", "right": "The development of technology has changed our lives.", "why": "Se necesita el sustantivo (development), no el verbo." },
+      { "wrong": "The impact in the environment is serious.", "right": "The impact on the environment is serious.", "why": "Impact/effect/influence van con on, no in." }
+    ],
+    "exercises": [
+      { "id": "nom-ex-1", "type": "transform", "prompt": "Unemployment fell significantly. → There was ...", "answers": ["There was a significant fall in unemployment.", "There was a significant decrease in unemployment.", "There was a significant decline in unemployment.", "There was a significant drop in unemployment."], "explanation": "Verbo → sustantivo (fall), adverbio → adjetivo (significant), preposición in.", "tags": ["nominalisation", "data"], "level": "B2" },
+      { "id": "nom-ex-2", "type": "gap", "prompt": "The ___ (introduce) of tuition fees reduced the number of applicants.", "answers": ["introduction"], "explanation": "Introduce → introduction (-tion).", "tags": ["nominalisation", "word-formation"], "level": "B2" },
+      { "id": "nom-ex-3", "type": "gap", "prompt": "Many people lack ___ (aware) of the risks of a poor diet.", "answers": ["awareness"], "explanation": "Aware → awareness (-ness).", "tags": ["nominalisation", "word-formation"], "level": "B2" },
+      { "id": "nom-ex-4", "type": "transform", "prompt": "The government decided to close the factory, which surprised everyone. → The government's ...", "answers": ["The government's decision to close the factory surprised everyone."], "explanation": "Decide → decision; el verbo principal pasa a ser surprised.", "tags": ["nominalisation"], "level": "C1" },
+      { "id": "nom-ex-5", "type": "error", "prompt": "There has been a steadily growth of online shopping.", "answers": ["There has been a steady growth in online shopping.", "There has been steady growth in online shopping.", "There has been a steady growth of online shopping."], "explanation": "Delante de un sustantivo va adjetivo (steady); con growth la preposición más natural es in.", "tags": ["nominalisation"], "level": "B2" },
+      { "id": "nom-ex-6", "type": "mcq", "prompt": "Choose the most academic version.", "options": ["The rapid expansion of cities has increased the demand for housing.", "Cities expanded really fast so people want more houses.", "Because cities are getting bigger fast, people need houses more.", "Cities are growing a lot and that makes houses wanted."], "answers": ["The rapid expansion of cities has increased the demand for housing."], "explanation": "La versión nominalizada (expansion, demand) es más densa y formal.", "tags": ["nominalisation", "register"], "level": "C1" }
+    ]
+  }
+]

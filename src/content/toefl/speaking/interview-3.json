@@ -1,0 +1,158 @@
+[
+  {
+    "id": "toefl-interview-17",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Success and happiness",
+    "intro": "Hello, thank you for agreeing to this interview. I'm a psychologist studying how young people think about success and happiness. I'd like to hear your views.",
+    "interviewer": {
+      "id": "int",
+      "name": "Dr. Rebecca Lowell",
+      "role": "Psychologist",
+      "gender": "f",
+      "accent": "en-US"
+    },
+    "questions": [
+      "How would you personally define success? Has your definition changed over time?",
+      "Do you think people today are under more pressure to be successful than previous generations? Why or why not?",
+      "Some people believe that money can't buy happiness, while others say it makes life much easier. What is your view?",
+      "Should schools teach students how to be happy, in the same way they teach math or history? Explain your opinion."
+    ],
+    "sampleAnswers": [
+      "When I was younger, I thought success meant having a prestigious job and earning a lot of money, mainly because that's what adults around me seemed to admire. Now my definition is broader. I'd say success means doing work that I find meaningful, having time for the people I care about, and continuing to grow as a person. What changed my mind was seeing my uncle, who had a very well-paid job but was always stressed and rarely saw his children. He wasn't happy, so I couldn't really see him as successful.",
+      "I think the pressure is different rather than simply greater. My grandparents had fewer choices, but their path was clearer: you found a stable job and stayed there. Today young people have many more options, which sounds positive, but it also means that if you don't succeed, you feel it's entirely your fault. Social media makes it worse, because we constantly see other people's achievements, like promotions or trips, and almost never their failures. So comparison has become constant, and that creates a lot of anxiety.",
+      "I believe both statements are partly true. Research suggests that money does increase happiness up to a certain point, because it removes stress about rent, food or medical bills. Someone who can't pay their bills is unlikely to feel happy. But beyond that level, extra money seems to make much less difference. A bigger house doesn't help much if you have no time to enjoy it. So I'd say money buys security and freedom, and those are important, but happiness depends more on relationships and purpose.",
+      "I think schools could do it, although maybe not as a traditional subject with exams. Students could learn practical skills that research links to well-being, such as managing stress, getting enough sleep, building healthy relationships and dealing with failure. These skills are as useful in life as algebra, yet most of us learn them by accident. However, the classes should be practical and based on evidence, not just motivational talks, and teachers would need proper training, because talking about emotions with teenagers requires a lot of care."
+    ]
+  },
+  {
+    "id": "toefl-interview-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Tradition and change",
+    "intro": "Good afternoon, and thanks for your time. I'm a sociologist researching how communities balance tradition with modern life, and I'd like to ask you some questions on this topic.",
+    "interviewer": {
+      "id": "int",
+      "name": "Professor Malik Hassan",
+      "role": "Sociologist",
+      "gender": "m",
+      "accent": "en-GB"
+    },
+    "questions": [
+      "Is there a tradition from your family or community that is important to you? Why does it matter?",
+      "Why do you think some traditions disappear while others survive for centuries?",
+      "Some people argue that traditions should be changed if they no longer fit modern values. Others believe they should be preserved as they are. What do you think?",
+      "How do you think globalization is affecting local cultures and traditions? Is this mostly positive or negative?"
+    ],
+    "sampleAnswers": [
+      "Yes, in my family we have a big lunch every Sunday at my grandmother's house, and everyone is expected to come, even my cousins who live in other cities. It might sound like a simple tradition, but it matters a lot to me, because it's the only time all generations sit at the same table. My grandmother tells stories about her childhood, and the younger kids listen. Without that lunch, I think we would slowly lose contact with each other, as many families do nowadays.",
+      "I think traditions survive when they still serve a purpose for people, even if that purpose changes. For example, many harvest festivals no longer have much to do with agriculture, but they survive because they bring communities together and attract tourists. On the other hand, traditions that depend on a specific way of life, like certain crafts, often disappear when that way of life ends and young people move to cities. So the key is whether each new generation finds a reason to keep the tradition alive.",
+      "I believe traditions should be allowed to evolve. Most of them have already changed many times throughout history, even if we imagine them as fixed. If a tradition excludes people or causes harm, for example to animals, it makes sense to adapt it while keeping its core meaning. A festival can keep its music, food and costumes and still drop a practice that most people now find cruel. In fact, I think adapting a tradition is often the best way to make sure it survives.",
+      "I'd say it has mixed effects. On the negative side, the same chains of shops and the same films can be found everywhere, so many cities are starting to look alike, and small local businesses struggle. But globalization also helps local cultures reach a much larger audience. For instance, traditional music from my region is now listened to online by people on other continents, and that interest has encouraged young musicians at home to learn it. So it can threaten traditions, but also give them a new life."
+    ]
+  },
+  {
+    "id": "toefl-interview-19",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Privacy in the digital age",
+    "intro": "Hello, and thank you for meeting with me. I'm a journalist preparing an article about privacy and personal data, and I'd like to hear what you think about it.",
+    "interviewer": {
+      "id": "int",
+      "name": "Ms. Claire Donovan",
+      "role": "Technology journalist",
+      "gender": "f",
+      "accent": "en-CA"
+    },
+    "questions": [
+      "How careful are you about the personal information you share online? Give an example.",
+      "Many free apps make money by collecting and selling users' data. Do you think this is a fair exchange? Why or why not?",
+      "Some governments use cameras with facial recognition in public places to reduce crime. Do the benefits justify the loss of privacy?",
+      "Do you think the next generation will care more or less about privacy than people do today? Explain your reasoning."
+    ],
+    "sampleAnswers": [
+      "I'd say I'm more careful than I used to be. A few years ago I posted almost everything on social media, including where I was on holiday while I was still there. Then a friend's apartment was broken into while she was away, and the police said burglars sometimes check social media. Since then, I share photos only after I come back, my accounts are private, and I always check which permissions an app asks for. If a flashlight app wants my contacts, I simply don't install it.",
+      "I don't think it's completely fair, mainly because most users don't really know what they're giving away. The terms and conditions are extremely long and written in legal language, so almost nobody reads them. A fair exchange requires both sides to understand the deal. If companies clearly explained, in two or three sentences, what data they collect and who buys it, then people could make a real choice. Some might still accept, and that would be fine, but at the moment the exchange is based on confusion rather than consent.",
+      "I'm quite worried about it. Cameras may help solve some crimes, but facial recognition goes much further, because it can track where every person goes, every day, without them doing anything wrong. That information could be misused, for example to follow journalists or protesters. These systems also make more mistakes with some groups of people, which could lead to innocent people being stopped. I think limited use, like searching for a missing child with a court's permission, might be acceptable, but permanent mass surveillance is too high a price.",
+      "It's hard to predict, but I think they may care more, in a more practical way. Today's children are growing up seeing the consequences of oversharing, like old posts that come back and cause problems when people apply for jobs. Many teenagers I know already use private accounts or apps where messages disappear. At the same time, they're used to sharing so much with technology that they might accept things we would find strange. So I think they'll be more skillful at protecting themselves, but they may draw the line in different places."
+    ]
+  },
+  {
+    "id": "toefl-interview-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Creativity",
+    "intro": "Hi, thanks for taking the time to talk with me. I'm a researcher in education, and I'm studying how creativity develops. I'd like to ask you a few questions.",
+    "interviewer": {
+      "id": "int",
+      "name": "Dr. Oliver Bennett",
+      "role": "Education researcher",
+      "gender": "m",
+      "accent": "en-AU"
+    },
+    "questions": [
+      "Do you consider yourself a creative person? Describe a time when you had to be creative.",
+      "Do you think creativity is something people are born with, or can it be learned? Why?",
+      "Some people believe the education system discourages creativity because it focuses too much on exams. Do you agree?",
+      "As computers become able to write music and create images, how do you think the value of human creativity will change?"
+    ],
+    "sampleAnswers": [
+      "I don't think of myself as artistic, but I'm creative when it comes to solving problems. Last year I was in charge of a fundraising event for a student club, and two days before the event the venue canceled our booking. We had no money for another space, so I suggested holding it outdoors in the university garden and turning it into a picnic with music. People actually liked it more than the original plan, and we raised more money than we expected. That's the kind of creativity I enjoy most.",
+      "I think it's a combination, but mostly it can be learned. Some people may naturally have more imagination, just as some people are naturally faster runners. But creativity depends a lot on habits, like asking questions, connecting ideas from different areas and not giving up after the first failure. These habits can be practiced. Many famous inventors and artists produced hundreds of bad ideas before a good one. So I believe that with the right environment and enough practice, almost anyone can become much more creative.",
+      "I partly agree. When most lessons are about memorizing information for an exam with only one correct answer, students learn that there's no point in trying unusual ideas, because they might lose marks. I remember being told my essay was too original for the exam format. However, I don't think exams are the only problem. Creativity also needs a strong base of knowledge, which school provides. The solution would be to include more open projects, where students are evaluated on how they approach a problem, not only on the final answer.",
+      "I think human creativity may become more valuable in some ways, not less. When machines can produce thousands of images or songs in seconds, those things will become very cheap, so people may care more about who made something and why. A song written by a person about a real experience has a story behind it, and I think audiences value that connection. At the same time, many creative workers will probably use these tools as assistants, the way photographers use digital cameras, so the skill will be in guiding them with good ideas."
+    ]
+  },
+  {
+    "id": "toefl-interview-21",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Ethical consumer choices",
+    "intro": "Hello, and thanks for participating. I'm a researcher studying how people make decisions about what they buy, and I'd like to ask you some questions about consumption and responsibility.",
+    "interviewer": {
+      "id": "int",
+      "name": "Ms. Priya Raman",
+      "role": "Consumer behavior researcher",
+      "gender": "f",
+      "accent": "en-GB"
+    },
+    "questions": [
+      "When you buy clothes or electronics, what factors influence your decision the most?",
+      "Do you think individual consumers can really change how large companies behave? Why or why not?",
+      "Ethical products, such as fair trade coffee or sustainable clothing, are often more expensive. Is it fair to expect everyone to buy them?",
+      "Who should be mainly responsible for reducing the environmental impact of products: consumers, companies or governments? Explain your view."
+    ],
+    "sampleAnswers": [
+      "To be honest, price is usually the biggest factor, since I'm a student with a limited budget. But for electronics, I also think a lot about how long something will last. I'd rather pay a bit more for a laptop that I can repair than buy a cheap one I'll have to replace in two years. With clothes, I've started buying more second-hand items, partly because they're cheaper and partly because I learned how much water is used to produce a single pair of jeans.",
+      "I think individuals alone have limited power, but collectively they can make a difference. One person refusing to buy a product won't be noticed. However, when many consumers change their habits at the same time, companies respond quickly, because they follow sales very closely. For example, a few years ago many people started complaining about excessive plastic packaging, and several supermarket chains in my country reduced it within months. So I believe consumer pressure works best when it's organized and visible, especially through social media campaigns.",
+      "No, I don't think it's fair to expect that from everyone. For families with low incomes, paying double for coffee or clothes is simply not realistic, and it would be unfair to make them feel guilty about it. People who can afford ethical products have more responsibility to buy them. But I think the real solution is to make ethical production the normal standard, through regulations, so that it's no longer a luxury choice. Then everyone would be buying responsibly, without having to pay a premium.",
+      "In my opinion, governments should carry the main responsibility, because they can set rules that apply to everyone. Consumers often don't have enough information, and companies naturally focus on profit, so voluntary changes tend to be slow. For instance, when governments required electronics to use the same type of charger, it cut electronic waste in a way that no individual could have achieved. That said, companies should design products that last longer, and consumers still have a role, but clear laws create a fair starting point for everyone."
+    ]
+  },
+  {
+    "id": "toefl-interview-22",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Failure and learning",
+    "intro": "Hi, and thank you for agreeing to speak with me. I'm a career coach, and I'm interested in how people experience failure and what they learn from it. I'd like to ask you a few questions.",
+    "interviewer": {
+      "id": "int",
+      "name": "Mr. Daniel Kwan",
+      "role": "Career coach",
+      "gender": "m",
+      "accent": "en-US"
+    },
+    "questions": [
+      "Tell me about a time when something you tried did not go as planned. How did you react?",
+      "Why do you think many people are so afraid of failing?",
+      "Some companies now reward employees for trying new ideas, even when those ideas fail. Do you think this is a good approach? Why or why not?",
+      "Is it possible to protect young people too much from failure? What might be the long-term effects?"
+    ],
+    "sampleAnswers": [
+      "A couple of years ago I applied for a scholarship to study abroad, and I was sure I would get it, because my grades were good. But I was rejected. At first I felt embarrassed and didn't want to talk about it. After a few weeks, though, I asked the committee for feedback, and they explained that my application essay was too general. The next year I applied again, wrote about a specific project I wanted to do, and this time I was accepted. That taught me that feedback is more useful than disappointment.",
+      "I think a big reason is that failure is often public, and people worry about what others will think. At school we are constantly graded and compared, so we learn early that mistakes have consequences. Many people also connect failure with their identity; instead of thinking that a project failed, they think that they are failures. Social media adds to this, because people usually share only their successes, which makes everyone else's mistakes feel unusual, even though they're completely normal.",
+      "I think it's a smart approach, as long as there are some limits. If employees are punished for every failed idea, they'll only propose safe ideas, and the company will stop innovating. Many successful products came from experiments that initially failed. However, the reward should be for well-planned attempts that teach the company something, not for careless mistakes. It also helps if teams share what they learned from each failure, so that others don't repeat it. That way, failure becomes a kind of investment rather than a waste.",
+      "Yes, I believe it is. If parents or teachers always solve problems for children, or make sure they never lose, those children don't get the chance to learn how to cope with disappointment. Later, as adults, a small setback at university or at work might feel like a disaster to them. I've seen classmates who had never received a low grade struggle a lot during their first year. Small failures in childhood are like practice. They help people build resilience, which is essential for dealing with the bigger challenges of adult life."
+    ]
+  }
+]

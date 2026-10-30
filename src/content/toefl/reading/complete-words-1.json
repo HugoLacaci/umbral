@@ -1,0 +1,62 @@
+[
+  {
+    "id": "toefl-ctw-01", "difficulty": "easy", "usage": "practice", "task": "complete-words",
+    "title": "Life in a honeybee colony",
+    "text": "Honeybees live in large colonies that can contain tens of thousands of individuals. Each [[colony|col]] has a single queen, [[whose|wh]] main job is to lay eggs. The [[worker|wor]] bees, which are all female, [[do|d]] almost everything else. They [[collect|col]] nectar and pollen, clean the [[hive|hi]], and care for the young. Male bees, [[called|cal]] drones, have only one task: to [[mate|ma]] with a queen. Because so [[many|ma]] tasks are shared, a colony [[behaves|beh]] almost like a single organism.",
+    "explanation": "«whose» es el relativo posesivo (la reina, cuyo trabajo…). «do almost everything else»: tras sujeto plural en presente va «do», no «did» (el texto está en presente). «so many tasks»: con sustantivo contable plural se usa «many», no «much». «behaves» lleva -s porque el sujeto es «a colony» (singular)."
+  },
+  {
+    "id": "toefl-ctw-02", "difficulty": "easy", "usage": "practice", "task": "complete-words",
+    "title": "The printing press",
+    "text": "Before the fifteenth century, books in Europe were copied by hand, usually by monks. This [[process|pro]] was slow, and books were [[very|ve]] expensive. Around 1450, Johannes Gutenberg [[developed|deve]] a printing press that used movable metal type. With [[the|t]] new machine, a small team [[could|co]] produce hundreds of pages in a [[single|sin]] day. As a [[result|res]], books became cheaper and more [[people|peo]] learned to read. Ideas [[also|al]] spread much faster [[than|th]] before.",
+    "explanation": "«developed» va en pasado (Around 1450). «could produce»: modal en pasado seguido de infinitivo. «As a result» es un conector fijo de consecuencia. «faster than»: comparativo + «than». «more people learned to read»: tras «more» va el sustantivo plural «people»."
+  },
+  {
+    "id": "toefl-ctw-03", "difficulty": "easy", "usage": "practice", "task": "complete-words",
+    "title": "Coral reefs",
+    "text": "Coral reefs are often called the rainforests of the sea because they support so much life. Although [[they|th]] cover less than one percent [[of|o]] the ocean floor, they are [[home|ho]] to about a quarter of all [[marine|mar]] species. Corals are [[tiny|ti]] animals [[that|th]] build hard skeletons from calcium. Most of them live together [[with|wi]] algae, which [[give|gi]] them food and color. When the [[water|wa]] becomes too warm, the algae leave and the [[coral|cor]] turns white.",
+    "explanation": "«be home to» = ser el hogar de (expresión fija). «marine species» = especies marinas; la pista es «the sea». «that build»: relativo para animales. «give» sin -s porque su sujeto es «algae» (plural). «the coral turns white»: singular, por eso «turns»."
+  },
+  {
+    "id": "toefl-ctw-04", "difficulty": "easy", "usage": "practice", "task": "complete-words",
+    "title": "Sleep and memory",
+    "text": "Scientists have long known that sleep is important for learning. During sleep, the [[brain|br]] does not simply rest. Instead, it [[actively|acti]] reviews information from the day and [[stores|sto]] the most useful parts in [[long|lo]]-term memory. In one [[study|st]], students who slept after [[learning|lear]] new words remembered more of [[them|th]] the next morning than students [[who|w]] stayed awake. For this [[reason|rea]], teachers often advise [[against|aga]] studying all night before an exam.",
+    "explanation": "«actively» es un adverbio (-ly) delante del verbo «reviews». «stores» lleva -s por el sujeto «it». «long-term memory» = memoria a largo plazo. «after learning»: tras preposición, verbo en -ing. «advise against + -ing» = desaconsejar algo; ojo, «against» es la única preposición que encaja con el sentido."
+  },
+  {
+    "id": "toefl-ctw-05", "difficulty": "easy", "usage": "practice", "task": "complete-words",
+    "title": "The water cycle",
+    "text": "Water on Earth moves in a continuous cycle. When the sun heats oceans and lakes, [[some|so]] of the water turns [[into|in]] vapor and rises into the [[air|a]]. As the vapor cools, it [[forms|fo]] tiny drops that gather [[together|toge]] as clouds. When the drops become too [[heavy|he]], they fall back to the [[ground|gro]] as rain or snow. This water then [[flows|flo]] into rivers, soaks into the soil, [[or|o]] returns to the sea, and the cycle [[begins|beg]] again.",
+    "explanation": "«turn into» = convertirse en. «gather together» = juntarse. «too heavy»: lo que hace caer las gotas es el peso. «or returns»: enumeración de alternativas (ríos, suelo o mar). «begins again»: la -s es por «the cycle» (singular)."
+  },
+  {
+    "id": "toefl-ctw-06", "difficulty": "easy", "usage": "practice", "task": "complete-words",
+    "title": "Roman roads",
+    "text": "The ancient Romans built one of the largest road networks in history. At its [[height|hei]], the empire had more than 80,000 kilometers [[of|o]] paved roads. These roads [[were|we]] designed mainly for soldiers, [[who|w]] needed to move quickly from [[one|o]] region to another. However, traders [[and|a]] travelers used them too. Roman engineers [[built|bu]] their roads in several layers, [[with|wi]] large stones at the bottom and smooth [[stones|sto]] on top. Some of these roads are [[still|st]] used today.",
+    "explanation": "«At its height» = en su apogeo (expresión fija). «were designed»: pasiva en pasado con sujeto plural. «from one region to another» es una estructura fija. «built» (pasado irregular de build). «still used today» = todavía se usan."
+  },
+  {
+    "id": "toefl-ctw-07", "difficulty": "medium", "usage": "practice", "task": "complete-words",
+    "title": "Urban heat islands",
+    "text": "Cities are often several degrees warmer than the countryside around them, a pattern known as the urban heat island effect. The main [[cause|ca]] is that materials such as concrete and asphalt [[absorb|abs]] heat during the day and [[release|rel]] it slowly at night. In [[addition|addi]], cities have fewer trees, [[which|wh]] normally cool the air by [[providing|prov]] shade and releasing water vapor. Heat from cars, factories, and air [[conditioners|condit]] adds to the problem. To [[reduce|red]] these effects, some cities are [[planting|plan]] more trees and painting roofs [[white|wh]].",
+    "explanation": "«absorb … and release»: dos verbos opuestos (absorber de día, liberar de noche). «In addition» = además. «by providing»: tras «by», verbo en -ing (paralelo con «releasing»). «air conditioners» = aparatos de aire acondicionado (plural, enumerado con cars y factories). «painting roofs white»: el blanco refleja el calor."
+  },
+  {
+    "id": "toefl-ctw-08", "difficulty": "medium", "usage": "practice", "task": "complete-words",
+    "title": "How migrating birds find their way",
+    "text": "Every year, billions of birds travel thousands of kilometers between their breeding and wintering grounds. Scientists [[have|ha]] long wondered how these birds find [[their|th]] way. Research suggests that they [[rely|re]] on several sources of information at [[once|on]]. Some species use the position of the [[sun|s]] during the day, while [[others|oth]] navigate by the stars at night. Many birds [[also|al]] appear to sense the Earth's magnetic [[field|fi]]. Young birds on [[their|th]] first journey seem to follow an [[inherited|inhe]] direction rather than learned landmarks.",
+    "explanation": "«have long wondered»: present perfect. «find their way» = orientarse. «rely on» = depender de. «at once» = a la vez. «Some species … while others»: contraste fijo. «magnetic field» = campo magnético. «inherited» contrasta con «learned»: lo heredado frente a lo aprendido."
+  },
+  {
+    "id": "toefl-ctw-09", "difficulty": "medium", "usage": "practice", "task": "complete-words",
+    "title": "The origins of jazz",
+    "text": "Jazz emerged in the early twentieth century in New Orleans, a port city where many musical traditions met. Early [[musicians|musi]] combined African rhythms, European harmony, [[and|a]] the blues to create a new sound. One [[feature|fea]] that made jazz different from earlier [[styles|sty]] was improvisation: players often invented melodies [[while|wh]] they were performing. As musicians moved [[north|no]] to cities such as Chicago and New York, the music [[spread|spr]] rapidly. By the 1920s, jazz [[had|h]] become so popular [[that|th]] the decade is [[sometimes|some]] called the Jazz Age.",
+    "explanation": "«while they were performing» = mientras tocaban (acción simultánea). «moved north»: Chicago y Nueva York están al norte de Nueva Orleans. «By the 1920s, jazz had become»: «by + fecha pasada» pide pasado perfecto. «so popular that»: estructura consecutiva so … that."
+  },
+  {
+    "id": "toefl-ctw-10", "difficulty": "medium", "usage": "practice", "task": "complete-words",
+    "title": "The default effect",
+    "text": "People often stick with whatever option is already selected for them, a tendency economists call the default effect. For [[example|exa]], countries where citizens are automatically registered [[as|a]] organ donors have much higher donation [[rates|ra]] than countries where people must sign up. This difference [[exists|exi]] even though the choice is [[equally|equ]] easy in [[both|bo]] systems. One [[explanation|expla]] is that changing a default requires [[effort|eff]], however small. Another is that people [[may|m]] see the default as a recommendation [[from|fr]] experts.",
+    "explanation": "«registered as organ donors» = inscritos como donantes. «donation rates» = tasas de donación (plural, con «higher»). «equally easy»: adverbio + adjetivo. «both systems»: se comparan dos sistemas. «One explanation … Another»: estructura paralela. «effort, however small» = un esfuerzo, por pequeño que sea."
+  }
+]

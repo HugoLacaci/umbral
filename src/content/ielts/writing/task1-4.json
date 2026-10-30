@@ -1,0 +1,253 @@
+[
+  {
+    "id": "ielts-t1-mixed-1",
+    "difficulty": "easy",
+    "usage": "practice",
+    "chartType": "mixed",
+    "prompt": "The bar chart below shows the number of international students at Hollins University between 2019 and 2023. The pie chart shows the regions these students came from in 2023.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "mixed",
+      "title": "International students at Hollins University",
+      "visuals": [
+        {
+          "type": "bar",
+          "title": "Number of international students, 2019–2023",
+          "xLabel": "Year",
+          "yLabel": "Students",
+          "unit": "students",
+          "categories": ["2019", "2020", "2021", "2022", "2023"],
+          "series": [{ "name": "International students", "values": [2400, 2100, 2600, 3200, 3800] }]
+        },
+        {
+          "type": "pie",
+          "title": "Region of origin of international students, 2023",
+          "unit": "%",
+          "pies": [
+            {
+              "title": "2023",
+              "slices": [
+                { "label": "Asia", "value": 46 },
+                { "label": "Europe", "value": 22 },
+                { "label": "Latin America", "value": 14 },
+                { "label": "Africa", "value": 10 },
+                { "label": "North America", "value": 5 },
+                { "label": "Oceania", "value": 3 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Overview must cover BOTH charts: numbers grew overall (2,400 → 3,800) and Asia was the largest source region in 2023.",
+      "There was a dip in 2020 (2,100) before strong growth from 2021.",
+      "Asia (46%) supplied more than twice the share of Europe (22%).",
+      "North America and Oceania were the smallest sources (5% and 3%)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The bar chart shows the number of international students enrolled at Hollins University between 2019 and 2023, while the pie chart breaks down their regions of origin in 2023.\n\nOverall, international enrolment grew substantially over the period despite a brief fall at the beginning, and by 2023, students from Asia made up the largest group by a wide margin, ahead of those from Europe and all other regions.\n\nIn 2019, the university had 2,400 international students. This figure dipped to 2,100 in 2020, but it recovered the following year, reaching 2,600, and then rose sharply to 3,200 in 2022 and 3,800 in 2023. In total, the number of international students increased by 1,400, or almost 60%, over the five-year period.\n\nTurning to the pie chart, almost half of the international students in 2023 (46%) came from Asia, more than double the proportion from Europe (22%). Latin America and Africa accounted for 14% and 10% respectively, while North America and Oceania together contributed only 8% of the total, at 5% and 3%.",
+        "commentary": "Task Achievement (8): el overview resume los dos gráficos en una sola frase, que es lo que se espera en una tarea mixta. Cifras exactas y cálculos correctos (2,400 → 3,800 = +1,400, casi un 60%; 46% es más del doble de 22%). Coherence & Cohesion (8): un párrafo por gráfico con una transición explícita (Turning to the pie chart). Lexical Resource (8): enrolment, breaks down, dipped, recovered, by a wide margin, contributed. Grammatical Range & Accuracy (8): participios (reaching 2,600), despite + sustantivo y respectively, todo sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The bar chart shows the number of international students in Hollins University from 2019 to 2023 and the pie chart shows where they come from.\n\nIn 2019 there were 2,400 students. In 2020 the number decreased to 2,100, maybe because of the travel problems. After that, the number increased every year. In 2021 there were 2,600 students, in 2022 there were 3,200 and in 2023 there were 3,800 students, so it was the highest year.\n\nIn the pie chart, the most students come from Asia with 46%. Then Europe is 22% and Latin America is 14%. Africa is 10%, North America is 5% and Oceania is only 3%, it is the smallest.\n\nIn conclusion, the international students increased a lot in this university between 2019 and 2023 and the most important region is Asia, the other regions are less important than Asia.",
+        "commentary": "Task Achievement (6): describe ambos gráficos con datos correctos y la conclusión contiene un overview aceptable, pero el cuerpo es un listado de cifras sin comparaciones (no dice que Asia duplica a Europa) y especula sobre causas (maybe because of the travel problems). Coherence & Cohesion (6): un párrafo por gráfico, pero transiciones muy básicas y una oración final con comas que unen ideas. Lexical Resource (6): repetición de there were y is; 'less important' no es una forma adecuada de describir porcentajes menores. Grammatical Range & Accuracy (6): frases simples, mezcla de presente y pasado para el mismo año (come from / 2023) y errores de preposición (in Hollins University)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-mixed-2",
+    "difficulty": "medium",
+    "usage": "practice",
+    "chartType": "mixed",
+    "prompt": "The graph below shows the number of tourists arriving on the island of Selvara each month in 2024. The table shows hotel occupancy, room prices and length of stay by season in the same year.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "mixed",
+      "title": "Tourism on Selvara, 2024",
+      "visuals": [
+        {
+          "type": "line",
+          "title": "Monthly tourist arrivals, 2024",
+          "xLabel": "Month",
+          "yLabel": "Arrivals (thousands)",
+          "unit": "thousand",
+          "categories": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+          "series": [{ "name": "Tourist arrivals", "values": [12, 14, 20, 31, 45, 68, 92, 98, 60, 34, 16, 18] }]
+        },
+        {
+          "type": "table",
+          "title": "Hotel indicators by season, 2024",
+          "columns": ["Season", "Average hotel occupancy (%)", "Average room price (US$ per night)", "Average length of stay (nights)"],
+          "rows": [
+            ["Winter (Dec–Feb)", 38, 85, 4.2],
+            ["Spring (Mar–May)", 57, 110, 5.1],
+            ["Summer (Jun–Aug)", 94, 210, 8.6],
+            ["Autumn (Sep–Nov)", 61, 105, 4.8]
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Tourism was highly seasonal, peaking in summer (August: 98,000) and lowest in winter (January: 12,000).",
+      "All three hotel indicators were highest in summer (94% occupancy, $210 per night, 8.6 nights).",
+      "Winter had the lowest occupancy, prices and length of stay (38%, $85, 4.2 nights).",
+      "Spring and autumn figures were similar to each other."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The line graph shows monthly tourist arrivals on the island of Selvara in 2024, while the table gives seasonal data on hotel occupancy, room prices and length of stay.\n\nOverall, tourism on Selvara was highly seasonal, with arrivals peaking in summer. This peak was mirrored by all three hotel indicators, which were considerably higher in summer than at any other time of year.\n\nArrivals were lowest in January, at just 12,000, before climbing steadily through spring to 45,000 in May. They then surged to a high of 98,000 in August, more than eight times the January figure, before dropping sharply to 34,000 in October and 16,000 in November, with a slight recovery to 18,000 in December.\n\nAccording to the table, hotels were almost full in summer, with an occupancy rate of 94%, compared with 57% in spring, 61% in autumn and only 38% in winter. Rooms were also most expensive in summer, at $210 a night, roughly double the spring and autumn prices, and visitors stayed longest then, averaging 8.6 nights, compared with between 4.2 and 5.1 nights in other seasons.",
+        "commentary": "Task Achievement (8): el overview conecta los dos visuales (la estacionalidad de las llegadas se refleja en los indicadores hoteleros), que es la clave de una tarea mixta. Datos exactos: 98 frente a 12 es más de ocho veces; 210 es aproximadamente el doble de 110 y 105. Coherence & Cohesion (8): un párrafo para el gráfico y otro para la tabla, con comparaciones agrupadas por indicador. Lexical Resource (8): highly seasonal, mirrored, surged, occupancy rate, averaging. Grammatical Range & Accuracy (8): estructuras complejas bien controladas (before + -ing, with + sustantivo + participio, comparativos y superlativos) y sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The line graph shows how many tourists visited Selvara in every month of 2024 and the table shows information about the hotels in each season.\n\nIn January there were 12,000 tourists and in February 14,000. Then the number increased in March, April and May to 45,000. In summer there were the most tourists, 68,000 in June, 92,000 in July and 98,000 in August. After that the tourists decreased to 60,000 in September and 16,000 in November. In December it was 18,000.\n\nIn the table, the summer has the highest occupancy with 94% and the price is $210. The tourists stay 8.6 nights. In winter the occupancy is only 38% and the price is $85 and they stay 4.2 nights. Spring and autumn are in the middle and they are similar.\n\nIn conclusion, the summer is the most popular season in Selvara and the hotels are more expensive and more full in this season.",
+        "commentary": "Task Achievement (6): datos correctos y menciona los extremos de la tabla, pero el gráfico se describe mes a mes casi sin seleccionar, y 'Spring and autumn are in the middle' es demasiado vago (no da ninguna cifra). La conclusión es muy breve y no relaciona los dos visuales. Coherence & Cohesion (6): organización lógica por visual, pero con encadenamientos repetitivos (and… and… and). Lexical Resource (6): limitado (there were, increased, decreased, is) y 'the tourists decreased' en lugar de 'the number of tourists fell'. Grammatical Range & Accuracy (6): pocas estructuras complejas y uso del presente para datos de 2024 en la tabla, inconsistente con el pasado del párrafo anterior."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-mixed-3",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "mixed",
+    "prompt": "The bar chart below shows the average number of hours per week that teenagers in Dunmore spent on five activities in 2010 and 2020. The pie chart shows the devices they used for leisure screen time in 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "mixed",
+      "title": "Teenagers' weekly activities in Dunmore",
+      "visuals": [
+        {
+          "type": "bar",
+          "title": "Average hours per week spent on activities by teenagers",
+          "xLabel": "Activity",
+          "yLabel": "Hours per week",
+          "unit": "hours",
+          "categories": ["Homework", "Leisure screen time", "Sport", "Reading for pleasure", "Socialising in person"],
+          "series": [
+            { "name": "2010", "values": [9, 14, 6, 4, 10] },
+            { "name": "2020", "values": [8, 27, 4, 2, 6] }
+          ]
+        },
+        {
+          "type": "pie",
+          "title": "Leisure screen time by device, 2020",
+          "unit": "%",
+          "pies": [
+            {
+              "title": "2020",
+              "slices": [
+                { "label": "Smartphone", "value": 54 },
+                { "label": "Television", "value": 18 },
+                { "label": "Laptop / PC", "value": 15 },
+                { "label": "Games console", "value": 9 },
+                { "label": "Tablet", "value": 4 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Leisure screen time almost doubled (14 → 27 hours) and was the largest activity in both years.",
+      "Time spent on every other activity fell; in 2020 screen time exceeded the other four activities combined (20 hours).",
+      "Homework changed least (9 → 8 hours); reading halved (4 → 2) and socialising in person fell from 10 to 6 hours.",
+      "Smartphones accounted for over half of screen time in 2020 (54%), three times the share of television (18%)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The bar chart compares the average number of hours per week that teenagers in Dunmore spent on five activities in 2010 and 2020, and the pie chart shows which devices they used for leisure screen time in 2020.\n\nOverall, recreational screen time almost doubled over the decade, while the time spent on every other activity fell. By 2020, smartphones accounted for more than half of all screen time.\n\nIn 2010, teenagers already spent more time on screens than on anything else, at 14 hours a week, followed by socialising in person (10 hours) and homework (9 hours). Sport and reading for pleasure took up only 6 and 4 hours respectively.\n\nTen years later, screen time had risen to 27 hours a week, more than the other four activities combined. Face-to-face socialising dropped to 6 hours, sport fell to 4 hours and reading halved to just 2. Homework remained relatively stable, falling by only one hour, to 8.\n\nAccording to the pie chart, 54% of this screen time was spent on smartphones, three times as much as on television (18%). Laptops or PCs made up 15%, games consoles 9% and tablets a mere 4%.",
+        "commentary": "Task Achievement (8): overview que integra los dos gráficos y cifras exactas. Destaca un rasgo que solo se ve calculando: en 2020 el tiempo de pantalla (27 h) supera la suma de las otras cuatro actividades (8 + 4 + 2 + 6 = 20 h). También es correcto que el móvil triplica a la televisión (54% frente a 18%). Coherence & Cohesion (8): párrafos por año y luego el pie chart, con referencia que los enlaza (this screen time). Lexical Resource (8): sinónimos para no repetir (recreational, face-to-face, took up, made up, a mere). Grammatical Range & Accuracy (8): pasado perfecto, comparativos (three times as much as) y elipsis (reading halved to just 2) usados con precisión."
+      },
+      {
+        "level": "6",
+        "text": "The bar chart shows the hours that teenagers spend in different activities in 2010 and 2020 and the pie chart shows the devices for screen time in 2020.\n\nIn 2010 teenagers spent 14 hours in screen time, 10 hours socialising, 9 hours homework, 6 hours sport and 4 hours reading. In 2020 the screen time increased a lot to 27 hours. But the other activities decreased. Homework was 8 hours, sport 4 hours, reading 2 hours and socialising 6 hours.\n\nIn the pie chart, the smartphone is the most used device with 54%. Television is 18% and laptop or PC is 15%. Games console is 9% and tablet is 4%.\n\nIn conclusion, teenagers spend more time with screens now and less time doing sports, reading and meeting friends. This is a bad situation because they need to do more exercise and read more books for their education.",
+        "commentary": "Task Achievement (6): todos los datos son correctos y la conclusión resume la tendencia del gráfico de barras, pero falta un overview que incluya el pie chart, no hay comparaciones elaboradas (cuánto crece la pantalla, que la lectura se reduce a la mitad) y la última frase es una opinión, algo que no se pide en Task 1. Coherence & Cohesion (6): estructura clara pero mecánica; 'But' al inicio de oración y párrafos que son listas. Lexical Resource (6): limitado y con preposiciones incorrectas (spend in different activities, 14 hours in screen time, 9 hours homework). Grammatical Range & Accuracy (6): frases mayoritariamente simples y presente usado para 2010/2020 (spend)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-m1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "chartType": "bar",
+    "prompt": "The chart below shows the number of overnight stays in four types of tourist accommodation in Verdania in 2012, 2016, 2020 and 2024.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "bar",
+      "title": "Overnight stays in tourist accommodation in Verdania (millions)",
+      "xLabel": "Type of accommodation",
+      "yLabel": "Overnight stays (millions)",
+      "unit": "million",
+      "categories": ["Hotels", "Campsites", "Holiday rentals", "Hostels"],
+      "series": [
+        { "name": "2012", "values": [42, 15, 8, 6] },
+        { "name": "2016", "values": [46, 16, 17, 7] },
+        { "name": "2020", "values": [21, 14, 12, 2] },
+        { "name": "2024", "values": [44, 19, 31, 5] }
+      ]
+    },
+    "keyFeatures": [
+      "Hotels were the most popular type of accommodation in every year.",
+      "Holiday rentals grew the most, from 8 million to 31 million (almost four times), overtaking campsites in 2016.",
+      "All types fell in 2020; hotels more than halved (46 → 21 million) and hostels dropped to 2 million, while campsites were least affected.",
+      "By 2024 most types had recovered; campsites reached a new high (19 million) but hostels remained below earlier levels."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The bar chart shows the number of overnight stays, in millions, in four types of tourist accommodation in Verdania in 2012, 2016, 2020 and 2024.\n\nOverall, hotels were the most popular type of accommodation in every year shown, although holiday rentals experienced by far the strongest growth. All four types saw a fall in 2020, but most had recovered strongly by 2024.\n\nIn 2012, hotels recorded 42 million overnight stays, far more than campsites (15 million), holiday rentals (8 million) and hostels (6 million). By 2016, hotel stays had risen to 46 million, and holiday rentals had more than doubled to 17 million, overtaking campsites, which remained almost unchanged at 16 million.\n\nIn 2020, the hotel figure more than halved to 21 million, and hostel stays dropped to just 2 million. Campsites were the least affected, falling only slightly to 14 million. Four years later, hotels had bounced back to 44 million and campsites reached a high of 19 million. Most strikingly, holiday rentals rose from 12 to 31 million, almost four times their 2012 level. Hostels, however, had not fully recovered, with 5 million stays.",
+        "commentary": "Task Achievement (8): overview equilibrado (los hoteles lideran siempre, los alquileres vacacionales crecen más, caída general en 2020 y recuperación). Con 16 datos, selecciona los movimientos importantes y todas las comparaciones son exactas (21 es menos de la mitad de 46; 31 es casi cuatro veces 8). Coherence & Cohesion (8): organización cronológica en dos bloques (crecimiento 2012–2016; caída y recuperación 2020–2024), con conectores de contraste bien colocados (however, Most strikingly). Lexical Resource (8): recorded, overtaking, bounced back, the least affected. Grammatical Range & Accuracy (8): pasado perfecto (had risen, had not fully recovered), participios y relativas usados con precisión."
+      },
+      {
+        "level": "6",
+        "text": "The chart shows how many nights tourists stayed in hotels, campsites, holiday rentals and hostels in Verdania in four years.\n\nHotels are the most popular in all the years. In 2012 there were 42 million, in 2016 46 million, in 2020 only 21 million and in 2024 44 million. The number in 2020 is very low because of the pandemic.\n\nCampsites had 15 million in 2012 and 16 million in 2016. In 2020 it was 14 million and in 2024 it was 19 million. Holiday rentals increased very much, from 8 million in 2012 to 17 million in 2016 and 31 million in 2024, but in 2020 it was 12 million. Hostels were the less popular, with 6, 7, 2 and 5 million.\n\nIn conclusion, hotels are the most popular in all the years but holiday rentals are increasing very fast and in 2024 they are the second.",
+        "commentary": "Task Achievement (6): hay un overview aceptable en la conclusión y los datos son correctos, pero se describen las categorías una a una con todas las cifras, sin destacar que todas caen en 2020 ni que los alquileres superan a los campings. Atribuir la caída a 'the pandemic' es información externa. Coherence & Cohesion (6): un párrafo por tipo de alojamiento, con pocas comparaciones entre ellos. Lexical Resource (6): vocabulario repetitivo (it was, increased very much) y error de forma (the less popular por the least popular). Grammatical Range & Accuracy (6): mezcla de presente y pasado para datos pasados (Hotels are the most popular… in 2012) y frases muy simples."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-m2",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 2,
+    "chartType": "process",
+    "prompt": "The diagram below shows how food waste is used to produce energy and fertiliser.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "process",
+      "title": "Turning food waste into energy and fertiliser",
+      "cyclic": true,
+      "steps": [
+        { "label": "Collection", "detail": "food waste collected from households and restaurants" },
+        { "label": "Screening", "detail": "plastic and metal removed at the plant" },
+        { "label": "Shredding", "detail": "waste shredded and mixed with water to form a slurry" },
+        { "label": "Pasteurisation", "detail": "slurry heated to 70°C for one hour to kill harmful bacteria" },
+        { "label": "Digestion", "detail": "slurry pumped into a sealed tank; bacteria break it down without oxygen for 30–40 days" },
+        { "label": "Separation", "detail": "biogas collected at the top; digestate drained from the bottom" },
+        { "label": "Energy generation", "detail": "biogas cleaned and burned to generate electricity and heat" },
+        { "label": "Fertiliser", "detail": "digestate spread on farmland" },
+        { "label": "Food production", "detail": "crops grown and processed into food, creating new food waste" }
+      ]
+    },
+    "keyFeatures": [
+      "The process is cyclical: food waste ultimately helps to produce new food.",
+      "Preparation stages (screening, shredding, pasteurisation) come before digestion.",
+      "Bacteria break down the waste without oxygen for 30–40 days in a sealed tank.",
+      "There are two outputs: biogas (for electricity and heat) and digestate (fertiliser for crops)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The diagram illustrates how food waste is converted into energy and fertiliser, and how this process links back to food production.\n\nOverall, the process is cyclical and consists of nine stages. After being prepared, the waste is broken down by bacteria, producing two useful outputs: biogas, which is used to generate energy, and digestate, which fertilises crops that eventually become food again.\n\nTo begin with, food waste is collected from households and restaurants and taken to a plant, where any plastic and metal are removed. The remaining waste is shredded and mixed with water to form a slurry, which is then heated to 70°C for an hour to kill harmful bacteria.\n\nNext, the slurry is pumped into a sealed tank, where bacteria break it down without oxygen over 30 to 40 days. The resulting biogas rises and is collected at the top of the tank before being cleaned and burned to generate electricity and heat. Meanwhile, the digestate is drained from the bottom and spread on farmland as fertiliser. The crops grown there are eventually processed into food, and the waste from this food starts the cycle again.",
+        "commentary": "Task Achievement (8): overview muy completo (proceso cíclico, número de etapas, dos productos finales) y descripción exacta de todos los pasos con sus datos (70°C, una hora, 30–40 días). Coherence & Cohesion (8): secuenciación clara (To begin with, Next, Meanwhile) y Meanwhile marca correctamente que los dos productos siguen caminos paralelos; el final enlaza con el inicio del ciclo. Lexical Resource (8): converted into, slurry, harmful, resulting, eventually, reformulando el diagrama en lugar de copiarlo. Grammatical Range & Accuracy (8): pasiva en presente variada (is shredded, is pumped, is drained), pasiva con -ing (After being prepared, before being cleaned) y relativas sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The diagram shows how the food waste become energy and fertiliser. There are nine steps.\n\nFirst, people collect the food waste from houses and restaurants. In the plant they remove the plastic and the metal. Then the waste is shredded and they mix it with water and it is heated to 70 degrees for one hour, for kill the bacteria.\n\nAfter that, the waste go to a big tank and the bacteria eat it without oxygen for 30 to 40 days. This make biogas and digestate. The biogas go to the top and it is used for make electricity and heat. The digestate go out from the bottom and the farmers put it on the fields like fertiliser.\n\nFinally, the farmers grow crops and this crops become food, and then there is food waste again, so it is a cycle. In conclusion, the food waste is useful for make energy and fertiliser.",
+        "commentary": "Task Achievement (6): sigue todas las etapas y reconoce que es un ciclo, pero el overview inicial se limita al número de pasos y no señala los dos productos ni las fases; falta precisión (big tank en lugar de sealed tank). Coherence & Cohesion (6): secuenciadores básicos (First, Then, After that, Finally) y frases encadenadas con and. Lexical Resource (6): vocabulario informal o impreciso (the bacteria eat it, go out from the bottom, like fertiliser). Grammatical Range & Accuracy (6): la pasiva aparece solo a veces; errores frecuentes de concordancia (the food waste become, the waste go, This make, this crops) y de preposición + infinitivo (for kill, for make)."
+      }
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "toefl-repeat-09",
+    "difficulty": "easy",
+    "usage": "practice",
+    "context": "You are working at the welcome desk of a natural history museum. Listen to your manager and repeat what she says.",
+    "visual": "A museum entrance hall with a ticket counter, a large whale model hanging from the ceiling and a cloakroom.",
+    "speaker": { "id": "man", "name": "Rachel Adams", "role": "Front desk manager", "gender": "f", "accent": "en-GB" },
+    "sentences": [
+      "Tickets are sold here.",
+      "Students get a twenty percent discount.",
+      "Large bags must be left in the cloakroom.",
+      "The whale exhibition is on the ground floor to the left.",
+      "Guided tours for school groups need to be booked a week in advance.",
+      "The museum café on the first floor serves hot meals from noon until three o'clock.",
+      "If a visitor loses something, write down a description and their phone number, then pass the form to security."
+    ]
+  },
+  {
+    "id": "toefl-repeat-10",
+    "difficulty": "medium",
+    "usage": "practice",
+    "context": "You are helping out at the university's computer lab. Listen to the IT technician and repeat what he says.",
+    "visual": "Rows of desktop computers, a large printer in the corner and a whiteboard with the Wi-Fi password.",
+    "speaker": { "id": "tech", "name": "Ryan Cooper", "role": "IT technician", "gender": "m", "accent": "en-US" },
+    "sentences": [
+      "Log in with your student ID.",
+      "Printing costs ten cents per page.",
+      "Save your files to the cloud, not the desktop.",
+      "All of the computers restart automatically every night at midnight.",
+      "If the printer jams, turn it off and wait a few seconds.",
+      "Students who forget their password can reset it through the university portal using their personal email.",
+      "Remind everyone that software installed on these machines is licensed only for academic use and cannot be copied."
+    ]
+  },
+  {
+    "id": "toefl-repeat-11",
+    "difficulty": "medium",
+    "usage": "practice",
+    "context": "You are training as a guide for the campus history walking tour. Listen to the tour leader and repeat what she says.",
+    "visual": "An old stone building with a clock tower, surrounded by trees, with a group of students standing in front of it.",
+    "speaker": { "id": "lead", "name": "Sophie Turner", "role": "Tour leader", "gender": "f", "accent": "en-AU" },
+    "sentences": [
+      "This is the old clock tower.",
+      "It was built over a century ago.",
+      "The original building was used as a library.",
+      "The clock was damaged by a storm in the nineteen fifties.",
+      "Today the tower houses the main offices of the university's history department.",
+      "Students traditionally gather here on graduation day to take photographs with their families.",
+      "From the top of the tower, which opens to visitors once a month, you can see the whole city."
+    ]
+  },
+  {
+    "id": "toefl-repeat-12",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You are volunteering at a wildlife rescue center. Listen to the veterinarian and repeat what he says.",
+    "visual": "An animal care room with cages, a small owl wrapped in a towel and a vet checking its wing.",
+    "speaker": { "id": "vet", "name": "Dr. Michael Ross", "role": "Wildlife veterinarian", "gender": "m", "accent": "en-CA" },
+    "sentences": [
+      "Wash your hands first.",
+      "Always wear gloves with the birds.",
+      "This owl was found with an injured wing.",
+      "Wild animals become stressed when people make loud noises.",
+      "Each animal's feeding schedule is posted on the door of its enclosure.",
+      "We try to limit human contact so that the animals don't lose their natural fear of people.",
+      "Once an animal has fully recovered, we release it as close as possible to the place where it was originally found."
+    ]
+  },
+  {
+    "id": "toefl-repeat-13",
+    "difficulty": "easy",
+    "usage": "practice",
+    "context": "You have just started working at the campus bookstore. Listen to the store supervisor and repeat what she says.",
+    "visual": "A bookstore with shelves of textbooks, a rack of university sweatshirts and a cash register.",
+    "speaker": { "id": "store", "name": "Hannah Lee", "role": "Bookstore supervisor", "gender": "f", "accent": "en-US" },
+    "sentences": [
+      "Textbooks are at the back.",
+      "We also sell used books.",
+      "Customers need a receipt to return an item.",
+      "Course books are organized by department and course number.",
+      "During the first week of term, the store stays open until eight p.m.",
+      "Students can sell their old textbooks back to us at the end of each semester for cash.",
+      "If a book is out of stock, offer to order it for the customer and explain that delivery usually takes five days."
+    ]
+  },
+  {
+    "id": "toefl-repeat-14",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You are training to work at a university astronomy observatory on public viewing nights. Listen to the astronomer and repeat what he says.",
+    "visual": "A domed observatory at night with a large telescope pointing through an opening in the roof.",
+    "speaker": { "id": "astro", "name": "Dr. Samuel Hughes", "role": "Observatory astronomer", "gender": "m", "accent": "en-GB" },
+    "sentences": [
+      "Let your eyes adjust slowly.",
+      "Please don't touch the telescope lens.",
+      "Tonight we will be looking at the planet Saturn.",
+      "Bright lights from phones make it harder to see faint stars.",
+      "The dome rotates so that the telescope can follow objects across the sky.",
+      "If the weather turns cloudy, we will move inside for a short presentation about the solar system.",
+      "Visitors are often surprised to learn that the light they see from some stars left them thousands of years ago."
+    ]
+  },
+  {
+    "id": "toefl-repeat-15",
+    "difficulty": "medium",
+    "usage": "practice",
+    "context": "You are starting a job at the university dining hall. Listen to the kitchen manager and repeat what she says.",
+    "visual": "A busy cafeteria with a salad bar, hot food counters and students carrying trays.",
+    "speaker": { "id": "chef", "name": "Grace Miller", "role": "Kitchen manager", "gender": "f", "accent": "en-CA" },
+    "sentences": [
+      "Tie your hair back, please.",
+      "Lunch service starts at eleven thirty.",
+      "Every dish must show a list of allergens.",
+      "The salad bar needs to be refilled every twenty minutes.",
+      "Vegetarian and vegan options are kept on the separate green counter.",
+      "Food that has been out for more than two hours must be thrown away for safety reasons.",
+      "When students ask about ingredients and you aren't completely sure, check with the chef rather than guessing the answer."
+    ]
+  },
+  {
+    "id": "toefl-repeat-16",
+    "difficulty": "hard",
+    "usage": "practice",
+    "context": "You are training as a guide at a university's marine biology aquarium. Listen to the research coordinator and repeat what she says.",
+    "visual": "A large aquarium tank with coral, small colourful fish and a sea turtle, with children pressing their hands to the glass.",
+    "speaker": { "id": "mar", "name": "Dr. Chloe Bennett", "role": "Research coordinator", "gender": "f", "accent": "en-AU" },
+    "sentences": [
+      "Please don't tap the glass.",
+      "This turtle is fifteen years old.",
+      "Coral reefs are made by tiny living animals.",
+      "This tank recreates the water conditions of a tropical reef.",
+      "Our researchers study how rising ocean temperatures affect the growth of coral.",
+      "Visitors frequently ask whether the fish were caught in the wild, but all of them were bred here.",
+      "At the end of the tour, encourage guests to visit the touch pool, where they can gently handle starfish under supervision."
+    ]
+  }
+]

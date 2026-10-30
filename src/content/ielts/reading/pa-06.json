@@ -1,0 +1,203 @@
+[
+  {
+    "id": "ielts-r-pa-06",
+    "difficulty": "hard",
+    "usage": "practice",
+    "passageNo": 3,
+    "title": "Living Light",
+    "subtitle": "Why so many sea creatures glow, and what we have learned from them",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "On a dark night in certain tropical bays, a swimmer's every movement leaves a trail of blue-green sparks. The light comes from single-celled organisms called dinoflagellates, and it is one of the most familiar examples of bioluminescence: the production of light by living things. On land the phenomenon is relatively rare, limited mainly to fireflies, some fungi and a handful of worms and insects. In the ocean it is the rule rather than the exception. When researchers analysed thousands of hours of video recorded by remotely operated vehicles off the coast of California, they found that roughly three-quarters of the animals visible in the footage were capable of producing light."
+      },
+      {
+        "label": "B",
+        "text": "Almost all bioluminescence depends on the same basic chemistry. A light-emitting molecule, known generally as a luciferin, reacts with oxygen in the presence of an enzyme, a luciferase, which speeds up the reaction. The energy released excites the molecule, which then emits a photon as it returns to a stable state. Unlike an old-fashioned light bulb, which wastes most of its energy as heat, this reaction converts energy into light with remarkable efficiency, which is why bioluminescence is sometimes described as 'cold light'. Curiously, the luciferins and luciferases of different groups of organisms are often chemically unrelated, suggesting that the ability to glow has evolved independently many times; one recent estimate puts the figure at more than ninety."
+      },
+      {
+        "label": "C",
+        "text": "In the deep sea, where sunlight never penetrates, light serves a remarkable range of purposes. The best known is attracting prey. The female anglerfish carries a fleshy lure on a modified fin above its mouth, and the glow comes not from the fish itself but from bacteria living inside the lure. Other animals use light for defence. Some deep-sea shrimps, when attacked, release a cloud of glowing fluid instead of the dark ink that squid use in shallower waters, confusing the predator while the shrimp escapes into the darkness. Light also allows animals to find and recognise partners: in certain species, males and females have distinctive patterns of light organs, a kind of visual signature."
+      },
+      {
+        "label": "D",
+        "text": "One of the subtlest uses is camouflage. In the twilight zone, between about 200 and 1,000 metres deep, faint sunlight still filters down from above, and any animal swimming there appears as a dark shape to a predator looking upwards. Many fish and squid avoid this by covering their undersides with light organs that produce a glow matching the colour and brightness of the light from above, so that their silhouette effectively disappears. This strategy, called counter-illumination, requires precise control: experiments have shown that some animals adjust their output within seconds when the light above them changes."
+      },
+      {
+        "label": "E",
+        "text": "Dinoflagellates pose a puzzle, since a single cell gains no obvious benefit from flashing. The leading explanation is known as the 'burglar alarm' hypothesis. When a small grazing animal such as a copepod begins to feed on the cells, the flashes it triggers make the grazer visible to larger fish, which may then eat it. The light, in other words, works not by frightening the attacker but by summoning its enemies. Laboratory experiments have provided support for this idea, showing that predatory fish catch more copepods in water containing luminous dinoflagellates than in water containing non-luminous ones."
+      },
+      {
+        "label": "F",
+        "text": "Most deep-sea creatures emit and detect blue light, which travels furthest through seawater. A few species of dragonfish, however, have broken this rule. Besides the usual blue organs, they possess light organs beneath the eyes that emit red light, together with the ability to see it. Because most of their prey cannot detect red wavelengths, the fish can illuminate their surroundings without being noticed, rather as a soldier might use night-vision equipment. Remarkably, at least one species appears to obtain the pigment it needs to see red from its diet, which includes small crustaceans that have themselves eaten algae."
+      },
+      {
+        "label": "G",
+        "text": "Bioluminescence has also proved useful to humans. The enzyme from fireflies is widely used in laboratories and by the food industry to detect ATP, a molecule found in all living cells: if a swab taken from a kitchen surface produces light when mixed with luciferin and luciferase, the surface has not been properly cleaned. Related research on a glowing jellyfish led to the isolation of green fluorescent protein, which allows scientists to label and follow individual cells and was recognised with a Nobel Prize in 2008. Some questions, however, remain unanswered. Sailors have described 'milky seas' for centuries, and a study published in 2005 used satellite images to confirm one that had covered more than 15,000 square kilometres of the north-western Indian Ocean. What causes bacteria to glow on such a vast scale, and what advantage they gain from doing so, is still not understood."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-info",
+        "instructions": "Questions 1–5\nReading Passage 3 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G.\nNB You may use any letter more than once.",
+        "options": [
+          { "key": "A", "text": "Paragraph A" },
+          { "key": "B", "text": "Paragraph B" },
+          { "key": "C", "text": "Paragraph C" },
+          { "key": "D", "text": "Paragraph D" },
+          { "key": "E", "text": "Paragraph E" },
+          { "key": "F", "text": "Paragraph F" },
+          { "key": "G", "text": "Paragraph G" }
+        ],
+        "items": [
+          {
+            "id": "q1",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "an example of an animal that depends on other organisms to produce its light",
+            "answer": "C",
+            "evidence": "the glow comes not from the fish itself but from bacteria living inside the lure",
+            "explanation": "In paragraph C the anglerfish's light is made by bacteria (other organisms), not by the fish. Paragraph G also mentions glowing bacteria, but they produce their own light."
+          },
+          {
+            "id": "q2",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a reference to a practical way of checking hygiene",
+            "answer": "G",
+            "evidence": "if a swab taken from a kitchen surface produces light when mixed with luciferin and luciferase, the surface has not been properly cleaned",
+            "explanation": "The swab test in paragraph G shows whether a surface has been 'properly cleaned' (= checking hygiene)."
+          },
+          {
+            "id": "q3",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "the results of an experiment comparing two kinds of water",
+            "answer": "E",
+            "evidence": "predatory fish catch more copepods in water containing luminous dinoflagellates than in water containing non-luminous ones",
+            "explanation": "Paragraph E compares water with luminous and non-luminous dinoflagellates. Paragraph D also mentions experiments, but they do not compare types of water."
+          },
+          {
+            "id": "q4",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a description of animals rapidly altering their light to suit changing conditions",
+            "answer": "D",
+            "evidence": "some animals adjust their output within seconds when the light above them changes",
+            "explanation": "'Adjust their output within seconds' = 'rapidly altering their light'; 'when the light above them changes' = 'changing conditions'."
+          },
+          {
+            "id": "q5",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "an explanation of why one colour of light is especially common in the sea",
+            "answer": "F",
+            "evidence": "Most deep-sea creatures emit and detect blue light, which travels furthest through seawater.",
+            "explanation": "Paragraph F explains that blue light is the norm because it 'travels furthest through seawater'. Paragraph A mentions blue-green sparks, but gives no reason."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "tfng",
+        "instructions": "Questions 6–9\nDo the following statements agree with the information given in Reading Passage 3?\nWrite\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          {
+            "id": "q6",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Light-producing organisms are more common in the ocean than on land.",
+            "answer": "TRUE",
+            "evidence": "On land the phenomenon is relatively rare, limited mainly to fireflies, some fungi and a handful of worms and insects. In the ocean it is the rule rather than the exception.",
+            "explanation": "'Relatively rare' on land versus 'the rule rather than the exception' in the ocean. TRUE."
+          },
+          {
+            "id": "q7",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Much of the energy in the bioluminescent reaction is lost as heat.",
+            "answer": "FALSE",
+            "evidence": "Unlike an old-fashioned light bulb, which wastes most of its energy as heat, this reaction converts energy into light with remarkable efficiency",
+            "explanation": "It is the light bulb that wastes energy as heat; the reaction is 'unlike' it and produces 'cold light'. The text contradicts the statement, so FALSE."
+          },
+          {
+            "id": "q8",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "All light-producing organisms use chemically identical luciferins.",
+            "answer": "FALSE",
+            "evidence": "the luciferins and luciferases of different groups of organisms are often chemically unrelated",
+            "explanation": "The basic reaction is similar, but the molecules are 'often chemically unrelated', which contradicts 'all ... identical'. FALSE. Don't confuse 'the same basic chemistry' with the same molecule."
+          },
+          {
+            "id": "q9",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "The glowing fluid released by deep-sea shrimps protects them more effectively than squid ink.",
+            "answer": "NOT GIVEN",
+            "explanation": "Paragraph C says shrimps release glowing fluid 'instead of' the dark ink used by squid in shallower waters, but it never says which works better. There is no comparison of effectiveness, so NOT GIVEN."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "summary-completion",
+        "instructions": "Questions 10–14\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "title": "Two unusual uses of light",
+        "template": "It is not obvious why single-celled dinoflagellates produce flashes of light. The most widely accepted theory is called the {{q10}} hypothesis: when grazers such as {{q11}} feed on the cells, the light makes them visible to bigger fish. In the deep sea, most creatures produce and see {{q12}} light. Some dragonfish, however, also emit red light, which their prey cannot detect; the writer compares this to a soldier's use of {{q13}}. One species may even get the pigment that allows it to see red from its {{q14}}.",
+        "items": [
+          {
+            "id": "q10",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["burglar alarm"],
+            "maxWords": 2,
+            "evidence": "The leading explanation is known as the 'burglar alarm' hypothesis.",
+            "explanation": "'The leading explanation' = 'the most widely accepted theory'. The name of the hypothesis is 'burglar alarm' (two words)."
+          },
+          {
+            "id": "q11",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["copepods"],
+            "maxWords": 2,
+            "evidence": "When a small grazing animal such as a copepod begins to feed on the cells",
+            "explanation": "The example of a grazer is the copepod; the plural 'copepods' fits the grammar of the summary ('grazers such as ...') and also appears later in the paragraph."
+          },
+          {
+            "id": "q12",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["blue"],
+            "maxWords": 2,
+            "evidence": "Most deep-sea creatures emit and detect blue light",
+            "explanation": "'Emit and detect' = 'produce and see'. The colour is blue."
+          },
+          {
+            "id": "q13",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["night-vision equipment"],
+            "maxWords": 2,
+            "evidence": "rather as a soldier might use night-vision equipment",
+            "explanation": "The comparison is with a soldier using 'night-vision equipment' (hyphenated, so two words)."
+          },
+          {
+            "id": "q14",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["diet"],
+            "maxWords": 2,
+            "evidence": "at least one species appears to obtain the pigment it needs to see red from its diet",
+            "explanation": "'Appears to obtain' = 'may get'. The pigment comes from its diet (small crustaceans that have eaten algae)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "id": "toefl-ann-09",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Dining hall renovation",
+    "context": "Listen to an announcement on a university campus.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "d",
+          "name": "Dining Services manager",
+          "role": "Campus staff",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "d",
+          "t": "Good afternoon. This is a message from Campus Dining Services."
+        },
+        {
+          "s": "d",
+          "t": "Starting October first, Harmon Dining Hall will be closed for about six weeks while the kitchen is renovated."
+        },
+        {
+          "s": "d",
+          "t": "During this time, students with a meal plan can use their cards at the North Campus Café and at the food court in the student union. Both locations will extend their hours and stay open until ten p.m."
+        },
+        {
+          "s": "d",
+          "t": "Also, a free shuttle will run every fifteen minutes between the residence halls and North Campus, so you won't have to walk in bad weather."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the announcement mainly about?",
+        "options": [
+          "A new price for meal plans",
+          "The temporary closing of a dining hall",
+          "A new bus schedule for getting to classes",
+          "Jobs available in the campus kitchens"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Meal plans are mentioned, but not their price.",
+          "Correct. Harmon Dining Hall will close for about six weeks for renovation.",
+          "The shuttle is a detail and goes to North Campus, not to classes in general.",
+          "No jobs are mentioned."
+        ],
+        "explanation": "The announcement explains that Harmon Dining Hall is closing for renovation and what students can do meanwhile.",
+        "evidence": "Harmon Dining Hall will be closed for about six weeks"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What will be offered to students during the renovation?",
+        "options": [
+          "A free shuttle service",
+          "A discount on meal plans",
+          "Food delivery to the residence halls",
+          "Free meals at the student union"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. A free shuttle runs every fifteen minutes to North Campus.",
+          "No discount is mentioned.",
+          "Delivery is not mentioned; students go to the other locations.",
+          "Students use their meal plan cards; meals are not free."
+        ],
+        "explanation": "A free shuttle will connect the residence halls and North Campus every fifteen minutes.",
+        "evidence": "a free shuttle will run every fifteen minutes between the residence halls and North Campus"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-10",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Geology field trip to the cliffs",
+    "context": "Listen to an announcement in a geology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Doyle",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Okay, a quick note about Saturday's field trip to Carrow Cliffs."
+        },
+        {
+          "s": "p",
+          "t": "Last year several students turned up in trainers, and the path down to the beach was so muddy that two people slipped. So this time, proper walking boots are required. If you don't own a pair, the outdoor club lends them out for free, but you need to collect them by Thursday."
+        },
+        {
+          "s": "p",
+          "t": "We'll be collecting rock samples, so bring a small notebook and a pencil, not a pen, because ink runs when it gets wet."
+        },
+        {
+          "s": "p",
+          "t": "The forecast looks reasonable, but if there's heavy rain on Saturday morning, check your email by seven. I'll send a message if we need to postpone."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention what happened last year?",
+        "options": [
+          "To warn that the trip might be cancelled",
+          "To explain why walking boots are now required",
+          "To praise students who collected good samples",
+          "To describe the beach the class will visit"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Possible postponement is linked to rain, not to last year.",
+          "Correct. Students slipped in trainers, so boots are required this time.",
+          "Last year's samples are not mentioned.",
+          "The beach is mentioned only as where the muddy path leads."
+        ],
+        "explanation": "The story about students slipping is the reason he gives for the new boots requirement.",
+        "evidence": "So this time, proper walking boots are required."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why should students bring a pencil instead of a pen?",
+        "options": [
+          "Their notes might get wet.",
+          "Pencils are needed to mark the rock samples.",
+          "Pens are not allowed on the cliffs.",
+          "The outdoor club does not lend pens."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Ink runs when it gets wet, so pencil notes are safer outdoors.",
+          "Marking the samples is not mentioned.",
+          "No such rule is mentioned.",
+          "The outdoor club lends boots, not writing tools."
+        ],
+        "explanation": "He says ink runs when wet, implying notes on the trip may get wet.",
+        "evidence": "because ink runs when it gets wet"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-11",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Guest speaker on mining towns",
+    "context": "Listen to an announcement in a sociology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Kemp",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Before we start, I'm pleased to tell you that we'll have a guest speaker next Tuesday."
+        },
+        {
+          "s": "p",
+          "t": "Doctor Ana Ruiz, who has spent ten years studying how small towns change when their main employer, such as a mine, closes, will talk about her interviews with families in three mining communities."
+        },
+        {
+          "s": "p",
+          "t": "Because her talk will take the whole class period, the quiz I scheduled for Tuesday will move to Thursday."
+        },
+        {
+          "s": "p",
+          "t": "I'd also like each of you to prepare one question for her in advance. Write it down and bring it to class, and I'll choose a few to start the discussion. Her book is on reserve at the library if you want some background, but reading it isn't required."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What will happen to the quiz?",
+        "options": [
+          "It will be cancelled.",
+          "It will be given after the guest's talk.",
+          "It will be replaced by the students' questions.",
+          "It will take place on Thursday."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "It is moved, not cancelled.",
+          "The talk takes the whole class period, so there is no time for the quiz on Tuesday.",
+          "The questions are for the speaker; they do not replace the quiz.",
+          "Correct. The quiz moves from Tuesday to Thursday."
+        ],
+        "explanation": "Because the talk fills Tuesday's class, the quiz moves to Thursday.",
+        "evidence": "the quiz I scheduled for Tuesday will move to Thursday"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What are students asked to do before the talk?",
+        "options": [
+          "Read Dr. Ruiz's book",
+          "Interview a family in their town",
+          "Write down a question for the speaker",
+          "Visit a mining community"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The book is optional: reading it isn't required.",
+          "Interviews are Dr. Ruiz's research method, not the students' task.",
+          "Correct. Each student prepares one question in advance.",
+          "No visit is mentioned."
+        ],
+        "explanation": "The professor asks each student to prepare and write down one question for the guest.",
+        "evidence": "I'd also like each of you to prepare one question for her in advance."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-12",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Pool closing and swimming lessons",
+    "context": "Listen to an announcement on a university campus.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "r",
+          "name": "Recreation Center staff",
+          "role": "Campus staff",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "r",
+          "t": "Hi everyone, this is an update from the Campus Recreation Center."
+        },
+        {
+          "s": "r",
+          "t": "The swimming pool will be closed from Monday to Wednesday next week for routine cleaning. The weight room and the climbing wall will stay open as usual."
+        },
+        {
+          "s": "r",
+          "t": "Also, registration for our beginner swimming lessons opens on Thursday morning at eight. The lessons are free for students, but there are only twenty spots, and last semester they were full within an hour."
+        },
+        {
+          "s": "r",
+          "t": "So if you're interested, sign up at the front desk as early as you can."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why will the pool be closed next week?",
+        "options": [
+          "For regular cleaning",
+          "For a swimming competition",
+          "For repairs to the climbing wall",
+          "For beginner swimming lessons"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. It closes for routine cleaning.",
+          "No competition is mentioned.",
+          "The climbing wall stays open; it is not being repaired.",
+          "Lessons are a separate topic; registration only opens on Thursday."
+        ],
+        "explanation": "The pool closes Monday to Wednesday for routine cleaning.",
+        "evidence": "for routine cleaning"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the speaker suggest about the swimming lessons?",
+        "options": [
+          "They are expensive for students.",
+          "They are only for experienced swimmers.",
+          "They will probably fill up quickly.",
+          "They will take place in the weight room."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "They are free for students.",
+          "They are beginner lessons.",
+          "Correct. There are only twenty spots, and last time they filled within an hour.",
+          "Swimming lessons happen in the pool, not the weight room."
+        ],
+        "explanation": "Limited spots and last semester's experience suggest the lessons will fill up fast, so students should register early.",
+        "evidence": "last semester they were full within an hour"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-13",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Change to the final project",
+    "context": "Listen to an announcement in an art history class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Bennett",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Before we turn to Baroque painting, I need to revise something I told you last week about the final project."
+        },
+        {
+          "s": "p",
+          "t": "I'd said you could analyze any painting from the course, but several of you chose the same three works, and I'm worried the papers will end up repeating one another."
+        },
+        {
+          "s": "p",
+          "t": "So here's the adjustment: you may still choose those paintings, but if you do, you'll need to compare them with a work we haven't discussed in class."
+        },
+        {
+          "s": "p",
+          "t": "If you pick something outside the course list, a single-painting analysis is fine. Either way, please send me your choice by Monday, so I can make sure you have access to good-quality images."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why is the professor changing the project instructions?",
+        "options": [
+          "Some paintings are no longer available to view.",
+          "Many students chose the same paintings.",
+          "The original project was too long.",
+          "The images in the course materials are poor."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Availability of paintings is not mentioned.",
+          "Correct. She worries that papers on the same three works will repeat one another.",
+          "Length is not the issue.",
+          "She wants to make sure students have good images, but that is not the reason for the change."
+        ],
+        "explanation": "The change responds to many students choosing the same three works.",
+        "evidence": "several of you chose the same three works"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "A student wants to write about one of the three popular paintings. What must the student do?",
+        "options": [
+          "Analyze that painting on its own",
+          "Choose a different painting instead",
+          "Get the professor's permission before Monday",
+          "Compare it with a painting not covered in class"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "A single-painting analysis is allowed only for works outside the course list.",
+          "The student may still choose it.",
+          "Everyone sends their choice by Monday, but this is for images, not permission.",
+          "Correct. Those paintings must be compared with a work not discussed in class."
+        ],
+        "explanation": "Students may keep a popular painting only if they compare it with a work not discussed in class.",
+        "evidence": "you'll need to compare them with a work we haven't discussed in class"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-14",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Email system upgrade",
+    "context": "Listen to an announcement on a university campus.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "t",
+          "name": "IT Services staff",
+          "role": "Campus staff",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "t",
+          "t": "Good morning. This is an announcement from IT Services."
+        },
+        {
+          "s": "t",
+          "t": "This weekend, we're upgrading the university's email system. From Saturday at midnight until Sunday at six a.m., you won't be able to send or receive messages."
+        },
+        {
+          "s": "t",
+          "t": "After the upgrade, everyone will be asked to create a new password the first time they log in. Your new password must be at least twelve characters long and must not be one you've used before."
+        },
+        {
+          "s": "t",
+          "t": "Please be careful with emails that ask you to click a link to change your password. We will never send you a link like that. Simply go to the login page as usual."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the main topic of the announcement?",
+        "options": [
+          "New rules for using the computer labs",
+          "A new login page for the library",
+          "A problem that deleted students' messages",
+          "An upgrade to the university's email system"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Computer labs are not mentioned.",
+          "The library is not mentioned.",
+          "Email will be unavailable for a few hours, but nothing is deleted.",
+          "Correct. The email system is being upgraded this weekend."
+        ],
+        "explanation": "The announcement is about this weekend's email upgrade and the new password it requires.",
+        "evidence": "we're upgrading the university's email system"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the speaker imply about emails that contain a link to change a password?",
+        "options": [
+          "They will contain the new password.",
+          "They should be answered quickly.",
+          "They are probably not genuine.",
+          "They will be sent only to new students."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Students create their own new password at login.",
+          "She warns students to be careful, not to respond quickly.",
+          "Correct. IT never sends such links, so these emails are likely fake.",
+          "Nothing is said about new students."
+        ],
+        "explanation": "Since IT Services never sends password links, any such email is probably a scam.",
+        "evidence": "We will never send you a link like that."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-15",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Creek cleanup and extra credit",
+    "context": "Listen to an announcement in an environmental science class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Lowe",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Hi everyone. Since this course is about watershed management, I thought some of you might be interested in a volunteer event this weekend."
+        },
+        {
+          "s": "p",
+          "t": "The town is organizing a cleanup of Miller Creek on Sunday morning, from nine until noon. Volunteers will remove plastic and other litter from the banks, and a team from the water authority will test the water quality and explain the results."
+        },
+        {
+          "s": "p",
+          "t": "Gloves and bags are provided. This is not required for the course, but if you go and write a one-page reflection connecting what you saw to our readings, I'll count it as extra credit."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What will the team from the water authority do?",
+        "options": [
+          "Hand out gloves and bags",
+          "Grade the students' reflections",
+          "Remove plastic from the creek banks",
+          "Test the creek's water and explain the results"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Gloves and bags are provided, but not specifically by the water authority.",
+          "The professor grades the reflections.",
+          "That is what the volunteers do.",
+          "Correct. The team will test water quality and explain what they find."
+        ],
+        "explanation": "The water authority team will test water quality and explain the results to volunteers.",
+        "evidence": "a team from the water authority will test the water quality and explain the results"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "How can students earn extra credit?",
+        "options": [
+          "By writing a reflection that links the event to course readings",
+          "By volunteering for the whole three hours",
+          "By attending the cleanup",
+          "By testing the water quality themselves"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Students must go and write a one-page reflection connected to the readings.",
+          "The length of time volunteered is not the condition.",
+          "Attending alone is not enough; a written reflection is needed.",
+          "Testing is done by the water authority team."
+        ],
+        "explanation": "Extra credit requires a one-page reflection connecting the cleanup experience to the course readings.",
+        "evidence": "write a one-page reflection connecting what you saw to our readings"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ann-16",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "announcement",
+    "title": "Recording speech samples",
+    "context": "Listen to an announcement in a linguistics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Tremblay",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Before you start collecting speech samples for your projects, there's an important procedure I need to explain."
+        },
+        {
+          "s": "p",
+          "t": "Any time you record someone, even a friend or a family member, you must have them sign the consent form posted on the course page. This isn't just a course rule; it's required by the university's research ethics board, and recordings without signed forms can't be used in your analysis."
+        },
+        {
+          "s": "p",
+          "t": "The department has six digital recorders you can borrow. They're kept in the linguistics office, and you can take one for up to three days."
+        },
+        {
+          "s": "p",
+          "t": "If all of them are out, a recent smartphone will work, but turn off any noise-reduction setting, because it removes some of the very sound features you'll be measuring."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What happens to a recording made without a signed consent form?",
+        "options": [
+          "It must be deleted immediately.",
+          "It must be reviewed by the ethics board.",
+          "It cannot be used in the student's analysis.",
+          "It can be used only if the speaker is a friend."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Deleting is not mentioned.",
+          "The ethics board requires the forms; it does not review individual recordings.",
+          "Correct. Recordings without signed forms can't be used.",
+          "Even friends and family must sign the form."
+        ],
+        "explanation": "The professor states that recordings without signed forms cannot be used in the analysis.",
+        "evidence": "recordings without signed forms can't be used in your analysis"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why does the professor tell students to turn off noise reduction on their phones?",
+        "options": [
+          "It may remove sound details that students need to study.",
+          "It makes the audio files too large.",
+          "It uses too much battery power.",
+          "The ethics board does not allow it."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Noise reduction removes some of the sound features students will measure.",
+          "File size is not mentioned.",
+          "Battery use is not mentioned.",
+          "The ethics board is related to consent, not phone settings."
+        ],
+        "explanation": "Noise reduction would erase the very sound features the students' projects measure.",
+        "evidence": "it removes some of the very sound features you'll be measuring"
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "ielts-p1-m3-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "topic": "Your neighbourhood",
+    "questions": [
+      "Let's talk about the area where you live. Can you describe your neighbourhood?",
+      "What do you like most about living there?",
+      "Do you know many of your neighbours?",
+      "Is there anything you would like to change about your neighbourhood?"
+    ],
+    "sampleAnswers": [
+      "It's a fairly quiet residential area on the edge of the city centre. Most of the buildings are five or six-storey blocks of flats, and there's a little square in the middle with a bakery, a pharmacy and a couple of cafés, so it has a bit of a village feel even though it's in a big city.",
+      "Probably the convenience. Everything I need day to day is within a ten-minute walk, and there's a metro station just round the corner, so I hardly ever need to use a car. I also like the fact that it's lively during the day but really peaceful at night.",
+      "Only a handful, to be honest. I'm on friendly terms with the elderly couple next door, and we chat whenever we bump into each other in the lift, but most people in the building keep themselves to themselves. I think that's quite typical of city life these days.",
+      "I'd love there to be more green space. The square is nice, but it's mostly paved, and there isn't a proper park nearby where children can play or people can sit under the trees. Planting a few more trees along the main street would make a real difference, especially in summer."
+    ]
+  },
+  {
+    "id": "ielts-p1-m3-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "topic": "Handwriting",
+    "questions": [
+      "Now let's talk about handwriting. Do you often write by hand?",
+      "Is your handwriting easy to read?",
+      "When you were a child, how did you learn to write?",
+      "Do you think handwriting will still be important in the future?"
+    ],
+    "sampleAnswers": [
+      "Not as often as I used to. Most of what I write now is typed, either on my laptop or my phone, but I still write shopping lists by hand, and I always take handwritten notes in lectures because I find it helps me remember things.",
+      "It depends on how much of a hurry I'm in. When I take my time it's quite neat, but when I'm taking notes quickly it turns into a bit of a scribble, and sometimes even I can't work out what I've written.",
+      "We practised in special exercise books with lines that showed exactly how tall each letter should be. I remember copying the same letters over and over again, which was pretty boring, but the teacher used to give us stickers for neat work, so we were quite motivated.",
+      "I think it'll become less important for everyday communication, but I doubt it'll disappear. There's research suggesting that writing by hand helps people learn and remember, and a handwritten card or letter still feels far more personal than a message, so I hope schools keep teaching it."
+    ]
+  },
+  {
+    "id": "ielts-p1-m4-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "topic": "Cooking",
+    "questions": [
+      "Let's talk about cooking. Do you enjoy cooking?",
+      "What kind of food do you usually cook?",
+      "Who taught you to cook?",
+      "Do you think children should learn to cook at school?"
+    ],
+    "sampleAnswers": [
+      "I do, especially at the weekend when I'm not in a rush. During the week it's more of a necessity, so I tend to make something quick, but on Saturdays I like trying out a new recipe and taking my time over it. I find it quite relaxing, actually.",
+      "Mostly simple home cooking, things like pasta, rice dishes, soups and a lot of vegetables. Every now and then I attempt something more ambitious, like a curry from scratch, with mixed results.",
+      "Mainly my dad. He was the one who did most of the cooking at home, and I used to help him chop vegetables and stir things when I was little. When I moved out to go to university, I ended up phoning him for advice almost every evening for the first few months.",
+      "Yes, definitely. It's such a basic life skill, and a lot of young people leave home without knowing how to make even a simple meal, so they end up relying on takeaways, which are expensive and often unhealthy. Even a few practical lessons a year would make a big difference."
+    ]
+  },
+  {
+    "id": "ielts-p1-m4-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "topic": "The sky and stars",
+    "questions": [
+      "Now let's talk about the sky. Do you often look at the sky?",
+      "Can you see the stars clearly where you live?",
+      "Did you learn about stars and planets when you were at school?",
+      "Would you like to travel into space one day?"
+    ],
+    "sampleAnswers": [
+      "More than you might expect. I often glance up when I'm walking home, especially at sunset, because the colours can be amazing. I also have a habit of checking the clouds before I go out to see whether I need an umbrella.",
+      "Not really, unfortunately. I live in a big city, and there's so much light pollution that you can only see a few of the brightest stars. The first time I went camping in the mountains I was genuinely shocked by how many stars there were.",
+      "Yes, we did a project on the solar system when I was about ten. We each had to make a model of one planet, and I chose Saturn because of its rings, which I made out of cardboard. I've been interested in astronomy, in an amateur way, ever since.",
+      "I'd love to see the Earth from space, but I'm not sure I'd have the courage to actually go. The idea of being strapped into a rocket is pretty terrifying. Maybe if space tourism becomes much safer and cheaper, I'd consider a short trip."
+    ]
+  }
+]

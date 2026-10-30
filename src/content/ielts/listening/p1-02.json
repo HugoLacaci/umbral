@@ -1,0 +1,95 @@
+[
+  {
+    "id": "ielts-l-p1-02",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 1,
+    "title": "Reporting a lost bag",
+    "context": "You will hear a woman phoning the lost property office of a train company.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Greg", "role": "Lost property officer", "gender": "m", "accent": "en-AU" },
+        { "id": "b", "name": "Fiona", "role": "Caller", "gender": "f", "accent": "en-NZ" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Northline Rail, lost property. Greg speaking." },
+        { "s": "b", "t": "Hi, Greg. I'm hoping you can help me. I left my bag on one of your trains, and I'm getting a bit desperate, to be honest." },
+        { "s": "a", "t": "Don't worry, a lot of bags do turn up. I'll fill in a report for you now. Can I start with your name?" },
+        { "s": "b", "t": "It's Fiona McAllister. The surname is M-C-A-L-L-I-S-T-E-R." },
+        { "s": "a", "t": "Thanks, Fiona. And your home address?" },
+        { "s": "b", "t": "It's 27 Ferrars Street, in Brunswick. Ferrars is spelt F-E-R-R-A-R-S." },
+        { "s": "a", "t": "Got it. Now, which day were you travelling?" },
+        { "s": "b", "t": "It was Monday the 3rd of March. Oh, hang on, no, it can't have been, because on Monday I worked from home. It was Tuesday, so the 4th of March." },
+        { "s": "a", "t": "Tuesday the 4th of March. And where did you get on?" },
+        { "s": "b", "t": "At Flinders Street, at about ten past six in the evening. The train goes all the way to Seacliff, but I got off at Kilmore Bay. That's my stop." },
+        { "s": "a", "t": "So from Flinders Street to Kilmore Bay. What kind of bag is it?" },
+        { "s": "b", "t": "It's a backpack, a fairly large one. The colour is, well, I was going to say navy, but no, that's my husband's. Mine is dark green, with a black zip." },
+        { "s": "a", "t": "A dark green backpack. Was there anything valuable inside?" },
+        { "s": "b", "t": "Unfortunately, yes. My work laptop, which is why I'm so worried. My phone's fine, because I had it in my coat pocket, but the phone charger was in the bag. And there were a couple of library books as well." },
+        { "s": "a", "t": "Okay, a laptop, a phone charger and some library books. Can you remember where you left it on the train?" },
+        { "s": "b", "t": "Well, normally I keep my bag under the seat, so I don't forget it. But that evening the train was packed, and someone needed the space for their feet, so I put it up on the luggage rack above my head. And of course when I got off, I completely forgot about it." },
+        { "s": "a", "t": "That happens more often than you'd think. Now, let me explain what happens to things that are found. People often assume they go straight to the station where the passenger got off, but that's not the case. Anything left on a train stays on board until the end of the line, and it's handed in at the depot in Seacliff. It's kept there for the first forty-eight hours." },
+        { "s": "b", "t": "And after that?" },
+        { "s": "a", "t": "After that it's sent to our central lost property office here in the city, and that's where you'd collect it." },
+        { "s": "b", "t": "Right. And if it's found, what do I need to bring with me? I don't think I've still got the receipt for the laptop. It belongs to my company anyway." },
+        { "s": "a", "t": "You don't need a receipt. People ask that a lot. What you must bring is some photo identification, like a passport or a driver's licence, so we can check it's really you." },
+        { "s": "b", "t": "That's easy enough. How will you let me know if it turns up?" },
+        { "s": "a", "t": "Usually we send an email. But you said your laptop's in the bag, so you might not be checking your email very much. Would a text message be better?" },
+        { "s": "b", "t": "Yes, please. A text message would be much better. You can use the number I'm calling from." },
+        { "s": "a", "t": "No problem. I've added that to the report. Your reference number is L 4 8 1 7, in case you need to call us again." },
+        { "s": "b", "t": "Thank you so much, Greg. You've really put my mind at rest." },
+        { "s": "a", "t": "You're welcome, Fiona. Fingers crossed it turns up soon." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–6\nComplete the form below.\nWrite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+        "title": "Northline Rail – Lost Property Report",
+        "template": "Name: Fiona {{q1}}\nAddress: 27 {{q2}} Street, Brunswick\nDate of journey: Tuesday {{q3}}\nJourney: from Flinders Street to {{q4}}\nItem lost: a {{q5}} backpack\nContents: work laptop, a {{q6}} and some library books",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["McAllister"], "maxWords": 2, "allowNumber": true,
+            "explanation": "She spells the surname: M-C-A-L-L-I-S-T-E-R.", "evidence": "The surname is M-C-A-L-L-I-S-T-E-R." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["Ferrars"], "maxWords": 2, "allowNumber": true,
+            "explanation": "The street name is spelt F-E-R-R-A-R-S.", "evidence": "Ferrars is spelt F-E-R-R-A-R-S." },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["4 March", "4th March", "4th of March", "March 4", "March 4th"], "maxWords": 2, "allowNumber": true,
+            "explanation": "She first says Monday the 3rd, then corrects herself: it was Tuesday the 4th of March.", "evidence": "It was Tuesday, so the 4th of March." },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["Kilmore Bay"], "maxWords": 2, "allowNumber": true,
+            "explanation": "The train goes on to Seacliff, but she got off at Kilmore Bay.", "evidence": "but I got off at Kilmore Bay" },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["dark green", "dark-green"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Navy is her husband's bag; hers is dark green.", "evidence": "Mine is dark green, with a black zip." },
+          { "id": "q6", "kind": "gap", "qtype": "form-completion", "answers": ["phone charger", "charger"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Her phone was in her coat pocket; only the phone charger was in the bag.", "evidence": "the phone charger was in the bag" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 7–10\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q7", "kind": "mcq", "qtype": "mcq", "prompt": "Where did Fiona leave her bag?",
+            "options": ["under her seat", "on the luggage rack", "beside the door"], "answer": 1,
+            "explanation": "She normally keeps it under the seat, but that evening she put it on the luggage rack.",
+            "evidence": "I put it up on the luggage rack above my head",
+            "optionNotes": ["Her usual habit, not what she did that day.", "Correct: the train was packed so she used the rack.", "Not mentioned."] },
+          { "id": "q8", "kind": "mcq", "qtype": "mcq", "prompt": "For the first two days, items found on trains are kept",
+            "options": ["at the station where the passenger got off.", "at the central lost property office.", "at the depot at the end of the line."], "answer": 2,
+            "explanation": "Items stay on the train to the end of the line and are kept at the Seacliff depot for 48 hours; only then do they go to the central office.",
+            "evidence": "it's handed in at the depot in Seacliff. It's kept there for the first forty-eight hours",
+            "optionNotes": ["Greg says people assume this, but it is not the case.", "This is where items go after 48 hours.", "Correct."] },
+          { "id": "q9", "kind": "mcq", "qtype": "mcq", "prompt": "To collect the bag, Fiona must bring",
+            "options": ["a receipt for the laptop.", "photo identification.", "a letter from her company."], "answer": 1,
+            "explanation": "A receipt is not needed; she must bring photo ID such as a passport or driver's licence.",
+            "evidence": "What you must bring is some photo identification",
+            "optionNotes": ["Greg says a receipt is not needed.", "Correct.", "Her company owns the laptop, but no letter is requested."] },
+          { "id": "q10", "kind": "mcq", "qtype": "mcq", "prompt": "How will Fiona be contacted if the bag is found?",
+            "options": ["by email", "by phone call", "by text message"], "answer": 2,
+            "explanation": "Email is the usual method, but because her laptop is missing they agree on a text message.",
+            "evidence": "A text message would be much better.",
+            "optionNotes": ["The usual method, but rejected here.", "Not offered.", "Correct."] }
+        ]
+      }
+    ]
+  }
+]

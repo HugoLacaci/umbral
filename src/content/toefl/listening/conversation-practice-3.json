@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "toefl-conv-17",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Internship or summer course",
+    "context": "Listen to a conversation between a student and an academic advisor.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Rafael",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-US"
+        },
+        {
+          "id": "b",
+          "name": "Meera",
+          "role": "Advisor",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "I came in last month to register for the summer statistics course, but something's come up."
+        },
+        {
+          "s": "b",
+          "t": "Good news or bad news?"
+        },
+        {
+          "s": "a",
+          "t": "Good, I think. A marketing firm downtown offered me a paid internship for June and July. The trouble is, it overlaps completely with the course."
+        },
+        {
+          "s": "b",
+          "t": "Well, statistics is required for your major, so you can't skip it, but it's also offered in the fall. Would taking it then push anything else back?"
+        },
+        {
+          "s": "a",
+          "t": "Not really. I'd just have five courses instead of four that semester."
+        },
+        {
+          "s": "b",
+          "t": "Five is a heavy load, but you managed it last spring without much trouble. Honestly, an offer like that doesn't come along every summer."
+        },
+        {
+          "s": "a",
+          "t": "That's what I was hoping you'd say. I'll withdraw from the summer course today and email the firm to accept."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the advisor imply about the internship?",
+        "options": [
+          "It will count toward his statistics requirement.",
+          "It will make his fall schedule impossible.",
+          "It is an opportunity the student should not miss.",
+          "It is less valuable than a summer course."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "He still has to take statistics.",
+          "She says he managed five courses before.",
+          "Correct: such offers are rare.",
+          "She suggests the opposite."
+        ],
+        "explanation": "'An offer like that doesn't come along every summer' = it's a rare chance; take it.",
+        "evidence": "an offer like that doesn't come along every summer"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the student probably do next?",
+        "options": [
+          "Drop the summer course and accept the job",
+          "Ask the firm to change the internship dates",
+          "Register for four courses in the fall",
+          "Take the statistics course online this summer"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: he says so.",
+          "Not mentioned.",
+          "He will have five.",
+          "Not mentioned."
+        ],
+        "explanation": "He will withdraw from the course and accept the internship.",
+        "evidence": "I'll withdraw from the summer course today and email the firm to accept."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Swapping a volunteer shift",
+    "context": "Listen to a conversation between two students.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Bella",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-AU"
+        },
+        {
+          "id": "b",
+          "name": "Sam",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Sam, you volunteer at the food bank on Saturdays, right? Any chance you could swap shifts with me this week?"
+        },
+        {
+          "s": "b",
+          "t": "Depends. Which shift are you on?"
+        },
+        {
+          "s": "a",
+          "t": "Sunday morning, seven to eleven. My cousin's getting married on Sunday, and I only found out the date last week."
+        },
+        {
+          "s": "b",
+          "t": "Seven in the morning on a Sunday. You really know how to sell it."
+        },
+        {
+          "s": "a",
+          "t": "I know, I know. I'd owe you one. I could take your next two Saturday shifts as well, if that helps."
+        },
+        {
+          "s": "b",
+          "t": "Actually, that would help. I've got a big exam coming up in a couple of weeks. Fine, I'll do Sunday. But you'll have to tell the coordinator, not me. She gets annoyed when people swap without asking."
+        },
+        {
+          "s": "a",
+          "t": "Fair enough. I'll text her right now."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What does the man imply when he says the woman really knows how to sell it?",
+        "options": [
+          "The woman is very good at persuading people.",
+          "The food bank needs volunteers to sell food.",
+          "He would prefer to work on Sunday mornings.",
+          "The shift she is offering is not very appealing."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "This is the literal meaning, but he is being ironic.",
+          "Takes 'sell' literally.",
+          "The irony shows the opposite.",
+          "Correct: he is being ironic about the early Sunday start."
+        ],
+        "explanation": "Irony: an early Sunday shift is hard to 'sell', so he means it does not sound attractive.",
+        "evidence": "You really know how to sell it."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the woman probably do next?",
+        "options": [
+          "Go to her cousin's wedding on Saturday",
+          "Send a message to the coordinator",
+          "Start studying for an exam",
+          "Ask another student to take the shift"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The wedding is on Sunday.",
+          "Correct: she will text her.",
+          "The man has the exam.",
+          "The man agreed to take it."
+        ],
+        "explanation": "The man asks her to tell the coordinator, and she agrees to text her.",
+        "evidence": "I'll text her right now."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-19",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Narrowing a thesis topic",
+    "context": "Listen to a conversation between a student and a professor.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Leah",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-CA"
+        },
+        {
+          "id": "b",
+          "name": "Professor Moreau",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "b",
+          "t": "I've read your proposal, Leah. You want to study the history of urban parks in North America."
+        },
+        {
+          "s": "a",
+          "t": "Yes. I think it's a fascinating topic."
+        },
+        {
+          "s": "b",
+          "t": "It is. It's also a topic people have written entire careers about. You've got one semester and forty pages."
+        },
+        {
+          "s": "a",
+          "t": "So it's too broad."
+        },
+        {
+          "s": "b",
+          "t": "Let's say it's ambitious. What part of it actually got you interested?"
+        },
+        {
+          "s": "a",
+          "t": "Well, I grew up near a park in Montreal that was built on an old railway yard. I've always wondered how the city decided to do that."
+        },
+        {
+          "s": "b",
+          "t": "Now that's a thesis. One park, one decision, and probably a stack of city council records nobody's looked at in years. The city archive is the place to start."
+        },
+        {
+          "s": "a",
+          "t": "I'll go there this week, then. I didn't realize I already had a topic."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's opinion of the original proposal?",
+        "options": [
+          "It is not interesting enough for a thesis.",
+          "It covers too much for the time and length available.",
+          "Another student has already completed it.",
+          "It relies too heavily on city records."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "He agrees it is fascinating.",
+          "Correct: one semester and forty pages.",
+          "Not mentioned.",
+          "Records are part of the new, narrower idea."
+        ],
+        "explanation": "'Ambitious' is a polite way of saying too broad.",
+        "evidence": "You've got one semester and forty pages."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the student probably do?",
+        "options": [
+          "Rewrite her proposal about all North American parks",
+          "Interview members of the city council",
+          "Visit parks in other countries",
+          "Look for records at the city archive"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "She is narrowing the topic.",
+          "Records, not interviews, are suggested.",
+          "Not mentioned.",
+          "Correct: she will go there this week."
+        ],
+        "explanation": "The professor recommends the archive and she agrees to go.",
+        "evidence": "The city archive is the place to start."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "A guest on the couch",
+    "context": "Listen to a conversation between two roommates.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Jonah",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-US"
+        },
+        {
+          "id": "b",
+          "name": "Freya",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hey, quick question. My friend from high school is visiting next week. Would it be okay if he stayed on our couch for a few nights?"
+        },
+        {
+          "s": "b",
+          "t": "How many is a few?"
+        },
+        {
+          "s": "a",
+          "t": "Four, maybe five. He's really easygoing."
+        },
+        {
+          "s": "b",
+          "t": "I'm sure he is. It's just that I've got my final project due on the Friday, and I'll be working at the kitchen table most nights."
+        },
+        {
+          "s": "a",
+          "t": "Right, I didn't think about that. What if we kept the living room quiet after nine, and I took him out for dinner most evenings?"
+        },
+        {
+          "s": "b",
+          "t": "That'd help. And maybe he could leave Thursday instead of Friday? That last night is when I'll really need to concentrate."
+        },
+        {
+          "s": "a",
+          "t": "I'll ask him to change his ticket. I'm sure he won't mind."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the woman's attitude toward the visit?",
+        "options": [
+          "She will agree if her work is not disturbed.",
+          "She refuses to let the guest stay.",
+          "She is excited to meet the man's friend.",
+          "She does not care because she will be away."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: she accepts with conditions.",
+          "She negotiates instead of refusing.",
+          "She expresses concern, not excitement.",
+          "She will be at home working."
+        ],
+        "explanation": "She is worried about her project but accepts once the man offers solutions.",
+        "evidence": "That'd help. And maybe he could leave Thursday instead of Friday?"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the man probably do?",
+        "options": [
+          "Cancel his friend's visit",
+          "Help the woman with her project",
+          "Ask his friend to leave a day earlier",
+          "Book a hotel for his friend"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The visit is still on.",
+          "Not mentioned.",
+          "Correct: he will ask him to change his ticket.",
+          "Not mentioned."
+        ],
+        "explanation": "The woman asks if the friend can leave Thursday; he agrees to ask.",
+        "evidence": "I'll ask him to change his ticket."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-21",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Broken centrifuge",
+    "context": "Listen to a conversation between a student and a laboratory technician.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Kenji",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-CA"
+        },
+        {
+          "id": "b",
+          "name": "Rosa",
+          "role": "Technician",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hi, the centrifuge in room two oh four is making a grinding noise. I stopped it halfway through my run."
+        },
+        {
+          "s": "b",
+          "t": "Good call. That one's been acting up all month. I put in a repair request, but the parts are on back order."
+        },
+        {
+          "s": "a",
+          "t": "So it's out of action until when?"
+        },
+        {
+          "s": "b",
+          "t": "Your guess is as good as mine. Could be next week, could be after the semester."
+        },
+        {
+          "s": "a",
+          "t": "My samples need to be spun today, or they'll degrade."
+        },
+        {
+          "s": "b",
+          "t": "There's another centrifuge in the biochemistry lab on the third floor. Strictly speaking, it's reserved for their grad students, but Doctor Abbott's usually reasonable if you ask him directly."
+        },
+        {
+          "s": "a",
+          "t": "His office is on the third floor too, isn't it?"
+        },
+        {
+          "s": "b",
+          "t": "Right next to the lab. Take your samples with you so you don't have to come back down."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the technician mean when she says the student's guess is as good as hers?",
+        "options": [
+          "She wants the student to guess the cause of the noise.",
+          "She expects the repair to be finished next week.",
+          "She wants the student to fix the machine himself.",
+          "She does not know when the machine will be fixed."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Literal reading.",
+          "That is only one possibility she mentions.",
+          "Not suggested.",
+          "Correct: it could be next week or after the semester."
+        ],
+        "explanation": "The idiom means 'I have no idea'.",
+        "evidence": "Your guess is as good as mine."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the student probably do next?",
+        "options": [
+          "Wait for the repair parts to arrive",
+          "Go upstairs and ask Doctor Abbott for permission",
+          "Use the centrifuge in room two oh four",
+          "Submit a repair request"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "His samples cannot wait.",
+          "Correct: the technician tells him to take his samples up.",
+          "It is broken.",
+          "The technician already did."
+        ],
+        "explanation": "His samples must be spun today, so he will go to the third floor.",
+        "evidence": "Take your samples with you so you don't have to come back down."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-22",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Late-night radio slot",
+    "context": "Listen to a conversation between a student and the manager of the campus radio station.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Zoe",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-GB"
+        },
+        {
+          "id": "b",
+          "name": "Trevor",
+          "role": "Station manager",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hi, I'm interested in hosting a show on the campus radio station. I'd like to do one about local bands."
+        },
+        {
+          "s": "b",
+          "t": "Great. We do have a slot open, but I should warn you, it's Tuesday from midnight to two."
+        },
+        {
+          "s": "a",
+          "t": "Midnight? Does anyone actually listen at that hour?"
+        },
+        {
+          "s": "b",
+          "t": "More than you'd think. Night owls, people in the library, a few shift workers. It's not prime time, but nobody gets prime time in their first term. That's how most of our best hosts started."
+        },
+        {
+          "s": "a",
+          "t": "Hmm. I suppose it would be a good way to practise without much pressure."
+        },
+        {
+          "s": "b",
+          "t": "Exactly. And if it goes well, you can apply for an evening slot in spring. First, though, you'll need to complete a two-hour training session on the equipment."
+        },
+        {
+          "s": "a",
+          "t": "Okay, sign me up for the next one."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the woman's first reaction to the time slot?",
+        "options": [
+          "She is pleased because she likes staying up late.",
+          "She is angry that another host has a better slot.",
+          "She doubts that many people would hear her show.",
+          "She thinks it clashes with her library job."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Her question shows doubt.",
+          "Not mentioned.",
+          "Correct: she asks if anyone listens at midnight.",
+          "The library is mentioned only as a place listeners are."
+        ],
+        "explanation": "Her question expresses doubt about the audience.",
+        "evidence": "Does anyone actually listen at that hour?"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the woman probably do next?",
+        "options": [
+          "Attend a training session on the equipment",
+          "Apply for an evening slot",
+          "Interview local bands",
+          "Host her first show this Tuesday"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: she asks to sign up for it.",
+          "Only possible in spring.",
+          "Not stated as a next step.",
+          "Training comes first."
+        ],
+        "explanation": "Training is required first, and she asks to be signed up.",
+        "evidence": "sign me up for the next one"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-23",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Interview practice",
+    "context": "Listen to a conversation between a student and a career counselor.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Aiden",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-US"
+        },
+        {
+          "id": "b",
+          "name": "Nadia",
+          "role": "Counselor",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "b",
+          "t": "So, how did the practice interview feel?"
+        },
+        {
+          "s": "a",
+          "t": "Honestly, I thought I nailed it. I had an answer for everything."
+        },
+        {
+          "s": "b",
+          "t": "You did, and your answers were well prepared. Maybe a little too well prepared. A couple of them sounded like you'd memorized them word for word."
+        },
+        {
+          "s": "a",
+          "t": "Well, I sort of did."
+        },
+        {
+          "s": "b",
+          "t": "The committee will notice. They're not looking for perfect answers. They want to see how you think. When I asked about a time you failed, you described a problem that was really a success in disguise."
+        },
+        {
+          "s": "a",
+          "t": "I guess I didn't want to look bad."
+        },
+        {
+          "s": "b",
+          "t": "Everyone does that. Next time, pick a real setback and talk about what you'd do differently. Let's run through that question again on Thursday."
+        },
+        {
+          "s": "a",
+          "t": "Thursday works. I'll think of a better example before then."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the counselor's main concern about the student's answers?",
+        "options": [
+          "They sound rehearsed rather than natural.",
+          "They are too short to impress the committee.",
+          "They show he has not prepared enough.",
+          "They focus too much on his failures."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: memorized word for word.",
+          "Length is not mentioned.",
+          "The opposite: too well prepared.",
+          "He avoided talking about a real failure."
+        ],
+        "explanation": "She says his answers sounded memorized.",
+        "evidence": "A couple of them sounded like you'd memorized them word for word."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the counselor imply about the student's example of a failure?",
+        "options": [
+          "It was too personal to share.",
+          "It happened too long ago.",
+          "It was not really a failure.",
+          "It was his best answer."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not suggested.",
+          "Not mentioned.",
+          "Correct: a success in disguise.",
+          "She criticizes it."
+        ],
+        "explanation": "A 'success in disguise' means the story was actually about a success.",
+        "evidence": "you described a problem that was really a success in disguise"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-24",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Wrong night at the theater",
+    "context": "Listen to a conversation between two friends.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Isabel",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-AU"
+        },
+        {
+          "id": "b",
+          "name": "Callum",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Callum, I've got some bad news about the play tonight."
+        },
+        {
+          "s": "b",
+          "t": "Don't tell me it's been cancelled."
+        },
+        {
+          "s": "a",
+          "t": "No, it's worse, in a way. I booked the tickets for the wrong night. They were for last Thursday."
+        },
+        {
+          "s": "b",
+          "t": "Ah. Well, that's one way to save an evening."
+        },
+        {
+          "s": "a",
+          "t": "I'm so sorry. I called the box office, and they won't refund them, but they said there are still a few seats left for tonight at the student price."
+        },
+        {
+          "s": "b",
+          "t": "How few is a few?"
+        },
+        {
+          "s": "a",
+          "t": "Four, in the back row of the balcony."
+        },
+        {
+          "s": "b",
+          "t": "The back row of the balcony. I'd better bring my glasses, then. Go on, book them before they go, and this time I'll check the date."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "Why does the man say that's one way to save an evening?",
+        "options": [
+          "He is relieved because he wanted to stay home.",
+          "He is reacting to the mistake with humor rather than anger.",
+          "He suggests they save money by not going.",
+          "He is complaining that the play was cancelled."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "He wants to go and asks her to book new seats.",
+          "Correct: a light joke.",
+          "He tells her to book the tickets.",
+          "The play was not cancelled."
+        ],
+        "explanation": "He jokes about the mistake and then agrees to buy new tickets.",
+        "evidence": "that's one way to save an evening"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the woman probably do next?",
+        "options": [
+          "Ask the box office for a refund again",
+          "Exchange the tickets for next Thursday",
+          "Go to the play by herself",
+          "Buy new tickets for tonight's performance"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "They already refused.",
+          "Not mentioned.",
+          "He plans to come.",
+          "Correct: 'book them before they go'."
+        ],
+        "explanation": "He tells her to book the remaining seats.",
+        "evidence": "book them before they go"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-25",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Field course safety training",
+    "context": "Listen to a conversation between a student and a field course coordinator.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Mateo",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-CA"
+        },
+        {
+          "id": "b",
+          "name": "Doctor Hughes",
+          "role": "Coordinator",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hi, I'm on the list for the geology field course in May, but I just got an email saying I haven't done the safety training."
+        },
+        {
+          "s": "b",
+          "t": "Let me check. Yes, you missed the session in February. I'm afraid it's not optional. Without it, the insurance won't cover you."
+        },
+        {
+          "s": "a",
+          "t": "I was at a conference that weekend. Is there another session?"
+        },
+        {
+          "s": "b",
+          "t": "There's one on April the twelfth, but it's already full. What I can do is put you down for the online version. It's longer, about six hours, and you'd have to pass a quiz at the end."
+        },
+        {
+          "s": "a",
+          "t": "Six hours? That's most of a weekend."
+        },
+        {
+          "s": "b",
+          "t": "I know it's not what you were hoping for, but it's the only way you're getting on that bus in May."
+        },
+        {
+          "s": "a",
+          "t": "Fine. Send me the link and I'll do it this weekend."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why must the student complete the training?",
+        "options": [
+          "It counts toward his final grade.",
+          "The conference organizers require it.",
+          "He cannot be insured for the course without it.",
+          "He failed the quiz in February."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not mentioned.",
+          "The conference was why he missed it.",
+          "Correct: the coordinator says so.",
+          "He missed the session; he did not fail."
+        ],
+        "explanation": "The insurance will not cover him without the training.",
+        "evidence": "Without it, the insurance won't cover you."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "How does the student feel about the online training?",
+        "options": [
+          "He is reluctant but accepts that he must do it.",
+          "He prefers it to the in-person session.",
+          "He refuses because it takes too long.",
+          "He expects to be able to skip the quiz."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: 'Fine' after complaining.",
+          "He complains that it is long.",
+          "He agrees to do it.",
+          "Not suggested."
+        ],
+        "explanation": "He complains about six hours but agrees: 'Fine'.",
+        "evidence": "Fine. Send me the link and I'll do it this weekend."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-26",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "conversation",
+    "title": "Language exchange",
+    "context": "Listen to a conversation between two students.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Sofia",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-US"
+        },
+        {
+          "id": "b",
+          "name": "Liam",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "How's the language exchange going? You were meeting that Spanish student, right?"
+        },
+        {
+          "s": "b",
+          "t": "Pablo, yeah. We meet twice a week. Half an hour in English, half an hour in Spanish."
+        },
+        {
+          "s": "a",
+          "t": "And? Is your Spanish getting better?"
+        },
+        {
+          "s": "b",
+          "t": "Well, his English certainly is. The trouble is, when we switch to Spanish, I get stuck and we drift back into English after about five minutes."
+        },
+        {
+          "s": "a",
+          "t": "That happened to me with my Korean partner. What helped was picking a topic in advance and writing down a few phrases beforehand. Then you've got something to fall back on."
+        },
+        {
+          "s": "b",
+          "t": "That's not a bad idea. We're meeting tomorrow, actually. Maybe I'll suggest we talk about football. At least I know the vocabulary for that."
+        },
+        {
+          "s": "a",
+          "t": "There you go. Just don't let him rescue you by switching languages."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the man imply when he says his partner's English certainly is getting better?",
+        "options": [
+          "His partner already spoke perfect English.",
+          "His partner wants to stop meeting.",
+          "They speak more Spanish than English.",
+          "The exchange is helping his partner more than him."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Then it could not improve.",
+          "Not mentioned.",
+          "The opposite: they drift into English.",
+          "Correct: his own Spanish is not improving."
+        ],
+        "explanation": "By stressing the partner's progress, he implies his own Spanish is not improving.",
+        "evidence": "Well, his English certainly is."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the man probably do at the next meeting?",
+        "options": [
+          "Look for a new language partner",
+          "Propose a topic for the conversation",
+          "Start learning Korean",
+          "Cancel the meeting"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not mentioned.",
+          "Correct: he will suggest football.",
+          "The woman had a Korean partner.",
+          "He plans to attend."
+        ],
+        "explanation": "He takes the woman's advice and will suggest football as a topic.",
+        "evidence": "Maybe I'll suggest we talk about football."
+      }
+    ]
+  }
+]

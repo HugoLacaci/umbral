@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ielts-r-pb-04",
+    "difficulty": "medium",
+    "usage": "practice",
+    "passageNo": 2,
+    "title": "Is Homework Worth It?",
+    "subtitle": "A writer weighs up the research on one of school life's oldest arguments",
+    "paragraphs": [
+      { "label": "A", "text": "Few aspects of school life provoke as much argument at the kitchen table as homework. Parents complain that it swallows family evenings; teachers insist that it builds discipline; children, unsurprisingly, would mostly prefer to do without it. Over the past two decades, several countries and many individual schools have experimented with reducing or even abolishing homework for younger pupils. The research evidence, however, is more nuanced than either its defenders or its critics usually admit, and in my view the debate has been framed in the wrong way. Instead of asking whether homework is good or bad, we should be asking which kinds of homework help which students, and under what conditions." },
+      { "label": "B", "text": "The most consistent finding concerns age. Educational psychologist Dr Miriam Hale, who reviewed more than a hundred studies, found a clear positive link between homework and achievement among students aged fourteen and over, but almost no link among children in primary school. Her explanation is that younger children have not yet developed the ability to manage their own attention, so time spent on homework is often time spent being distracted. Critics of homework frequently cite this result, but they tend to overlook the first half of it: for older teenagers, homework appears to matter a great deal. Indeed, for students in the final years of secondary school, the association between regular homework and examination results was among the strongest in her review." },
+      { "label": "C", "text": "Even among older students, however, more is not always better. Studies by the economist Paulo Sandoval suggest that the benefits of homework level off after about two hours a night and may even reverse beyond that point, as tiredness and anxiety set in. Sandoval also noted that the students who spend the longest on homework are not necessarily the most diligent; they are often those who are struggling with the material and receiving little help. Measuring time alone, then, tells us surprisingly little. A student who completes a task in twenty minutes because she has understood the lesson may gain more than a classmate who spends two hours confused." },
+      { "label": "D", "text": "What seems to matter more is the type of task. Cognitive scientist Dr Lena Okafor has argued that the most valuable homework involves what she calls retrieval practice: short exercises that require students to recall information they learned days or weeks earlier. Such tasks strengthen memory far more effectively than rereading notes or copying out answers. By contrast, she observes, many traditional assignments, such as finishing a worksheet begun in class, mainly reward students who work quickly rather than those who think carefully. I find her argument persuasive, and it suggests that schools should be asking not how much homework to set but what kind. Such tasks need not take long: ten minutes of well-designed questions may achieve more than an hour of routine exercises." },
+      { "label": "E", "text": "There is also an important question of fairness. Sociologist Tom Reyes has shown that homework can widen the gap between richer and poorer students. Children from wealthier families are more likely to have a quiet place to work, access to a computer and parents with the time and education to help them. Students in crowded homes, or those with part-time jobs or caring responsibilities, start at a disadvantage that no amount of effort on their part can fully overcome. Some schools have responded by opening their libraries after lessons so that students can complete assignments with supervision. This seems to me a sensible compromise, although it requires funding that many schools do not have." },
+      { "label": "F", "text": "Supporters of homework often argue that it teaches independence and time management, qualities that students will need at university and at work. This claim is plausible, but it is remarkably difficult to test, and the few studies that have tried to measure it have produced mixed results. It would be unwise to base school policy on benefits that cannot be demonstrated. At the same time, the claim should not be dismissed simply because it is hard to prove. Schools that wish to develop independence might do better to teach study skills directly, rather than assuming that homework will develop them automatically." },
+      { "label": "G", "text": "Abolishing homework altogether, as some campaigners propose, would in my opinion be a mistake, particularly for students preparing for important examinations. Yet the traditional model, in which teachers set large quantities of routine work and judge students by whether it is completed, is equally hard to defend. A better approach would be to set less homework of higher quality, to design it around retrieval rather than repetition, and to ensure that every student has somewhere suitable to do it. Homework, in short, is neither a cure nor a curse; its value depends on how it is designed." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "ynng",
+        "instructions": "Questions 1–5\nDo the following statements agree with the views of the writer in the reading passage?\nWrite\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+        "items": [
+          { "id": "q1", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "People who oppose homework tend to ignore evidence of its value for older students.", "answer": "YES",
+            "explanation": "The writer says critics cite Hale's result 'but they tend to overlook the first half of it: for older teenagers, homework appears to matter a great deal'. 'Ignore' paraphrases 'overlook'.",
+            "evidence": "but they tend to overlook the first half of it: for older teenagers, homework appears to matter a great deal" },
+          { "id": "q2", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "The amount of homework set is a more important issue than the type of homework.", "answer": "NO",
+            "explanation": "The writer says the opposite: schools 'should be asking not how much homework to set but what kind'. The statement directly contradicts this view, so it is NO, not NOT GIVEN.",
+            "evidence": "schools should be asking not how much homework to set but what kind" },
+          { "id": "q3", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "Opening school libraries after lessons is a reasonable way of dealing with unequal conditions at home.", "answer": "YES",
+            "explanation": "About after-school libraries the writer says: 'This seems to me a sensible compromise'. 'Reasonable' paraphrases 'sensible'. The writer's concern about funding does not change the positive view.",
+            "evidence": "This seems to me a sensible compromise" },
+          { "id": "q4", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "Schools should offer parents training in how to help with homework.", "answer": "NOT GIVEN",
+            "explanation": "Parents are mentioned (wealthier parents have 'the time and education to help'), but the writer never suggests or rejects training for parents. There is no view to agree or disagree with, so NOT GIVEN." },
+          { "id": "q5", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "The claim that homework develops independence should be rejected because it cannot be proved.", "answer": "NO",
+            "explanation": "The writer explicitly says 'the claim should not be dismissed simply because it is hard to prove'. 'Rejected' = 'dismissed', so the statement contradicts the writer: NO.",
+            "evidence": "the claim should not be dismissed simply because it is hard to prove" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-features",
+        "instructions": "Questions 6–10\nLook at the following findings (Questions 6–10) and the list of researchers below.\nMatch each finding with the correct researcher, A–D.\nNB You may use any letter more than once.",
+        "options": [
+          { "key": "A", "text": "Miriam Hale" },
+          { "key": "B", "text": "Paulo Sandoval" },
+          { "key": "C", "text": "Lena Okafor" },
+          { "key": "D", "text": "Tom Reyes" }
+        ],
+        "items": [
+          { "id": "q6", "kind": "match", "qtype": "matching-features", "prompt": "Beyond a certain point, extra homework may lower performance.", "answer": "B",
+            "explanation": "Sandoval found that benefits 'level off after about two hours a night and may even reverse beyond that point'. 'Lower performance' paraphrases 'reverse'.",
+            "evidence": "the benefits of homework level off after about two hours a night and may even reverse beyond that point" },
+          { "id": "q7", "kind": "match", "qtype": "matching-features", "prompt": "Some common assignments favour speed over careful thought.", "answer": "C",
+            "explanation": "Okafor observes that many traditional assignments 'mainly reward students who work quickly rather than those who think carefully'.",
+            "evidence": "mainly reward students who work quickly rather than those who think carefully" },
+          { "id": "q8", "kind": "match", "qtype": "matching-features", "prompt": "Young children have difficulty controlling their own concentration.", "answer": "A",
+            "explanation": "Hale explains that 'younger children have not yet developed the ability to manage their own attention'. 'Concentration' = 'attention'.",
+            "evidence": "younger children have not yet developed the ability to manage their own attention" },
+          { "id": "q9", "kind": "match", "qtype": "matching-features", "prompt": "Homework can increase the difference in achievement between social groups.", "answer": "D",
+            "explanation": "Reyes 'has shown that homework can widen the gap between richer and poorer students'. 'Increase the difference' = 'widen the gap'.",
+            "evidence": "Sociologist Tom Reyes has shown that homework can widen the gap between richer and poorer students" },
+          { "id": "q10", "kind": "match", "qtype": "matching-features", "prompt": "Spending a long time on homework may be a sign of difficulty rather than hard work.", "answer": "B",
+            "explanation": "Sandoval noted that those who spend longest 'are not necessarily the most diligent; they are often those who are struggling'. 'Hard work' = 'diligent'.",
+            "evidence": "the students who spend the longest on homework are not necessarily the most diligent; they are often those who are struggling with the material" }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching-endings",
+        "instructions": "Questions 11–14\nComplete each sentence with the correct ending, A–F, below.",
+        "options": [
+          { "key": "A", "text": "makes learners remember material from earlier lessons." },
+          { "key": "B", "text": "is difficult to justify." },
+          { "key": "C", "text": "reveals relatively little about the value of homework." },
+          { "key": "D", "text": "should be introduced in primary schools." },
+          { "key": "E", "text": "has been hard for researchers to confirm." },
+          { "key": "F", "text": "depends mainly on how involved parents are." }
+        ],
+        "items": [
+          { "id": "q11", "kind": "match", "qtype": "matching-endings", "prompt": "Retrieval practice is effective because it", "answer": "A",
+            "explanation": "Retrieval practice consists of 'short exercises that require students to recall information they learned days or weeks earlier'. 'Remember' = 'recall'.",
+            "evidence": "short exercises that require students to recall information they learned days or weeks earlier" },
+          { "id": "q12", "kind": "match", "qtype": "matching-endings", "prompt": "Recording how many hours students spend on homework", "answer": "C",
+            "explanation": "'Measuring time alone, then, tells us surprisingly little.' 'Reveals relatively little' paraphrases 'tells us surprisingly little'.",
+            "evidence": "Measuring time alone, then, tells us surprisingly little." },
+          { "id": "q13", "kind": "match", "qtype": "matching-endings", "prompt": "The idea that homework teaches time management", "answer": "E",
+            "explanation": "The claim 'is remarkably difficult to test, and the few studies that have tried to measure it have produced mixed results'.",
+            "evidence": "it is remarkably difficult to test, and the few studies that have tried to measure it have produced mixed results" },
+          { "id": "q14", "kind": "match", "qtype": "matching-endings", "prompt": "According to the writer, the traditional model of large amounts of routine homework", "answer": "B",
+            "explanation": "The traditional model 'is equally hard to defend'. 'Difficult to justify' paraphrases 'hard to defend'. D is wrong: nothing recommends more homework for primary pupils.",
+            "evidence": "is equally hard to defend" }
+        ]
+      }
+    ]
+  }
+]

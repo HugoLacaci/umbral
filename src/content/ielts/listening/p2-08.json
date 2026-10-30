@@ -1,0 +1,89 @@
+[
+  {
+    "id": "ielts-l-p2-08",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 2,
+    "title": "Briefing for marathon volunteers",
+    "context": "You will hear the volunteer coordinator of a city marathon giving a briefing to volunteers a few days before the race.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Dana", "role": "Volunteer coordinator", "gender": "f", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Okay, good evening, everyone. Thanks for coming out on a weeknight. I'm Dana, and I'm coordinating all the volunteers for Sunday's Lakeshore City Marathon. We've got over three hundred of you this year, which is a record, so thank you." },
+        { "s": "a", "t": "Let me start with what we need from every single one of you on race day. The email you got last week said to arrive by six a.m., but we've pushed that back. Please be here by six thirty. When you arrive, the first thing you do is sign in at the volunteer tent, which is next to the start line. If you don't sign in, we don't know you're there, and that causes real problems for insurance. You'll be given a yellow jacket, and you must keep it on the whole time you're on duty, even if it gets warm, so that runners and police can see who you are. Lunch will be provided, so don't worry about bringing food. And you don't need to carry a first-aid kit. Only the medical teams do that." },
+        { "s": "a", "t": "Some of you have done this before, so I'll quickly go over what's different from last year. The start time hasn't changed. It's still eight o'clock. And the finish is still in City Hall Square, even though there were rumours it was moving to the park. But the route itself has changed. Because of the repairs on the Harbour Bridge, the course no longer goes over the bridge at all, and instead it loops round the old docks. The other big change is at the water stations. We won't be handing out plastic cups any more. Everything will be in paper cups, which can be recycled. We'd hoped to get more portable toilets along the course too, but I'm afraid the budget didn't stretch that far, so it's the same number as last year." },
+        { "s": "a", "t": "Now, you've each been put into a team, and the teams have colours. Let me explain what each team does." },
+        { "s": "a", "t": "The Red team. Originally we planned to give you the medals, but we've swapped things around, and you'll be running the bag drop instead. Runners leave their bags with you at the start, and you look after them until they collect them at the finish." },
+        { "s": "a", "t": "The Blue team will be spread out along the route, behind the metal barriers. Your job is to make sure spectators stay behind the barriers and don't step out onto the course, especially near the end, where the crowds get very big." },
+        { "s": "a", "t": "Green team, you'll be working near the water stations, but you won't be handing out drinks. The water stations are run by the Lakeshore Running Club, as usual. Instead, you'll be following along behind them, picking up all the cups and wrappers that runners drop on the road." },
+        { "s": "a", "t": "The Orange team will be on bicycles, riding behind the last runners. You're not medics, so you won't be treating anybody. But if you see a runner who's hurt or in difficulty, you radio the medical team straight away and tell them exactly where the runner is." },
+        { "s": "a", "t": "The Purple team will be at the information points around the start and finish. Visitors will ask you where the toilets are, how to get to the finish, where to catch a bus, that kind of thing." },
+        { "s": "a", "t": "And finally, the Silver team. You'll be at the finish line, putting a medal round the neck of every runner who completes the race. And just so you know, nobody needs to time the runners by hand. Every runner has an electronic chip on their shoe, and that does it all automatically." },
+        { "s": "a", "t": "Okay, I'll hand out the team lists now. Please check your name is on the right one." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "multi",
+        "instructions": "Questions 11 and 12\nChoose TWO letters, A–E.",
+        "items": [
+          { "id": "q11", "kind": "multi", "qtype": "multi", "prompt": "Which TWO things must all volunteers do on race day?",
+            "options": ["arrive by 6 a.m.", "sign in at the volunteer tent", "bring their own lunch", "carry a first-aid kit", "wear a yellow jacket while on duty"], "answers": [1, 4],
+            "explanation": "Arrival is now 6.30, not 6 a.m.; lunch is provided; only medical teams carry first-aid kits. Everyone must sign in and keep the yellow jacket on.",
+            "evidence": "the first thing you do is sign in at the volunteer tent",
+            "optionNotes": ["Changed to 6.30.", "Correct.", "Lunch will be provided.", "Only the medical teams do that.", "Correct: 'you must keep it on the whole time'."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "multi",
+        "instructions": "Questions 13 and 14\nChoose TWO letters, A–E.",
+        "items": [
+          { "id": "q13", "kind": "multi", "qtype": "multi", "prompt": "Which TWO changes have been made since last year's race?",
+            "options": ["The race starts later.", "The route no longer crosses the bridge.", "The finish has moved to the park.", "Drinks are served in paper cups.", "There are more toilets along the course."], "answers": [1, 3],
+            "explanation": "The start time and the finish are unchanged, and there are no extra toilets. The route avoids the bridge and paper cups replace plastic ones.",
+            "evidence": "the course no longer goes over the bridge at all",
+            "optionNotes": ["Still eight o'clock.", "Correct.", "Only a rumour: still City Hall Square.", "Correct.", "The budget didn't allow it."] }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching",
+        "instructions": "Questions 15–20\nWhat will each team be responsible for?\nChoose SIX answers from the box and write the correct letter, A–H, next to Questions 15–20.",
+        "options": [
+          { "key": "A", "text": "giving runners medals" },
+          { "key": "B", "text": "looking after runners' belongings" },
+          { "key": "C", "text": "reporting runners who need help" },
+          { "key": "D", "text": "answering questions from the public" },
+          { "key": "E", "text": "removing litter from the course" },
+          { "key": "F", "text": "controlling the crowds" },
+          { "key": "G", "text": "recording runners' times" },
+          { "key": "H", "text": "handing out drinks" }
+        ],
+        "items": [
+          { "id": "q15", "kind": "match", "qtype": "matching", "prompt": "Red team", "answer": "B",
+            "explanation": "They were going to give out medals, but now run the bag drop.",
+            "evidence": "you'll be running the bag drop instead" },
+          { "id": "q16", "kind": "match", "qtype": "matching", "prompt": "Blue team", "answer": "F",
+            "explanation": "They keep spectators behind the barriers.",
+            "evidence": "make sure spectators stay behind the barriers" },
+          { "id": "q17", "kind": "match", "qtype": "matching", "prompt": "Green team", "answer": "E",
+            "explanation": "They work near the water stations but don't hand out drinks (H); they pick up cups and wrappers.",
+            "evidence": "picking up all the cups and wrappers that runners drop on the road" },
+          { "id": "q18", "kind": "match", "qtype": "matching", "prompt": "Orange team", "answer": "C",
+            "explanation": "They don't treat anyone, but they radio the medical team about injured runners.",
+            "evidence": "you radio the medical team straight away" },
+          { "id": "q19", "kind": "match", "qtype": "matching", "prompt": "Purple team", "answer": "D",
+            "explanation": "At the information points they answer visitors' questions.",
+            "evidence": "Visitors will ask you where the toilets are" },
+          { "id": "q20", "kind": "match", "qtype": "matching", "prompt": "Silver team", "answer": "A",
+            "explanation": "They put medals on finishers. Timing (G) is done automatically by electronic chips.",
+            "evidence": "putting a medal round the neck of every runner who completes the race" }
+        ]
+      }
+    ]
+  }
+]

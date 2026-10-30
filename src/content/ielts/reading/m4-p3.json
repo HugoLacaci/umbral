@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ielts-r-m4-p3",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "passageNo": 3,
+    "title": "Beyond GDP",
+    "subtitle": "Can a single number tell us whether a country is making progress?",
+    "paragraphs": [
+      { "label": "A", "text": "Few statistics have as much influence as gross domestic product. GDP, the total value of the goods and services produced in an economy, is reported every quarter, debated by politicians and treated by the media as a verdict on a government's performance. Yet it was never intended to carry such weight. Simon Kuznets, the economist who produced the first official estimates of national income in the United States in the 1930s, cautioned in his 1934 report to Congress that the welfare of a nation could scarcely be inferred from a measurement of national income. The warning was largely forgotten, and over the following decades growth in GDP came to be treated, in practice if not in theory, as a measure of progress itself." },
+      { "label": "B", "text": "The problems with this are well known, and I do not intend to rehearse all of them. GDP counts activity, not well-being. A traffic accident that requires hospital treatment and car repairs adds to GDP; so does the cleaning-up of an oil spill. Meanwhile, much of what people value most is invisible to it: unpaid care for children and elderly relatives, voluntary work, leisure time, and the condition of the natural environment. Nor does GDP say anything about how income is distributed. An economy can grow steadily while most of its citizens see no improvement in their living standards, if the gains are concentrated among a small minority." },
+      { "label": "C", "text": "Such criticisms have produced a large number of alternatives. Some, such as the 'genuine progress indicator', start from personal consumption and then make adjustments, subtracting the costs of crime, pollution and commuting while adding an estimate of the value of household work. Others abandon a single number altogether in favour of a 'dashboard' of indicators covering health, education, housing, the environment and so on. A third approach, which has attracted particular attention, simply asks people how satisfied they are with their lives. Since 2011, the British Office for National Statistics has included such questions in a large household survey, and similar measures are now collected in many countries." },
+      { "label": "D", "text": "Interest in these alternatives received considerable impetus in 2009, when a commission established by the French government and led by the economists Joseph Stiglitz and Amartya Sen recommended that statistical systems shift their emphasis from measuring economic production to measuring people's well-being. Bhutan, which had long described 'gross national happiness' as a goal of government policy, became a frequently cited example, and in 2019 New Zealand presented what it called a 'well-being budget', in which spending priorities were justified partly with reference to indicators such as mental health, child poverty and environmental quality." },
+      { "label": "E", "text": "Subjective well-being measures have obvious appeal: they let people judge their own lives rather than relying on experts to decide what matters. But they also have weaknesses that their enthusiasts sometimes underestimate. Answers to life-satisfaction questions can be influenced by trivial factors, such as the weather on the day of the survey or the order in which questions are asked. More fundamentally, people adjust their expectations to their circumstances. Someone who has grown used to hardship may report reasonable satisfaction with a life that most observers would regard as seriously deprived. A government that set out to maximise reported happiness might, in principle, achieve more by lowering people's expectations than by improving their conditions, a possibility that should trouble anyone who takes the idea seriously as a target for policy." },
+      { "label": "F", "text": "Dashboards avoid some of these difficulties, but they create others. A list of thirty indicators may be more accurate than a single figure, but it rarely makes headlines, and when the indicators move in different directions it is unclear whether a country is doing better or worse. Composite indices, which combine many indicators into one score, solve the communication problem only by introducing a new one: the weights given to each component are essentially a matter of judgement, and small changes to them can reorder international rankings considerably. In my view, this is not a reason to reject such indices, but it is a reason to publish the weights openly and to invite debate about them." },
+      { "label": "G", "text": "What, then, should be done? It would be a mistake to abandon GDP, which remains indispensable for its original purpose of measuring the size of an economy and tracking the short-term ups and downs of the business cycle. The real problem lies not in the statistic but in the way it is used. GDP should be reported alongside a small number of other measures, of distribution, of environmental sustainability and of well-being, and statistical offices should give them equal prominence. Whether this would change political behaviour is uncertain; governments have shown considerable skill at selecting whichever figures flatter them. But a measure that is never published can never be used to hold anyone to account, and that alone is a strong argument for widening what we count." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 27–30\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 27–30 on your answer sheet.",
+        "items": [
+          { "id": "q27", "kind": "mcq", "qtype": "mcq", "prompt": "What does the writer say about Simon Kuznets in paragraph A?", "options": [
+              "He believed GDP should replace all other economic statistics.",
+              "He doubted that national income showed how well off a nation was.",
+              "He was the first person to criticise official statistics.",
+              "His warning changed the way governments used GDP."
+            ], "answer": 1,
+            "explanation": "Kuznets said welfare 'could scarcely be inferred' from national income, i.e. he doubted it showed how well off people were. D is the opposite of the text: the warning 'was largely forgotten'.",
+            "evidence": "the welfare of a nation could scarcely be inferred from a measurement of national income",
+            "optionNotes": ["Not stated.", "Correct.", "'First' is not supported; he produced the first estimates, not the first criticism.", "Contradicted: the warning was largely forgotten."] },
+          { "id": "q28", "kind": "mcq", "qtype": "mcq", "prompt": "The writer mentions a traffic accident in order to illustrate that", "options": [
+              "GDP fails to include unpaid work.",
+              "accidents have a high cost for the economy.",
+              "events that do harm can increase GDP.",
+              "GDP figures are often calculated inaccurately."
+            ], "answer": 2,
+            "explanation": "The accident 'adds to GDP' because it creates paid activity (hospital treatment, repairs): GDP 'counts activity, not well-being'. Unpaid work (A) is a separate point made in the next sentence.",
+            "evidence": "A traffic accident that requires hospital treatment and car repairs adds to GDP",
+            "optionNotes": ["A different criticism, made separately.", "The cost is not the writer's point.", "Correct.", "Accuracy of calculation is not discussed."] },
+          { "id": "q29", "kind": "mcq", "qtype": "mcq", "prompt": "According to paragraph C, the genuine progress indicator", "options": [
+              "replaces consumption figures with survey results.",
+              "consists of a large set of separate indicators.",
+              "gives a value to some activity that GDP ignores.",
+              "was created by the British Office for National Statistics."
+            ], "answer": 2,
+            "explanation": "It adds 'an estimate of the value of household work', which is unpaid and therefore not counted by GDP (paragraph B). B describes dashboards; A mixes it with the survey approach.",
+            "evidence": "adding an estimate of the value of household work",
+            "optionNotes": ["It starts from consumption; surveys are a third approach.", "That describes a dashboard.", "Correct.", "The ONS is linked to life-satisfaction questions, not this indicator."] },
+          { "id": "q30", "kind": "mcq", "qtype": "mcq", "prompt": "In paragraph E, the writer refers to lowering people's expectations in order to", "options": [
+              "show a serious weakness in treating reported happiness as a policy goal.",
+              "suggest that some governments have already used this approach.",
+              "explain why survey answers are affected by the weather.",
+              "argue that experts are better judges of well-being than individuals."
+            ], "answer": 0,
+            "explanation": "The writer says this possibility 'should trouble anyone who takes the idea seriously as a target for policy': it exposes a flaw in using happiness as a target. Nothing says governments have actually done it (B).",
+            "evidence": "a possibility that should trouble anyone who takes the idea seriously as a target for policy",
+            "optionNotes": ["Correct.", "It is presented as possible 'in principle', not as something that has happened.", "The weather is a separate, 'trivial' factor.", "The writer does not go this far."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "ynng",
+        "instructions": "Questions 31–35\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 31–35 on your answer sheet, write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+        "items": [
+          { "id": "q31", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "GDP is no longer a useful measure of the size of an economy.", "answer": "NO",
+            "explanation": "The writer says GDP 'remains indispensable' for measuring the size of an economy. The problem is how it is used, not the statistic.",
+            "evidence": "which remains indispensable for its original purpose of measuring the size of an economy" },
+          { "id": "q32", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "Some supporters of life-satisfaction measures do not fully recognise their limitations.", "answer": "YES",
+            "explanation": "'Their enthusiasts sometimes underestimate' the weaknesses. 'Some supporters ... do not fully recognise' matches 'sometimes underestimate'.",
+            "evidence": "they also have weaknesses that their enthusiasts sometimes underestimate" },
+          { "id": "q33", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "New Zealand's well-being budget has led to better mental health in the country.", "answer": "NOT GIVEN",
+            "explanation": "Mental health is mentioned only as one of the indicators used to justify spending. The writer says nothing about the budget's results." },
+          { "id": "q34", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "The way the parts of a composite index are weighted should be made public.", "answer": "YES",
+            "explanation": "'In my view ... it is a reason to publish the weights openly'.",
+            "evidence": "it is a reason to publish the weights openly and to invite debate about them" },
+          { "id": "q35", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "Publishing a wider range of measures will certainly alter the way governments behave.", "answer": "NO",
+            "explanation": "The writer says the effect on political behaviour 'is uncertain', which contradicts 'certainly'. Note: the writer still supports publishing them, but for accountability.",
+            "evidence": "Whether this would change political behaviour is uncertain" }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "multi",
+        "instructions": "Questions 36 and 37\nChoose TWO letters, A–E.\nWrite the correct letters in boxes 36 and 37 on your answer sheet.",
+        "items": [
+          { "id": "q36-37", "kind": "multi", "qtype": "multi", "prompt": "Which TWO problems with dashboards and composite indices does the writer mention?", "options": [
+              "A dashboard is unlikely to attract much attention from the media.",
+              "Dashboards are more expensive to produce than GDP figures.",
+              "The ranking of countries in a composite index depends heavily on decisions about weighting.",
+              "Composite indices usually leave out environmental information.",
+              "Dashboards contain too few indicators to be accurate."
+            ], "answers": [0, 2],
+            "explanation": "A: a long list of indicators 'rarely makes headlines'. C: weights are 'a matter of judgement' and small changes 'can reorder international rankings considerably'. Cost (B) and missing environmental data (D) are never mentioned; E contradicts the text, which says dashboards may be 'more accurate'.",
+            "evidence": "small changes to them can reorder international rankings considerably",
+            "optionNotes": ["Correct ('it rarely makes headlines').", "Cost is not mentioned.", "Correct.", "Not stated.", "Contradicted: a dashboard 'may be more accurate than a single figure'."] }
+        ]
+      },
+      {
+        "id": "g4",
+        "qtype": "sentence-completion",
+        "instructions": "Questions 38–40\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 38–40 on your answer sheet.",
+        "items": [
+          { "id": "q38", "kind": "gap", "qtype": "sentence-completion", "prompt": "GDP gives no information about how income is ___ among the population.", "answers": ["distributed"], "maxWords": 2, "allowNumber": false,
+            "explanation": "'Nor does GDP say anything about how income is distributed.'",
+            "evidence": "Nor does GDP say anything about how income is distributed." },
+          { "id": "q39", "kind": "gap", "qtype": "sentence-completion", "prompt": "Responses to life-satisfaction surveys may be affected by the weather or by the ___ of the questions.", "answers": ["order"], "maxWords": 2, "allowNumber": false,
+            "explanation": "Answers can be influenced by 'the order in which questions are asked'.",
+            "evidence": "the order in which questions are asked" },
+          { "id": "q40", "kind": "gap", "qtype": "sentence-completion", "prompt": "The writer recommends publishing GDP together with measures of distribution, environmental ___ and well-being.", "answers": ["sustainability"], "maxWords": 2, "allowNumber": false,
+            "explanation": "GDP 'should be reported alongside ... other measures, of distribution, of environmental sustainability and of well-being'.",
+            "evidence": "of distribution, of environmental sustainability and of well-being" }
+        ]
+      }
+    ]
+  }
+]

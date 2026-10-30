@@ -1,0 +1,807 @@
+[
+  {
+    "id": "toefl-ap-21",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Underdetermination of Theory",
+    "text": "It is tempting to suppose that, given enough observations, the evidence will eventually single out the correct scientific theory. Philosophers of science have long questioned this assumption. The physicist Pierre Duhem observed in the early twentieth century that hypotheses are never tested in isolation: any prediction derived from a theory also depends on auxiliary assumptions about instruments, initial conditions, and background knowledge. Consequently, when a prediction fails, logic alone does not dictate which component of this larger bundle should be abandoned. The investigator may reject the central hypothesis, but might equally blame a faulty instrument or an unrecognized disturbing factor.\n\nHistorical episodes illustrate the point. When the orbit of Uranus was found to deviate from the path predicted by Newtonian mechanics, astronomers did not discard Newton's laws; instead, they postulated an unseen planet, and the discovery of Neptune in 1846 vindicated that choice. Yet a structurally similar strategy failed for Mercury, whose anomalous orbit prompted a search for a hypothetical inner planet, Vulcan, that was never found. The anomaly was eventually accounted for only by Einstein's general theory of relativity, which revised the very framework that earlier astronomers had protected.\n\nSome philosophers have drawn radical conclusions from such cases, contending that theory choice is ultimately a matter of convention or social negotiation. Most, however, adopt a more moderate position. Although evidence may not compel a unique verdict at any given moment, considerations such as simplicity, explanatory scope, and the accumulation of independent tests tend, over time, to narrow the range of reasonable options. Underdetermination, on this view, is a reminder of the provisional character of scientific knowledge rather than a refutation of its rationality.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the central argument of the passage?",
+        "options": [
+          "Because hypotheses are tested together with auxiliary assumptions, evidence may not settle theory choice at a given moment, though this does not make science irrational.",
+          "Scientific theories are ultimately chosen by convention rather than by evidence.",
+          "The discovery of Neptune showed that Newtonian mechanics was mistaken.",
+          "A failed prediction always shows that the central hypothesis of a theory is false."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: it combines Duhem's point with the moderate position the author endorses in paragraph 3.",
+          "Too strong: this is the \"radical\" conclusion of some philosophers, from which the author distinguishes the majority view.",
+          "Reversed: Neptune's discovery vindicated the decision to keep Newton's laws.",
+          "Contradicted: logic alone does not dictate which component should be abandoned."
+        ],
+        "explanation": "The passage explains why evidence underdetermines theory choice and ends by endorsing the moderate reading: knowledge is provisional, not irrational.",
+        "evidence": "a reminder of the provisional character of scientific knowledge rather than a refutation of its rationality"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"vindicated\" in the passage is closest in meaning to",
+        "options": [
+          "complicated",
+          "delayed",
+          "justified",
+          "concealed"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not the meaning: the discovery made the choice look correct, not more complex.",
+          "Not the meaning: nothing is postponed.",
+          "Correct: finding Neptune showed that postulating an unseen planet had been the right choice.",
+          "Opposite: the discovery revealed rather than hid something."
+        ],
+        "explanation": "The astronomers chose to postulate a new planet; finding Neptune proved that choice right, i.e., justified it.",
+        "evidence": "the discovery of Neptune in 1846 vindicated that choice"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author contrast the cases of Uranus and Mercury?",
+        "options": [
+          "To demonstrate that Newtonian mechanics was wrong in every respect",
+          "To suggest that nineteenth-century astronomers were careless observers",
+          "To explain the methods by which Neptune was detected",
+          "To show that the same strategy of protecting a theory can succeed in one case and fail in another"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Too strong: the Uranus case shows Newton's laws working.",
+          "Not stated: no criticism of the astronomers' observations is made.",
+          "True but not the purpose: the passage does not describe detection methods, and the Mercury case is the key contrast.",
+          "Correct: the parallel cases show that logic cannot decide in advance whether to keep a theory or revise it."
+        ],
+        "explanation": "The phrase \"a structurally similar strategy failed\" marks the contrast: identical reasoning produced success with Uranus and failure with Mercury, illustrating Duhem's point.",
+        "evidence": "Yet a structurally similar strategy failed for Mercury"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "Based on paragraph 1, how would Duhem most likely view a laboratory result that contradicts a hypothesis?",
+        "options": [
+          "The hypothesis must be rejected immediately.",
+          "The scientist could reasonably question the equipment or other assumptions instead of the hypothesis.",
+          "The result should be ignored because experiments are unreliable.",
+          "The result proves that the auxiliary assumptions were correct."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Contradicted: logic alone does not dictate which component to abandon.",
+          "Correct: the investigator \"might equally blame a faulty instrument.\"",
+          "Too strong: Duhem says the blame is uncertain, not that results should be ignored.",
+          "Reversed: a failed prediction may cast doubt on the auxiliaries, not confirm them."
+        ],
+        "explanation": "Duhem's point is that a failed prediction implicates the whole bundle of assumptions, so blaming the instrument is as logically permissible as rejecting the hypothesis.",
+        "evidence": "The investigator may reject the central hypothesis, but might equally blame a faulty instrument or an unrecognized disturbing factor."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"its\" in the phrase \"a refutation of its rationality\" refers to",
+        "options": [
+          "scientific knowledge",
+          "underdetermination",
+          "the accumulation of independent tests",
+          "the radical position"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: underdetermination does not refute the rationality of scientific knowledge.",
+          "Not logical: underdetermination is the subject doing the reminding, not what is being refuted.",
+          "Not logical: this phrase appears in the previous sentence and is not being refuted.",
+          "Not logical: the radical position is not what has \"rationality\" here."
+        ],
+        "explanation": "The contrast is between the provisional character of scientific knowledge and the rationality of that same knowledge.",
+        "evidence": "rather than a refutation of its rationality"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-22",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Endowment Effect",
+    "text": "Standard economic theory assumes that the value a person places on an object should not depend on whether he or she happens to own it. The price at which someone would be willing to sell a mug, for instance, ought roughly to equal the price at which the same person would be willing to buy it. Experimental findings have repeatedly contradicted this expectation. In a well-known series of studies published in 1990, participants who were randomly given coffee mugs typically demanded more than twice as much to part with them as other participants were willing to pay to acquire them. Because ownership had been assigned by chance, the gap could not plausibly be explained by differences in taste.\n\nThe phenomenon, labelled the endowment effect, is commonly interpreted as a manifestation of loss aversion, the tendency for losses to weigh more heavily than equivalent gains. Giving up an owned mug registers as a loss, whereas acquiring one registers merely as a gain; if losses loom larger, sellers will require more compensation than buyers are prepared to offer. The interpretation has proved influential well beyond the laboratory, informing analyses of phenomena as diverse as the reluctance of investors to sell declining stocks and the persistence of default options.\n\nNevertheless, the effect appears less universal than early accounts implied. It tends to diminish among experienced traders, for whom goods function as inventory rather than possessions, and some researchers have argued that its size is sensitive to how experimental procedures are explained to participants. Such findings do not dissolve the effect so much as suggest that it is contingent on how people frame a transaction.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, why could the gap between selling and buying prices not be explained by differences in taste?",
+        "options": [
+          "All participants disliked the mugs equally.",
+          "Ownership of the mugs had been assigned randomly.",
+          "The mugs given to sellers were of higher quality.",
+          "The sellers were more experienced traders."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not stated: the passage says nothing about how much participants liked the mugs.",
+          "Correct: random assignment means sellers and buyers should have similar tastes on average.",
+          "Not stated: the mugs are presented as identical.",
+          "Not stated: experience is discussed in paragraph 3 and in a different context."
+        ],
+        "explanation": "If chance decided who owned a mug, there is no reason to think owners liked mugs more than non-owners, so taste cannot explain the gap.",
+        "evidence": "Because ownership had been assigned by chance, the gap could not plausibly be explained by differences in taste."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The phrase \"loom larger\" in the passage is closest in meaning to",
+        "options": [
+          "disappear sooner",
+          "occur more often",
+          "cost more money",
+          "seem more important"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Opposite: losses stay more salient, not less.",
+          "Not the meaning: the issue is weight, not frequency.",
+          "Not the meaning: the losses and gains are \"equivalent\" in money.",
+          "Correct: losses weigh more heavily in people's minds than equivalent gains."
+        ],
+        "explanation": "The sentence restates loss aversion, \"the tendency for losses to weigh more heavily\"; if losses loom larger, they seem more important.",
+        "evidence": "if losses loom larger, sellers will require more compensation than buyers are prepared to offer"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What does paragraph 3 suggest about a professional dealer selling items from stock?",
+        "options": [
+          "The dealer will show no reluctance at all to sell.",
+          "The dealer will demand twice what the items cost.",
+          "The dealer is likely to show a weaker endowment effect than an inexperienced owner.",
+          "The dealer is more loss-averse than most people."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Too strong: the effect \"tends to diminish,\" which does not mean it vanishes.",
+          "Not supported: the \"twice\" figure comes from the mug experiments.",
+          "Correct: for experienced traders, goods are inventory rather than possessions, so the effect is weaker.",
+          "Reversed: the passage implies less, not more, sensitivity to loss in this context."
+        ],
+        "explanation": "A dealer treats goods as inventory, the condition under which the passage says the effect tends to diminish.",
+        "evidence": "It tends to diminish among experienced traders, for whom goods function as inventory rather than possessions"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention \"the reluctance of investors to sell declining stocks\"?",
+        "options": [
+          "To illustrate how the loss-aversion explanation has been applied outside the laboratory",
+          "To argue that investors are less rational than experimental participants",
+          "To provide the original evidence for the endowment effect",
+          "To show that the endowment effect disappears in financial markets"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: it is one example of the \"phenomena as diverse as\" that the interpretation has informed.",
+          "Not argued: no comparison of rationality is made.",
+          "Wrong: the original evidence came from the mug studies.",
+          "Contradicted: the example is cited as an application, not as a counterexample."
+        ],
+        "explanation": "The sentence says the interpretation has been influential \"well beyond the laboratory\" and then names examples, including investors' behaviour.",
+        "evidence": "informing analyses of phenomena as diverse as the reluctance of investors to sell declining stocks"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best summarizes the passage?",
+        "options": [
+          "Experiments have shown that standard economic theory is wrong in all its assumptions.",
+          "People often value things they own more than identical things they do not, an effect usually linked to loss aversion but one that varies with circumstances.",
+          "The endowment effect is merely an artifact of how experiments are explained to participants.",
+          "Experienced traders are completely immune to loss aversion."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Too strong: only one assumption about value and ownership is challenged.",
+          "Correct: it covers the finding, its usual interpretation, and the qualifications in paragraph 3.",
+          "Too strong: the findings \"do not dissolve the effect.\"",
+          "Too strong: the effect only \"tends to diminish\" among them."
+        ],
+        "explanation": "Paragraph 1 presents the finding, paragraph 2 its explanation, and paragraph 3 the limits: the effect is real but contingent.",
+        "evidence": "Such findings do not dissolve the effect so much as suggest that it is contingent on how people frame a transaction."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-23",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Climate Archives in Polar Ice",
+    "text": "Among the most informative records of past climate are cylinders of ice drilled from the polar ice sheets. Because snow that falls on the interior of Antarctica or Greenland rarely melts, it accumulates year after year and is gradually compressed into ice, preserving a layered archive that, in parts of East Antarctica, extends back roughly 800,000 years. Two features of this archive are especially valuable. First, the ratio of heavy to light isotopes of hydrogen and oxygen in the ice reflects the temperature at which the snow formed, so that changes in that ratio serve as a proxy for past temperature. Second, small bubbles of air sealed inside the ice provide direct samples of the ancient atmosphere.\n\nAnalysis of these bubbles has revealed a striking correspondence: over successive glacial cycles, concentrations of carbon dioxide rose and fell broadly in step with temperature. Interpreting this relationship, however, requires care. Some comparisons indicate that at the end of certain ice ages, Antarctic warming began slightly before the rise in carbon dioxide. This has occasionally been cited as evidence that carbon dioxide plays no causal role in climate. Most researchers draw a different conclusion: the initial warming appears to have been triggered by changes in Earth's orbit, which led the oceans to release carbon dioxide, which in turn amplified and spread the warming.\n\nThe records are further complicated by the fact that air continues to circulate through the upper layers of compacted snow for a long time, centuries or even millennia at some sites, before the bubbles close. Gas trapped at a given depth is therefore younger than the ice surrounding it, an offset that researchers must estimate before comparing the two records.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, how do ice cores provide information about past temperature?",
+        "options": [
+          "Through the thickness of each annual layer",
+          "Through the amount of carbon dioxide in the air bubbles",
+          "Through the ratio of heavy to light isotopes in the ice",
+          "Through the speed at which the ice melts"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not stated: layer thickness is not discussed.",
+          "Not the stated method: the bubbles sample the atmosphere; their link to temperature is a finding, not the temperature proxy.",
+          "Correct: the isotope ratio reflects the temperature at which the snow formed.",
+          "Contradicted: the snow \"rarely melts.\""
+        ],
+        "explanation": "The passage names the isotope ratio as the temperature proxy and the bubbles as samples of the atmosphere.",
+        "evidence": "the ratio of heavy to light isotopes of hydrogen and oxygen in the ice reflects the temperature at which the snow formed"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"proxy\" in the passage is closest in meaning to",
+        "options": [
+          "an indirect indicator",
+          "a precise cause",
+          "a direct measurement",
+          "a later correction"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the isotope ratio stands in for temperature, which cannot be measured directly.",
+          "Not the meaning: the ratio reflects temperature; it does not cause it.",
+          "Opposite: a proxy is used precisely because direct measurement is impossible.",
+          "Not the meaning: corrections are discussed in paragraph 3."
+        ],
+        "explanation": "Nobody measured ancient temperatures; the ratio serves in their place, which is what a proxy is.",
+        "evidence": "serve as a proxy for past temperature"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred about the author's view of the claim that carbon dioxide \"plays no causal role in climate\"?",
+        "options": [
+          "The author considers it proven by the timing of the warming.",
+          "The author believes most researchers accept it.",
+          "The author attributes it to errors in dating the air bubbles.",
+          "The author regards it as a misreading, since carbon dioxide can amplify a warming it did not start."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Reversed: the author presents the timing as compatible with a causal role.",
+          "Contradicted: \"Most researchers draw a different conclusion.\"",
+          "Not stated: the dating problem in paragraph 3 is not linked to this claim.",
+          "Correct: a lag in onset does not rule out carbon dioxide amplifying the warming."
+        ],
+        "explanation": "The phrase \"occasionally been cited\" and the contrasting majority view show that the author sees the claim as a mistaken inference from the lag.",
+        "evidence": "which in turn amplified and spread the warming"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that air \"continues to circulate through the upper layers of compacted snow\"?",
+        "options": [
+          "To explain why the ice sheets are thinner at some sites",
+          "To explain why the gas in a sample is younger than the surrounding ice and must be corrected for",
+          "To show that the air bubbles are unreliable and should not be used",
+          "To argue that carbon dioxide rose before temperature"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not stated: the thickness of ice sheets is not discussed.",
+          "Correct: because the bubbles close late, gas and ice at the same depth differ in age.",
+          "Too strong: the offset must be estimated, not that the bubbles are useless.",
+          "Not argued: the passage does not use the offset to make this claim."
+        ],
+        "explanation": "Paragraph 3 introduces a complication: late bubble closure creates an age offset that researchers have to estimate.",
+        "evidence": "Gas trapped at a given depth is therefore younger than the ice surrounding it"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"it\" in the phrase \"the ice surrounding it\" refers to",
+        "options": [
+          "the depth",
+          "the offset",
+          "the ice",
+          "the gas"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not logical: a depth cannot be surrounded by ice.",
+          "Not logical: the offset is introduced after this phrase.",
+          "Not logical: the ice cannot surround itself.",
+          "Correct: the ice surrounds the trapped gas."
+        ],
+        "explanation": "The sentence compares the age of the trapped gas with the age of the ice around that gas.",
+        "evidence": "younger than the ice surrounding it"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-24",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Arithmetic of Herd Immunity",
+    "text": "In epidemiology, the transmissibility of an infection is often summarized by its basic reproduction number, written R0: the average number of people to whom a single infected individual would pass the disease in a population with no immunity. If R0 exceeds one, each case generates more than one further case, and the infection can spread; if it falls below one, an outbreak tends to fade. From this definition follows a simple but consequential result. If part of the population is immune, each case can infect only the remaining susceptible fraction, so transmission falls below replacement once the immune proportion exceeds one minus the reciprocal of R0. For a disease with an R0 of four, this threshold is 75 percent; for measles, whose R0 is commonly estimated at between 12 and 18, it exceeds 90 percent.\n\nThe threshold explains why vaccination protects even those who cannot be vaccinated, such as newborns or people with certain medical conditions: when enough others are immune, chains of transmission are broken before reaching them. It also explains why modest declines in coverage can have disproportionate effects for highly contagious diseases, since the margin between protection and vulnerability is narrow.\n\nThe formula nevertheless rests on simplifying assumptions that rarely hold in practice. It presumes that people mix randomly and that immunity is distributed evenly. Real populations, by contrast, are structured into households, schools, and communities, and unvaccinated individuals frequently cluster together. A region whose overall coverage meets the threshold may therefore still harbor pockets in which the disease can circulate. The threshold is thus better treated as a rough guide than as a guarantee.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, what happens when R0 is below one?",
+        "options": [
+          "The disease becomes more contagious.",
+          "The immunity threshold rises above 90 percent.",
+          "Each case produces more than one new case.",
+          "An outbreak tends to fade."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not stated: R0 describes contagiousness; it does not change it.",
+          "Wrong: a 90 percent threshold applies to measles, with a high R0.",
+          "Reversed: this happens when R0 exceeds one.",
+          "Correct: with fewer than one new case per case, the outbreak dies out."
+        ],
+        "explanation": "The passage contrasts R0 above one (spread) with R0 below one (fading).",
+        "evidence": "if it falls below one, an outbreak tends to fade"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"disproportionate\" in the passage is closest in meaning to",
+        "options": [
+          "predictable",
+          "temporary",
+          "far larger than the cause would suggest",
+          "beneficial"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not the meaning: the point is the size of the effect, not its predictability.",
+          "Not the meaning: duration is not discussed.",
+          "Correct: a modest decline can cause a much larger effect.",
+          "Opposite: the effects of declining coverage are harmful."
+        ],
+        "explanation": "The sentence contrasts \"modest declines\" with their effects: the effects are out of proportion to, i.e., much larger than, the decline.",
+        "evidence": "modest declines in coverage can have disproportionate effects"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention newborns?",
+        "options": [
+          "To give an example of people who benefit from herd immunity even though they cannot be vaccinated",
+          "To show that newborns are the main source of infection",
+          "To argue that newborns should be vaccinated earlier",
+          "To explain why the R0 of measles is so high"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: newborns are listed as people protected because others are immune.",
+          "Not stated: nothing suggests newborns spread disease more.",
+          "Not argued: the passage does not discuss vaccination schedules.",
+          "Unrelated: R0 values are discussed in paragraph 1."
+        ],
+        "explanation": "Newborns are introduced with \"such as\" as examples of \"those who cannot be vaccinated\" but are still protected.",
+        "evidence": "protects even those who cannot be vaccinated, such as newborns"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred about a city where 96 percent of people are vaccinated against measles?",
+        "options": [
+          "It is completely safe from measles outbreaks.",
+          "Outbreaks may still occur if unvaccinated people are concentrated in particular communities.",
+          "Its coverage is below the herd immunity threshold for measles.",
+          "Measles has a lower R0 there than elsewhere."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Too strong: the threshold is \"a rough guide,\" not \"a guarantee.\"",
+          "Correct: clustering can create pockets where the disease circulates even when overall coverage meets the threshold.",
+          "Contradicted: even with the highest R0 given for measles (18), the threshold is about 94 percent (one minus 1/18), so 96 percent meets it.",
+          "Not supported: nothing suggests R0 varies by city."
+        ],
+        "explanation": "Coverage of 96 percent meets the measles threshold overall (about 92–94 percent for an R0 of 12–18), but paragraph 3 warns that uneven distribution of immunity can still allow local spread.",
+        "evidence": "A region whose overall coverage meets the threshold may therefore still harbor pockets in which the disease can circulate."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "The herd immunity formula is useless because populations do not mix randomly.",
+          "Measles is the most contagious disease known to epidemiologists.",
+          "A simple formula links transmissibility to the level of immunity needed to stop spread, though real population structure limits its precision.",
+          "Once the threshold is reached, vaccination is no longer necessary."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Too strong: it is \"a rough guide,\" which is still useful.",
+          "Not stated: measles is an example, not ranked against all diseases.",
+          "Correct: it combines the formula (paragraphs 1–2) with its limits (paragraph 3).",
+          "Contradicted: protection depends on enough people remaining immune."
+        ],
+        "explanation": "The passage explains the threshold, its practical meaning, and then the assumptions that make it a guide rather than a guarantee.",
+        "evidence": "The threshold is thus better treated as a rough guide than as a guarantee."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-25",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Question of Authentic Performance",
+    "text": "In the second half of the twentieth century, a growing number of musicians began performing the works of Bach, Handel, and their contemporaries on instruments of the composers' own era, or on modern copies of them: gut strings rather than steel, valveless horns, and harpsichords in place of the piano. These performers also consulted historical treatises, many written by eighteenth-century performers and teachers, to recover practices such as unequal rhythmic inflection and a sparing use of vibrato. The movement was initially promoted under the banner of \"authenticity,\" a term implying that its practitioners were recovering how the music truly sounded and, by extension, how it ought to be played.\n\nThat claim attracted sustained criticism. Some scholars pointed out that the evidence is often fragmentary: treatises describe ideals rather than everyday practice, and they frequently contradict one another. Others raised a more fundamental objection. Even if a performance could reproduce the sounds of an eighteenth-century concert exactly, modern listeners, whose ears have been shaped by two further centuries of music, could not hear those sounds as the original audience did. The musicologist Richard Taruskin went further, arguing that historically informed performance owed as much to modernist taste for clarity and precision as to any recovered past.\n\nPartly in response to such critiques, many practitioners abandoned the word \"authentic\" in favor of \"historically informed.\" The change of label was more than cosmetic. It acknowledged that historical evidence can inform interpretive choices without dictating them, and that the result is inevitably a modern performance, albeit one enriched by an understanding of earlier conventions.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Period instruments produce a better sound than modern instruments.",
+          "A movement that claimed to recover how early music truly sounded faced criticism that led it to describe its aims more modestly.",
+          "Taruskin showed that historical performance has no value.",
+          "Historical treatises give a complete and consistent account of eighteenth-century practice."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not stated: the author does not judge which instruments sound better.",
+          "Correct: the passage moves from the claim of authenticity, to criticism, to the new label.",
+          "Too strong: Taruskin questioned its historical basis, not its value.",
+          "Contradicted: the evidence is \"fragmentary\" and treatises \"contradict one another.\""
+        ],
+        "explanation": "Paragraph 1 presents the claim, paragraph 2 the critiques, and paragraph 3 the more modest self-description that followed.",
+        "evidence": "many practitioners abandoned the word \"authentic\" in favor of \"historically informed.\""
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"fragmentary\" in the passage is closest in meaning to",
+        "options": [
+          "incomplete",
+          "fraudulent",
+          "technical",
+          "recent"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the evidence exists only in pieces and leaves gaps.",
+          "Not the meaning: no one suggests the evidence was faked.",
+          "Not the meaning: the issue is completeness, not complexity.",
+          "Not the meaning: the evidence is historical."
+        ],
+        "explanation": "The explanation that follows (treatises describe ideals and contradict one another) shows that the evidence is partial and incomplete.",
+        "evidence": "the evidence is often fragmentary"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred about the \"more fundamental objection\" described in paragraph 2?",
+        "options": [
+          "It concerns contradictions among historical treatises.",
+          "It was raised mainly by performers rather than scholars.",
+          "It suggests that modern copies of instruments are inaccurate.",
+          "It would still apply even if the historical evidence were complete and reliable."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Wrong: that is the first, less fundamental, objection.",
+          "Not stated: the passage does not identify who raised it.",
+          "Not stated: the objection is about listeners, not instruments.",
+          "Correct: even a perfect reproduction could not be heard as the original audience heard it."
+        ],
+        "explanation": "The objection is \"more fundamental\" because it does not depend on gaps in evidence: the phrase \"Even if a performance could reproduce the sounds... exactly\" grants perfect evidence and still finds a problem.",
+        "evidence": "Even if a performance could reproduce the sounds of an eighteenth-century concert exactly"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author state that the change of label \"was more than cosmetic\"?",
+        "options": [
+          "To criticize the new label as a marketing strategy",
+          "To suggest that performances began to sound completely different",
+          "To emphasize that the new term reflected a real change in how practitioners understood their aims",
+          "To argue that the critics had been mistaken"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Reversed: \"more than cosmetic\" means it was not merely superficial.",
+          "Not stated: the passage discusses understanding, not changes in sound.",
+          "Correct: the next sentence explains what the new label acknowledged.",
+          "Contradicted: the change was partly a response that accepted the critiques."
+        ],
+        "explanation": "The author denies that the change was superficial and then explains the new understanding it expressed.",
+        "evidence": "The change of label was more than cosmetic."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"them\" in the phrase \"without dictating them\" refers to",
+        "options": [
+          "interpretive choices",
+          "historical evidence",
+          "the critiques",
+          "the practitioners"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: evidence informs interpretive choices but does not dictate those choices.",
+          "Not logical: evidence is the subject doing the informing.",
+          "Not logical: the critiques are not mentioned in this sentence.",
+          "Not logical: the sentence is about choices, not people."
+        ],
+        "explanation": "The parallel structure \"inform interpretive choices without dictating them\" makes \"them\" refer to the interpretive choices.",
+        "evidence": "historical evidence can inform interpretive choices without dictating them"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-26",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Metal Fatigue",
+    "text": "A metal component can fail under a load far smaller than the one required to break it in a single application, provided that the load is applied and removed many thousands of times. This phenomenon, known as fatigue, arises because no real material is perfectly uniform. Microscopic flaws, such as inclusions or surface scratches, concentrate stress locally, and repeated loading can cause tiny cracks to initiate at these points. Each cycle extends a crack by a minute amount, often invisibly, until the remaining cross-section can no longer bear the load and fractures abruptly. Because the final failure gives little warning, fatigue has historically been among the most dangerous modes of structural failure.\n\nIts significance was dramatically demonstrated in 1954, when two de Havilland Comets, the world's first jet airliners, broke apart in flight within a few months of each other. Investigators subjected an entire fuselage to repeated pressurization in a water tank, simulating the cycles of flight, and it eventually ruptured at the corner of an opening in the cabin. Such corners, it emerged, concentrated stress to a degree that had been underestimated. Among the lessons later drawn from the disaster was a preference for rounded rather than angular openings in pressurized cabins.\n\nModern engineering does not attempt to eliminate flaws, which is impossible, but to manage them. Under so-called damage-tolerant design, structures are assumed to contain cracks from the outset, and inspection intervals are calculated so that any crack can be detected before it grows to a critical length. Safety, in this approach, derives less from the perfection of the material than from knowledge of how imperfections evolve.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, why has fatigue been one of the most dangerous kinds of structural failure?",
+        "options": [
+          "It occurs only under very large loads.",
+          "The flaws that cause it are easy to see.",
+          "The final fracture happens suddenly, with little warning.",
+          "It affects only aircraft."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Reversed: fatigue occurs under loads \"far smaller\" than those needed to break the part at once.",
+          "Contradicted: the flaws are microscopic and cracks grow \"often invisibly.\"",
+          "Correct: the sudden final failure is given as the reason for the danger.",
+          "Too narrow: aircraft are only an example; fatigue affects metal components in general."
+        ],
+        "explanation": "The paragraph links the danger directly to the abrupt failure that \"gives little warning.\"",
+        "evidence": "Because the final failure gives little warning"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"initiate\" in the passage is closest in meaning to",
+        "options": [
+          "spread",
+          "begin",
+          "close",
+          "weaken"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not the meaning: spreading is described in the next sentence (\"extends a crack\").",
+          "Correct: cracks begin at the points where stress is concentrated.",
+          "Opposite: cracks open rather than close.",
+          "Not the meaning: the word refers to the start of a crack."
+        ],
+        "explanation": "The passage describes a sequence: cracks initiate (start) at flaws, then each cycle extends them.",
+        "evidence": "repeated loading can cause tiny cracks to initiate at these points"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author describe the water-tank test?",
+        "options": [
+          "To show that the Comet was poorly built in every respect",
+          "To explain why the Comets crashed into the sea",
+          "To suggest that cabin pressurization should be abandoned",
+          "To show how investigators reproduced repeated flight loading to identify the cause of the failures"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Too strong: the problem identified was specific, namely stress at the corners of openings.",
+          "Not stated: the passage does not say where the aircraft fell.",
+          "Not supported: the lesson was to change the shape of openings, not to stop pressurizing cabins.",
+          "Correct: the test simulated flight cycles until the fuselage failed, revealing the weak point."
+        ],
+        "explanation": "The test is described as \"simulating the cycles of flight,\" and it located the failure at a corner, explaining the disasters as fatigue.",
+        "evidence": "subjected an entire fuselage to repeated pressurization in a water tank, simulating the cycles of flight"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred about damage-tolerant design?",
+        "options": [
+          "It relies on regular inspection rather than on the assumption that materials are flawless.",
+          "It removes all cracks from a structure before it enters service.",
+          "It makes inspection of aircraft unnecessary.",
+          "It was the approach used in designing the Comet."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: structures are assumed to contain cracks, and safety comes from detecting them in time.",
+          "Contradicted: cracks are assumed to exist \"from the outset.\"",
+          "Reversed: the approach depends on calculated inspection intervals.",
+          "Not supported: it is presented as \"modern engineering,\" in contrast to earlier practice."
+        ],
+        "explanation": "The final sentence says safety comes not from perfect material but from knowing how imperfections grow, which requires inspection.",
+        "evidence": "Safety, in this approach, derives less from the perfection of the material than from knowledge of how imperfections evolve."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "The Comet was the world's first jet airliner.",
+          "Rounded windows have eliminated the problem of metal fatigue.",
+          "Fatigue occurs only when a load exceeds the strength of a material.",
+          "Fatigue cracks grow from unavoidable flaws under repeated loads, a danger that engineers now manage by monitoring rather than eliminating flaws."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "True but only a detail: it does not express the passage's main point.",
+          "Too strong: rounded openings were one lesson; flaws cannot be eliminated.",
+          "Contradicted: fatigue occurs under loads \"far smaller\" than the breaking load.",
+          "Correct: it covers the mechanism, the historical example, and the modern response."
+        ],
+        "explanation": "The passage explains fatigue (paragraph 1), illustrates it (paragraph 2), and describes how engineers now manage it (paragraph 3).",
+        "evidence": "Modern engineering does not attempt to eliminate flaws, which is impossible, but to manage them."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-27",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Metaphor as a Way of Thinking",
+    "text": "Traditional accounts treated metaphor as an ornament of language, a figure of speech that poets deploy for effect and that could, in principle, be paraphrased in literal terms without loss of meaning. In 1980 the linguist George Lakoff and the philosopher Mark Johnson challenged this view, proposing that metaphor is primarily a matter of thought rather than words. Everyday English, they observed, is saturated with systematic patterns that ordinary speakers scarcely notice. We speak of arguments as if they were battles, attacking positions and defending claims; we describe time as a resource that can be spent, saved, or wasted. Such expressions, they argued, are not isolated idioms but surface manifestations of underlying conceptual mappings, in which an abstract domain is understood in terms of a more concrete one.\n\nThe theory has been influential partly because it offers an account of how abstract reasoning might be grounded in bodily experience. A mapping such as MORE IS UP, reflected in expressions like \"prices rose\" or \"her income fell,\" plausibly derives from the everyday observation that adding objects to a pile increases its height.\n\nCritics have nonetheless questioned how much the linguistic evidence alone can establish. That speakers use a battle vocabulary for argument does not by itself demonstrate that they think of arguments as battles; the expressions might be conventional, learned and used without activating the source domain at all. Psychological experiments have yielded mixed results: some report that metaphorical framing subtly influences judgment, whereas others find such effects small or difficult to replicate. The debate has accordingly shifted from whether conceptual metaphors exist to how deeply, and under what conditions, they shape cognition.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, how did traditional accounts view metaphor?",
+        "options": [
+          "As decoration that could be restated literally without losing meaning",
+          "As the basis of all abstract reasoning",
+          "As a feature found only in everyday speech",
+          "As evidence of how the body shapes thought"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: metaphor was seen as an ornament that could be paraphrased \"without loss of meaning.\"",
+          "Wrong: this is closer to Lakoff and Johnson's view.",
+          "Reversed: traditional accounts linked metaphor to poets.",
+          "Wrong: bodily grounding belongs to the new theory in paragraph 2."
+        ],
+        "explanation": "The first sentence describes the traditional view: metaphor as ornament that could be paraphrased literally.",
+        "evidence": "could, in principle, be paraphrased in literal terms without loss of meaning"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The phrase \"saturated with\" in the passage is closest in meaning to",
+        "options": [
+          "threatened by",
+          "confused by",
+          "thoroughly filled with",
+          "separated from"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not the meaning: no danger is implied.",
+          "Not the meaning: the patterns are systematic, not confusing.",
+          "Correct: everyday English is full of these metaphorical patterns.",
+          "Opposite: the patterns are everywhere in the language."
+        ],
+        "explanation": "The examples that follow show metaphorical patterns throughout ordinary speech, so the language is thoroughly filled with them.",
+        "evidence": "Everyday English, they observed, is saturated with systematic patterns"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention expressions such as \"prices rose\" and \"her income fell\"?",
+        "options": [
+          "To show that economic language is more metaphorical than other language",
+          "To illustrate how a conceptual mapping might be based on physical experience",
+          "To give an example of a metaphor that critics have disproved",
+          "To show that poets invented these expressions"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not stated: no comparison between fields is made.",
+          "Correct: the expressions illustrate MORE IS UP, which plausibly comes from seeing piles grow taller.",
+          "Not stated: critics do not discuss this example.",
+          "Not stated: these are presented as everyday expressions."
+        ],
+        "explanation": "The examples support the claim that abstract reasoning may be \"grounded in bodily experience.\"",
+        "evidence": "plausibly derives from the everyday observation that adding objects to a pile increases its height"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "Based on paragraph 3, how would critics most likely respond to the fact that a speaker says \"she demolished his argument\"?",
+        "options": [
+          "It proves that the speaker thinks of arguments as battles.",
+          "It shows that the expression is not a metaphor.",
+          "It suggests that the speaker is unusually aggressive.",
+          "It does not by itself show that the speaker is thinking of the argument as a battle."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Reversed: this is precisely what critics say the linguistic evidence cannot establish.",
+          "Not claimed: critics accept the expression is metaphorical in origin, but question whether it is active in thought.",
+          "Not supported: nothing links vocabulary to personality.",
+          "Correct: the expression may be conventional and used without activating the source domain."
+        ],
+        "explanation": "Critics argue that conventional expressions may be used without thinking in terms of the source domain, so the phrase alone proves little about thought.",
+        "evidence": "That speakers use a battle vocabulary for argument does not by itself demonstrate that they think of arguments as battles"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Experiments have shown that conceptual metaphors do not exist.",
+          "Metaphor is mainly an ornament used by poets.",
+          "Lakoff and Johnson argued that metaphor structures thought, a claim that remains influential though its extent is debated.",
+          "It has been proven that all abstract thought derives from bodily experience."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Too strong: the results are \"mixed,\" and the debate is now about extent, not existence.",
+          "This is the traditional view that the passage describes as challenged.",
+          "Correct: it covers the theory, its appeal, and the current debate.",
+          "Too strong: the passage says such grounding is \"plausible,\" not proven."
+        ],
+        "explanation": "The passage presents the theory, explains why it was influential, and ends by describing a debate about how deeply metaphors shape cognition.",
+        "evidence": "The debate has accordingly shifted from whether conceptual metaphors exist to how deeply, and under what conditions, they shape cognition."
+      }
+    ]
+  }
+]

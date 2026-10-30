@@ -1,0 +1,5040 @@
+[
+  {
+    "id": "topic-environment",
+    "category": "topic",
+    "title": "Environment",
+    "titleEs": "Medio ambiente",
+    "description": "Vocabulario para essays y debates sobre cambio climático, contaminación y sostenibilidad.",
+    "cards": [
+      {
+        "id": "topic-env-carbon-footprint",
+        "term": "carbon footprint",
+        "pos": "noun",
+        "definition": "The amount of carbon dioxide released by a person's or organisation's activities.",
+        "es": "huella de carbono",
+        "example": "Individuals can reduce their carbon footprint by flying less and eating less meat.",
+        "collocations": [
+          "reduce your carbon footprint",
+          "a large carbon footprint"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-emissions",
+        "term": "emissions",
+        "pos": "noun",
+        "definition": "Gases released into the air, especially by vehicles and factories.",
+        "es": "emisiones",
+        "example": "Transport accounts for nearly a quarter of global greenhouse gas emissions.",
+        "collocations": [
+          "cut emissions",
+          "greenhouse gas emissions",
+          "carbon emissions"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-fossil-fuels",
+        "term": "fossil fuels",
+        "pos": "noun",
+        "definition": "Fuels such as coal, oil and gas formed from ancient organisms.",
+        "es": "combustibles fósiles",
+        "example": "Our continued dependence on fossil fuels is the main driver of climate change.",
+        "collocations": [
+          "burn fossil fuels",
+          "phase out fossil fuels",
+          "reliance on fossil fuels"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-renewable",
+        "term": "renewable energy",
+        "pos": "noun",
+        "definition": "Energy from sources that are naturally replaced, like wind and sun.",
+        "es": "energías renovables",
+        "example": "Governments should subsidise renewable energy to make it competitive with coal.",
+        "collocations": [
+          "invest in renewable energy",
+          "renewable sources",
+          "switch to renewables"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-sustainable",
+        "term": "sustainable",
+        "pos": "adjective",
+        "definition": "Able to continue without damaging the environment or using up resources.",
+        "es": "sostenible",
+        "example": "Cities must adopt more sustainable forms of transport.",
+        "collocations": [
+          "sustainable development",
+          "environmentally sustainable",
+          "sustainable growth"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-env-deforestation",
+        "term": "deforestation",
+        "pos": "noun",
+        "definition": "The cutting down of forests on a large scale.",
+        "es": "deforestación",
+        "example": "Deforestation in the Amazon threatens thousands of species.",
+        "collocations": [
+          "halt deforestation",
+          "large-scale deforestation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-env-biodiversity",
+        "term": "biodiversity",
+        "pos": "noun",
+        "definition": "The variety of plant and animal life in an area.",
+        "es": "biodiversidad",
+        "example": "Intensive farming has led to a sharp loss of biodiversity.",
+        "collocations": [
+          "loss of biodiversity",
+          "protect biodiversity",
+          "rich in biodiversity"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-env-endangered",
+        "term": "endangered species",
+        "pos": "noun",
+        "definition": "Animals or plants at risk of disappearing.",
+        "es": "especies en peligro de extinción",
+        "example": "Zoos can play a role in breeding endangered species.",
+        "collocations": [
+          "protect endangered species",
+          "critically endangered"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-habitat",
+        "term": "habitat",
+        "pos": "noun",
+        "definition": "The natural home of an animal or plant.",
+        "es": "hábitat",
+        "example": "Urban expansion has destroyed the natural habitats of many birds.",
+        "collocations": [
+          "habitat loss",
+          "natural habitat",
+          "destroy habitats"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-pollution",
+        "term": "pollution / pollutant",
+        "pos": "noun",
+        "definition": "Harmful substances in air, water or soil / a substance that pollutes.",
+        "es": "contaminación / contaminante",
+        "example": "Air pollution in large cities causes serious respiratory illnesses.",
+        "collocations": [
+          "air pollution",
+          "tackle pollution",
+          "release pollutants"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-global-warming",
+        "term": "global warming",
+        "pos": "noun",
+        "definition": "The gradual increase in the Earth's average temperature.",
+        "es": "calentamiento global",
+        "example": "Global warming is causing glaciers to melt at an alarming rate.",
+        "collocations": [
+          "combat global warming",
+          "contribute to global warming"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-extreme-weather",
+        "term": "extreme weather events",
+        "pos": "noun",
+        "definition": "Unusually severe weather such as floods, droughts and heatwaves.",
+        "es": "fenómenos meteorológicos extremos",
+        "example": "Extreme weather events are becoming more frequent and more intense.",
+        "collocations": [
+          "more frequent extreme weather"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-drought",
+        "term": "drought",
+        "pos": "noun",
+        "definition": "A long period without rain.",
+        "es": "sequía",
+        "example": "Prolonged droughts have devastated crops across southern Europe.",
+        "collocations": [
+          "severe drought",
+          "suffer from drought"
+        ],
+        "register": "neutral",
+        "note": "Pronunciación /draʊt/."
+      },
+      {
+        "id": "topic-env-recycle",
+        "term": "recycle / recycling",
+        "pos": "verb / noun",
+        "definition": "To process used materials so they can be used again.",
+        "es": "reciclar / reciclaje",
+        "example": "Recycling alone cannot solve the problem; we must also consume less.",
+        "collocations": [
+          "recycling scheme",
+          "recycle waste"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-single-use",
+        "term": "single-use plastics",
+        "pos": "noun",
+        "definition": "Plastic items used once and thrown away.",
+        "es": "plásticos de un solo uso",
+        "example": "Several countries have banned single-use plastics such as straws and bags.",
+        "collocations": [
+          "ban single-use plastics",
+          "reduce plastic waste"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-landfill",
+        "term": "landfill",
+        "pos": "noun",
+        "definition": "A place where waste is buried in the ground.",
+        "es": "vertedero",
+        "example": "Millions of tonnes of food end up in landfill every year.",
+        "collocations": [
+          "end up in landfill",
+          "landfill site"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-conservation",
+        "term": "conservation",
+        "pos": "noun",
+        "definition": "The protection of the natural environment.",
+        "es": "conservación (de la naturaleza)",
+        "example": "Ecotourism can generate funds for wildlife conservation.",
+        "collocations": [
+          "conservation efforts",
+          "marine conservation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-env-depletion",
+        "term": "deplete / depletion",
+        "pos": "verb / noun",
+        "definition": "To reduce something until little is left.",
+        "es": "agotar / agotamiento",
+        "example": "Overfishing has severely depleted fish stocks in the North Atlantic.",
+        "collocations": [
+          "resource depletion",
+          "deplete natural resources"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-env-mitigate",
+        "term": "mitigate",
+        "pos": "verb",
+        "definition": "To make something bad less severe.",
+        "es": "mitigar, paliar",
+        "example": "Planting trees can help mitigate the effects of urban heat.",
+        "collocations": [
+          "mitigate the impact",
+          "mitigate climate change"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-env-eco-friendly",
+        "term": "eco-friendly",
+        "pos": "adjective",
+        "definition": "Not harmful to the environment.",
+        "es": "ecológico, respetuoso con el medio ambiente",
+        "example": "Consumers are willing to pay more for eco-friendly products.",
+        "collocations": [
+          "eco-friendly alternatives",
+          "eco-friendly packaging"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-env-carbon-tax",
+        "term": "carbon tax",
+        "pos": "noun",
+        "definition": "A tax on fuels according to the carbon they emit.",
+        "es": "impuesto sobre el carbono",
+        "example": "A carbon tax would encourage companies to invest in cleaner technology.",
+        "collocations": [
+          "impose a carbon tax",
+          "introduce a carbon tax"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-env-irreversible",
+        "term": "irreversible",
+        "pos": "adjective",
+        "definition": "Impossible to change back.",
+        "es": "irreversible",
+        "example": "Scientists warn that some damage to coral reefs may be irreversible.",
+        "collocations": [
+          "irreversible damage",
+          "irreversible consequences"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-env-ecosystem",
+        "term": "ecosystem",
+        "pos": "noun",
+        "definition": "All the living things in an area and how they interact.",
+        "es": "ecosistema",
+        "example": "Introducing foreign species can disrupt fragile ecosystems.",
+        "collocations": [
+          "fragile ecosystem",
+          "disrupt an ecosystem",
+          "marine ecosystems"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-env-environmentally-conscious",
+        "term": "environmentally conscious",
+        "pos": "adjective",
+        "definition": "Aware of and concerned about the environment.",
+        "es": "concienciado con el medio ambiente",
+        "example": "Younger generations tend to be more environmentally conscious than their parents.",
+        "collocations": [
+          "environmentally conscious consumers"
+        ],
+        "register": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "topic-education",
+    "category": "topic",
+    "title": "Education",
+    "titleEs": "Educación",
+    "description": "Vocabulario sobre colegios, universidad, métodos de enseñanza y acceso a la educación.",
+    "cards": [
+      {
+        "id": "topic-edu-curriculum",
+        "term": "curriculum",
+        "pos": "noun",
+        "definition": "The subjects included in a course of study.",
+        "es": "plan de estudios, currículo",
+        "example": "Financial literacy should be part of the school curriculum.",
+        "collocations": [
+          "national curriculum",
+          "on the curriculum",
+          "broaden the curriculum"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-edu-compulsory",
+        "term": "compulsory",
+        "pos": "adjective",
+        "definition": "Required by law or rules.",
+        "es": "obligatorio",
+        "example": "Physical education should remain compulsory until the age of sixteen.",
+        "collocations": [
+          "compulsory education",
+          "compulsory subject",
+          "make something compulsory"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-edu-tertiary",
+        "term": "tertiary / higher education",
+        "pos": "noun",
+        "definition": "Education at university or college level.",
+        "es": "educación superior",
+        "example": "Access to higher education has expanded dramatically in recent decades.",
+        "collocations": [
+          "access to higher education",
+          "tertiary institutions"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-edu-tuition-fees",
+        "term": "tuition fees",
+        "pos": "noun",
+        "definition": "Money paid for being taught at a university or school.",
+        "es": "tasas de matrícula",
+        "example": "High tuition fees may discourage students from poorer backgrounds.",
+        "collocations": [
+          "abolish tuition fees",
+          "pay tuition fees"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-rote",
+        "term": "rote learning",
+        "pos": "noun",
+        "definition": "Learning by repetition and memorisation rather than understanding.",
+        "es": "aprendizaje memorístico",
+        "example": "Critics argue that rote learning does not prepare students for real-world problems.",
+        "collocations": [
+          "rely on rote learning",
+          "learn by rote"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-critical-thinking",
+        "term": "critical thinking",
+        "pos": "noun",
+        "definition": "The ability to analyse information and form judgements.",
+        "es": "pensamiento crítico",
+        "example": "Schools should place greater emphasis on critical thinking than on memorisation.",
+        "collocations": [
+          "develop critical thinking skills",
+          "encourage critical thinking"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-academic-performance",
+        "term": "academic performance / attainment",
+        "pos": "noun",
+        "definition": "How well a student does in their studies.",
+        "es": "rendimiento académico",
+        "example": "Research links regular sleep to better academic performance.",
+        "collocations": [
+          "improve academic performance",
+          "educational attainment"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-edu-vocational",
+        "term": "vocational training",
+        "pos": "noun",
+        "definition": "Education that prepares people for a specific trade or job.",
+        "es": "formación profesional",
+        "example": "Vocational training offers a valuable alternative to university.",
+        "collocations": [
+          "vocational courses",
+          "vocational qualifications"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-edu-distance-learning",
+        "term": "distance / online learning",
+        "pos": "noun",
+        "definition": "Studying remotely, usually over the internet.",
+        "es": "educación a distancia / en línea",
+        "example": "Online learning gives working adults the flexibility to gain new qualifications.",
+        "collocations": [
+          "distance learning courses",
+          "shift to online learning"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-literacy",
+        "term": "literacy / numeracy",
+        "pos": "noun",
+        "definition": "The ability to read and write / to work with numbers.",
+        "es": "alfabetización / competencia matemática",
+        "example": "Early literacy programmes have a lasting impact on children's development.",
+        "collocations": [
+          "literacy rate",
+          "basic literacy and numeracy",
+          "digital literacy"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-edu-class-size",
+        "term": "class size",
+        "pos": "noun",
+        "definition": "The number of students in a class.",
+        "es": "número de alumnos por clase",
+        "example": "Reducing class sizes allows teachers to give more individual attention.",
+        "collocations": [
+          "reduce class sizes",
+          "large class sizes"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-extracurricular",
+        "term": "extracurricular activities",
+        "pos": "noun",
+        "definition": "Activities outside normal lessons, such as sports and clubs.",
+        "es": "actividades extraescolares",
+        "example": "Extracurricular activities help pupils develop teamwork and confidence.",
+        "collocations": [
+          "take part in extracurricular activities"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-well-rounded",
+        "term": "well-rounded",
+        "pos": "adjective",
+        "definition": "Having a wide range of skills and experience.",
+        "es": "completo, con una formación integral",
+        "example": "Arts subjects help produce well-rounded individuals.",
+        "collocations": [
+          "a well-rounded education",
+          "well-rounded students"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-standardised-tests",
+        "term": "standardised testing",
+        "pos": "noun",
+        "definition": "Tests given and marked in the same way for all students.",
+        "es": "exámenes estandarizados",
+        "example": "An overemphasis on standardised testing encourages teachers to 'teach to the test'.",
+        "collocations": [
+          "teach to the test",
+          "high-stakes testing"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-edu-drop-out",
+        "term": "drop out (of)",
+        "pos": "phrasal verb",
+        "definition": "To leave school or university before finishing.",
+        "es": "abandonar los estudios",
+        "example": "Financial pressure forces many students to drop out of university.",
+        "collocations": [
+          "dropout rate",
+          "school dropouts"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-lifelong-learning",
+        "term": "lifelong learning",
+        "pos": "noun",
+        "definition": "Continuing to learn throughout one's life.",
+        "es": "aprendizaje permanente",
+        "example": "In a rapidly changing economy, lifelong learning is essential.",
+        "collocations": [
+          "promote lifelong learning"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-edu-mixed-ability",
+        "term": "mixed-ability classes",
+        "pos": "noun",
+        "definition": "Classes with students of different levels together.",
+        "es": "clases con alumnos de distintos niveles",
+        "example": "Some argue that mixed-ability classes hold back the most gifted students.",
+        "collocations": [
+          "streaming vs mixed-ability"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-gifted",
+        "term": "gifted",
+        "pos": "adjective",
+        "definition": "Having exceptional natural ability.",
+        "es": "superdotado, con altas capacidades",
+        "example": "Gifted children may become bored if lessons are not challenging enough.",
+        "collocations": [
+          "gifted children",
+          "academically gifted"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-scholarship",
+        "term": "scholarship",
+        "pos": "noun",
+        "definition": "Money given to a student to pay for their studies.",
+        "es": "beca",
+        "example": "Scholarships allow talented students from low-income families to attend university.",
+        "collocations": [
+          "award a scholarship",
+          "on a full scholarship"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-graduate",
+        "term": "graduate",
+        "pos": "noun / verb",
+        "definition": "A person with a university degree; to complete a degree.",
+        "es": "titulado; graduarse",
+        "example": "Many graduates struggle to find jobs related to their degree.",
+        "collocations": [
+          "recent graduates",
+          "graduate from university",
+          "graduate unemployment"
+        ],
+        "register": "neutral",
+        "warning": "'graduate FROM university', no 'graduate university' (salvo uso US informal)."
+      },
+      {
+        "id": "topic-edu-academic-qualifications",
+        "term": "qualifications",
+        "pos": "noun",
+        "definition": "Exams passed or courses completed.",
+        "es": "títulos, cualificaciones",
+        "example": "Employers increasingly value practical skills over formal qualifications.",
+        "collocations": [
+          "gain qualifications",
+          "academic qualifications",
+          "highly qualified"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-discipline",
+        "term": "discipline",
+        "pos": "noun",
+        "definition": "Training people to obey rules; controlled behaviour.",
+        "es": "disciplina",
+        "example": "Teachers today struggle to maintain discipline in large classes.",
+        "collocations": [
+          "maintain discipline",
+          "lack of discipline",
+          "self-discipline"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-peer-pressure",
+        "term": "peer pressure",
+        "pos": "noun",
+        "definition": "Influence from people of the same age to behave like them.",
+        "es": "presión de grupo",
+        "example": "Peer pressure can lead teenagers to neglect their studies.",
+        "collocations": [
+          "give in to peer pressure",
+          "resist peer pressure"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-edu-hands-on",
+        "term": "hands-on",
+        "pos": "adjective",
+        "definition": "Involving active participation and practical experience.",
+        "es": "práctico",
+        "example": "Hands-on experiments make science more engaging for young learners.",
+        "collocations": [
+          "hands-on experience",
+          "hands-on learning"
+        ],
+        "register": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "topic-technology",
+    "category": "topic",
+    "title": "Technology",
+    "titleEs": "Tecnología",
+    "description": "Inteligencia artificial, internet, redes sociales y su impacto en la sociedad.",
+    "cards": [
+      {
+        "id": "topic-tech-ai",
+        "term": "artificial intelligence (AI)",
+        "pos": "noun",
+        "definition": "Computer systems able to perform tasks that normally require human intelligence.",
+        "es": "inteligencia artificial",
+        "example": "Artificial intelligence is likely to transform sectors such as healthcare and law.",
+        "collocations": [
+          "advances in AI",
+          "AI-powered",
+          "regulate AI"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-automation",
+        "term": "automation",
+        "pos": "noun",
+        "definition": "The use of machines to do work previously done by people.",
+        "es": "automatización",
+        "example": "Automation threatens many routine jobs in manufacturing.",
+        "collocations": [
+          "job losses due to automation",
+          "increasing automation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-tech-cutting-edge",
+        "term": "cutting-edge",
+        "pos": "adjective",
+        "definition": "The most advanced.",
+        "es": "de vanguardia, puntero",
+        "example": "The university has invested in cutting-edge research facilities.",
+        "collocations": [
+          "cutting-edge technology",
+          "cutting-edge research"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-digital-divide",
+        "term": "digital divide",
+        "pos": "noun",
+        "definition": "The gap between people who have access to technology and those who do not.",
+        "es": "brecha digital",
+        "example": "The pandemic exposed the digital divide between rich and poor students.",
+        "collocations": [
+          "bridge the digital divide",
+          "widen the digital divide"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-tech-privacy",
+        "term": "privacy / data protection",
+        "pos": "noun",
+        "definition": "The right to keep personal information private.",
+        "es": "privacidad / protección de datos",
+        "example": "Tech companies collect vast amounts of personal data, raising serious privacy concerns.",
+        "collocations": [
+          "invasion of privacy",
+          "privacy concerns",
+          "data breach"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-surveillance",
+        "term": "surveillance",
+        "pos": "noun",
+        "definition": "Close watching of people, often by governments or companies.",
+        "es": "vigilancia",
+        "example": "Facial recognition has made mass surveillance easier than ever.",
+        "collocations": [
+          "mass surveillance",
+          "under surveillance",
+          "surveillance cameras"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-tech-addiction",
+        "term": "screen time / tech addiction",
+        "pos": "noun",
+        "definition": "Time spent using devices / compulsive use of technology.",
+        "es": "tiempo frente a pantallas / adicción a la tecnología",
+        "example": "Excessive screen time has been linked to poor sleep in teenagers.",
+        "collocations": [
+          "limit screen time",
+          "smartphone addiction"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-social-media",
+        "term": "social media platforms",
+        "pos": "noun",
+        "definition": "Websites and apps for sharing content and networking.",
+        "es": "redes sociales",
+        "example": "Social media platforms have been criticised for spreading misinformation.",
+        "collocations": [
+          "on social media",
+          "social media users"
+        ],
+        "register": "neutral",
+        "warning": "'social media' es incontable o plural: 'social media is/are', no 'a social media'."
+      },
+      {
+        "id": "topic-tech-misinformation",
+        "term": "misinformation / fake news",
+        "pos": "noun",
+        "definition": "False or misleading information.",
+        "es": "desinformación / noticias falsas",
+        "example": "Misinformation spreads faster online than accurate reporting.",
+        "collocations": [
+          "spread misinformation",
+          "combat fake news"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-cybercrime",
+        "term": "cybercrime",
+        "pos": "noun",
+        "definition": "Crime committed using computers or the internet.",
+        "es": "ciberdelincuencia",
+        "example": "Cybercrime costs businesses billions of dollars each year.",
+        "collocations": [
+          "combat cybercrime",
+          "victims of cybercrime"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-innovation",
+        "term": "innovation",
+        "pos": "noun",
+        "definition": "A new idea, method or invention.",
+        "es": "innovación",
+        "example": "Government funding can encourage technological innovation.",
+        "collocations": [
+          "foster innovation",
+          "technological innovation",
+          "drive innovation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-tech-obsolete",
+        "term": "obsolete",
+        "pos": "adjective",
+        "definition": "No longer used because something newer exists.",
+        "es": "obsoleto",
+        "example": "Many skills taught today may become obsolete within a decade.",
+        "collocations": [
+          "become obsolete",
+          "render something obsolete"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-tech-user-friendly",
+        "term": "user-friendly",
+        "pos": "adjective",
+        "definition": "Easy to use or understand.",
+        "es": "fácil de usar",
+        "example": "Banking apps have become more user-friendly, encouraging older people to use them.",
+        "collocations": [
+          "user-friendly interface"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-tech-savvy",
+        "term": "tech-savvy",
+        "pos": "adjective",
+        "definition": "Knowing a lot about modern technology.",
+        "es": "experto en tecnología, ducho en tecnología",
+        "example": "Today's children are far more tech-savvy than their grandparents.",
+        "collocations": [
+          "tech-savvy generation"
+        ],
+        "register": "informal"
+      },
+      {
+        "id": "topic-tech-remote-work",
+        "term": "remote working",
+        "pos": "noun",
+        "definition": "Working from home or another place away from the office.",
+        "es": "teletrabajo",
+        "example": "Remote working reduces commuting but can blur the line between work and home.",
+        "collocations": [
+          "work remotely",
+          "the shift to remote working"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-breakthrough",
+        "term": "breakthrough",
+        "pos": "noun",
+        "definition": "An important discovery or development.",
+        "es": "avance, descubrimiento decisivo",
+        "example": "Recent breakthroughs in battery technology could make electric cars cheaper.",
+        "collocations": [
+          "a major breakthrough",
+          "make a breakthrough"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-algorithm",
+        "term": "algorithm",
+        "pos": "noun",
+        "definition": "A set of rules a computer follows to solve a problem or make decisions.",
+        "es": "algoritmo",
+        "example": "Algorithms decide which posts users see, which can create echo chambers.",
+        "collocations": [
+          "recommendation algorithm",
+          "algorithmic bias"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-echo-chamber",
+        "term": "echo chamber",
+        "pos": "noun",
+        "definition": "An environment where people only hear opinions that match their own.",
+        "es": "cámara de eco",
+        "example": "Online echo chambers may contribute to political polarisation.",
+        "collocations": [
+          "trapped in an echo chamber"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-wearable",
+        "term": "wearable technology",
+        "pos": "noun",
+        "definition": "Electronic devices worn on the body, such as smartwatches.",
+        "es": "tecnología ponible",
+        "example": "Wearable technology allows people to monitor their health in real time.",
+        "collocations": [
+          "wearable devices",
+          "fitness trackers"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-dependence",
+        "term": "over-reliance / dependence on",
+        "pos": "noun",
+        "definition": "Depending too much on something.",
+        "es": "dependencia excesiva de",
+        "example": "Over-reliance on calculators may weaken children's basic maths skills.",
+        "collocations": [
+          "growing dependence on technology"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-tech-streamline",
+        "term": "streamline",
+        "pos": "verb",
+        "definition": "To make a process simpler and more efficient.",
+        "es": "agilizar, simplificar",
+        "example": "Digital systems have streamlined many administrative tasks.",
+        "collocations": [
+          "streamline processes",
+          "streamline operations"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-tech-connectivity",
+        "term": "connectivity",
+        "pos": "noun",
+        "definition": "The ability to connect to the internet or other systems.",
+        "es": "conectividad",
+        "example": "Poor connectivity in rural areas holds back local businesses.",
+        "collocations": [
+          "broadband connectivity",
+          "improve connectivity"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-face-to-face",
+        "term": "face-to-face interaction",
+        "pos": "noun",
+        "definition": "Communication in person rather than through technology.",
+        "es": "interacción cara a cara",
+        "example": "Some fear that social media is replacing meaningful face-to-face interaction.",
+        "collocations": [
+          "face-to-face communication"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tech-double-edged",
+        "term": "a double-edged sword",
+        "pos": "idiom",
+        "definition": "Something with both advantages and disadvantages.",
+        "es": "un arma de doble filo",
+        "example": "Technology is a double-edged sword: it connects us but also isolates us.",
+        "collocations": [
+          "prove a double-edged sword"
+        ],
+        "register": "neutral",
+        "note": "Una de las pocas expresiones idiomáticas que funcionan bien en Task 2, sin abusar."
+      }
+    ]
+  },
+  {
+    "id": "topic-health",
+    "category": "topic",
+    "title": "Health",
+    "titleEs": "Salud",
+    "description": "Estilo de vida, sanidad pública, enfermedades y prevención.",
+    "cards": [
+      {
+        "id": "topic-health-sedentary",
+        "term": "sedentary lifestyle",
+        "pos": "noun",
+        "definition": "A way of life involving little physical activity.",
+        "es": "estilo de vida sedentario",
+        "example": "Sedentary lifestyles are a major cause of obesity among office workers.",
+        "collocations": [
+          "lead a sedentary lifestyle"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-health-obesity",
+        "term": "obesity",
+        "pos": "noun",
+        "definition": "The condition of being very overweight.",
+        "es": "obesidad",
+        "example": "Childhood obesity has tripled in many countries since the 1980s.",
+        "collocations": [
+          "childhood obesity",
+          "obesity rates",
+          "tackle obesity"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-balanced-diet",
+        "term": "balanced diet",
+        "pos": "noun",
+        "definition": "A diet containing the right amounts of different foods.",
+        "es": "dieta equilibrada",
+        "example": "A balanced diet can prevent many chronic diseases.",
+        "collocations": [
+          "maintain a balanced diet"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-chronic",
+        "term": "chronic disease / illness",
+        "pos": "noun",
+        "definition": "A long-lasting medical condition.",
+        "es": "enfermedad crónica",
+        "example": "Chronic diseases such as diabetes place a huge burden on health systems.",
+        "collocations": [
+          "chronic conditions",
+          "suffer from a chronic illness"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-health-life-expectancy",
+        "term": "life expectancy",
+        "pos": "noun",
+        "definition": "The average number of years a person is expected to live.",
+        "es": "esperanza de vida",
+        "example": "Life expectancy has risen thanks to better sanitation and medicine.",
+        "collocations": [
+          "increase life expectancy",
+          "average life expectancy"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-preventive",
+        "term": "preventive medicine / prevention",
+        "pos": "noun",
+        "definition": "Healthcare that aims to stop diseases before they start.",
+        "es": "medicina preventiva / prevención",
+        "example": "Investing in prevention is cheaper than treating illnesses later.",
+        "collocations": [
+          "preventive measures",
+          "prevention is better than cure"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-health-public-healthcare",
+        "term": "public healthcare system",
+        "pos": "noun",
+        "definition": "Healthcare provided by the state and funded by taxes.",
+        "es": "sanidad pública",
+        "example": "A strong public healthcare system ensures that treatment does not depend on income.",
+        "collocations": [
+          "universal healthcare",
+          "healthcare provision"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-mental-health",
+        "term": "mental health / wellbeing",
+        "pos": "noun",
+        "definition": "A person's psychological and emotional condition.",
+        "es": "salud mental / bienestar",
+        "example": "Employers are increasingly aware of the importance of staff wellbeing.",
+        "collocations": [
+          "mental health problems",
+          "promote wellbeing",
+          "mental health services"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-stress",
+        "term": "stress-related",
+        "pos": "adjective",
+        "definition": "Caused by stress.",
+        "es": "relacionado con el estrés",
+        "example": "Stress-related illnesses are a leading cause of absence from work.",
+        "collocations": [
+          "stress-related illness"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-vaccination",
+        "term": "vaccination / immunisation",
+        "pos": "noun",
+        "definition": "Giving people a vaccine to protect them from a disease.",
+        "es": "vacunación",
+        "example": "Mass vaccination programmes have eradicated smallpox.",
+        "collocations": [
+          "vaccination campaign",
+          "compulsory vaccination"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-epidemic",
+        "term": "epidemic / pandemic",
+        "pos": "noun",
+        "definition": "A disease affecting many people in one area / worldwide.",
+        "es": "epidemia / pandemia",
+        "example": "The pandemic revealed weaknesses in many countries' health systems.",
+        "collocations": [
+          "outbreak of an epidemic",
+          "global pandemic"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-processed-food",
+        "term": "processed food / junk food",
+        "pos": "noun",
+        "definition": "Food changed industrially, often high in sugar, salt and fat.",
+        "es": "comida procesada / comida basura",
+        "example": "Taxing junk food could encourage healthier eating habits.",
+        "collocations": [
+          "ultra-processed food",
+          "ban junk food advertising"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-sugar-tax",
+        "term": "sugar tax",
+        "pos": "noun",
+        "definition": "A tax on drinks or foods with high sugar content.",
+        "es": "impuesto sobre el azúcar",
+        "example": "Since the sugar tax was introduced, sales of fizzy drinks have fallen.",
+        "collocations": [
+          "introduce a sugar tax"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-fitness",
+        "term": "physical fitness",
+        "pos": "noun",
+        "definition": "Being healthy and strong through exercise.",
+        "es": "forma física",
+        "example": "Schools should promote physical fitness through daily sports.",
+        "collocations": [
+          "improve fitness",
+          "keep fit"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-ageing-population",
+        "term": "ageing population",
+        "pos": "noun",
+        "definition": "A population with an increasing proportion of older people.",
+        "es": "envejecimiento de la población",
+        "example": "An ageing population will put pressure on healthcare budgets.",
+        "collocations": [
+          "rapidly ageing population"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-health-waiting-list",
+        "term": "waiting lists",
+        "pos": "noun",
+        "definition": "Lists of patients waiting for treatment.",
+        "es": "listas de espera",
+        "example": "Long waiting lists push some patients towards private healthcare.",
+        "collocations": [
+          "reduce waiting lists",
+          "hospital waiting times"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-side-effects",
+        "term": "side effects",
+        "pos": "noun",
+        "definition": "Unwanted effects of a medicine or treatment.",
+        "es": "efectos secundarios",
+        "example": "All medicines carry a risk of side effects.",
+        "collocations": [
+          "serious side effects",
+          "have side effects"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-alternative",
+        "term": "alternative medicine",
+        "pos": "noun",
+        "definition": "Treatments outside conventional medicine.",
+        "es": "medicina alternativa",
+        "example": "There is little scientific evidence that alternative medicine is effective.",
+        "collocations": [
+          "alternative therapies"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-life-threatening",
+        "term": "life-threatening",
+        "pos": "adjective",
+        "definition": "Able to cause death.",
+        "es": "potencialmente mortal",
+        "example": "Air pollution can trigger life-threatening asthma attacks.",
+        "collocations": [
+          "life-threatening condition",
+          "life-threatening illness"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-burden",
+        "term": "a burden on",
+        "pos": "noun phrase",
+        "definition": "A heavy load or responsibility for.",
+        "es": "una carga para",
+        "example": "Smoking-related diseases are a huge burden on the health service.",
+        "collocations": [
+          "place a burden on",
+          "financial burden"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-health-work-life-balance",
+        "term": "work-life balance",
+        "pos": "noun",
+        "definition": "The balance between time spent working and personal life.",
+        "es": "conciliación de la vida laboral y personal",
+        "example": "A healthy work-life balance reduces burnout.",
+        "collocations": [
+          "achieve a work-life balance",
+          "poor work-life balance"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-burnout",
+        "term": "burnout",
+        "pos": "noun",
+        "definition": "Exhaustion caused by long-term stress, usually at work.",
+        "es": "agotamiento (síndrome del trabajador quemado)",
+        "example": "Doctors and nurses are at high risk of burnout.",
+        "collocations": [
+          "suffer from burnout",
+          "lead to burnout"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-awareness",
+        "term": "health awareness campaign",
+        "pos": "noun",
+        "definition": "Public campaign to inform people about health risks.",
+        "es": "campaña de concienciación sanitaria",
+        "example": "Health awareness campaigns have helped reduce smoking rates.",
+        "collocations": [
+          "launch a campaign",
+          "raise awareness"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-health-detrimental",
+        "term": "detrimental (to)",
+        "pos": "adjective",
+        "definition": "Causing harm or damage.",
+        "es": "perjudicial (para)",
+        "example": "Lack of sleep is detrimental to both physical and mental health.",
+        "collocations": [
+          "detrimental effect on",
+          "detrimental to health"
+        ],
+        "register": "formal"
+      }
+    ]
+  },
+  {
+    "id": "topic-work",
+    "category": "topic",
+    "title": "Work & employment",
+    "titleEs": "Trabajo y empleo",
+    "description": "Empleo, desempleo, condiciones laborales y el futuro del trabajo.",
+    "cards": [
+      {
+        "id": "topic-work-unemployment",
+        "term": "unemployment",
+        "pos": "noun",
+        "definition": "The state of not having a job; the number of people without jobs.",
+        "es": "desempleo, paro",
+        "example": "Youth unemployment remains stubbornly high in southern Europe.",
+        "collocations": [
+          "youth unemployment",
+          "unemployment rate",
+          "long-term unemployment"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-job-security",
+        "term": "job security",
+        "pos": "noun",
+        "definition": "Confidence that you will not lose your job.",
+        "es": "estabilidad laboral",
+        "example": "Many young workers value job security more than a high salary.",
+        "collocations": [
+          "lack of job security",
+          "offer job security"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-job-satisfaction",
+        "term": "job satisfaction",
+        "pos": "noun",
+        "definition": "The feeling of enjoyment and fulfilment from your work.",
+        "es": "satisfacción laboral",
+        "example": "Job satisfaction depends on recognition as much as on pay.",
+        "collocations": [
+          "high job satisfaction",
+          "improve job satisfaction"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-gig-economy",
+        "term": "gig economy",
+        "pos": "noun",
+        "definition": "A labour market of short-term, freelance or app-based jobs.",
+        "es": "economía de plataformas, trabajo por encargo",
+        "example": "Workers in the gig economy often lack sick pay and pensions.",
+        "collocations": [
+          "gig workers",
+          "the rise of the gig economy"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-freelance",
+        "term": "freelance / self-employed",
+        "pos": "adjective",
+        "definition": "Working for yourself rather than for one employer.",
+        "es": "autónomo",
+        "example": "Freelance work offers flexibility but an unstable income.",
+        "collocations": [
+          "work freelance",
+          "self-employed workers"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-minimum-wage",
+        "term": "minimum wage",
+        "pos": "noun",
+        "definition": "The lowest pay allowed by law.",
+        "es": "salario mínimo",
+        "example": "Raising the minimum wage could reduce in-work poverty.",
+        "collocations": [
+          "raise the minimum wage",
+          "earn the minimum wage"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-workforce",
+        "term": "workforce",
+        "pos": "noun",
+        "definition": "All the people working in a country, industry or company.",
+        "es": "mano de obra, plantilla",
+        "example": "Women now make up almost half of the workforce.",
+        "collocations": [
+          "skilled workforce",
+          "enter the workforce"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-skilled",
+        "term": "skilled / unskilled labour",
+        "pos": "noun",
+        "definition": "Work requiring / not requiring special training.",
+        "es": "mano de obra cualificada / no cualificada",
+        "example": "Automation is reducing demand for unskilled labour.",
+        "collocations": [
+          "shortage of skilled labour",
+          "skilled workers"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-career-prospects",
+        "term": "career prospects",
+        "pos": "noun",
+        "definition": "Chances of success and promotion in a career.",
+        "es": "perspectivas profesionales",
+        "example": "A second language can significantly improve your career prospects.",
+        "collocations": [
+          "improve career prospects",
+          "good prospects"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-promotion",
+        "term": "promotion",
+        "pos": "noun",
+        "definition": "A move to a higher position at work.",
+        "es": "ascenso",
+        "example": "Women are still less likely than men to receive a promotion.",
+        "collocations": [
+          "get a promotion",
+          "be promoted to"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-flexible-hours",
+        "term": "flexible working hours",
+        "pos": "noun",
+        "definition": "Arrangements allowing employees to choose when they work.",
+        "es": "horario flexible",
+        "example": "Flexible working hours help parents balance work and childcare.",
+        "collocations": [
+          "flexitime",
+          "offer flexible hours"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-productivity",
+        "term": "productivity",
+        "pos": "noun",
+        "definition": "The amount of work produced in a period of time.",
+        "es": "productividad",
+        "example": "Some trials suggest that a four-day week does not reduce productivity.",
+        "collocations": [
+          "boost productivity",
+          "labour productivity"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-work-redundant",
+        "term": "be made redundant / lay off",
+        "pos": "phrase",
+        "definition": "To lose your job because the employer no longer needs you.",
+        "es": "ser despedido (por reducción de plantilla)",
+        "example": "Thousands of factory workers were laid off when the plant closed.",
+        "collocations": [
+          "redundancy pay",
+          "mass layoffs"
+        ],
+        "register": "neutral",
+        "note": "'made redundant' es británico; 'laid off' más americano."
+      },
+      {
+        "id": "topic-work-retrain",
+        "term": "retrain / upskill",
+        "pos": "verb",
+        "definition": "To learn new skills for a different or better job.",
+        "es": "reciclarse profesionalmente",
+        "example": "Governments should help workers retrain as traditional industries decline.",
+        "collocations": [
+          "retrain workers",
+          "upskill the workforce"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-labour-shortage",
+        "term": "labour shortage",
+        "pos": "noun",
+        "definition": "Not enough workers to fill available jobs.",
+        "es": "escasez de mano de obra",
+        "example": "Many rich countries face labour shortages in nursing and construction.",
+        "collocations": [
+          "acute labour shortage"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-work-commute",
+        "term": "commute",
+        "pos": "verb / noun",
+        "definition": "To travel regularly between home and work; that journey.",
+        "es": "desplazarse al trabajo; trayecto diario",
+        "example": "Long commutes reduce the time people can spend with their families.",
+        "collocations": [
+          "a long commute",
+          "commute to work"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-perks",
+        "term": "perks / fringe benefits",
+        "pos": "noun",
+        "definition": "Extra advantages given with a job, besides salary.",
+        "es": "beneficios adicionales",
+        "example": "Tech companies attract staff with perks such as free meals and gym membership.",
+        "collocations": [
+          "job perks",
+          "company benefits"
+        ],
+        "register": "informal",
+        "note": "'perks' es informal; 'benefits' es neutro."
+      },
+      {
+        "id": "topic-work-glass-ceiling",
+        "term": "glass ceiling",
+        "pos": "noun",
+        "definition": "An invisible barrier preventing women or minorities from reaching top jobs.",
+        "es": "techo de cristal",
+        "example": "Despite progress, many women still hit a glass ceiling in corporate careers.",
+        "collocations": [
+          "break the glass ceiling"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-gender-pay-gap",
+        "term": "gender pay gap",
+        "pos": "noun",
+        "definition": "The difference between the average earnings of men and women.",
+        "es": "brecha salarial de género",
+        "example": "Publishing salary data could help close the gender pay gap.",
+        "collocations": [
+          "close the gender pay gap"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-entrepreneur",
+        "term": "entrepreneur / entrepreneurship",
+        "pos": "noun",
+        "definition": "A person who starts a business / the activity of doing so.",
+        "es": "emprendedor / emprendimiento",
+        "example": "Low taxes and simple regulations encourage entrepreneurship.",
+        "collocations": [
+          "young entrepreneurs",
+          "foster entrepreneurship"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-workload",
+        "term": "workload",
+        "pos": "noun",
+        "definition": "The amount of work a person has to do.",
+        "es": "carga de trabajo",
+        "example": "Heavy workloads are driving many teachers out of the profession.",
+        "collocations": [
+          "heavy workload",
+          "manage your workload"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-fulfilling",
+        "term": "fulfilling / rewarding",
+        "pos": "adjective",
+        "definition": "Giving satisfaction and a sense of purpose.",
+        "es": "gratificante",
+        "example": "Many people would accept lower pay for a more fulfilling job.",
+        "collocations": [
+          "a fulfilling career",
+          "rewarding work"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-work-employee-retention",
+        "term": "staff retention",
+        "pos": "noun",
+        "definition": "Keeping employees from leaving.",
+        "es": "retención de personal",
+        "example": "Training opportunities improve staff retention.",
+        "collocations": [
+          "improve retention",
+          "staff turnover"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-work-white-blue-collar",
+        "term": "white-collar / blue-collar",
+        "pos": "adjective",
+        "definition": "Office / manual jobs.",
+        "es": "de oficina / obrero, manual",
+        "example": "AI may affect white-collar jobs as much as blue-collar ones.",
+        "collocations": [
+          "white-collar workers",
+          "blue-collar jobs"
+        ],
+        "register": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "topic-economy",
+    "category": "topic",
+    "title": "Globalisation & economy",
+    "titleEs": "Globalización y economía",
+    "description": "Comercio, crecimiento, desigualdad y empresas multinacionales.",
+    "cards": [
+      {
+        "id": "topic-econ-globalisation",
+        "term": "globalisation",
+        "pos": "noun",
+        "definition": "The increasing connection of economies and cultures worldwide.",
+        "es": "globalización",
+        "example": "Globalisation has lifted millions out of poverty but also increased inequality within countries.",
+        "collocations": [
+          "effects of globalisation",
+          "economic globalisation"
+        ],
+        "register": "formal",
+        "note": "US: globalization."
+      },
+      {
+        "id": "topic-econ-multinational",
+        "term": "multinational corporation",
+        "pos": "noun",
+        "definition": "A company operating in many countries.",
+        "es": "multinacional",
+        "example": "Multinational corporations often move production to countries with lower wages.",
+        "collocations": [
+          "large multinationals",
+          "multinational companies"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-econ-economic-growth",
+        "term": "economic growth",
+        "pos": "noun",
+        "definition": "An increase in the production of goods and services.",
+        "es": "crecimiento económico",
+        "example": "Rapid economic growth often comes at an environmental cost.",
+        "collocations": [
+          "drive economic growth",
+          "sustainable growth",
+          "boost growth"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-free-trade",
+        "term": "free trade",
+        "pos": "noun",
+        "definition": "Trade between countries without tariffs or restrictions.",
+        "es": "libre comercio",
+        "example": "Supporters of free trade argue that it lowers prices for consumers.",
+        "collocations": [
+          "free trade agreement",
+          "barriers to trade"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-tariff",
+        "term": "tariff",
+        "pos": "noun",
+        "definition": "A tax on imported goods.",
+        "es": "arancel",
+        "example": "Raising tariffs can protect local industries but provoke trade wars.",
+        "collocations": [
+          "impose tariffs",
+          "import tariffs"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-econ-inequality",
+        "term": "income inequality",
+        "pos": "noun",
+        "definition": "Unequal distribution of income in a population.",
+        "es": "desigualdad de ingresos",
+        "example": "Income inequality has widened in most developed countries since the 1980s.",
+        "collocations": [
+          "widening inequality",
+          "reduce inequality"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-econ-developing",
+        "term": "developing / developed countries",
+        "pos": "noun",
+        "definition": "Poorer, industrialising / richer, industrialised nations.",
+        "es": "países en vías de desarrollo / desarrollados",
+        "example": "Developed countries should help developing countries adapt to climate change.",
+        "collocations": [
+          "the developing world"
+        ],
+        "register": "neutral",
+        "warning": "Evita 'third-world countries': suena anticuado y peyorativo."
+      },
+      {
+        "id": "topic-econ-outsource",
+        "term": "outsource",
+        "pos": "verb",
+        "definition": "To pay an outside company, often abroad, to do work.",
+        "es": "subcontratar, externalizar",
+        "example": "Many firms outsource customer service to reduce costs.",
+        "collocations": [
+          "outsource production",
+          "outsourcing jobs"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-recession",
+        "term": "recession",
+        "pos": "noun",
+        "definition": "A period of economic decline.",
+        "es": "recesión",
+        "example": "During a recession, young people are often the first to lose their jobs.",
+        "collocations": [
+          "fall into recession",
+          "global recession",
+          "emerge from recession"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-inflation",
+        "term": "inflation / cost of living",
+        "pos": "noun",
+        "definition": "The general rise in prices / the money needed for basic expenses.",
+        "es": "inflación / coste de la vida",
+        "example": "Rising inflation has caused a cost-of-living crisis for many families.",
+        "collocations": [
+          "high inflation",
+          "cost-of-living crisis"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-consumerism",
+        "term": "consumerism",
+        "pos": "noun",
+        "definition": "A culture focused on buying goods.",
+        "es": "consumismo",
+        "example": "Consumerism encourages people to replace products that still work.",
+        "collocations": [
+          "rampant consumerism",
+          "consumer culture"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-econ-purchasing-power",
+        "term": "purchasing power",
+        "pos": "noun",
+        "definition": "The amount of goods money can buy.",
+        "es": "poder adquisitivo",
+        "example": "Stagnant wages have reduced the purchasing power of the middle class.",
+        "collocations": [
+          "loss of purchasing power"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-econ-poverty-line",
+        "term": "poverty line",
+        "pos": "noun",
+        "definition": "The minimum income needed to meet basic needs.",
+        "es": "umbral de pobreza",
+        "example": "Millions of people still live below the poverty line.",
+        "collocations": [
+          "live below the poverty line",
+          "lift out of poverty"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-cultural-homogenisation",
+        "term": "cultural homogenisation",
+        "pos": "noun",
+        "definition": "The process by which local cultures become more alike.",
+        "es": "homogeneización cultural",
+        "example": "Critics blame globalisation for the cultural homogenisation of city centres.",
+        "collocations": [
+          "fear of homogenisation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-econ-interdependent",
+        "term": "interdependent",
+        "pos": "adjective",
+        "definition": "Depending on each other.",
+        "es": "interdependiente",
+        "example": "In an interdependent world, a crisis in one country quickly spreads.",
+        "collocations": [
+          "economically interdependent"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-econ-supply-chain",
+        "term": "supply chain",
+        "pos": "noun",
+        "definition": "The network of producers and transport that delivers a product.",
+        "es": "cadena de suministro",
+        "example": "The pandemic revealed how fragile global supply chains are.",
+        "collocations": [
+          "supply chain disruption",
+          "global supply chains"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-foreign-investment",
+        "term": "foreign investment",
+        "pos": "noun",
+        "definition": "Money invested in a country by foreign companies or people.",
+        "es": "inversión extranjera",
+        "example": "Low corporate taxes attract foreign investment.",
+        "collocations": [
+          "attract foreign investment",
+          "foreign direct investment (FDI)"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-econ-exploit",
+        "term": "exploit / exploitation",
+        "pos": "verb / noun",
+        "definition": "To treat workers unfairly for profit.",
+        "es": "explotar / explotación",
+        "example": "Some clothing brands have been accused of exploiting workers in poorer countries.",
+        "collocations": [
+          "labour exploitation",
+          "exploit cheap labour"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-brain-drain",
+        "term": "brain drain",
+        "pos": "noun",
+        "definition": "The emigration of highly skilled people.",
+        "es": "fuga de cerebros",
+        "example": "Low salaries for researchers have caused a brain drain from southern Europe.",
+        "collocations": [
+          "suffer a brain drain",
+          "reverse the brain drain"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-taxpayer",
+        "term": "taxpayers' money",
+        "pos": "noun",
+        "definition": "Public funds raised through taxation.",
+        "es": "dinero de los contribuyentes",
+        "example": "Spending taxpayers' money on a new stadium is hard to justify.",
+        "collocations": [
+          "waste of taxpayers' money",
+          "funded by taxpayers"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-standard-of-living",
+        "term": "standard of living",
+        "pos": "noun",
+        "definition": "The level of wealth and comfort people have.",
+        "es": "nivel de vida",
+        "example": "Industrialisation raised the standard of living for most citizens.",
+        "collocations": [
+          "raise living standards",
+          "a high standard of living"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-boost-economy",
+        "term": "boost the economy",
+        "pos": "verb phrase",
+        "definition": "To help the economy grow.",
+        "es": "impulsar la economía",
+        "example": "Hosting the Olympics is often claimed to boost the local economy.",
+        "collocations": [
+          "boost the local economy",
+          "stimulate the economy"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-local-businesses",
+        "term": "local businesses",
+        "pos": "noun",
+        "definition": "Small companies serving a local area.",
+        "es": "comercio local",
+        "example": "Large supermarkets can drive local businesses out of the market.",
+        "collocations": [
+          "support local businesses",
+          "drive out of business"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-econ-fair-trade",
+        "term": "fair trade",
+        "pos": "noun",
+        "definition": "Trade that pays producers in poorer countries a fair price.",
+        "es": "comercio justo",
+        "example": "Fair trade products guarantee farmers a minimum price for their crops.",
+        "collocations": [
+          "fair trade coffee",
+          "fair trade label"
+        ],
+        "register": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "topic-crime",
+    "category": "topic",
+    "title": "Crime & justice",
+    "titleEs": "Delincuencia y justicia",
+    "description": "Delito, castigo, prisiones y prevención.",
+    "cards": [
+      {
+        "id": "topic-crime-offender",
+        "term": "offender",
+        "pos": "noun",
+        "definition": "A person who has committed a crime.",
+        "es": "delincuente, infractor",
+        "example": "Young offenders should be given education rather than long prison sentences.",
+        "collocations": [
+          "young offenders",
+          "repeat offenders",
+          "first-time offender"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-crime-reoffend",
+        "term": "reoffend / reoffending",
+        "pos": "verb / noun",
+        "definition": "To commit a crime again.",
+        "es": "reincidir / reincidencia",
+        "example": "Prisoners who learn a trade are less likely to reoffend.",
+        "collocations": [
+          "reoffending rates",
+          "reduce reoffending"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-crime-rehabilitation",
+        "term": "rehabilitation",
+        "pos": "noun",
+        "definition": "Helping criminals return to normal life in society.",
+        "es": "rehabilitación, reinserción",
+        "example": "Prisons should focus on rehabilitation, not just punishment.",
+        "collocations": [
+          "rehabilitation programmes",
+          "focus on rehabilitation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-crime-deterrent",
+        "term": "deterrent",
+        "pos": "noun",
+        "definition": "Something that discourages people from doing something.",
+        "es": "elemento disuasorio",
+        "example": "There is little evidence that harsh sentences act as a deterrent.",
+        "collocations": [
+          "act as a deterrent",
+          "an effective deterrent"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-crime-sentence",
+        "term": "sentence",
+        "pos": "noun / verb",
+        "definition": "A punishment given by a court; to give such a punishment.",
+        "es": "condena; condenar",
+        "example": "He was sentenced to five years in prison for fraud.",
+        "collocations": [
+          "a prison sentence",
+          "a life sentence",
+          "serve a sentence"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-community-service",
+        "term": "community service",
+        "pos": "noun",
+        "definition": "Unpaid work in the community given as a punishment.",
+        "es": "trabajos comunitarios",
+        "example": "Community service may be more effective than prison for minor crimes.",
+        "collocations": [
+          "sentenced to community service"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-petty-crime",
+        "term": "petty crime",
+        "pos": "noun",
+        "definition": "Minor crime, such as shoplifting.",
+        "es": "delincuencia menor",
+        "example": "Petty crime tends to rise in areas with high unemployment.",
+        "collocations": [
+          "petty theft",
+          "minor offences"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-violent-crime",
+        "term": "violent crime",
+        "pos": "noun",
+        "definition": "Crime involving physical force against people.",
+        "es": "delitos violentos",
+        "example": "Violent crime has fallen in most Western cities over the last thirty years.",
+        "collocations": [
+          "a rise in violent crime"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-crime-rate",
+        "term": "crime rate",
+        "pos": "noun",
+        "definition": "The number of crimes in a period relative to population.",
+        "es": "índice de criminalidad",
+        "example": "Better street lighting has helped lower the crime rate.",
+        "collocations": [
+          "reduce the crime rate",
+          "high crime rates"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-juvenile",
+        "term": "juvenile delinquency",
+        "pos": "noun",
+        "definition": "Crime committed by young people.",
+        "es": "delincuencia juvenil",
+        "example": "Youth clubs can help prevent juvenile delinquency.",
+        "collocations": [
+          "juvenile offenders"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-crime-law-enforcement",
+        "term": "law enforcement",
+        "pos": "noun",
+        "definition": "The police and agencies that make people obey the law.",
+        "es": "fuerzas del orden",
+        "example": "Law enforcement agencies need more resources to tackle cybercrime.",
+        "collocations": [
+          "law enforcement agencies"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-crime-capital-punishment",
+        "term": "capital punishment / death penalty",
+        "pos": "noun",
+        "definition": "Execution as a legal punishment.",
+        "es": "pena de muerte",
+        "example": "Opponents of capital punishment point out the risk of executing innocent people.",
+        "collocations": [
+          "abolish the death penalty"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-crime-root-causes",
+        "term": "root causes",
+        "pos": "noun",
+        "definition": "The fundamental reasons behind a problem.",
+        "es": "causas profundas",
+        "example": "To reduce crime, we must address its root causes, such as poverty and lack of education.",
+        "collocations": [
+          "address the root causes",
+          "tackle the root causes"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-crime-tough-on-crime",
+        "term": "tough on crime",
+        "pos": "phrase",
+        "definition": "Favouring strict punishments.",
+        "es": "mano dura contra el delito",
+        "example": "Politicians often promise to be tough on crime to win votes.",
+        "collocations": [
+          "tough-on-crime policies"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-overcrowding",
+        "term": "prison overcrowding",
+        "pos": "noun",
+        "definition": "Too many inmates for the space available.",
+        "es": "masificación de las cárceles",
+        "example": "Prison overcrowding makes rehabilitation almost impossible.",
+        "collocations": [
+          "overcrowded prisons"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-inmate",
+        "term": "inmate / prisoner",
+        "pos": "noun",
+        "definition": "A person kept in prison.",
+        "es": "recluso, preso",
+        "example": "Inmates who receive education have better job prospects on release.",
+        "collocations": [
+          "release prisoners",
+          "on release"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-victim",
+        "term": "victim",
+        "pos": "noun",
+        "definition": "A person harmed by a crime.",
+        "es": "víctima",
+        "example": "The justice system should give more support to victims of crime.",
+        "collocations": [
+          "victims of crime",
+          "fall victim to"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-surveillance",
+        "term": "CCTV",
+        "pos": "noun",
+        "definition": "Closed-circuit television cameras used for security.",
+        "es": "cámaras de videovigilancia",
+        "example": "CCTV in public places may deter crime but raises privacy concerns.",
+        "collocations": [
+          "CCTV cameras",
+          "install CCTV"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-commit",
+        "term": "commit a crime / an offence",
+        "pos": "verb phrase",
+        "definition": "To do something illegal.",
+        "es": "cometer un delito",
+        "example": "People who commit minor offences should not mix with serious criminals.",
+        "collocations": [
+          "commit fraud",
+          "commit an offence"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-legal-system",
+        "term": "justice system",
+        "pos": "noun",
+        "definition": "The courts, laws and institutions that deliver justice.",
+        "es": "sistema judicial",
+        "example": "Public trust in the justice system depends on fair and fast trials.",
+        "collocations": [
+          "criminal justice system"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-crime-trial",
+        "term": "trial / court",
+        "pos": "noun",
+        "definition": "A legal process to decide guilt / the place where it happens.",
+        "es": "juicio / tribunal",
+        "example": "Every defendant has the right to a fair trial.",
+        "collocations": [
+          "stand trial",
+          "fair trial",
+          "go to court"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-guilty",
+        "term": "found guilty / innocent",
+        "pos": "phrase",
+        "definition": "Officially judged to have / not have committed a crime.",
+        "es": "declarado culpable / inocente",
+        "example": "Anyone found guilty of drink-driving should lose their licence.",
+        "collocations": [
+          "plead guilty",
+          "presumed innocent"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-fine",
+        "term": "fine",
+        "pos": "noun / verb",
+        "definition": "Money paid as a punishment; to make someone pay this.",
+        "es": "multa; multar",
+        "example": "Companies that pollute rivers should face heavy fines.",
+        "collocations": [
+          "heavy fine",
+          "be fined for"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-crime-anti-social",
+        "term": "anti-social behaviour",
+        "pos": "noun",
+        "definition": "Behaviour that disturbs or harms others, like vandalism.",
+        "es": "comportamiento incívico",
+        "example": "Boredom among teenagers is often linked to anti-social behaviour.",
+        "collocations": [
+          "tackle anti-social behaviour",
+          "vandalism"
+        ],
+        "register": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "topic-cities",
+    "category": "topic",
+    "title": "Cities & housing",
+    "titleEs": "Ciudades y vivienda",
+    "description": "Urbanismo, vivienda, servicios urbanos y vida en la ciudad frente al campo.",
+    "cards": [
+      {
+        "id": "topic-city-urbanisation",
+        "term": "urbanisation",
+        "pos": "noun",
+        "definition": "The movement of people from rural areas to cities.",
+        "es": "urbanización (éxodo a las ciudades)",
+        "example": "Rapid urbanisation has put pressure on housing and transport.",
+        "collocations": [
+          "rapid urbanisation",
+          "process of urbanisation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-city-urban-sprawl",
+        "term": "urban sprawl",
+        "pos": "noun",
+        "definition": "The uncontrolled spread of a city into surrounding countryside.",
+        "es": "expansión urbana descontrolada",
+        "example": "Urban sprawl increases car dependency and destroys farmland.",
+        "collocations": [
+          "limit urban sprawl"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-city-affordable-housing",
+        "term": "affordable housing",
+        "pos": "noun",
+        "definition": "Homes that people on average or low incomes can afford.",
+        "es": "vivienda asequible",
+        "example": "The lack of affordable housing forces young people to live with their parents.",
+        "collocations": [
+          "shortage of affordable housing",
+          "build affordable homes"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-housing-shortage",
+        "term": "housing shortage",
+        "pos": "noun",
+        "definition": "Not enough homes for the population.",
+        "es": "escasez de vivienda",
+        "example": "A severe housing shortage has pushed rents to record levels.",
+        "collocations": [
+          "acute housing shortage"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-property-prices",
+        "term": "property prices / soaring rents",
+        "pos": "noun",
+        "definition": "The cost of buying homes / rapidly rising rents.",
+        "es": "precio de la vivienda / alquileres disparados",
+        "example": "Soaring rents in the city centre have driven families to the suburbs.",
+        "collocations": [
+          "rising property prices",
+          "rent control"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-gentrification",
+        "term": "gentrification",
+        "pos": "noun",
+        "definition": "Wealthier people moving into a poorer area, changing it and raising prices.",
+        "es": "gentrificación",
+        "example": "Gentrification has improved some neighbourhoods but pushed out long-term residents.",
+        "collocations": [
+          "the effects of gentrification"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-city-infrastructure",
+        "term": "infrastructure",
+        "pos": "noun",
+        "definition": "Basic systems such as roads, water and power supplies.",
+        "es": "infraestructura(s)",
+        "example": "Many cities' infrastructure was not designed for their current populations.",
+        "collocations": [
+          "invest in infrastructure",
+          "transport infrastructure",
+          "ageing infrastructure"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-city-amenities",
+        "term": "amenities / facilities",
+        "pos": "noun",
+        "definition": "Useful or pleasant services such as parks, shops and libraries.",
+        "es": "servicios, equipamientos",
+        "example": "New housing estates often lack basic amenities like schools and clinics.",
+        "collocations": [
+          "local amenities",
+          "public facilities"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-green-spaces",
+        "term": "green spaces",
+        "pos": "noun",
+        "definition": "Areas of grass, trees and plants in a city.",
+        "es": "zonas verdes",
+        "example": "Access to green spaces improves residents' mental health.",
+        "collocations": [
+          "urban green spaces",
+          "lack of green spaces"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-congestion",
+        "term": "traffic congestion",
+        "pos": "noun",
+        "definition": "Too many vehicles causing slow traffic.",
+        "es": "atascos, congestión del tráfico",
+        "example": "Traffic congestion costs the economy billions in lost working hours.",
+        "collocations": [
+          "ease congestion",
+          "congestion charge"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-overcrowded",
+        "term": "overcrowded / densely populated",
+        "pos": "adjective",
+        "definition": "With too many people / many people per area.",
+        "es": "superpoblado / densamente poblado",
+        "example": "Densely populated cities can provide public transport more efficiently.",
+        "collocations": [
+          "overcrowded housing"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-suburbs",
+        "term": "suburbs / outskirts",
+        "pos": "noun",
+        "definition": "Residential areas on the edge of a city.",
+        "es": "afueras, extrarradio",
+        "example": "Many families move to the suburbs in search of bigger homes.",
+        "collocations": [
+          "on the outskirts of",
+          "live in the suburbs"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-homelessness",
+        "term": "homelessness",
+        "pos": "noun",
+        "definition": "The state of having no home.",
+        "es": "sinhogarismo",
+        "example": "Rising rents have led to a sharp increase in homelessness.",
+        "collocations": [
+          "tackle homelessness",
+          "homeless people"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-urban-regeneration",
+        "term": "urban regeneration",
+        "pos": "noun",
+        "definition": "Improving run-down parts of a city.",
+        "es": "regeneración urbana",
+        "example": "Urban regeneration projects transformed the old docks into a cultural district.",
+        "collocations": [
+          "regeneration scheme"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-city-run-down",
+        "term": "run-down / deprived",
+        "pos": "adjective",
+        "definition": "In poor condition / lacking money and services.",
+        "es": "deteriorado / desfavorecido",
+        "example": "Investment should target the most deprived neighbourhoods.",
+        "collocations": [
+          "deprived areas",
+          "run-down buildings"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-high-rise",
+        "term": "high-rise buildings",
+        "pos": "noun",
+        "definition": "Tall buildings with many floors.",
+        "es": "rascacielos, edificios altos",
+        "example": "High-rise buildings allow more people to live in less space.",
+        "collocations": [
+          "high-rise flats",
+          "tower blocks"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-pedestrianised",
+        "term": "pedestrianised zone",
+        "pos": "noun",
+        "definition": "An area where cars are not allowed.",
+        "es": "zona peatonal",
+        "example": "Pedestrianised zones make city centres safer and more pleasant.",
+        "collocations": [
+          "pedestrianise the centre",
+          "car-free zone"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-urban-planning",
+        "term": "urban planning",
+        "pos": "noun",
+        "definition": "The design and organisation of cities.",
+        "es": "urbanismo, planificación urbana",
+        "example": "Good urban planning can reduce the need to drive.",
+        "collocations": [
+          "urban planners",
+          "poor planning"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-city-quality-of-life",
+        "term": "quality of life",
+        "pos": "noun",
+        "definition": "How good and comfortable people's lives are.",
+        "es": "calidad de vida",
+        "example": "Smaller towns often offer a higher quality of life than big cities.",
+        "collocations": [
+          "improve quality of life"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-rural-exodus",
+        "term": "rural depopulation",
+        "pos": "noun",
+        "definition": "The decline in population of rural areas.",
+        "es": "despoblación rural (la 'España vaciada')",
+        "example": "Remote work could help reverse rural depopulation.",
+        "collocations": [
+          "reverse rural depopulation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-city-noise",
+        "term": "noise pollution",
+        "pos": "noun",
+        "definition": "Harmful or annoying levels of noise.",
+        "es": "contaminación acústica",
+        "example": "Noise pollution from traffic disturbs sleep for millions of city dwellers.",
+        "collocations": [
+          "reduce noise pollution"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-city-city-dwellers",
+        "term": "city dwellers / urban residents",
+        "pos": "noun",
+        "definition": "People who live in cities.",
+        "es": "habitantes de la ciudad",
+        "example": "City dwellers have easier access to cultural events.",
+        "collocations": [
+          "urban dwellers"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-city-vibrant",
+        "term": "vibrant / bustling",
+        "pos": "adjective",
+        "definition": "Full of life and energy / full of busy activity.",
+        "es": "vibrante, animado / bullicioso",
+        "example": "The old town has a vibrant nightlife and bustling markets.",
+        "collocations": [
+          "vibrant city",
+          "bustling streets"
+        ],
+        "register": "neutral",
+        "note": "Muy útil en Speaking Part 2 para describir lugares."
+      },
+      {
+        "id": "topic-city-mixed-use",
+        "term": "mixed-use development",
+        "pos": "noun",
+        "definition": "Buildings or areas combining homes, shops and offices.",
+        "es": "desarrollo de uso mixto",
+        "example": "Mixed-use developments reduce commuting by placing jobs near homes.",
+        "collocations": [
+          "mixed-use neighbourhoods"
+        ],
+        "register": "formal"
+      }
+    ]
+  },
+  {
+    "id": "topic-transport",
+    "category": "topic",
+    "title": "Transport",
+    "titleEs": "Transporte",
+    "description": "Transporte público, coches, aviación y movilidad sostenible.",
+    "cards": [
+      {
+        "id": "topic-trans-public-transport",
+        "term": "public transport",
+        "pos": "noun",
+        "definition": "Buses, trains and trams available to everyone.",
+        "es": "transporte público",
+        "example": "Investing in public transport is the most effective way to reduce congestion.",
+        "collocations": [
+          "use public transport",
+          "reliable public transport",
+          "public transport network"
+        ],
+        "register": "neutral",
+        "note": "US: public transportation / transit."
+      },
+      {
+        "id": "topic-trans-commuter",
+        "term": "commuter",
+        "pos": "noun",
+        "definition": "A person who travels regularly to work.",
+        "es": "persona que se desplaza a diario al trabajo",
+        "example": "Commuters waste hours each week stuck in traffic.",
+        "collocations": [
+          "daily commuters",
+          "commuter train"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-rush-hour",
+        "term": "rush hour / peak hours",
+        "pos": "noun",
+        "definition": "The busiest times of day for traffic.",
+        "es": "hora punta",
+        "example": "Trains are overcrowded during rush hour.",
+        "collocations": [
+          "during rush hour",
+          "off-peak fares"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-car-ownership",
+        "term": "car ownership",
+        "pos": "noun",
+        "definition": "Having one's own car.",
+        "es": "posesión de coche",
+        "example": "Car ownership among young urban adults has fallen.",
+        "collocations": [
+          "rising car ownership"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-car-dependent",
+        "term": "car-dependent",
+        "pos": "adjective",
+        "definition": "Designed so that people need a car for most journeys.",
+        "es": "dependiente del coche",
+        "example": "Many American suburbs are entirely car-dependent.",
+        "collocations": [
+          "car dependency"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-congestion-charge",
+        "term": "congestion charge",
+        "pos": "noun",
+        "definition": "A fee for driving into a busy city centre.",
+        "es": "peaje urbano",
+        "example": "London's congestion charge significantly reduced traffic in the centre.",
+        "collocations": [
+          "introduce a congestion charge"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-cycle-lanes",
+        "term": "cycle lanes / bike lanes",
+        "pos": "noun",
+        "definition": "Parts of the road reserved for bicycles.",
+        "es": "carriles bici",
+        "example": "Safe cycle lanes encourage more people to cycle to work.",
+        "collocations": [
+          "segregated cycle lanes",
+          "build bike lanes"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-electric-vehicles",
+        "term": "electric vehicles (EVs)",
+        "pos": "noun",
+        "definition": "Vehicles powered by batteries rather than fuel.",
+        "es": "vehículos eléctricos",
+        "example": "Electric vehicles produce no exhaust fumes, but their batteries require rare minerals.",
+        "collocations": [
+          "charging points",
+          "switch to electric vehicles"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-exhaust-fumes",
+        "term": "exhaust fumes",
+        "pos": "noun",
+        "definition": "Gases released by vehicle engines.",
+        "es": "gases del tubo de escape",
+        "example": "Exhaust fumes are a major cause of poor air quality in cities.",
+        "collocations": [
+          "vehicle emissions"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-subsidise",
+        "term": "subsidise",
+        "pos": "verb",
+        "definition": "To pay part of the cost to reduce the price.",
+        "es": "subvencionar",
+        "example": "Governments should subsidise rail fares to make trains cheaper than flying.",
+        "collocations": [
+          "heavily subsidised",
+          "subsidise public transport"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-trans-fare",
+        "term": "fare",
+        "pos": "noun",
+        "definition": "The price of a journey on public transport.",
+        "es": "tarifa, precio del billete",
+        "example": "Free fares for students could reduce car use.",
+        "collocations": [
+          "bus fares",
+          "fare increase",
+          "fare-free"
+        ],
+        "register": "neutral",
+        "warning": "No confundir 'fare' (billete) con 'fee' (tasa) o 'fair' (justo)."
+      },
+      {
+        "id": "topic-trans-high-speed-rail",
+        "term": "high-speed rail",
+        "pos": "noun",
+        "definition": "Fast trains, usually over 250 km/h.",
+        "es": "tren de alta velocidad",
+        "example": "High-speed rail is a greener alternative to short-haul flights.",
+        "collocations": [
+          "high-speed rail network"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-short-haul",
+        "term": "short-haul / long-haul flights",
+        "pos": "noun",
+        "definition": "Short / long-distance flights.",
+        "es": "vuelos de corta / larga distancia",
+        "example": "France has banned some short-haul flights where a train alternative exists.",
+        "collocations": [
+          "ban short-haul flights"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-road-safety",
+        "term": "road safety",
+        "pos": "noun",
+        "definition": "Preventing accidents on roads.",
+        "es": "seguridad vial",
+        "example": "Lower speed limits have improved road safety near schools.",
+        "collocations": [
+          "improve road safety",
+          "road accidents"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-speed-limit",
+        "term": "speed limit",
+        "pos": "noun",
+        "definition": "The maximum legal speed on a road.",
+        "es": "límite de velocidad",
+        "example": "Many cities have introduced a 30 km/h speed limit.",
+        "collocations": [
+          "exceed the speed limit",
+          "lower speed limits"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-carpooling",
+        "term": "car-sharing / carpooling",
+        "pos": "noun",
+        "definition": "Sharing car journeys or cars among several people.",
+        "es": "compartir coche",
+        "example": "Car-sharing schemes reduce the number of vehicles on the road.",
+        "collocations": [
+          "car-sharing scheme"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-infrastructure",
+        "term": "transport links",
+        "pos": "noun",
+        "definition": "Connections by road, rail, etc. between places.",
+        "es": "conexiones de transporte",
+        "example": "Good transport links attract businesses to a region.",
+        "collocations": [
+          "improve transport links",
+          "well connected"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-gridlock",
+        "term": "gridlock",
+        "pos": "noun",
+        "definition": "Traffic so heavy that it cannot move.",
+        "es": "colapso circulatorio",
+        "example": "Without investment in rail, the city will face constant gridlock.",
+        "collocations": [
+          "traffic gridlock"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-mobility",
+        "term": "mobility",
+        "pos": "noun",
+        "definition": "The ability to move or travel freely.",
+        "es": "movilidad",
+        "example": "Accessible buses improve mobility for elderly and disabled people.",
+        "collocations": [
+          "urban mobility",
+          "reduced mobility"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-trans-autonomous",
+        "term": "self-driving / autonomous cars",
+        "pos": "noun",
+        "definition": "Vehicles that drive without a human driver.",
+        "es": "coches autónomos",
+        "example": "Self-driving cars could reduce accidents caused by human error.",
+        "collocations": [
+          "autonomous vehicles"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-reliable",
+        "term": "reliable / punctual",
+        "pos": "adjective",
+        "definition": "Able to be trusted / on time.",
+        "es": "fiable / puntual",
+        "example": "People will only leave their cars if trains are reliable and punctual.",
+        "collocations": [
+          "reliable service"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-carbon-intensive",
+        "term": "carbon-intensive",
+        "pos": "adjective",
+        "definition": "Producing a lot of carbon dioxide.",
+        "es": "intensivo en carbono",
+        "example": "Aviation is one of the most carbon-intensive forms of travel.",
+        "collocations": [
+          "carbon-intensive industries"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-trans-park-and-ride",
+        "term": "park and ride",
+        "pos": "noun",
+        "definition": "A system of car parks outside a city with buses to the centre.",
+        "es": "aparcamiento disuasorio",
+        "example": "Park-and-ride schemes keep cars out of historic centres.",
+        "collocations": [
+          "park-and-ride scheme"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-trans-accessible",
+        "term": "accessible",
+        "pos": "adjective",
+        "definition": "Easy to reach or use, including for disabled people.",
+        "es": "accesible",
+        "example": "All new stations must be accessible to wheelchair users.",
+        "collocations": [
+          "wheelchair accessible",
+          "easily accessible"
+        ],
+        "register": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "topic-culture",
+    "category": "topic",
+    "title": "Culture & arts",
+    "titleEs": "Cultura y artes",
+    "description": "Arte, museos, patrimonio, tradiciones y financiación cultural.",
+    "cards": [
+      {
+        "id": "topic-cult-cultural-heritage",
+        "term": "cultural heritage",
+        "pos": "noun",
+        "definition": "Traditions, buildings and objects passed down through generations.",
+        "es": "patrimonio cultural",
+        "example": "Governments have a duty to protect their country's cultural heritage.",
+        "collocations": [
+          "preserve cultural heritage",
+          "World Heritage Site"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-cult-traditions",
+        "term": "traditions / customs",
+        "pos": "noun",
+        "definition": "Long-established beliefs and practices.",
+        "es": "tradiciones / costumbres",
+        "example": "Globalisation threatens many local traditions and customs.",
+        "collocations": [
+          "preserve traditions",
+          "local customs",
+          "deep-rooted traditions"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-arts-funding",
+        "term": "arts funding",
+        "pos": "noun",
+        "definition": "Money given to support the arts.",
+        "es": "financiación de las artes",
+        "example": "Cuts to arts funding have forced several theatres to close.",
+        "collocations": [
+          "public funding for the arts",
+          "cut arts funding"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-subsidise",
+        "term": "state-subsidised",
+        "pos": "adjective",
+        "definition": "Partly paid for by the government.",
+        "es": "subvencionado por el Estado",
+        "example": "State-subsidised museums can offer free entry to everyone.",
+        "collocations": [
+          "state-subsidised theatre"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-cult-exhibition",
+        "term": "exhibition",
+        "pos": "noun",
+        "definition": "A public display of art or objects.",
+        "es": "exposición",
+        "example": "The museum's new exhibition attracted over 200,000 visitors.",
+        "collocations": [
+          "hold an exhibition",
+          "temporary exhibition"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-performing-arts",
+        "term": "performing arts",
+        "pos": "noun",
+        "definition": "Art forms performed live, such as theatre, dance and music.",
+        "es": "artes escénicas",
+        "example": "Schools should give pupils more opportunities to try the performing arts.",
+        "collocations": [
+          "performing arts centre"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-fine-arts",
+        "term": "fine arts / visual arts",
+        "pos": "noun",
+        "definition": "Painting, sculpture and similar arts.",
+        "es": "bellas artes / artes visuales",
+        "example": "Studying the visual arts develops creativity and observation.",
+        "collocations": [
+          "a fine arts degree"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-creativity",
+        "term": "creativity / self-expression",
+        "pos": "noun",
+        "definition": "The ability to produce new ideas / expressing one's feelings.",
+        "es": "creatividad / expresión personal",
+        "example": "Art lessons give children a valuable outlet for self-expression.",
+        "collocations": [
+          "foster creativity",
+          "a means of self-expression"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-cultural-identity",
+        "term": "cultural identity",
+        "pos": "noun",
+        "definition": "A sense of belonging to a particular culture.",
+        "es": "identidad cultural",
+        "example": "Language is central to a community's cultural identity.",
+        "collocations": [
+          "sense of cultural identity",
+          "national identity"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-cult-diversity",
+        "term": "cultural diversity",
+        "pos": "noun",
+        "definition": "The existence of many different cultures.",
+        "es": "diversidad cultural",
+        "example": "Cultural diversity enriches city life through food, music and festivals.",
+        "collocations": [
+          "celebrate diversity",
+          "culturally diverse"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-multicultural",
+        "term": "multicultural",
+        "pos": "adjective",
+        "definition": "Including people of many cultures.",
+        "es": "multicultural",
+        "example": "London is one of the most multicultural cities in the world.",
+        "collocations": [
+          "multicultural society"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-mainstream",
+        "term": "mainstream",
+        "pos": "adjective / noun",
+        "definition": "Accepted by or popular with most people.",
+        "es": "convencional, dominante",
+        "example": "Streaming services tend to promote mainstream music over local artists.",
+        "collocations": [
+          "mainstream culture",
+          "go mainstream"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-masterpiece",
+        "term": "masterpiece",
+        "pos": "noun",
+        "definition": "An outstanding work of art.",
+        "es": "obra maestra",
+        "example": "Millions of tourists queue to see the masterpieces in the Prado.",
+        "collocations": [
+          "a literary masterpiece"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-artefacts",
+        "term": "artefacts",
+        "pos": "noun",
+        "definition": "Objects made by people, especially of historical interest.",
+        "es": "objetos, piezas (arqueológicas)",
+        "example": "Some argue that museums should return artefacts taken during colonial times.",
+        "collocations": [
+          "ancient artefacts",
+          "return artefacts"
+        ],
+        "register": "formal",
+        "note": "US: artifacts."
+      },
+      {
+        "id": "topic-cult-intangible",
+        "term": "intangible",
+        "pos": "adjective",
+        "definition": "Not physical but still valuable.",
+        "es": "intangible, inmaterial",
+        "example": "The benefits of the arts are often intangible and difficult to measure.",
+        "collocations": [
+          "intangible heritage",
+          "intangible benefits"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-cult-preserve",
+        "term": "preserve / preservation",
+        "pos": "verb / noun",
+        "definition": "To keep something in its original state.",
+        "es": "conservar / conservación",
+        "example": "Historic buildings should be preserved for future generations.",
+        "collocations": [
+          "preserve the past",
+          "historic preservation"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-street-art",
+        "term": "street art / graffiti",
+        "pos": "noun",
+        "definition": "Art painted in public places.",
+        "es": "arte urbano / grafiti",
+        "example": "Whether graffiti is art or vandalism remains a matter of debate.",
+        "collocations": [
+          "street artists"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-highbrow",
+        "term": "highbrow / lowbrow",
+        "pos": "adjective",
+        "definition": "Intellectual / popular and unsophisticated (culture).",
+        "es": "culto, elitista / popular, poco intelectual",
+        "example": "Opera is often seen as highbrow entertainment for the elite.",
+        "collocations": [
+          "highbrow culture"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-accessible-arts",
+        "term": "access to the arts",
+        "pos": "noun",
+        "definition": "The ability of everyone to enjoy cultural activities.",
+        "es": "acceso a la cultura",
+        "example": "Free museum entry widens access to the arts for low-income families.",
+        "collocations": [
+          "widen access",
+          "make culture accessible"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-craftsmanship",
+        "term": "craftsmanship / handicrafts",
+        "pos": "noun",
+        "definition": "Skill in making things by hand / items made by hand.",
+        "es": "artesanía",
+        "example": "Tourism can help keep traditional handicrafts alive.",
+        "collocations": [
+          "traditional craftsmanship",
+          "local handicrafts"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-festival",
+        "term": "cultural festival",
+        "pos": "noun",
+        "definition": "An organised celebration of art, music or traditions.",
+        "es": "festival cultural",
+        "example": "Cultural festivals boost local economies and community pride.",
+        "collocations": [
+          "host a festival",
+          "annual festival"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-cult-thought-provoking",
+        "term": "thought-provoking",
+        "pos": "adjective",
+        "definition": "Making people think seriously.",
+        "es": "que invita a la reflexión",
+        "example": "The documentary was thought-provoking and changed my view on fast fashion.",
+        "collocations": [
+          "a thought-provoking film"
+        ],
+        "register": "neutral",
+        "note": "Muy útil en Speaking Part 2 (películas, libros, exposiciones)."
+      },
+      {
+        "id": "topic-cult-legacy",
+        "term": "legacy",
+        "pos": "noun",
+        "definition": "Something left by people from the past.",
+        "es": "legado",
+        "example": "The Roman legacy is still visible in the town's architecture.",
+        "collocations": [
+          "cultural legacy",
+          "leave a legacy"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-cult-censorship",
+        "term": "censorship",
+        "pos": "noun",
+        "definition": "Controlling or banning content considered unacceptable.",
+        "es": "censura",
+        "example": "Artistic freedom suffers under strict censorship.",
+        "collocations": [
+          "state censorship",
+          "freedom of expression"
+        ],
+        "register": "formal"
+      }
+    ]
+  },
+  {
+    "id": "topic-government",
+    "category": "topic",
+    "title": "Government & society",
+    "titleEs": "Gobierno y sociedad",
+    "description": "Políticas públicas, impuestos, servicios sociales y responsabilidad ciudadana.",
+    "cards": [
+      {
+        "id": "topic-gov-legislation",
+        "term": "legislation",
+        "pos": "noun",
+        "definition": "Laws, or the process of making laws.",
+        "es": "legislación",
+        "example": "New legislation is needed to regulate the use of personal data.",
+        "collocations": [
+          "introduce legislation",
+          "pass legislation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-regulate",
+        "term": "regulate / regulation",
+        "pos": "verb / noun",
+        "definition": "To control by rules / an official rule.",
+        "es": "regular / regulación, normativa",
+        "example": "Governments should regulate the advertising of unhealthy food.",
+        "collocations": [
+          "strict regulations",
+          "regulate an industry"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-public-spending",
+        "term": "public spending / expenditure",
+        "pos": "noun",
+        "definition": "Money spent by the government.",
+        "es": "gasto público",
+        "example": "Public spending on healthcare has risen as the population ages.",
+        "collocations": [
+          "cuts in public spending",
+          "increase public spending"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-allocate",
+        "term": "allocate (funds / resources)",
+        "pos": "verb",
+        "definition": "To give money or resources for a specific purpose.",
+        "es": "asignar, destinar (fondos)",
+        "example": "A larger share of the budget should be allocated to education.",
+        "collocations": [
+          "allocate resources",
+          "allocate funding to"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-taxation",
+        "term": "taxation",
+        "pos": "noun",
+        "definition": "The system of taxes.",
+        "es": "fiscalidad, impuestos",
+        "example": "Progressive taxation can reduce inequality.",
+        "collocations": [
+          "progressive taxation",
+          "higher taxation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-welfare",
+        "term": "welfare state / social welfare",
+        "pos": "noun",
+        "definition": "A system providing state support for those in need.",
+        "es": "estado del bienestar / prestaciones sociales",
+        "example": "The welfare state protects citizens from extreme poverty.",
+        "collocations": [
+          "welfare benefits",
+          "welfare system"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-civic-duty",
+        "term": "civic duty / responsibility",
+        "pos": "noun",
+        "definition": "Obligations citizens have towards society.",
+        "es": "deber cívico",
+        "example": "Voting is widely regarded as a civic duty.",
+        "collocations": [
+          "sense of civic duty"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-citizen",
+        "term": "citizens / the general public",
+        "pos": "noun",
+        "definition": "Members of a country / ordinary people.",
+        "es": "ciudadanos / la población en general",
+        "example": "The government must consult citizens before making major changes.",
+        "collocations": [
+          "ordinary citizens",
+          "members of the public"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-gov-policy",
+        "term": "policy / policymakers",
+        "pos": "noun",
+        "definition": "A plan of action by a government / those who design it.",
+        "es": "política (medida) / responsables políticos",
+        "example": "Policymakers must balance economic growth with environmental protection.",
+        "collocations": [
+          "government policy",
+          "implement a policy"
+        ],
+        "register": "formal",
+        "warning": "'policy' = medida concreta; 'politics' = la actividad política en general."
+      },
+      {
+        "id": "topic-gov-implement",
+        "term": "implement",
+        "pos": "verb",
+        "definition": "To put a plan or law into action.",
+        "es": "aplicar, poner en marcha",
+        "example": "The new recycling policy was implemented in 2022.",
+        "collocations": [
+          "implement measures",
+          "implement a scheme"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-intervene",
+        "term": "intervene / intervention",
+        "pos": "verb / noun",
+        "definition": "To become involved to change a situation.",
+        "es": "intervenir / intervención",
+        "example": "Some argue that the state should not intervene in people's personal choices.",
+        "collocations": [
+          "government intervention",
+          "intervene in the market"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-ban",
+        "term": "ban / impose restrictions",
+        "pos": "verb",
+        "definition": "To officially forbid / to limit.",
+        "es": "prohibir / imponer restricciones",
+        "example": "Several cities have banned diesel cars from their centres.",
+        "collocations": [
+          "impose a ban on",
+          "lift a ban"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-gov-incentive",
+        "term": "incentive",
+        "pos": "noun",
+        "definition": "Something that encourages a person to do something.",
+        "es": "incentivo",
+        "example": "Tax incentives could persuade companies to hire young people.",
+        "collocations": [
+          "financial incentives",
+          "tax incentives"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-accountable",
+        "term": "accountable / accountability",
+        "pos": "adjective / noun",
+        "definition": "Required to explain actions / being responsible.",
+        "es": "responsable (que rinde cuentas) / rendición de cuentas",
+        "example": "Politicians must be held accountable for how they spend public money.",
+        "collocations": [
+          "hold accountable",
+          "public accountability"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-corruption",
+        "term": "corruption",
+        "pos": "noun",
+        "definition": "Dishonest behaviour by people in power.",
+        "es": "corrupción",
+        "example": "Corruption undermines public trust in democratic institutions.",
+        "collocations": [
+          "tackle corruption",
+          "widespread corruption"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-gov-democracy",
+        "term": "democracy / democratic",
+        "pos": "noun / adjective",
+        "definition": "Government by elected representatives.",
+        "es": "democracia / democrático",
+        "example": "A free press is essential in a healthy democracy.",
+        "collocations": [
+          "democratic process",
+          "democratic institutions"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-gov-social-cohesion",
+        "term": "social cohesion",
+        "pos": "noun",
+        "definition": "The bonds that bring a society together.",
+        "es": "cohesión social",
+        "example": "Community centres can strengthen social cohesion in diverse neighbourhoods.",
+        "collocations": [
+          "strengthen social cohesion"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-marginalised",
+        "term": "marginalised / vulnerable groups",
+        "pos": "noun",
+        "definition": "People excluded or at risk.",
+        "es": "colectivos marginados / vulnerables",
+        "example": "Public policy should protect the most vulnerable groups in society.",
+        "collocations": [
+          "the most vulnerable",
+          "socially marginalised"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-immigration",
+        "term": "immigration / immigrants",
+        "pos": "noun",
+        "definition": "Moving to live in another country / people who do so.",
+        "es": "inmigración / inmigrantes",
+        "example": "Immigration can help fill labour shortages in ageing societies.",
+        "collocations": [
+          "immigration policy",
+          "integrate immigrants"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-gov-integration",
+        "term": "integration",
+        "pos": "noun",
+        "definition": "Becoming part of a society.",
+        "es": "integración",
+        "example": "Language classes are key to the integration of newcomers.",
+        "collocations": [
+          "social integration",
+          "promote integration"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-public-services",
+        "term": "public services",
+        "pos": "noun",
+        "definition": "Services provided by the state, such as health and education.",
+        "es": "servicios públicos",
+        "example": "Higher taxes are justified if they fund better public services.",
+        "collocations": [
+          "fund public services",
+          "access to public services"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-gov-privatise",
+        "term": "privatise / privatisation",
+        "pos": "verb / noun",
+        "definition": "To sell a state-owned service to private companies.",
+        "es": "privatizar / privatización",
+        "example": "Critics argue that privatising the railways led to higher fares.",
+        "collocations": [
+          "privatisation of services"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-gov-nanny-state",
+        "term": "nanny state",
+        "pos": "noun",
+        "definition": "A government seen as too controlling of personal choices.",
+        "es": "estado paternalista",
+        "example": "Opponents call the sugar tax an example of the nanny state.",
+        "collocations": [
+          "nanny-state policies"
+        ],
+        "register": "informal"
+      },
+      {
+        "id": "topic-gov-grassroots",
+        "term": "grassroots",
+        "pos": "adjective",
+        "definition": "Involving ordinary people at a local level.",
+        "es": "de base, popular",
+        "example": "Grassroots campaigns have pushed many councils to create cycle lanes.",
+        "collocations": [
+          "grassroots movement",
+          "grassroots organisations"
+        ],
+        "register": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "topic-science",
+    "category": "topic",
+    "title": "Science & research",
+    "titleEs": "Ciencia e investigación",
+    "description": "Investigación, experimentos, ética científica y exploración espacial.",
+    "cards": [
+      {
+        "id": "topic-sci-hypothesis",
+        "term": "hypothesis",
+        "pos": "noun",
+        "definition": "An idea proposed as a possible explanation, to be tested.",
+        "es": "hipótesis",
+        "example": "The researchers designed an experiment to test their hypothesis.",
+        "collocations": [
+          "test a hypothesis",
+          "support the hypothesis"
+        ],
+        "register": "formal",
+        "note": "Plural: hypotheses."
+      },
+      {
+        "id": "topic-sci-empirical",
+        "term": "empirical evidence",
+        "pos": "noun",
+        "definition": "Evidence based on observation or experiment.",
+        "es": "evidencia empírica",
+        "example": "There is little empirical evidence to support this claim.",
+        "collocations": [
+          "empirical data",
+          "empirical research"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-findings",
+        "term": "findings",
+        "pos": "noun",
+        "definition": "The results of research.",
+        "es": "resultados, hallazgos",
+        "example": "The findings suggest a strong link between diet and memory.",
+        "collocations": [
+          "publish findings",
+          "research findings"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-conduct-research",
+        "term": "conduct research",
+        "pos": "verb phrase",
+        "definition": "To carry out a scientific study.",
+        "es": "llevar a cabo una investigación",
+        "example": "Universities conduct research that private companies would not fund.",
+        "collocations": [
+          "conduct experiments",
+          "conduct a study"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-funding",
+        "term": "research funding",
+        "pos": "noun",
+        "definition": "Money provided for scientific research.",
+        "es": "financiación de la investigación",
+        "example": "Cuts in research funding threaten long-term innovation.",
+        "collocations": [
+          "secure funding",
+          "public research funding"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-sci-pure-applied",
+        "term": "pure / applied research",
+        "pos": "noun",
+        "definition": "Research for knowledge itself / for practical uses.",
+        "es": "investigación básica / aplicada",
+        "example": "Pure research often leads to unexpected practical applications.",
+        "collocations": [
+          "basic research"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-peer-review",
+        "term": "peer review",
+        "pos": "noun",
+        "definition": "Evaluation of research by other experts before publication.",
+        "es": "revisión por pares",
+        "example": "Peer review helps ensure that published studies are reliable.",
+        "collocations": [
+          "peer-reviewed journals"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-animal-testing",
+        "term": "animal testing",
+        "pos": "noun",
+        "definition": "Using animals in scientific experiments.",
+        "es": "experimentación con animales",
+        "example": "Animal testing remains controversial despite its role in medical progress.",
+        "collocations": [
+          "ban animal testing",
+          "tested on animals"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-sci-ethical",
+        "term": "ethical concerns / dilemma",
+        "pos": "noun",
+        "definition": "Moral worries / a difficult moral choice.",
+        "es": "preocupaciones éticas / dilema ético",
+        "example": "Genetic engineering raises serious ethical concerns.",
+        "collocations": [
+          "raise ethical concerns",
+          "an ethical dilemma"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-genetic-engineering",
+        "term": "genetic engineering / modification",
+        "pos": "noun",
+        "definition": "Changing the genes of living things.",
+        "es": "ingeniería / modificación genética",
+        "example": "Genetic modification could make crops more resistant to drought.",
+        "collocations": [
+          "genetically modified (GM)",
+          "gene editing"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-space-exploration",
+        "term": "space exploration",
+        "pos": "noun",
+        "definition": "The investigation of outer space.",
+        "es": "exploración espacial",
+        "example": "Critics argue that money spent on space exploration should be used to solve problems on Earth.",
+        "collocations": [
+          "fund space exploration",
+          "space programme"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-sci-cure",
+        "term": "find a cure (for)",
+        "pos": "verb phrase",
+        "definition": "To discover a treatment that heals a disease.",
+        "es": "encontrar una cura (para)",
+        "example": "Scientists are still trying to find a cure for Alzheimer's disease.",
+        "collocations": [
+          "a cure for cancer"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-sci-groundbreaking",
+        "term": "groundbreaking / pioneering",
+        "pos": "adjective",
+        "definition": "Very new and important.",
+        "es": "pionero, revolucionario",
+        "example": "Her groundbreaking work on vaccines saved millions of lives.",
+        "collocations": [
+          "groundbreaking research",
+          "pioneering study"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-sci-data",
+        "term": "data / analyse data",
+        "pos": "noun / verb phrase",
+        "definition": "Facts and figures / to examine them in detail.",
+        "es": "datos / analizar datos",
+        "example": "Researchers analysed data from over 10,000 patients.",
+        "collocations": [
+          "collect data",
+          "data analysis"
+        ],
+        "register": "neutral",
+        "note": "'data' puede ir en plural ('data are') en estilo académico."
+      },
+      {
+        "id": "topic-sci-sample",
+        "term": "sample / sample size",
+        "pos": "noun",
+        "definition": "A group selected for a study / its number.",
+        "es": "muestra / tamaño de la muestra",
+        "example": "The small sample size limits how far the results can be generalised.",
+        "collocations": [
+          "a representative sample",
+          "random sample"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-correlation",
+        "term": "correlation / causation",
+        "pos": "noun",
+        "definition": "A connection between two things / one thing causing another.",
+        "es": "correlación / causalidad",
+        "example": "A correlation between screen time and anxiety does not prove causation.",
+        "collocations": [
+          "a strong correlation",
+          "correlate with"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-scientific-consensus",
+        "term": "scientific consensus",
+        "pos": "noun",
+        "definition": "General agreement among scientists.",
+        "es": "consenso científico",
+        "example": "There is a clear scientific consensus that human activity causes climate change.",
+        "collocations": [
+          "broad consensus"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-stem",
+        "term": "STEM subjects",
+        "pos": "noun",
+        "definition": "Science, technology, engineering and mathematics.",
+        "es": "asignaturas de ciencias (CTIM)",
+        "example": "Governments are trying to attract more girls into STEM subjects.",
+        "collocations": [
+          "STEM careers",
+          "STEM education"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-sci-laboratory",
+        "term": "laboratory / clinical trials",
+        "pos": "noun",
+        "definition": "A place for experiments / tests of new treatments on people.",
+        "es": "laboratorio / ensayos clínicos",
+        "example": "The drug passed three phases of clinical trials before approval.",
+        "collocations": [
+          "in laboratory conditions",
+          "conduct clinical trials"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-unforeseen",
+        "term": "unforeseen consequences",
+        "pos": "noun",
+        "definition": "Results that were not expected.",
+        "es": "consecuencias imprevistas",
+        "example": "New technologies can have unforeseen consequences for the environment.",
+        "collocations": [
+          "unintended consequences"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-scientific-literacy",
+        "term": "scientific literacy",
+        "pos": "noun",
+        "definition": "Basic understanding of scientific ideas and methods.",
+        "es": "cultura científica",
+        "example": "Improving scientific literacy helps the public resist misinformation.",
+        "collocations": [
+          "promote scientific literacy"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-discovery",
+        "term": "discovery / invention",
+        "pos": "noun",
+        "definition": "Finding something that existed / creating something new.",
+        "es": "descubrimiento / invención",
+        "example": "The invention of the printing press transformed education.",
+        "collocations": [
+          "a major discovery",
+          "make a discovery"
+        ],
+        "register": "neutral",
+        "warning": "Se descubre lo que ya existía (penicillin); se inventa lo nuevo (the telephone)."
+      },
+      {
+        "id": "topic-sci-replicate",
+        "term": "replicate",
+        "pos": "verb",
+        "definition": "To repeat a study and get the same results.",
+        "es": "replicar, reproducir",
+        "example": "Other scientists have been unable to replicate the results.",
+        "collocations": [
+          "replicate findings"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-sci-advancement",
+        "term": "advances / advancement",
+        "pos": "noun",
+        "definition": "Progress in knowledge or technology.",
+        "es": "avances / progreso",
+        "example": "Medical advances have dramatically increased survival rates for many cancers.",
+        "collocations": [
+          "scientific advances",
+          "technological advancement"
+        ],
+        "register": "formal"
+      }
+    ]
+  },
+  {
+    "id": "topic-media",
+    "category": "topic",
+    "title": "Media & advertising",
+    "titleEs": "Medios de comunicación y publicidad",
+    "description": "Prensa, publicidad, influencers y consumo de información.",
+    "cards": [
+      {
+        "id": "topic-media-mass-media",
+        "term": "mass media",
+        "pos": "noun",
+        "definition": "Means of communication reaching large audiences.",
+        "es": "medios de comunicación de masas",
+        "example": "The mass media plays a powerful role in shaping public opinion.",
+        "collocations": [
+          "the role of the mass media"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-media-public-opinion",
+        "term": "shape public opinion",
+        "pos": "verb phrase",
+        "definition": "To influence what people think.",
+        "es": "moldear la opinión pública",
+        "example": "Newspapers can shape public opinion on immigration.",
+        "collocations": [
+          "influence public opinion",
+          "sway opinion"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-media-coverage",
+        "term": "media coverage",
+        "pos": "noun",
+        "definition": "The reporting of an event by the media.",
+        "es": "cobertura mediática",
+        "example": "Media coverage of climate change has increased substantially.",
+        "collocations": [
+          "extensive coverage",
+          "receive coverage"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-biased",
+        "term": "biased / impartial",
+        "pos": "adjective",
+        "definition": "Unfairly favouring one side / fair and neutral.",
+        "es": "parcial, sesgado / imparcial",
+        "example": "Public broadcasters are expected to provide impartial news.",
+        "collocations": [
+          "biased reporting",
+          "media bias"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-sensationalism",
+        "term": "sensationalism",
+        "pos": "noun",
+        "definition": "Presenting news in a shocking way to attract attention.",
+        "es": "sensacionalismo",
+        "example": "Tabloid newspapers are often criticised for sensationalism.",
+        "collocations": [
+          "sensationalist headlines"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-media-tabloid",
+        "term": "tabloid / broadsheet",
+        "pos": "noun",
+        "definition": "Popular newspaper / serious newspaper.",
+        "es": "prensa sensacionalista / prensa seria",
+        "example": "Tabloids focus on celebrity gossip, while broadsheets cover politics in depth.",
+        "collocations": [
+          "tabloid press"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-clickbait",
+        "term": "clickbait",
+        "pos": "noun",
+        "definition": "Online content designed to attract clicks rather than inform.",
+        "es": "ciberanzuelo, titulares gancho",
+        "example": "Clickbait headlines often exaggerate or mislead.",
+        "collocations": [
+          "clickbait headlines"
+        ],
+        "register": "informal"
+      },
+      {
+        "id": "topic-media-press-freedom",
+        "term": "freedom of the press",
+        "pos": "noun",
+        "definition": "The right of journalists to report without government control.",
+        "es": "libertad de prensa",
+        "example": "Freedom of the press is a cornerstone of democracy.",
+        "collocations": [
+          "press freedom",
+          "threats to press freedom"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-media-invasion-privacy",
+        "term": "invasion of privacy",
+        "pos": "noun",
+        "definition": "Unjustified interference in someone's private life.",
+        "es": "intromisión en la vida privada",
+        "example": "Photographing celebrities' children is a clear invasion of privacy.",
+        "collocations": [
+          "right to privacy"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-target-audience",
+        "term": "target audience",
+        "pos": "noun",
+        "definition": "The group of people an advert or product is aimed at.",
+        "es": "público objetivo",
+        "example": "Advertisers increasingly use social media to reach their target audience.",
+        "collocations": [
+          "reach a target audience"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-persuasive",
+        "term": "persuasive / manipulative",
+        "pos": "adjective",
+        "definition": "Able to convince / influencing people unfairly.",
+        "es": "persuasivo / manipulador",
+        "example": "Advertising aimed at children can be highly manipulative.",
+        "collocations": [
+          "persuasive techniques"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-consumer",
+        "term": "consumers",
+        "pos": "noun",
+        "definition": "People who buy goods and services.",
+        "es": "consumidores",
+        "example": "Advertising creates desires that consumers did not know they had.",
+        "collocations": [
+          "consumer behaviour",
+          "consumer rights"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-brand",
+        "term": "brand / brand loyalty",
+        "pos": "noun",
+        "definition": "A company's product name / continuing to buy the same brand.",
+        "es": "marca / fidelidad a la marca",
+        "example": "Advertisers try to build brand loyalty from a young age.",
+        "collocations": [
+          "brand image",
+          "well-known brands"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-influencer",
+        "term": "influencer",
+        "pos": "noun",
+        "definition": "A person who uses social media to influence followers, often to promote products.",
+        "es": "influencer",
+        "example": "Many influencers fail to disclose that their posts are paid advertisements.",
+        "collocations": [
+          "social media influencers",
+          "influencer marketing"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-endorse",
+        "term": "endorse / endorsement",
+        "pos": "verb / noun",
+        "definition": "To publicly support a product, often for payment.",
+        "es": "promocionar, respaldar / patrocinio",
+        "example": "Celebrity endorsements make products seem more desirable.",
+        "collocations": [
+          "celebrity endorsement"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-media-misleading",
+        "term": "misleading",
+        "pos": "adjective",
+        "definition": "Giving a false idea.",
+        "es": "engañoso",
+        "example": "Misleading advertisements should be banned.",
+        "collocations": [
+          "misleading claims",
+          "misleading information"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-materialism",
+        "term": "materialistic",
+        "pos": "adjective",
+        "definition": "Valuing money and possessions too much.",
+        "es": "materialista",
+        "example": "Constant advertising may make young people more materialistic.",
+        "collocations": [
+          "materialistic society"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-news-outlets",
+        "term": "news outlets",
+        "pos": "noun",
+        "definition": "Organisations that publish or broadcast news.",
+        "es": "medios informativos",
+        "example": "Traditional news outlets are losing readers to online platforms.",
+        "collocations": [
+          "mainstream news outlets"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-citizen-journalism",
+        "term": "citizen journalism",
+        "pos": "noun",
+        "definition": "News reported by ordinary people, often via social media.",
+        "es": "periodismo ciudadano",
+        "example": "Citizen journalism can expose events that the mainstream media ignores.",
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-go-viral",
+        "term": "go viral",
+        "pos": "verb phrase",
+        "definition": "To spread very quickly online.",
+        "es": "hacerse viral",
+        "example": "A single video can go viral and reach millions overnight.",
+        "collocations": [
+          "a viral video"
+        ],
+        "register": "informal"
+      },
+      {
+        "id": "topic-media-broadcast",
+        "term": "broadcast / broadcaster",
+        "pos": "verb / noun",
+        "definition": "To send out on TV or radio / a TV or radio company.",
+        "es": "emitir / cadena",
+        "example": "Public broadcasters should be funded independently of the government.",
+        "collocations": [
+          "public broadcaster",
+          "broadcast live"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-targeted-ads",
+        "term": "targeted advertising",
+        "pos": "noun",
+        "definition": "Adverts shown based on a user's personal data.",
+        "es": "publicidad personalizada / segmentada",
+        "example": "Targeted advertising relies on collecting huge amounts of personal data.",
+        "collocations": [
+          "personalised ads"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-commercials",
+        "term": "commercials / adverts",
+        "pos": "noun",
+        "definition": "Advertisements on TV, radio or online.",
+        "es": "anuncios",
+        "example": "Several countries ban commercials during children's programmes.",
+        "collocations": [
+          "TV commercials",
+          "ad breaks"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-media-media-literacy",
+        "term": "media literacy",
+        "pos": "noun",
+        "definition": "The ability to critically evaluate media content.",
+        "es": "alfabetización mediática",
+        "example": "Schools should teach media literacy so pupils can identify fake news.",
+        "collocations": [
+          "teach media literacy"
+        ],
+        "register": "formal"
+      }
+    ]
+  },
+  {
+    "id": "topic-tourism",
+    "category": "topic",
+    "title": "Tourism",
+    "titleEs": "Turismo",
+    "description": "Turismo de masas, ecoturismo, impacto económico y cultural de los viajes.",
+    "cards": [
+      {
+        "id": "topic-tour-mass-tourism",
+        "term": "mass tourism",
+        "pos": "noun",
+        "definition": "Tourism involving very large numbers of people.",
+        "es": "turismo de masas",
+        "example": "Mass tourism has transformed quiet fishing villages into crowded resorts.",
+        "collocations": [
+          "the effects of mass tourism"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-overtourism",
+        "term": "overtourism",
+        "pos": "noun",
+        "definition": "Too many tourists in a place, harming residents and the environment.",
+        "es": "masificación turística",
+        "example": "Venice and Barcelona have introduced measures to combat overtourism.",
+        "collocations": [
+          "tackle overtourism"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-ecotourism",
+        "term": "ecotourism / sustainable tourism",
+        "pos": "noun",
+        "definition": "Tourism that protects nature and benefits local people.",
+        "es": "ecoturismo / turismo sostenible",
+        "example": "Ecotourism can provide an income while protecting rainforests.",
+        "collocations": [
+          "promote ecotourism"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-tourist-destination",
+        "term": "tourist destination",
+        "pos": "noun",
+        "definition": "A place that tourists visit.",
+        "es": "destino turístico",
+        "example": "Spain is one of the world's most popular tourist destinations.",
+        "collocations": [
+          "popular destination",
+          "holiday destination"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-revenue",
+        "term": "tourism revenue",
+        "pos": "noun",
+        "definition": "Income earned from tourism.",
+        "es": "ingresos por turismo",
+        "example": "Tourism revenue funds the restoration of historic monuments.",
+        "collocations": [
+          "generate revenue",
+          "source of revenue"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-tour-seasonal",
+        "term": "seasonal employment",
+        "pos": "noun",
+        "definition": "Jobs available only at certain times of year.",
+        "es": "empleo estacional, de temporada",
+        "example": "Tourism often creates low-paid, seasonal employment.",
+        "collocations": [
+          "seasonal workers"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-tourist-tax",
+        "term": "tourist tax",
+        "pos": "noun",
+        "definition": "A charge paid by visitors, often per night.",
+        "es": "tasa turística",
+        "example": "A tourist tax could help cities cover the costs of cleaning and policing.",
+        "collocations": [
+          "introduce a tourist tax"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-local-community",
+        "term": "local community / residents",
+        "pos": "noun",
+        "definition": "People who live in an area.",
+        "es": "comunidad local / vecinos",
+        "example": "Tourism should benefit local communities, not only international hotel chains.",
+        "collocations": [
+          "consult local residents"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-short-term-rental",
+        "term": "short-term rentals",
+        "pos": "noun",
+        "definition": "Homes rented to visitors for a few days.",
+        "es": "pisos turísticos",
+        "example": "The growth of short-term rentals has pushed up rents for locals.",
+        "collocations": [
+          "holiday lets",
+          "regulate short-term rentals"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-authentic",
+        "term": "authentic",
+        "pos": "adjective",
+        "definition": "Real and genuine, not artificial.",
+        "es": "auténtico",
+        "example": "Many travellers seek authentic experiences away from tourist traps.",
+        "collocations": [
+          "authentic experience",
+          "authentic cuisine"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-tourist-trap",
+        "term": "tourist trap",
+        "pos": "noun",
+        "definition": "An overpriced place designed to attract tourists.",
+        "es": "trampa para turistas, sitio 'para guiris'",
+        "example": "The main square is full of tourist traps selling expensive souvenirs.",
+        "register": "informal"
+      },
+      {
+        "id": "topic-tour-off-the-beaten-track",
+        "term": "off the beaten track",
+        "pos": "idiom",
+        "definition": "Far from popular tourist places.",
+        "es": "fuera de los circuitos habituales",
+        "example": "I prefer travelling off the beaten track, where you meet more locals.",
+        "register": "informal",
+        "note": "Natural en Speaking Part 2."
+      },
+      {
+        "id": "topic-tour-broaden-horizons",
+        "term": "broaden one's horizons",
+        "pos": "idiom",
+        "definition": "To widen one's experience and understanding.",
+        "es": "ampliar horizontes",
+        "example": "Travelling abroad broadens young people's horizons.",
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-cultural-exchange",
+        "term": "cultural exchange",
+        "pos": "noun",
+        "definition": "Sharing of ideas and customs between cultures.",
+        "es": "intercambio cultural",
+        "example": "Tourism promotes cultural exchange and mutual understanding.",
+        "collocations": [
+          "cultural exchange programme"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-commercialised",
+        "term": "commercialised",
+        "pos": "adjective",
+        "definition": "Changed to make money, losing original character.",
+        "es": "comercializado, mercantilizado",
+        "example": "Some traditional festivals have become too commercialised.",
+        "collocations": [
+          "highly commercialised"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-resort",
+        "term": "resort",
+        "pos": "noun",
+        "definition": "A place where people go on holiday.",
+        "es": "complejo turístico",
+        "example": "Coastal resorts are crowded in summer and empty in winter.",
+        "collocations": [
+          "seaside resort",
+          "ski resort",
+          "all-inclusive resort"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-infrastructure",
+        "term": "strain on resources",
+        "pos": "noun phrase",
+        "definition": "Pressure on water, energy and services.",
+        "es": "presión sobre los recursos",
+        "example": "Large numbers of tourists put a strain on water resources in dry regions.",
+        "collocations": [
+          "put a strain on"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-tour-visitor-caps",
+        "term": "visitor numbers / caps",
+        "pos": "noun",
+        "definition": "How many people visit / limits on them.",
+        "es": "número de visitantes / cupos",
+        "example": "Machu Picchu introduced daily caps on visitor numbers.",
+        "collocations": [
+          "limit visitor numbers"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-hospitality",
+        "term": "hospitality industry",
+        "pos": "noun",
+        "definition": "Businesses such as hotels and restaurants.",
+        "es": "sector de la hostelería",
+        "example": "The hospitality industry employs millions of young people.",
+        "collocations": [
+          "work in hospitality"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-souvenir",
+        "term": "souvenir",
+        "pos": "noun",
+        "definition": "An object bought to remember a place.",
+        "es": "recuerdo",
+        "example": "Locally made souvenirs support traditional crafts.",
+        "collocations": [
+          "souvenir shop"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-heritage-site",
+        "term": "heritage site / landmark",
+        "pos": "noun",
+        "definition": "A place of historical importance / a famous building.",
+        "es": "sitio patrimonial / monumento emblemático",
+        "example": "Heritage sites suffer physical damage from millions of visitors.",
+        "collocations": [
+          "iconic landmark",
+          "UNESCO heritage site"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-backpacking",
+        "term": "backpacking / independent travel",
+        "pos": "noun",
+        "definition": "Low-cost travel, usually with a rucksack, without a package tour.",
+        "es": "viajar de mochilero / por libre",
+        "example": "Backpacking through Asia taught me to be independent.",
+        "collocations": [
+          "go backpacking"
+        ],
+        "register": "informal"
+      },
+      {
+        "id": "topic-tour-package-holiday",
+        "term": "package holiday",
+        "pos": "noun",
+        "definition": "A holiday where travel and accommodation are sold together.",
+        "es": "viaje organizado",
+        "example": "Package holidays made foreign travel affordable for ordinary families.",
+        "collocations": [
+          "book a package holiday"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-tour-economic-lifeline",
+        "term": "economic lifeline",
+        "pos": "noun",
+        "definition": "Something essential for an economy to survive.",
+        "es": "salvavidas económico, sustento",
+        "example": "For many islands, tourism is an economic lifeline.",
+        "register": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "topic-family",
+    "category": "topic",
+    "title": "Family & ageing",
+    "titleEs": "Familia y envejecimiento",
+    "description": "Estructuras familiares, crianza, relaciones intergeneracionales y vejez.",
+    "cards": [
+      {
+        "id": "topic-fam-nuclear-family",
+        "term": "nuclear / extended family",
+        "pos": "noun",
+        "definition": "Parents and children / a family including grandparents, aunts, etc.",
+        "es": "familia nuclear / extensa",
+        "example": "In many cultures, the extended family is giving way to the nuclear family.",
+        "collocations": [
+          "live with the extended family"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-single-parent",
+        "term": "single-parent family",
+        "pos": "noun",
+        "definition": "A family with only one parent.",
+        "es": "familia monoparental",
+        "example": "Single-parent families are more likely to experience financial hardship.",
+        "collocations": [
+          "single parents"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-upbringing",
+        "term": "upbringing",
+        "pos": "noun",
+        "definition": "The way a child is raised.",
+        "es": "crianza, educación (en casa)",
+        "example": "A child's upbringing has a lasting effect on their values.",
+        "collocations": [
+          "a strict upbringing",
+          "a happy upbringing"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-parenting",
+        "term": "parenting / parenting style",
+        "pos": "noun",
+        "definition": "The process of raising children / the approach used.",
+        "es": "crianza / estilo de crianza",
+        "example": "Overprotective parenting may prevent children from becoming independent.",
+        "collocations": [
+          "strict parenting",
+          "parenting skills"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-role-model",
+        "term": "role model",
+        "pos": "noun",
+        "definition": "A person others look up to and copy.",
+        "es": "modelo a seguir",
+        "example": "Parents are the most important role models for young children.",
+        "collocations": [
+          "positive role model",
+          "act as a role model"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-generation-gap",
+        "term": "generation gap",
+        "pos": "noun",
+        "definition": "Differences in attitudes between young and old people.",
+        "es": "brecha generacional",
+        "example": "Technology has widened the generation gap in many families.",
+        "collocations": [
+          "bridge the generation gap"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-birth-rate",
+        "term": "birth rate / fertility rate",
+        "pos": "noun",
+        "definition": "The number of births in a population.",
+        "es": "tasa de natalidad / de fecundidad",
+        "example": "Falling birth rates mean there will be fewer workers to support pensioners.",
+        "collocations": [
+          "declining birth rate",
+          "low fertility"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-fam-elderly",
+        "term": "the elderly / senior citizens",
+        "pos": "noun",
+        "definition": "Old people (polite terms).",
+        "es": "las personas mayores",
+        "example": "The elderly are particularly vulnerable to loneliness.",
+        "collocations": [
+          "care for the elderly",
+          "elderly relatives"
+        ],
+        "register": "neutral",
+        "warning": "'old people' puede sonar brusco; usa 'older people' o 'the elderly'."
+      },
+      {
+        "id": "topic-fam-care-homes",
+        "term": "care homes / nursing homes",
+        "pos": "noun",
+        "definition": "Residential places where elderly people are cared for.",
+        "es": "residencias de mayores",
+        "example": "In some cultures, sending parents to a care home is seen as abandoning them.",
+        "collocations": [
+          "move into a care home"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-pension",
+        "term": "pension / retirement age",
+        "pos": "noun",
+        "definition": "Money paid after retirement / the age people stop working.",
+        "es": "pensión / edad de jubilación",
+        "example": "Many governments are raising the retirement age to keep pensions affordable.",
+        "collocations": [
+          "state pension",
+          "raise the retirement age"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-dependants",
+        "term": "dependants / dependent on",
+        "pos": "noun / adjective",
+        "definition": "People who rely on someone financially.",
+        "es": "personas a cargo / dependiente de",
+        "example": "Elderly people who are dependent on their children may feel like a burden.",
+        "collocations": [
+          "financially dependent"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-fam-caregiver",
+        "term": "caregiver / carer",
+        "pos": "noun",
+        "definition": "A person who looks after someone ill, old or disabled.",
+        "es": "cuidador/a",
+        "example": "Unpaid family carers save the health service billions every year.",
+        "collocations": [
+          "family carers",
+          "full-time carer"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-childcare",
+        "term": "childcare",
+        "pos": "noun",
+        "definition": "Looking after children while parents work.",
+        "es": "cuidado infantil, guardería",
+        "example": "Affordable childcare allows more mothers to return to work.",
+        "collocations": [
+          "childcare costs",
+          "free childcare"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-parental-leave",
+        "term": "parental leave",
+        "pos": "noun",
+        "definition": "Time off work for parents after a child is born.",
+        "es": "permiso parental (maternidad/paternidad)",
+        "example": "Equal parental leave encourages fathers to share childcare.",
+        "collocations": [
+          "paternity leave",
+          "maternity leave"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-household-chores",
+        "term": "household chores",
+        "pos": "noun",
+        "definition": "Routine tasks at home such as cleaning.",
+        "es": "tareas domésticas",
+        "example": "Children who help with household chores learn responsibility.",
+        "collocations": [
+          "do household chores",
+          "share the chores"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-close-knit",
+        "term": "close-knit",
+        "pos": "adjective",
+        "definition": "With members who care about and support each other.",
+        "es": "muy unido",
+        "example": "I come from a close-knit family; we have lunch together every Sunday.",
+        "collocations": [
+          "a close-knit community"
+        ],
+        "register": "neutral",
+        "note": "Perfecto para Speaking Part 1."
+      },
+      {
+        "id": "topic-fam-bond",
+        "term": "bond / bonding",
+        "pos": "noun",
+        "definition": "A close emotional connection.",
+        "es": "vínculo / crear vínculos",
+        "example": "Shared meals strengthen the bond between parents and children.",
+        "collocations": [
+          "strong bond",
+          "family bonding"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-intergenerational",
+        "term": "intergenerational",
+        "pos": "adjective",
+        "definition": "Involving different generations.",
+        "es": "intergeneracional",
+        "example": "Intergenerational programmes bring students and retirees together.",
+        "collocations": [
+          "intergenerational living"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-fam-loneliness",
+        "term": "loneliness / social isolation",
+        "pos": "noun",
+        "definition": "Feeling alone / having little contact with others.",
+        "es": "soledad / aislamiento social",
+        "example": "Social isolation among older people is a growing public health issue.",
+        "collocations": [
+          "combat loneliness"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-wisdom",
+        "term": "wisdom / life experience",
+        "pos": "noun",
+        "definition": "Good judgement gained over time.",
+        "es": "sabiduría / experiencia vital",
+        "example": "Older employees bring valuable wisdom and life experience to the workplace.",
+        "collocations": [
+          "pass on wisdom"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-boomerang",
+        "term": "boomerang generation / live with parents",
+        "pos": "noun",
+        "definition": "Young adults who return to live with their parents.",
+        "es": "generación que vuelve a casa de los padres",
+        "example": "High rents have created a boomerang generation of graduates.",
+        "register": "informal"
+      },
+      {
+        "id": "topic-fam-life-span",
+        "term": "longevity",
+        "pos": "noun",
+        "definition": "Long life.",
+        "es": "longevidad",
+        "example": "Japan is famous for the longevity of its population.",
+        "collocations": [
+          "increased longevity"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-fam-sibling",
+        "term": "siblings",
+        "pos": "noun",
+        "definition": "Brothers and sisters.",
+        "es": "hermanos",
+        "example": "Only children may miss out on the experience of growing up with siblings.",
+        "collocations": [
+          "older siblings",
+          "sibling rivalry"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-fam-spoil",
+        "term": "spoil / pamper",
+        "pos": "verb",
+        "definition": "To give a child too much, harming their character / to treat with care.",
+        "es": "malcriar / mimar",
+        "example": "Grandparents often spoil their grandchildren.",
+        "collocations": [
+          "a spoilt child"
+        ],
+        "register": "informal"
+      }
+    ]
+  },
+  {
+    "id": "topic-food",
+    "category": "topic",
+    "title": "Food & agriculture",
+    "titleEs": "Alimentación y agricultura",
+    "description": "Agricultura, seguridad alimentaria, desperdicio y hábitos alimentarios.",
+    "cards": [
+      {
+        "id": "topic-food-food-security",
+        "term": "food security",
+        "pos": "noun",
+        "definition": "Reliable access to enough affordable, nutritious food.",
+        "es": "seguridad alimentaria",
+        "example": "Climate change threatens food security in many developing countries.",
+        "collocations": [
+          "ensure food security",
+          "food insecurity"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-food-food-waste",
+        "term": "food waste",
+        "pos": "noun",
+        "definition": "Food thrown away instead of eaten.",
+        "es": "desperdicio de alimentos",
+        "example": "Supermarkets should donate unsold food to reduce food waste.",
+        "collocations": [
+          "reduce food waste",
+          "tackle food waste"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-intensive-farming",
+        "term": "intensive / factory farming",
+        "pos": "noun",
+        "definition": "Producing large amounts of food using machines, chemicals and confined animals.",
+        "es": "agricultura / ganadería intensiva",
+        "example": "Factory farming raises serious concerns about animal welfare.",
+        "collocations": [
+          "intensive agriculture"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-food-organic",
+        "term": "organic produce",
+        "pos": "noun",
+        "definition": "Food grown without artificial chemicals.",
+        "es": "productos ecológicos",
+        "example": "Organic produce is better for the soil but more expensive.",
+        "collocations": [
+          "organic farming",
+          "buy organic"
+        ],
+        "register": "neutral",
+        "note": "'produce' (sustantivo) = productos agrícolas; se acentúa en la 1.ª sílaba."
+      },
+      {
+        "id": "topic-food-pesticides",
+        "term": "pesticides / fertilisers",
+        "pos": "noun",
+        "definition": "Chemicals that kill pests / chemicals that help plants grow.",
+        "es": "pesticidas / fertilizantes",
+        "example": "The overuse of pesticides has contributed to the decline of bees.",
+        "collocations": [
+          "chemical fertilisers",
+          "use of pesticides"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-crop-yield",
+        "term": "crop yields",
+        "pos": "noun",
+        "definition": "The amount of crops produced per area.",
+        "es": "rendimiento de los cultivos",
+        "example": "New irrigation techniques have doubled crop yields.",
+        "collocations": [
+          "increase crop yields",
+          "crop failure"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-food-gm-crops",
+        "term": "GM crops",
+        "pos": "noun",
+        "definition": "Genetically modified plants.",
+        "es": "cultivos transgénicos",
+        "example": "Supporters claim GM crops could end hunger; critics fear unknown risks.",
+        "collocations": [
+          "genetically modified food"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-malnutrition",
+        "term": "malnutrition / famine",
+        "pos": "noun",
+        "definition": "Poor health from lack of food / an extreme shortage of food.",
+        "es": "desnutrición / hambruna",
+        "example": "Malnutrition still affects millions of children worldwide.",
+        "collocations": [
+          "suffer from malnutrition",
+          "famine relief"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-food-locally-sourced",
+        "term": "locally sourced",
+        "pos": "adjective",
+        "definition": "Produced nearby.",
+        "es": "de proximidad, de origen local",
+        "example": "Locally sourced food has a smaller carbon footprint.",
+        "collocations": [
+          "locally sourced ingredients"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-food-miles",
+        "term": "food miles",
+        "pos": "noun",
+        "definition": "The distance food travels from producer to consumer.",
+        "es": "kilómetros alimentarios",
+        "example": "Buying seasonal fruit reduces food miles.",
+        "collocations": [
+          "cut food miles"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-plant-based",
+        "term": "plant-based diet",
+        "pos": "noun",
+        "definition": "A diet based mainly on plants rather than animal products.",
+        "es": "dieta basada en plantas",
+        "example": "A shift to plant-based diets would cut agricultural emissions.",
+        "collocations": [
+          "go vegan",
+          "meat consumption"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-livestock",
+        "term": "livestock",
+        "pos": "noun",
+        "definition": "Farm animals such as cows, sheep and pigs.",
+        "es": "ganado",
+        "example": "Livestock farming produces a large share of methane emissions.",
+        "collocations": [
+          "raise livestock",
+          "livestock farming"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-animal-welfare",
+        "term": "animal welfare",
+        "pos": "noun",
+        "definition": "The well-being and humane treatment of animals.",
+        "es": "bienestar animal",
+        "example": "Stricter laws on animal welfare would raise meat prices.",
+        "collocations": [
+          "animal welfare standards"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-irrigation",
+        "term": "irrigation",
+        "pos": "noun",
+        "definition": "Supplying water to crops artificially.",
+        "es": "riego, regadío",
+        "example": "Agriculture accounts for around 70% of water use, mainly for irrigation.",
+        "collocations": [
+          "irrigation systems",
+          "drip irrigation"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-food-staple",
+        "term": "staple food",
+        "pos": "noun",
+        "definition": "A basic food eaten regularly.",
+        "es": "alimento básico",
+        "example": "Rice is the staple food for over half the world's population.",
+        "collocations": [
+          "staple crops",
+          "staple diet"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-fast-food",
+        "term": "fast-food chains",
+        "pos": "noun",
+        "definition": "Restaurant companies selling quick, cheap meals.",
+        "es": "cadenas de comida rápida",
+        "example": "The spread of fast-food chains has changed eating habits in Asia.",
+        "collocations": [
+          "fast-food outlets"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-eating-habits",
+        "term": "eating habits",
+        "pos": "noun",
+        "definition": "The way a person usually eats.",
+        "es": "hábitos alimentarios",
+        "example": "Eating habits formed in childhood often last a lifetime.",
+        "collocations": [
+          "healthy eating habits",
+          "change eating habits"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-nutritious",
+        "term": "nutritious / nutritional value",
+        "pos": "adjective / noun",
+        "definition": "Containing many nutrients / the amount of nutrients.",
+        "es": "nutritivo / valor nutricional",
+        "example": "School meals should be both affordable and nutritious.",
+        "collocations": [
+          "nutritious meals",
+          "low nutritional value"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-food-labelling",
+        "term": "food labelling",
+        "pos": "noun",
+        "definition": "Information on packaging about ingredients and nutrition.",
+        "es": "etiquetado de alimentos",
+        "example": "Clear food labelling helps consumers make healthier choices.",
+        "collocations": [
+          "traffic-light labelling"
+        ],
+        "register": "neutral"
+      },
+      {
+        "id": "topic-food-smallholder",
+        "term": "smallholders / small-scale farmers",
+        "pos": "noun",
+        "definition": "Farmers who work a small piece of land.",
+        "es": "pequeños agricultores",
+        "example": "Small-scale farmers cannot compete with large agribusinesses on price.",
+        "collocations": [
+          "support small farmers"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-food-agribusiness",
+        "term": "agribusiness",
+        "pos": "noun",
+        "definition": "Large-scale, commercial agriculture.",
+        "es": "agroindustria",
+        "example": "A few agribusiness giants control much of the global seed market.",
+        "register": "formal"
+      },
+      {
+        "id": "topic-food-soil-erosion",
+        "term": "soil erosion / degradation",
+        "pos": "noun",
+        "definition": "The loss or damage of fertile soil.",
+        "es": "erosión / degradación del suelo",
+        "example": "Overgrazing has caused severe soil erosion in the region.",
+        "collocations": [
+          "prevent soil erosion"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-food-self-sufficient",
+        "term": "self-sufficient",
+        "pos": "adjective",
+        "definition": "Able to produce all one needs.",
+        "es": "autosuficiente",
+        "example": "Few countries are fully self-sufficient in food.",
+        "collocations": [
+          "self-sufficient in food"
+        ],
+        "register": "formal"
+      },
+      {
+        "id": "topic-food-home-cooked",
+        "term": "home-cooked meals",
+        "pos": "noun",
+        "definition": "Food prepared at home.",
+        "es": "comida casera",
+        "example": "Busy families are eating fewer home-cooked meals than in the past.",
+        "collocations": [
+          "home cooking"
+        ],
+        "register": "neutral"
+      }
+    ]
+  }
+]

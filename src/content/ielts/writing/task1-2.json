@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ielts-t1-pie-1",
+    "difficulty": "easy",
+    "usage": "practice",
+    "chartType": "pie",
+    "prompt": "The pie charts below show how the average household budget in Calvoria was spent in 1990 and 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "pie",
+      "title": "Average household spending in Calvoria",
+      "unit": "%",
+      "pies": [
+        {
+          "title": "1990",
+          "slices": [
+            { "label": "Food", "value": 32 },
+            { "label": "Housing", "value": 24 },
+            { "label": "Transport", "value": 14 },
+            { "label": "Clothing", "value": 12 },
+            { "label": "Leisure", "value": 8 },
+            { "label": "Other", "value": 10 }
+          ]
+        },
+        {
+          "title": "2020",
+          "slices": [
+            { "label": "Food", "value": 18 },
+            { "label": "Housing", "value": 33 },
+            { "label": "Transport", "value": 16 },
+            { "label": "Clothing", "value": 6 },
+            { "label": "Leisure", "value": 15 },
+            { "label": "Other", "value": 12 }
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Housing replaced food as the largest category (24% → 33%; food 32% → 18%).",
+      "The share spent on leisure almost doubled (8% → 15%).",
+      "Clothing's share halved (12% → 6%).",
+      "Transport and other items changed only slightly."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The two pie charts illustrate how the average household budget in Calvoria was divided among six categories of expenditure in 1990 and 2020.\n\nOverall, the most notable change was that housing replaced food as the largest area of spending. In addition, households devoted a greater share of their budget to leisure over the period, while the proportion spent on clothing fell considerably.\n\nIn 1990, food accounted for almost a third of household spending (32%), followed by housing at roughly a quarter (24%). Transport and clothing made up 14% and 12% respectively, whereas leisure represented only 8%, the smallest share of all six categories, with the remaining 10% going on other items.\n\nThirty years later, housing costs had risen to a third of the budget (33%), while the proportion spent on food had fallen by almost half, to 18%. Leisure spending nearly doubled to 15%, almost matching transport, which rose only marginally to 16%. By contrast, the share devoted to clothing halved to just 6%, and spending on other items increased slightly to 12%.",
+        "commentary": "Task Achievement (8): overview claro con los tres cambios clave (housing sustituye a food, leisure sube, clothing baja). Todas las cifras son exactas y se usan aproximaciones correctas (almost a third, roughly a quarter, by almost half). Coherence & Cohesion (8): un párrafo por año; en el segundo se agrupan subidas y bajadas con conectores adecuados (while, By contrast). Lexical Resource (8): buena variedad para hablar de proporciones (accounted for, made up, represented, devoted… to, the remaining 10%). Grammatical Range & Accuracy (8): pasado perfecto, relativas y respectively bien empleados; sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The pie charts shows the spending of families in Calvoria in 1990 and 2020. There are six parts: food, housing, transport, clothing, leisure and other.\n\nIn 1990 the biggest part was food with 32%. Housing was 24% and transport was 14%. Clothing was 12%, leisure 8% and other 10%.\n\nIn 2020 the biggest part was housing with 33%. Food was 18%, transport 16%, clothing 6%, leisure 15% and other 12%.\n\nSo we can see that there are some important changes. Housing increase from 24% to 33% and food decrease from 32% to 18%. Also leisure increased a lot and clothing decreased to the half. Transport and other is almost the same in the two years.\n\nIn conclusion, there were many changes in the spending of families between 1990 and 2020 and I think it is because the life is more expensive now and the houses are very expensive.",
+        "commentary": "Task Achievement (6): se recogen todas las cifras correctamente y el penúltimo párrafo identifica los cambios importantes, pero los dos primeros párrafos de datos son una mera lista, el overview final es vago (there were many changes) y la explicación de la causa (I think…) no procede en Task 1. Coherence & Cohesion (6): estructura lógica pero repetitiva; la comparación aparece tarde y separada de los datos. Lexical Resource (6): limitado (the biggest part, was… was…) con usos poco naturales (decreased to the half, the life is more expensive). Grammatical Range & Accuracy (6): errores de concordancia (The pie charts shows, Transport and other is) y de tiempo verbal (housing increase, food decrease)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-pie-2",
+    "difficulty": "medium",
+    "usage": "practice",
+    "chartType": "pie",
+    "prompt": "The pie charts below show the methods used to dispose of household waste in the city of Ravenport in 2004, 2014 and 2024.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "pie",
+      "title": "Household waste disposal methods in Ravenport",
+      "unit": "%",
+      "pies": [
+        {
+          "title": "2004",
+          "slices": [
+            { "label": "Landfill", "value": 62 },
+            { "label": "Recycling", "value": 14 },
+            { "label": "Composting", "value": 5 },
+            { "label": "Incineration with energy recovery", "value": 15 },
+            { "label": "Other", "value": 4 }
+          ]
+        },
+        {
+          "title": "2014",
+          "slices": [
+            { "label": "Landfill", "value": 41 },
+            { "label": "Recycling", "value": 26 },
+            { "label": "Composting", "value": 11 },
+            { "label": "Incineration with energy recovery", "value": 19 },
+            { "label": "Other", "value": 3 }
+          ]
+        },
+        {
+          "title": "2024",
+          "slices": [
+            { "label": "Landfill", "value": 18 },
+            { "label": "Recycling", "value": 38 },
+            { "label": "Composting", "value": 17 },
+            { "label": "Incineration with energy recovery", "value": 25 },
+            { "label": "Other", "value": 2 }
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "A steady shift away from landfill (62% → 18%).",
+      "Recycling became the main method by 2024 (14% → 38%).",
+      "Composting and incineration also grew steadily (5% → 17%; 15% → 25%).",
+      "'Other' methods remained very small and declined (4% → 2%)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The three pie charts show how household waste in Ravenport was disposed of in 2004, 2014 and 2024.\n\nOverall, there was a marked shift away from landfill towards more sustainable methods. Whereas landfill was by far the dominant method at the start of the period, by 2024 recycling had become the most common way of dealing with the city's waste, and composting and incineration had also grown in importance.\n\nIn 2004, almost two-thirds of all waste (62%) was sent to landfill. Incineration accounted for 15% and recycling for 14%, whereas only 5% was composted and 4% was handled by other means.\n\nOver the following decade, the share going to landfill fell to 41%, while recycling nearly doubled to 26% and composting more than doubled to 11%. Incineration rose more modestly, to 19%.\n\nThese trends continued over the next ten years. Landfill dropped to just 18%, less than a third of its original share, and recycling reached 38%, making it the leading disposal method. Composting rose to 17% and incineration to a quarter of the total, while other methods declined to a mere 2%.",
+        "commentary": "Task Achievement (8): overview excelente (abandono del vertedero, el reciclaje pasa a ser el método principal, crecen compostaje e incineración). Las tres tartas se tratan como una evolución en el tiempo, que es la clave de esta tarea, y los cálculos son correctos (less than a third: 18 frente a 62; nearly doubled: 14 → 26). Coherence & Cohesion (8): un párrafo por año con transiciones temporales claras (Over the following decade, These trends continued). Lexical Resource (8): marked shift, dominant method, handled by other means, a mere 2%. Grammatical Range & Accuracy (8): pasivas (was disposed of, was sent, was composted), pasado perfecto y participios (making it the leading…) sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The charts show the ways of disposal of waste in Ravenport in three years, 2004, 2014 and 2024. There are five methods in the charts.\n\nIn 2004 the landfill was 62%, it is the most big part of the chart. Recycling was 14% and composting was 5%. Incineration was 15% and other was 4%.\n\nIn 2014 landfill decreased to 41% and recycling increased to 26%. Composting was 11% and incineration was 19%. Other was 3%, so it was almost the same than before.\n\nIn 2024 landfill was only 18% and recycling was 38%, so recycling was the biggest. Composting increased to 17% and incineration to 25%. Other decreased to 2%.\n\nOverall, the landfill decreased a lot and the recycling, composting and incineration increased during the years. This shows that the city is more ecological in 2024 than in 2004 and the people are more responsible with the waste.",
+        "commentary": "Task Achievement (6): todos los datos son correctos y hay un overview al final que capta la tendencia principal, pero el texto enumera todas las cifras sin seleccionar ni comparar magnitudes (no dice, por ejemplo, que el vertedero cae a menos de un tercio). La última frase añade una valoración que no está en los datos. Coherence & Cohesion (6): organización por años adecuada, pero conectores mínimos y repetitivos. Lexical Resource (6): vocabulario básico (was, increased, decreased) y errores de forma (ways of disposal of waste, the most big part). Grammatical Range & Accuracy (6): casi solo frases simples; errores como it is the most big part y uso innecesario del artículo (the landfill, the recycling)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-pie-3",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "pie",
+    "prompt": "The pie charts below show the age structure of the populations of Kestrel and Marova in 2020, with projections for 2050.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "pie",
+      "title": "Population by age group, Kestrel and Marova (2020 and projected 2050)",
+      "unit": "%",
+      "pies": [
+        {
+          "title": "Kestrel 2020",
+          "slices": [
+            { "label": "0–14", "value": 14 },
+            { "label": "15–24", "value": 10 },
+            { "label": "25–44", "value": 25 },
+            { "label": "45–64", "value": 29 },
+            { "label": "65+", "value": 22 }
+          ]
+        },
+        {
+          "title": "Kestrel 2050 (projected)",
+          "slices": [
+            { "label": "0–14", "value": 11 },
+            { "label": "15–24", "value": 8 },
+            { "label": "25–44", "value": 22 },
+            { "label": "45–64", "value": 27 },
+            { "label": "65+", "value": 32 }
+          ]
+        },
+        {
+          "title": "Marova 2020",
+          "slices": [
+            { "label": "0–14", "value": 38 },
+            { "label": "15–24", "value": 21 },
+            { "label": "25–44", "value": 24 },
+            { "label": "45–64", "value": 13 },
+            { "label": "65+", "value": 4 }
+          ]
+        },
+        {
+          "title": "Marova 2050 (projected)",
+          "slices": [
+            { "label": "0–14", "value": 27 },
+            { "label": "15–24", "value": 18 },
+            { "label": "25–44", "value": 29 },
+            { "label": "45–64", "value": 18 },
+            { "label": "65+", "value": 8 }
+          ]
+        }
+      ]
+    },
+    "keyFeatures": [
+      "Kestrel has a much older population than Marova in both years.",
+      "Both populations are projected to age by 2050.",
+      "In Kestrel, the over-65s are expected to become the largest group (22% → 32%).",
+      "Marova remains young: children are the largest group in 2020 (38%), and 25–44 becomes the largest in 2050 (29%); the 65+ share doubles but stays small (4% → 8%)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The pie charts compare the age structure of the populations of Kestrel and Marova in 2020 and provide projections for 2050.\n\nOverall, Kestrel has a much older population than Marova, and both countries are expected to age further by 2050. However, while Kestrel's population will be dominated by the over-65s, Marova will still have a relatively young age profile.\n\nIn 2020, the largest group in Kestrel was people aged 45–64 (29%), and more than one in five residents (22%) were 65 or over. Children under 15 made up only 14%, and young people aged 15–24 just 10%. Marova presented an almost opposite picture: 38% of its population were children, and a further 21% were aged 15–24, whereas a mere 4% were 65 or older.\n\nBy 2050, the proportion of elderly people in Kestrel is predicted to rise to almost a third (32%), making them the largest age group, while the share of under-15s is forecast to fall to 11%. In Marova, the share of children is expected to drop to 27%, with the 25–44 group becoming the largest (29%) and the over-65s doubling to 8%.",
+        "commentary": "Task Achievement (8): con cuatro tartas, el texto no las describe una por una, sino que compara los dos países y la evolución prevista; el overview resume ambas ideas. Las cifras son exactas y bien seleccionadas (los grupos extremos y el grupo mayoritario de cada tarta). Coherence & Cohesion (8): párrafo 2020 / párrafo 2050, con contraste explícito entre países (an almost opposite picture). Lexical Resource (8): vocabulario demográfico preciso (age structure, age profile, elderly, under-15s) y verbos de predicción variados (is predicted to, is forecast to, is expected to). Grammatical Range & Accuracy (8): uso correcto del pasado para 2020 y de formas de futuro para las proyecciones, que es un fallo típico en esta tarea; participios (making them…, with the 25–44 group becoming…)."
+      },
+      {
+        "level": "6",
+        "text": "The pie charts shows the population of Kestrel and Marova by age in 2020 and 2050. The charts of 2050 are a prediction.\n\nIn Kestrel in 2020 there was 14% of 0-14 years and 10% of 15-24 years. The 25-44 were 25% and 45-64 were 29%. The old people were 22%. In 2050 the old people will increase to 32% and the children will decrease to 11%.\n\nIn Marova in 2020 the children was 38% and this is the biggest group. 15-24 was 21%, 25-44 was 24%, 45-64 was 13% and 65+ was only 4%. In 2050 children will be 27% and old people 8%, it is the double.\n\nIn conclusion, Kestrel has more old people than Marova and Marova has more young people. In the future both countries will have more old people, this can be a problem for the economy of the countries because they need more hospitals.",
+        "commentary": "Task Achievement (6): la conclusión contiene un overview válido y los datos son correctos, pero se describen las tartas por separado con listas de cifras, falta información clave de 2050 (que los mayores de 65 serán el grupo más grande en Kestrel y el 25–44 en Marova) y se añade una opinión sobre la economía. Coherence & Cohesion (6): organización por países clara, pero sin comparación directa entre ellos en el cuerpo. Lexical Resource (6): vocabulario básico (the old people, the children) y expresiones poco naturales (14% of 0-14 years). Grammatical Range & Accuracy (6): errores de concordancia (The pie charts shows, there was 14%, the children was) y una coma que une dos oraciones; el uso de will para las proyecciones es correcto pero poco variado."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-table-1",
+    "difficulty": "easy",
+    "usage": "practice",
+    "chartType": "table",
+    "prompt": "The table below shows the average monthly rent for a one-bedroom flat in five cities in 2015, 2020 and 2025.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "table",
+      "title": "Average monthly rent for a one-bedroom flat (US$)",
+      "columns": ["City", "2015", "2020", "2025"],
+      "rows": [
+        ["Porto Alto", "$850", "$980", "$1,240"],
+        ["Grenhaven", "$620", "$700", "$810"],
+        ["Sarlow", "$1,100", "$1,350", "$1,600"],
+        ["Vintmere", "$540", "$560", "$590"],
+        ["Tolbridge", "$700", "$760", "$1,050"]
+      ]
+    },
+    "keyFeatures": [
+      "Rents rose in all five cities, mostly faster between 2020 and 2025.",
+      "Sarlow was the most expensive city in every year ($1,100 → $1,600).",
+      "Vintmere was the cheapest and rents there barely changed ($540 → $590).",
+      "Tolbridge had the sharpest late rise ($760 → $1,050), the highest percentage increase overall (50%)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The table shows the average monthly rent for a one-bedroom flat in five cities in 2015, 2020 and 2025.\n\nOverall, rents increased in all five cities over the decade, with most of the growth occurring in the second half of the period. Sarlow was consistently the most expensive city in which to rent, while Vintmere remained the cheapest by a considerable margin.\n\nIn 2015, a one-bedroom flat in Sarlow cost an average of $1,100 a month, roughly double the figure for Vintmere ($540). Rents in the other three cities ranged from $620 in Grenhaven to $850 in Porto Alto.\n\nBetween 2015 and 2020, prices rose moderately, most notably in Sarlow, where they reached $1,350. Over the next five years, however, growth accelerated in most cities. Sarlow's rents climbed to $1,600 and Porto Alto's to $1,240. The most dramatic change was in Tolbridge, where the average rent jumped from $760 to $1,050, giving it the highest percentage rise over the whole period (50%). By contrast, rents in Vintmere hardly changed, edging up from $540 to just $590.",
+        "commentary": "Task Achievement (8): overview con tendencia general (todo sube, sobre todo al final), la ciudad más cara y la más barata. Selecciona bien las cifras importantes en lugar de copiar las 15 celdas, y el cálculo del 50% en Tolbridge (700 → 1,050) es correcto. Coherence & Cohesion (8): organización cronológica, con agrupación de ciudades según su comportamiento y contraste final (By contrast). Lexical Resource (8): by a considerable margin, roughly double, most notably, hardly changed, edging up. Grammatical Range & Accuracy (8): relativas (where they reached…), participios (giving it…) y estructuras de rango sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The table shows the rent of a flat with one bedroom in five cities in 2015, 2020 and 2025. The rent is in dollars.\n\nIn Porto Alto the rent was $850 in 2015, $980 in 2020 and $1,240 in 2025. In Grenhaven it was $620, $700 and $810. Sarlow is the most expensive city with $1,100 in 2015, $1,350 in 2020 and $1,600 in 2025.\n\nVintmere is the cheapest city. The rent was $540 in 2015 and it increase to $560 in 2020 and $590 in 2025. Tolbridge was $700 in 2015, $760 in 2020 and $1,050 in 2025, it is a big increase in the last five years.\n\nIn conclusion, the rents are increasing in all the cities and it is more difficult for young people to rent a flat now. The government should do something for this problem, for example build more houses for the young people.",
+        "commentary": "Task Achievement (6): los datos son correctos y se identifican la ciudad más cara, la más barata y la subida general, pero casi todo el texto es una copia de la tabla ciudad por ciudad. La conclusión incluye una propuesta (The government should…) que no tiene cabida en Task 1 y desplaza al overview. Coherence & Cohesion (6): párrafos sin un criterio claro de agrupación y uso escaso de conectores. Lexical Resource (6): vocabulario mínimo y repetido (the rent was, it was). Grammatical Range & Accuracy (6): frases simples, error de tiempo (it increase) y coma que une oraciones (…in 2025, it is a big increase)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-table-2",
+    "difficulty": "medium",
+    "usage": "practice",
+    "chartType": "table",
+    "prompt": "The table below shows the percentage of men and women in Merrow who took part in six sporting activities at least once a week in 2014 and 2024.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "table",
+      "title": "Adults taking part in sporting activities at least once a week in Merrow (%)",
+      "columns": ["Activity", "Men 2014", "Women 2014", "Men 2024", "Women 2024"],
+      "rows": [
+        ["Running", 18, 12, 22, 20],
+        ["Swimming", 14, 17, 11, 15],
+        ["Cycling", 16, 7, 21, 13],
+        ["Gym / fitness classes", 15, 13, 19, 24],
+        ["Team sports", 21, 5, 16, 6],
+        ["Yoga / pilates", 2, 11, 4, 18]
+      ]
+    },
+    "keyFeatures": [
+      "Participation rose in most activities; swimming fell for both sexes and team sports fell for men.",
+      "Most popular: men – team sports (2014) → running (2024); women – swimming (2014) → gym/fitness (2024).",
+      "Women's participation in gym/fitness and yoga grew strongly.",
+      "The gender gap narrowed in running and cycling."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The table compares the percentages of men and women in Merrow who took part in six sporting activities at least once a week in 2014 and 2024.\n\nOverall, participation increased in most activities over the decade, the main exceptions being swimming and men's team sports. Women's preferences changed most noticeably, as gym-based fitness and yoga grew considerably in popularity, and the gender gap narrowed in several sports.\n\nIn 2014, team sports were the most popular activity among men (21%), but only 5% of women played them. Women were most likely to swim (17%), and they also outnumbered men in yoga and pilates by 11% to 2%. Cycling and running, on the other hand, were noticeably more common among men.\n\nBy 2024, running had become the leading activity for men, at 22%, while the figure for women had risen sharply from 12% to 20%, almost closing the gap. Gym and fitness classes became the most popular choice for women, attracting 24%, compared with 19% of men. In contrast, men's participation in team sports fell to 16%, and swimming declined for both sexes, to 11% and 15% respectively.",
+        "commentary": "Task Achievement (8): tabla con 24 cifras resumida con criterio: overview con la tendencia general, las excepciones y el cambio en las mujeres; después, la actividad favorita de cada sexo en cada año. Todos los datos son exactos. Coherence & Cohesion (8): organización por años que permite comparar hombres y mujeres en la misma frase; conectores variados (on the other hand, In contrast, while). Lexical Resource (8): took part in, outnumbered, closing the gap, the leading activity, attracting. Grammatical Range & Accuracy (8): cláusula absoluta (the main exceptions being…), pasado perfecto y comparaciones complejas sin errores."
+      },
+      {
+        "level": "6",
+        "text": "The table shows how many men and women did sports in Merrow in 2014 and 2024. There are six sports in the table.\n\nIn 2014 the most popular sport for men was team sports with 21% and for women was swimming with 17%. Men did more running and cycling than women, 18% and 16%, and women only 12% and 7%. Women did more yoga, 11% and men only 2%.\n\nIn 2024 men did more running (22%) and cycling (21%) and gym (19%). Team sports decreased to 16%. Women did gym 24% and this is the most popular. Also women did more yoga, 18%, and running, 20%. Swimming decreased for men and women, 11% and 15%.\n\nIn conclusion, in 2024 people did more sport than in 2014 except swimming. Also women like more the gym than men and men like more the team sports than women in the two years.",
+        "commentary": "Task Achievement (6): identifica las actividades más populares y varios cambios con datos correctos, pero la conclusión es imprecisa: afirma que todo sube excepto la natación, cuando los deportes de equipo de los hombres también bajan (21% → 16%). Además, decir que las mujeres prefieren el gimnasio in the two years es falso: en 2014 los hombres superaban a las mujeres (15% frente a 13%). Coherence & Cohesion (6): estructura por años aceptable, pero las frases enlazan cifras de forma confusa (18% and 16%, and women only 12% and 7%). Lexical Resource (6): repetición de did y like more; colocaciones incorrectas (did gym, did sports). Grammatical Range & Accuracy (6): errores de orden (like more the gym) y de sujeto omitido (for women was swimming)."
+      }
+    ]
+  },
+  {
+    "id": "ielts-t1-table-3",
+    "difficulty": "hard",
+    "usage": "practice",
+    "chartType": "table",
+    "prompt": "The table below shows four development indicators for five countries in 2023.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "visual": {
+      "type": "table",
+      "title": "Development indicators for five countries, 2023",
+      "columns": ["Country", "GDP per capita (US$)", "Life expectancy (years)", "Urban population (%)", "Internet users (%)"],
+      "rows": [
+        ["Tavria", "52,400", 82.1, 84, 96],
+        ["Oskalan", "31,800", 78.4, 71, 89],
+        ["Pemberra", "12,600", 74.9, 76, 72],
+        ["Ruvenia", "4,300", 67.2, 36, 41],
+        ["Zhalan", "1,900", 61.5, 22, 19]
+      ]
+    },
+    "keyFeatures": [
+      "There is a clear positive link between GDP per capita and the other indicators.",
+      "Tavria ranks first on every indicator; Zhalan ranks last on every indicator.",
+      "Life expectancy ranges from 61.5 to 82.1 years (a gap of over 20 years).",
+      "Exception: Pemberra is more urbanised (76%) than the richer Oskalan (71%)."
+    ],
+    "models": [
+      {
+        "level": "8",
+        "text": "The table presents four development indicators for five countries in 2023: GDP per capita, life expectancy, the proportion of people living in urban areas, and the percentage of internet users.\n\nOverall, there is a clear link between national wealth and the other indicators: the richer a country, the longer its citizens tend to live and the more likely they are to use the internet. Urbanisation follows a broadly similar pattern, although with one notable exception.\n\nTavria is by far the most prosperous nation, with a GDP per capita of $52,400, and it also leads on every other measure, with a life expectancy of 82.1 years, an 84% urban population and almost universal internet access (96%). Oskalan comes second on most indicators, with an income of $31,800 and 89% of people online.\n\nAt the other end of the scale, Zhalan's GDP per capita is just $1,900, and life expectancy there is 61.5 years, over 20 years less than in Tavria. Only around a fifth of the population live in towns or cities (22%) or use the internet (19%). Interestingly, Pemberra, despite having less than half of Oskalan's income ($12,600), is more urbanised, at 76% compared with 71%.",
+        "commentary": "Task Achievement (8): en una tabla con varios indicadores lo difícil es encontrar la relación entre columnas; este texto la expresa en el overview (más riqueza implica más esperanza de vida e internet) y detecta la excepción de Pemberra. Datos exactos y diferencias bien calculadas (over 20 years: 82.1 − 61.5). Coherence & Cohesion (8): extremos superior e inferior en párrafos separados y la excepción al final; conectores de contraste adecuados (At the other end of the scale, Interestingly, despite). Lexical Resource (8): prosperous, leads on every measure, almost universal, urbanised. Grammatical Range & Accuracy (8): estructura comparativa doble (the richer…, the longer…), despite + -ing y aposiciones, todo correcto."
+      },
+      {
+        "level": "6",
+        "text": "The table shows information about five countries in 2023, it shows GDP, life expectancy, urban population and internet. The countries are Tavria, Oskalan, Pemberra, Ruvenia and Zhalan.\n\nTavria has the highest GDP per capita with $52,400 and the life expectancy is 82.1 years. 84% of people live in cities and 96% use internet. Oskalan has $31,800 and 78.4 years. The urban population is 71% and internet users are 89%.\n\nPemberra has $12,600 and life expectancy 74.9. Urban population is 76% and internet is 72%. Ruvenia has $4,300 and 67.2 years, urban population 36% and internet 41%. Zhalan is the poorest country with $1,900 and the life expectancy is 61.5 years. Only 22% live in cities and 19% use internet.\n\nIn conclusion, rich countries have better life expectancy and more internet than poor countries. Tavria is the best country in all the things and Zhalan is the worst country in all the things, so there is a big difference between them.",
+        "commentary": "Task Achievement (6): copia prácticamente todas las celdas de la tabla en orden, sin seleccionar; la conclusión recoge la relación principal, pero no menciona la urbanización ni la excepción de Pemberra, y nunca se compara directamente un país con otro. Coherence & Cohesion (6): avanza país por país con frases casi idénticas; apenas hay conectores. Lexical Resource (6): limitado y a veces impreciso (internet is 72%, better life expectancy, more internet). Grammatical Range & Accuracy (6): frases simples con coma que une oraciones en la introducción y omisión de artículos (use internet); el sentido se entiende."
+      }
+    ]
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "id": "ielts-r-pa-05",
+    "difficulty": "hard",
+    "usage": "practice",
+    "passageNo": 3,
+    "title": "Reading the Unreadable",
+    "subtitle": "How Linear B gave up its secret",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "In 1900 the British archaeologist Arthur Evans began excavating at Knossos, on the island of Crete, and within weeks his workers had uncovered hundreds of small clay tablets covered in an unknown script. Evans, who had come to Crete partly in search of early writing, eventually distinguished two related scripts, which he called Linear A and Linear B, and attributed both to the people he named 'Minoans' after the legendary King Minos. For half a century, Linear B resisted every attempt to read it. Its eventual decipherment in 1952, by a young architect rather than a professional scholar, is often described as one of the great intellectual achievements of the twentieth century."
+      },
+      {
+        "label": "B",
+        "text": "Part of the delay can be traced to Evans himself. Convinced that Minoan civilisation was entirely distinct from that of mainland Greece, he dismissed any suggestion that the tablets might record an early form of Greek, and his authority in the field was so great that few dared to contradict him. Moreover, he published only a small selection of the tablets during his lifetime, keeping most of them back for a definitive edition that he never completed, so other researchers had little material to work with. The survival of the tablets was itself something of an accident: they had been made of unbaked clay, intended only for temporary records, and were preserved because the fire that destroyed the palace had baked them hard."
+      },
+      {
+        "label": "C",
+        "text": "The most important groundwork was laid in the 1940s by Alice Kober, a classicist at Brooklyn College in New York. Kober recognised that a direct attack on the meaning of the signs was hopeless while the language itself remained unknown. Instead, she studied the internal structure of the script. Counting signs and compiling statistics by hand on thousands of index cards, she noticed groups of words that shared a beginning but had different endings, which she interpreted as evidence that the language changed the forms of words to show grammatical relationships, as Latin and Greek do. Kober died in 1950, aged only forty-three, before she could take the work further, but her method showed that progress was possible without first guessing what the language was."
+      },
+      {
+        "label": "D",
+        "text": "Meanwhile, the supply of evidence was growing. In 1939 the American archaeologist Carl Blegen had found several hundred tablets at Pylos in south-western Greece, in a palace on the mainland itself. Their script was unmistakably Linear B. The find was awkward for Evans's theory, since it showed that the script had been used outside Crete, but Blegen's tablets were not published until 1951, after the interruption of the Second World War, and many scholars explained them away by supposing that Cretan scribes had been employed by mainland rulers."
+      },
+      {
+        "label": "E",
+        "text": "Michael Ventris had first encountered Linear B as a fourteen-year-old schoolboy, when he heard Evans lecture in London in 1936. Trained as an architect, he pursued the problem in his spare time, and between 1951 and 1952 he circulated a series of numbered 'work notes' to other specialists. Building on Kober's observations, he arranged the roughly ninety syllabic signs in a grid, placing signs that seemed to share a consonant in the same row and signs that seemed to share a vowel in the same column. The grid did not reveal the actual sounds, but it meant that once the value of one sign was established, the values of many others would be constrained."
+      },
+      {
+        "label": "F",
+        "text": "The breakthrough came when Ventris tested the hypothesis that certain words found only on tablets from Knossos might be the names of nearby towns. Assigning sounds that would produce names such as Amnisos and Tulissos, both known from later Greek sources, he found that the grid began to generate other recognisable words, and that they were Greek. Ventris, who had himself expected the language to be related to Etruscan, announced the result on BBC radio in the summer of 1952, describing it, with characteristic modesty, as a possibility rather than a certainty. He was soon joined by John Chadwick, a Cambridge philologist with expert knowledge of early Greek. Decisive confirmation arrived in 1953, when Blegen examined a newly found tablet from Pylos and saw a word that, using Ventris's values, read 'ti-ri-po' (tripod), written beside a small drawing of a three-legged cooking pot."
+      },
+      {
+        "label": "G",
+        "text": "Those who had hoped for poetry or history were disappointed. The tablets proved to be administrative records: lists of livestock and workers, quantities of grain, oil and textiles, and inventories of chariots and weapons. Yet their very ordinariness makes them valuable, offering a detailed picture of how a Bronze Age palace economy was organised, some five centuries before the earliest Greek literature. Ventris did not live to see the full consequences of his work; he died in a road accident in 1956 at the age of thirty-four. Linear A, the older script, remains undeciphered, partly because far fewer examples of it survive."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-headings",
+        "instructions": "Questions 1–6\nReading Passage 3 has seven paragraphs, A–G.\nChoose the correct heading for paragraphs B–G from the list of headings below.\nWrite the correct number, i–ix.",
+        "title": "List of Headings",
+        "options": [
+          { "key": "i", "text": "Practical records rather than literature" },
+          { "key": "ii", "text": "Disputes over who deserved credit for the decipherment" },
+          { "key": "iii", "text": "A discovery whose significance was played down" },
+          { "key": "iv", "text": "How one man's views and decisions slowed progress" },
+          { "key": "v", "text": "Modern technology applied to an ancient problem" },
+          { "key": "vi", "text": "Organising the signs to narrow down the possibilities" },
+          { "key": "vii", "text": "A test involving place names produces a surprising answer" },
+          { "key": "viii", "text": "The spread of writing from Crete to other islands" },
+          { "key": "ix", "text": "Word endings reveal something about the language" }
+        ],
+        "items": [
+          {
+            "id": "q1",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph B",
+            "answer": "iv",
+            "evidence": "Part of the delay can be traced to Evans himself.",
+            "explanation": "B explains how Evans's opinion (Minoans were not Greek) and his decision not to publish most tablets caused 'the delay' (= slowed progress)."
+          },
+          {
+            "id": "q2",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph C",
+            "answer": "ix",
+            "evidence": "she noticed groups of words that shared a beginning but had different endings",
+            "explanation": "Kober's shared beginnings and different endings showed that the language changed word forms (something about the language). Heading v is a trap: she worked 'by hand', not with modern technology."
+          },
+          {
+            "id": "q3",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph D",
+            "answer": "iii",
+            "evidence": "many scholars explained them away by supposing that Cretan scribes had been employed by mainland rulers",
+            "explanation": "The Pylos find was important ('awkward for Evans's theory') but scholars 'explained them away' (= played down its significance). viii is wrong: Pylos is on the mainland, not another island."
+          },
+          {
+            "id": "q4",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph E",
+            "answer": "vi",
+            "evidence": "once the value of one sign was established, the values of many others would be constrained",
+            "explanation": "Ventris's grid organised the signs by shared consonants and vowels, so that values were 'constrained' (= the possibilities were narrowed down)."
+          },
+          {
+            "id": "q5",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph F",
+            "answer": "vii",
+            "evidence": "Ventris, who had himself expected the language to be related to Etruscan",
+            "explanation": "Ventris tested whether some words were 'the names of nearby towns'; the result (Greek) surprised him because he expected Etruscan. ii is a trap: Chadwick joined him, but there is no dispute about credit."
+          },
+          {
+            "id": "q6",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph G",
+            "answer": "i",
+            "evidence": "The tablets proved to be administrative records",
+            "explanation": "G says the tablets are lists and inventories ('administrative records'), not 'poetry or history' (= not literature)."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "summary-completion",
+        "instructions": "Questions 7–10\nComplete the summary using the list of words, A–H, below.\nWrite the correct letter, A–H, for each answer.",
+        "title": "Preparing the ground",
+        "options": [
+          { "key": "A", "text": "grid" },
+          { "key": "B", "text": "meaning" },
+          { "key": "C", "text": "statistics" },
+          { "key": "D", "text": "photographs" },
+          { "key": "E", "text": "value" },
+          { "key": "F", "text": "alphabet" },
+          { "key": "G", "text": "language" },
+          { "key": "H", "text": "tablets" }
+        ],
+        "template": "Alice Kober believed it was pointless to try to work out what each sign meant, because the {{q7}} of the tablets had not been identified. She therefore produced {{q8}} by hand, which revealed words with the same beginnings but different endings. Later, Michael Ventris organised the signs into a {{q9}} according to the consonants and vowels they appeared to share. This meant that discovering the {{q10}} of a single sign would limit the possibilities for many others.",
+        "items": [
+          {
+            "id": "q7",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 7",
+            "answer": "G",
+            "evidence": "a direct attack on the meaning of the signs was hopeless while the language itself remained unknown",
+            "explanation": "'Hopeless' = 'pointless'; 'the language itself remained unknown' = 'the language had not been identified'. 'Meaning' (B) is what she did not try to work out, not the reason."
+          },
+          {
+            "id": "q8",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 8",
+            "answer": "C",
+            "evidence": "Counting signs and compiling statistics by hand on thousands of index cards",
+            "explanation": "'Compiling statistics by hand' = 'produced statistics by hand'. Photographs are not mentioned."
+          },
+          {
+            "id": "q9",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 9",
+            "answer": "A",
+            "evidence": "he arranged the roughly ninety syllabic signs in a grid",
+            "explanation": "Ventris 'arranged' (= organised) the signs 'in a grid' with rows for consonants and columns for vowels. 'Alphabet' (F) is wrong: the signs are syllabic."
+          },
+          {
+            "id": "q10",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 10",
+            "answer": "E",
+            "evidence": "once the value of one sign was established, the values of many others would be constrained",
+            "explanation": "'Established' = 'discovering'; 'the value of one sign' = 'the value of a single sign'; 'constrained' = 'limit the possibilities'."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "mcq",
+        "instructions": "Questions 11–14\nChoose the correct letter, A, B, C or D.",
+        "items": [
+          {
+            "id": "q11",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "According to paragraph B, other researchers found it hard to make progress because",
+            "options": [
+              "the fire at Knossos had damaged many of the tablets.",
+              "Evans did not make most of the tablets available.",
+              "Evans refused to allow other scholars to visit Knossos.",
+              "the tablets had been written for temporary use only."
+            ],
+            "answer": 1,
+            "evidence": "he published only a small selection of the tablets during his lifetime, keeping most of them back for a definitive edition that he never completed, so other researchers had little material to work with",
+            "explanation": "'Published only a small selection' and 'keeping most of them back' mean the tablets were not available, so researchers 'had little material' (B). The fire actually preserved the tablets (not A); visits are never mentioned (not C); temporary use explains their material, not the research problem (not D).",
+            "optionNotes": [
+              "The fire baked and preserved the tablets.",
+              "Correct.",
+              "Not mentioned.",
+              "True, but it is not given as the reason for slow progress."
+            ]
+          },
+          {
+            "id": "q12",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Why was the discovery at Pylos difficult to reconcile with Evans's ideas?",
+            "options": [
+              "The tablets there were older than those at Knossos.",
+              "The tablets there were written in Linear A.",
+              "It proved that Linear B had been used on the Greek mainland.",
+              "It showed that Cretan scribes had worked for mainland rulers."
+            ],
+            "answer": 2,
+            "evidence": "The find was awkward for Evans's theory, since it showed that the script had been used outside Crete",
+            "explanation": "Evans believed Minoan Crete was separate from mainland Greece; Linear B tablets from a mainland palace contradicted this (C). D is the explanation scholars invented to defend the theory, not what the find showed.",
+            "optionNotes": [
+              "The relative age of the tablets is not discussed.",
+              "The script was 'unmistakably Linear B'.",
+              "Correct.",
+              "This was a supposition used to 'explain them away', not a fact shown by the find."
+            ]
+          },
+          {
+            "id": "q13",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What does the writer say about the way Ventris announced his findings?",
+            "options": [
+              "He presented them cautiously.",
+              "He had predicted them for several years.",
+              "He gave credit for them to John Chadwick.",
+              "He waited until they had been confirmed at Pylos."
+            ],
+            "answer": 0,
+            "evidence": "describing it, with characteristic modesty, as a possibility rather than a certainty",
+            "explanation": "Calling his result 'a possibility rather than a certainty' is a cautious presentation (A). He had expected Etruscan (not B), Chadwick joined him afterwards (not C), and the Pylos confirmation came in 1953, after the 1952 broadcast (not D).",
+            "optionNotes": [
+              "Correct.",
+              "He expected the language to be related to Etruscan.",
+              "Chadwick joined him only after the announcement.",
+              "Confirmation came the following year."
+            ]
+          },
+          {
+            "id": "q14",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "The tablet examined by Blegen in 1953 was significant because",
+            "options": [
+              "it was the first Linear B tablet ever found on the mainland.",
+              "it contained a rare example of Greek poetry.",
+              "it allowed scholars to read Linear A for the first time.",
+              "a word read with Ventris's values matched the picture beside it."
+            ],
+            "answer": 3,
+            "evidence": "saw a word that, using Ventris's values, read 'ti-ri-po' (tripod), written beside a small drawing of a three-legged cooking pot",
+            "explanation": "The word read as 'tripod' sat next to a drawing of a tripod, independently confirming Ventris's values (D). Tablets had been found at Pylos since 1939 (not A); the tablets contain no poetry (not B); Linear A is still undeciphered (not C).",
+            "optionNotes": [
+              "Blegen had found tablets at Pylos in 1939.",
+              "The tablets are administrative records, not poetry.",
+              "Linear A 'remains undeciphered'.",
+              "Correct."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

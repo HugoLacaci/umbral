@@ -1,0 +1,115 @@
+[
+  {
+    "id": "ielts-l-m2-p3",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 2,
+    "part": 3,
+    "title": "Saving endangered languages",
+    "context": "You will hear two linguistics students, Zoe and Liam, discussing an essay on how endangered languages can be revived.",
+    "audio": {
+      "speakers": [
+        { "id": "zoe", "name": "Zoe", "role": "student", "gender": "f", "accent": "en-CA" },
+        { "id": "liam", "name": "Liam", "role": "student", "gender": "m", "accent": "en-NZ" }
+      ],
+      "lines": [
+        { "s": "liam", "t": "Right, Zoe, we should plan the essay on language revitalisation properly today. I keep telling people we chose it because of my grandmother, since she grew up speaking a language that's now almost gone." },
+        { "s": "zoe", "t": "That's a nice story, and it's true it made the topic more interesting for us. But let's be honest, we chose it because there's so much published on it. The other options on the list had hardly any sources." },
+        { "s": "liam", "t": "True. Doctor Patel did suggest it, but it was near the bottom of her list, so that wasn't really it either. OK, so the introduction has to define what an endangered language is. I've always assumed it's about how many speakers are left." },
+        { "s": "zoe", "t": "That's what most people think, but the reading says numbers aren't the key thing. What matters most is whether children are still learning the language at home. A language with a million speakers can be endangered if no children are acquiring it." },
+        { "s": "liam", "t": "And what about whether it's written down? Surely that helps." },
+        { "s": "zoe", "t": "It can, but plenty of healthy languages have never had a written form. So writing isn't essential at all. It's transmission to children that counts." },
+        { "s": "liam", "t": "OK. Then there's our main source, the textbook by Harris. It's from twenty fifteen, so is it too old?" },
+        { "s": "zoe", "t": "No, the date's fine. My concern is that nearly all its examples come from North America. We'll need other sources for Europe, Africa and the Pacific." },
+        { "s": "liam", "t": "Good point. And the structure? I thought we could go country by country." },
+        { "s": "zoe", "t": "That would get very repetitive, because the same methods turn up everywhere. Wouldn't it be better to organise it around the different methods, and use countries as examples?" },
+        { "s": "liam", "t": "Yes, that would make the comparisons much clearer. So, by method. Let's go through them. First, language nests, the preschools where everything is done in the language." },
+        { "s": "zoe", "t": "Those seem to be really effective. I thought at first it was because the parents get involved too, but according to the studies, the key factor is simply the children's age. Under five, they pick up languages almost effortlessly." },
+        { "s": "liam", "t": "Then there are master-apprentice programmes, where a fluent elder is paired with one adult learner, and they spend hours together every week, just talking." },
+        { "s": "zoe", "t": "They produce some very good speakers. The weakness is that everything rests on the elders, and in some communities there are only three or four fluent speakers left, often in poor health." },
+        { "s": "liam", "t": "And apps. There seem to be dozens now." },
+        { "s": "zoe", "t": "I was a bit sceptical about apps. But their real strength is that they can reach people who've moved to cities hundreds of kilometres from their home community, who'd otherwise have no contact with the language at all." },
+        { "s": "liam", "t": "That's fair. And they're cheap to make. What about bilingual road signs? I'd assumed they needed a national law, but apparently local councils can just put them up." },
+        { "s": "zoe", "t": "Right. They're important as a symbol, I think. But seeing a word on a sign doesn't mean anyone will actually speak the language at home or in the shops." },
+        { "s": "liam", "t": "Then radio. I honestly expected nobody to listen to a radio station in a minority language." },
+        { "s": "zoe", "t": "So did the organisers, I think. But the station in the case study attracted far more listeners than anyone had predicted, including lots of people who were only just learning the language." },
+        { "s": "liam", "t": "Great. And the last one is immersion schooling, where all subjects are taught in the language." },
+        { "s": "zoe", "t": "That's the one I find hardest to evaluate. The children are tested in the majority language, so nobody really knows how well they speak the minority one. There's just no reliable data." },
+        { "s": "liam", "t": "That's worth pointing out in the conclusion, then. OK, I'll start on the definitions section tonight." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–24\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q1", "kind": "mcq", "qtype": "mcq",
+            "prompt": "Why did the students choose this topic for their essay?",
+            "options": ["It had a personal connection for one of them.", "There was plenty of material available on it.", "Their tutor had strongly recommended it."],
+            "answer": 1,
+            "optionNotes": ["Liam tells people this, but Zoe says it wasn't the real reason.", "Correct.", "It was near the bottom of Dr Patel's list."],
+            "explanation": "Zoe says they chose it because there's so much published on it; Liam agrees ('True').",
+            "evidence": "we chose it because there's so much published on it"
+          },
+          {
+            "id": "q2", "kind": "mcq", "qtype": "mcq",
+            "prompt": "According to Zoe, a language is endangered mainly when",
+            "options": ["the total number of speakers is small.", "it has no written form.", "children no longer learn it."],
+            "answer": 2,
+            "optionNotes": ["Liam's assumption, which Zoe corrects.", "Zoe says writing isn't essential.", "Correct: transmission to children is what counts."],
+            "explanation": "Numbers and writing are both dismissed; what matters is whether children learn it at home.",
+            "evidence": "What matters most is whether children are still learning the language at home."
+          },
+          {
+            "id": "q3", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What concern does Zoe have about the textbook by Harris?",
+            "options": ["It was published too long ago.", "Its examples come mainly from one region.", "It is too technical for their essay."],
+            "answer": 1,
+            "optionNotes": ["She says 'the date's fine'.", "Correct: nearly all from North America.", "Not mentioned."],
+            "explanation": "Liam worries about the date; Zoe says the problem is that the examples are nearly all from North America.",
+            "evidence": "nearly all its examples come from North America"
+          },
+          {
+            "id": "q4", "kind": "mcq", "qtype": "mcq",
+            "prompt": "How will the students organise the main part of the essay?",
+            "options": ["by country", "by method", "in historical order"],
+            "answer": 1,
+            "optionNotes": ["Liam's idea, rejected as repetitive.", "Correct.", "Not suggested."],
+            "explanation": "Liam suggests country by country, but agrees with Zoe to organise it around methods.",
+            "evidence": "So, by method."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching",
+        "instructions": "Questions 25–30\nWhat comment do the students make about each method of language revitalisation?\nChoose SIX answers from the box and write the correct letter, A–G, next to Questions 25–30.",
+        "options": [
+          { "key": "A", "text": "Its success depends mainly on the learners' age." },
+          { "key": "B", "text": "It relies on a very small number of people." },
+          { "key": "C", "text": "Its effectiveness is hard to judge." },
+          { "key": "D", "text": "It has been more popular than expected." },
+          { "key": "E", "text": "It may not increase daily use of the language." },
+          { "key": "F", "text": "It requires national legislation." },
+          { "key": "G", "text": "It can reach people who live far away." }
+        ],
+        "items": [
+          { "id": "q5", "kind": "match", "qtype": "matching", "prompt": "language nests", "answer": "A",
+            "explanation": "Zoe first thinks it's the parents, but the studies say the key factor is the children's age (under five).", "evidence": "the key factor is simply the children's age" },
+          { "id": "q6", "kind": "match", "qtype": "matching", "prompt": "master-apprentice programmes", "answer": "B",
+            "explanation": "Everything rests on the elders, and there may be only three or four left.", "evidence": "everything rests on the elders" },
+          { "id": "q7", "kind": "match", "qtype": "matching", "prompt": "apps", "answer": "G",
+            "explanation": "They reach people who've moved to cities hundreds of kilometres away.", "evidence": "they can reach people who've moved to cities hundreds of kilometres from their home community" },
+          { "id": "q8", "kind": "match", "qtype": "matching", "prompt": "bilingual road signs", "answer": "E",
+            "explanation": "Seeing a word on a sign doesn't mean people will speak it. F is wrong: local councils can put signs up without a national law.", "evidence": "seeing a word on a sign doesn't mean anyone will actually speak the language at home or in the shops" },
+          { "id": "q9", "kind": "match", "qtype": "matching", "prompt": "radio stations", "answer": "D",
+            "explanation": "The station attracted far more listeners than predicted.", "evidence": "attracted far more listeners than anyone had predicted" },
+          { "id": "q10", "kind": "match", "qtype": "matching", "prompt": "immersion schooling", "answer": "C",
+            "explanation": "Children are tested in the majority language, so there's no reliable data.", "evidence": "That's the one I find hardest to evaluate." }
+        ]
+      }
+    ]
+  }
+]

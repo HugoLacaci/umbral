@@ -1,0 +1,639 @@
+[
+  {
+    "id": "awl-6",
+    "category": "awl",
+    "sublist": 6,
+    "title": "AWL Sublist 6",
+    "titleEs": "AWL · Sublista 6",
+    "description": "Las 60 palabras de la sublista 6 de la Academic Word List, con definición, traducción, ejemplo académico, colocaciones y familia léxica.",
+    "cards": [
+      {
+        "id": "awl-abstract",
+        "term": "abstract",
+        "pos": "adjective / noun",
+        "definition": "Based on general ideas rather than real, concrete things; also, a short summary of a research paper.",
+        "es": "abstracto; resumen (de un artículo)",
+        "example": "Young children often struggle with abstract concepts such as justice or probability.",
+        "collocations": ["abstract concept", "abstract thinking", "highly abstract", "read the abstract"],
+        "family": ["abstraction", "abstractly"],
+        "warning": "En un artículo científico, \"abstract\" es el resumen inicial, no algo \"abstracto\"."
+      },
+      {
+        "id": "awl-accurate",
+        "term": "accurate",
+        "pos": "adjective",
+        "definition": "Correct and exact in every detail.",
+        "es": "preciso, exacto",
+        "example": "Accurate data on rural employment are difficult to obtain in developing countries.",
+        "collocations": ["accurate information", "highly accurate", "accurate measurement", "an accurate picture of"],
+        "family": ["accuracy", "accurately", "inaccurate", "inaccuracy"],
+        "warning": "'Accurate' = correcto, sin errores (datos, cifras, descripciones); no significa 'acertado' en el sentido de 'oportuno' (eso es 'appropriate' o 'wise')."
+      },
+      {
+        "id": "awl-acknowledge",
+        "term": "acknowledge",
+        "pos": "verb",
+        "definition": "To accept or admit that something is true or exists; to recognise someone's contribution.",
+        "es": "reconocer, admitir",
+        "example": "The authors acknowledge that their sample was too small to support firm conclusions.",
+        "collocations": ["widely acknowledged", "acknowledge the importance of", "acknowledge a limitation", "acknowledge receipt"],
+        "family": ["acknowledgement", "acknowledgment", "acknowledged"]
+      },
+      {
+        "id": "awl-aggregate",
+        "term": "aggregate",
+        "pos": "noun / adjective / verb",
+        "definition": "A total formed by combining several separate amounts or items.",
+        "es": "total, agregado; agregar",
+        "example": "Aggregate demand fell sharply during the first two quarters of the recession.",
+        "collocations": ["aggregate demand", "in aggregate", "aggregate data", "aggregate score"],
+        "family": ["aggregation", "aggregated"]
+      },
+      {
+        "id": "awl-allocate",
+        "term": "allocate",
+        "pos": "verb",
+        "definition": "To officially give something, such as money or time, for a particular purpose.",
+        "es": "asignar, destinar",
+        "example": "The government allocated a larger share of the budget to primary healthcare.",
+        "collocations": ["allocate resources", "allocate funds to", "allocate time for", "efficiently allocated"],
+        "family": ["allocation", "allocated", "reallocate"]
+      },
+      {
+        "id": "awl-assign",
+        "term": "assign",
+        "pos": "verb",
+        "definition": "To give someone a job or task; to decide that something has a particular value or role.",
+        "es": "asignar, encomendar",
+        "example": "Participants were randomly assigned to either the control group or the experimental group.",
+        "collocations": ["randomly assigned", "assign a task", "assign responsibility", "assign a value to"],
+        "family": ["assignment", "assigned", "reassign"]
+      },
+      {
+        "id": "awl-attach",
+        "term": "attach",
+        "pos": "verb",
+        "definition": "To fasten or join one thing to another; to consider something as having importance.",
+        "es": "adjuntar, unir; atribuir (importancia)",
+        "example": "Many voters attach great importance to a candidate's economic record.",
+        "collocations": ["attach importance to", "attach a file", "strings attached", "closely attached"],
+        "family": ["attachment", "attached", "detach"]
+      },
+      {
+        "id": "awl-author",
+        "term": "author",
+        "pos": "noun / verb",
+        "definition": "The writer of a book, article or report; to write such a text.",
+        "es": "autor; escribir, ser autor de",
+        "example": "The author argues that urban sprawl increases dependence on private cars.",
+        "collocations": ["the author argues", "co-author", "lead author", "author a report"],
+        "family": ["authorship", "co-author", "authored"],
+        "warning": "No confundir con \"authority\" (autoridad) ni \"authorise\" (autorizar)."
+      },
+      {
+        "id": "awl-bond",
+        "term": "bond",
+        "pos": "noun / verb",
+        "definition": "A close connection between people or things; also a certificate of debt issued by a government or company.",
+        "es": "vínculo, lazo; bono (financiero); enlace (químico)",
+        "example": "Shared hardship can strengthen the social bonds within a community.",
+        "collocations": ["strong bond", "social bonds", "government bonds", "chemical bond"],
+        "family": ["bonding", "bonded"]
+      },
+      {
+        "id": "awl-brief",
+        "term": "brief",
+        "pos": "adjective / verb",
+        "definition": "Lasting only a short time or using few words; to give someone essential information.",
+        "es": "breve; informar (dar instrucciones)",
+        "example": "This essay will give a brief overview of the main causes of deforestation.",
+        "collocations": ["brief overview", "brief summary", "in brief", "brief someone on"],
+        "family": ["briefly", "briefing", "brevity"]
+      },
+      {
+        "id": "awl-capable",
+        "term": "capable",
+        "pos": "adjective",
+        "definition": "Having the ability or skill needed to do something.",
+        "es": "capaz",
+        "example": "Few existing batteries are capable of storing energy for long periods.",
+        "collocations": ["capable of + -ing", "highly capable", "fully capable", "more than capable"],
+        "family": ["capability", "incapable", "capably"],
+        "warning": "Se dice \"capable OF doing\", nunca \"capable to do\"."
+      },
+      {
+        "id": "awl-cite",
+        "term": "cite",
+        "pos": "verb",
+        "definition": "To mention something as an example or proof; to quote or refer to a source.",
+        "es": "citar, mencionar",
+        "example": "Critics often cite rising inequality as evidence that the policy has failed.",
+        "collocations": ["cite evidence", "cite a source", "frequently cited", "cite as an example"],
+        "family": ["citation", "cited"],
+        "warning": "No confundir con \"site\" (sitio) ni \"sight\" (vista): suenan igual. Tampoco significa \"citar\" en el sentido de quedar con alguien (eso es \"arrange to meet\")."
+      },
+      {
+        "id": "awl-cooperate",
+        "term": "cooperate",
+        "pos": "verb",
+        "definition": "To work together with others to achieve a shared goal.",
+        "es": "cooperar, colaborar",
+        "example": "Neighbouring countries must cooperate to manage shared water resources.",
+        "collocations": ["cooperate closely", "cooperate with", "fully cooperate", "international cooperation"],
+        "family": ["cooperation", "cooperative", "cooperatively", "uncooperative"]
+      },
+      {
+        "id": "awl-discriminate",
+        "term": "discriminate",
+        "pos": "verb",
+        "definition": "To treat a person or group unfairly; also, to recognise a difference between things.",
+        "es": "discriminar; distinguir",
+        "example": "It is illegal for employers to discriminate against applicants on the basis of age.",
+        "collocations": ["discriminate against", "discriminate between", "racial discrimination", "gender discrimination"],
+        "family": ["discrimination", "discriminatory"],
+        "warning": "Lleva preposición: \"discriminate AGAINST someone\"."
+      },
+      {
+        "id": "awl-display",
+        "term": "display",
+        "pos": "verb / noun",
+        "definition": "To show something so people can see it; to show a feeling or quality.",
+        "es": "mostrar, exhibir; muestra, pantalla",
+        "example": "The results are displayed in Table 2, broken down by age group.",
+        "collocations": ["on display", "display results", "display behaviour", "visual display"],
+        "family": ["displayed"]
+      },
+      {
+        "id": "awl-diverse",
+        "term": "diverse",
+        "pos": "adjective",
+        "definition": "Very different from each other; including many different types of people or things.",
+        "es": "diverso, variado",
+        "example": "Large cities tend to have more culturally diverse populations than rural areas.",
+        "collocations": ["culturally diverse", "diverse range of", "ethnically diverse", "highly diverse"],
+        "family": ["diversity", "diversify", "diversification", "diversely"],
+        "warning": "\"Diverse\" significa \"variado\", no \"varios\": para \"diversos estudios\" es mejor \"several/various studies\"."
+      },
+      {
+        "id": "awl-domain",
+        "term": "domain",
+        "pos": "noun",
+        "definition": "An area of knowledge, activity or responsibility.",
+        "es": "ámbito, campo, dominio",
+        "example": "Privacy has become a central issue in the domain of public health.",
+        "collocations": ["in the domain of", "public domain", "specific domain", "domain knowledge"],
+        "family": ["domains"],
+        "warning": "No significa \"dominio\" en el sentido de \"dominar un idioma\" (eso es \"command/mastery\")."
+      },
+      {
+        "id": "awl-edit",
+        "term": "edit",
+        "pos": "verb",
+        "definition": "To prepare a text by correcting and improving it; to be responsible for a book or journal.",
+        "es": "editar, corregir, revisar",
+        "example": "The volume was edited by three researchers from different universities.",
+        "collocations": ["edited volume", "edit a text", "heavily edited", "edit out"],
+        "family": ["edition", "editor", "editorial"],
+        "warning": "\"Edit\" no es \"publicar\" (\"publish\"). Una \"edición\" es \"edition\"; la \"editorial\" (empresa) es \"publisher\"."
+      },
+      {
+        "id": "awl-enhance",
+        "term": "enhance",
+        "pos": "verb",
+        "definition": "To improve the quality, value or strength of something.",
+        "es": "mejorar, potenciar, realzar",
+        "example": "Regular feedback can significantly enhance students' writing skills.",
+        "collocations": ["enhance performance", "greatly enhance", "enhance quality", "enhance the reputation of"],
+        "family": ["enhancement", "enhanced"]
+      },
+      {
+        "id": "awl-estate",
+        "term": "estate",
+        "pos": "noun",
+        "definition": "A large area of land with one owner; all the property a person owns, especially at death.",
+        "es": "finca, hacienda; patrimonio, bienes",
+        "example": "Rising real estate prices have pushed many young families out of the city centre.",
+        "collocations": ["real estate", "housing estate", "estate agent", "industrial estate"],
+        "family": ["estates"],
+        "warning": "No es \"estado\" (\"state\"). \"Real estate\" = bienes inmuebles."
+      },
+      {
+        "id": "awl-exceed",
+        "term": "exceed",
+        "pos": "verb",
+        "definition": "To be greater than a particular number or amount; to go beyond a limit.",
+        "es": "superar, exceder",
+        "example": "In 2022, demand for electricity exceeded supply for the first time.",
+        "collocations": ["exceed expectations", "exceed the limit", "far exceed", "exceed a target"],
+        "family": ["excess", "excessive", "excessively", "exceedingly"],
+        "warning": "Verbo transitivo: \"exceed 50%\", no \"exceed TO 50%\"."
+      },
+      {
+        "id": "awl-expert",
+        "term": "expert",
+        "pos": "noun / adjective",
+        "definition": "A person with special knowledge or skill in a particular area.",
+        "es": "experto",
+        "example": "Most experts agree that the shift to renewable energy is now unavoidable.",
+        "collocations": ["leading expert", "expert in/on", "expert opinion", "expert advice"],
+        "family": ["expertise", "expertly"]
+      },
+      {
+        "id": "awl-explicit",
+        "term": "explicit",
+        "pos": "adjective",
+        "definition": "Stated clearly and directly, so that there is no doubt about the meaning.",
+        "es": "explícito",
+        "example": "The guidelines make explicit reference to the rights of disabled workers.",
+        "collocations": ["make explicit", "explicit reference", "explicit instruction", "sexually explicit"],
+        "family": ["explicitly"]
+      },
+      {
+        "id": "awl-federal",
+        "term": "federal",
+        "pos": "adjective",
+        "definition": "Relating to a central government that shares power with regional states or provinces.",
+        "es": "federal",
+        "example": "Federal funding for scientific research rose steadily during the 1960s.",
+        "collocations": ["federal government", "federal funding", "federal law", "federal system"],
+        "family": ["federation", "federalism"]
+      },
+      {
+        "id": "awl-fee",
+        "term": "fee",
+        "pos": "noun",
+        "definition": "An amount of money paid for a service or for the right to do something.",
+        "es": "tasa, cuota, honorarios, matrícula",
+        "example": "Raising tuition fees may discourage students from low-income families.",
+        "collocations": ["tuition fees", "entrance fee", "pay a fee", "membership fee"],
+        "family": ["fees"]
+      },
+      {
+        "id": "awl-flexible",
+        "term": "flexible",
+        "pos": "adjective",
+        "definition": "Able to change or be changed easily according to the situation.",
+        "es": "flexible",
+        "example": "Flexible working hours can help parents balance work and childcare.",
+        "collocations": ["flexible working", "highly flexible", "flexible approach", "flexible schedule"],
+        "family": ["flexibility", "inflexible", "flexibly"]
+      },
+      {
+        "id": "awl-furthermore",
+        "term": "furthermore",
+        "pos": "adverb",
+        "definition": "Used to add another point that supports what has already been said.",
+        "es": "además, asimismo",
+        "example": "Public transport reduces congestion. Furthermore, it lowers carbon emissions per passenger.",
+        "collocations": ["Furthermore, ...", "and furthermore"],
+        "family": ["further"],
+        "warning": "Va al principio de la frase seguido de coma. No lo repitas: alterna con \"Moreover\", \"In addition\"."
+      },
+      {
+        "id": "awl-gender",
+        "term": "gender",
+        "pos": "noun",
+        "definition": "The state of being male or female, especially in social and cultural terms.",
+        "es": "género",
+        "example": "The study found a significant gender gap in access to higher education.",
+        "collocations": ["gender gap", "gender equality", "gender roles", "regardless of gender"],
+        "family": ["gendered"],
+        "warning": "No sirve para \"género\" literario o musical (eso es \"genre\") ni para \"mercancía\" (\"goods\")."
+      },
+      {
+        "id": "awl-ignorance",
+        "term": "ignorance",
+        "pos": "noun",
+        "definition": "Lack of knowledge or information about something.",
+        "es": "ignorancia, desconocimiento",
+        "example": "Public ignorance of the environmental cost of fast fashion remains widespread.",
+        "collocations": ["ignorance of the law", "public ignorance", "widespread ignorance", "ignorant of"],
+        "family": ["ignorant", "ignore", "ignored", "ignorantly"],
+        "warning": "\"Ignore\" NO significa \"ignorar = no saber\", sino \"no hacer caso\". \"Ignorar\" algo (no saberlo) = \"be unaware of\" o \"not know\"."
+      },
+      {
+        "id": "awl-incentive",
+        "term": "incentive",
+        "pos": "noun",
+        "definition": "Something that encourages a person to do something, often money or a reward.",
+        "es": "incentivo, estímulo",
+        "example": "Tax incentives could persuade companies to invest in cleaner technology.",
+        "collocations": ["tax incentive", "financial incentive", "provide an incentive", "incentive to + verb"],
+        "family": ["incentivise", "incentives"]
+      },
+      {
+        "id": "awl-incidence",
+        "term": "incidence",
+        "pos": "noun",
+        "definition": "How often something, especially something bad like a disease, happens.",
+        "es": "incidencia, frecuencia",
+        "example": "The incidence of type 2 diabetes has risen in almost every country.",
+        "collocations": ["high incidence of", "incidence rate", "reduce the incidence of", "low incidence"],
+        "family": ["incident", "incidental", "incidentally"],
+        "warning": "No confundir con \"incident\" (suceso, incidente concreto)."
+      },
+      {
+        "id": "awl-incorporate",
+        "term": "incorporate",
+        "pos": "verb",
+        "definition": "To include something as part of a larger whole.",
+        "es": "incorporar, incluir",
+        "example": "The new curriculum incorporates environmental education into science lessons.",
+        "collocations": ["incorporate into", "incorporate feedback", "fully incorporated", "incorporate ideas"],
+        "family": ["incorporation", "incorporated"],
+        "warning": "No significa \"incorporarse\" a un trabajo (eso es \"join\" o \"start\")."
+      },
+      {
+        "id": "awl-index",
+        "term": "index",
+        "pos": "noun",
+        "definition": "A number or system that shows the level of something; an alphabetical list at the end of a book.",
+        "es": "índice, indicador",
+        "example": "The consumer price index rose by 3% over the twelve-month period.",
+        "collocations": ["price index", "body mass index", "index of", "stock market index"],
+        "family": ["indices", "indexes", "indexed"],
+        "warning": "El \"índice\" de un libro al principio es \"contents\"; \"index\" es el índice alfabético del final."
+      },
+      {
+        "id": "awl-inhibit",
+        "term": "inhibit",
+        "pos": "verb",
+        "definition": "To slow down, limit or prevent a process or activity.",
+        "es": "inhibir, frenar, impedir",
+        "example": "High interest rates may inhibit investment by small businesses.",
+        "collocations": ["inhibit growth", "inhibit development", "inhibit from + -ing", "strongly inhibit"],
+        "family": ["inhibition", "inhibitor", "inhibited"]
+      },
+      {
+        "id": "awl-initiate",
+        "term": "initiate",
+        "pos": "verb",
+        "definition": "To make something begin, especially a plan, process or action.",
+        "es": "iniciar, poner en marcha",
+        "example": "The city council initiated a programme to plant ten thousand trees.",
+        "collocations": ["initiate a programme", "initiate change", "initiate contact", "initiate proceedings"],
+        "family": ["initiative", "initiation", "initial"]
+      },
+      {
+        "id": "awl-input",
+        "term": "input",
+        "pos": "noun",
+        "definition": "Ideas, information, money or effort put into a process to make it work.",
+        "es": "aportación, contribución; entrada (de datos)",
+        "example": "Local residents should have input into decisions about new housing developments.",
+        "collocations": ["input into/on", "valuable input", "input data", "energy input"],
+        "family": ["inputs"]
+      },
+      {
+        "id": "awl-instruct",
+        "term": "instruct",
+        "pos": "verb",
+        "definition": "To tell someone to do something officially; to teach someone a skill.",
+        "es": "ordenar, indicar; enseñar",
+        "example": "Participants were instructed to record their food intake every evening.",
+        "collocations": ["instruct someone to", "clear instructions", "follow instructions", "instructed in"],
+        "family": ["instruction", "instructor", "instructive"]
+      },
+      {
+        "id": "awl-intelligence",
+        "term": "intelligence",
+        "pos": "noun",
+        "definition": "The ability to learn, understand and think; also, secret information about enemies.",
+        "es": "inteligencia",
+        "example": "Artificial intelligence is transforming the way medical images are analysed.",
+        "collocations": ["artificial intelligence", "emotional intelligence", "intelligence test", "military intelligence"],
+        "family": ["intelligent", "intelligently", "unintelligent"]
+      },
+      {
+        "id": "awl-interval",
+        "term": "interval",
+        "pos": "noun",
+        "definition": "A period of time between two events, or a space between two points.",
+        "es": "intervalo",
+        "example": "Blood pressure was measured at regular intervals throughout the day.",
+        "collocations": ["at regular intervals", "time interval", "confidence interval", "short interval"],
+        "family": ["intervals"]
+      },
+      {
+        "id": "awl-lecture",
+        "term": "lecture",
+        "pos": "noun / verb",
+        "definition": "A formal talk given to students or an audience on a particular subject.",
+        "es": "clase magistral, conferencia",
+        "example": "Recorded lectures allow students to review difficult material at their own pace.",
+        "collocations": ["give a lecture", "attend a lecture", "lecture hall", "guest lecture"],
+        "family": ["lecturer", "lectured"],
+        "warning": "Falso amigo: \"lecture\" NO es \"lectura\" (eso es \"reading\")."
+      },
+      {
+        "id": "awl-migrate",
+        "term": "migrate",
+        "pos": "verb",
+        "definition": "To move from one place or country to another, especially to live or work.",
+        "es": "migrar, emigrar",
+        "example": "Millions of workers migrated from rural areas to coastal cities in search of jobs.",
+        "collocations": ["migrate to", "migrate from", "mass migration", "migrant workers"],
+        "family": ["migration", "migrant", "migratory", "immigrate", "emigrate"]
+      },
+      {
+        "id": "awl-minimum",
+        "term": "minimum",
+        "pos": "noun / adjective",
+        "definition": "The smallest amount or level that is possible or allowed.",
+        "es": "mínimo",
+        "example": "Raising the minimum wage could lift many workers out of poverty.",
+        "collocations": ["minimum wage", "a minimum of", "keep to a minimum", "minimum requirement"],
+        "family": ["minimal", "minimise", "minimally"]
+      },
+      {
+        "id": "awl-ministry",
+        "term": "ministry",
+        "pos": "noun",
+        "definition": "A government department led by a minister.",
+        "es": "ministerio",
+        "example": "The Ministry of Education plans to introduce coding lessons in all primary schools.",
+        "collocations": ["Ministry of Health", "ministry official", "government ministry", "ministry spokesperson"],
+        "family": ["minister", "ministerial"]
+      },
+      {
+        "id": "awl-motive",
+        "term": "motive",
+        "pos": "noun",
+        "definition": "A reason for doing something, especially one that is hidden.",
+        "es": "motivo, móvil",
+        "example": "Profit is not the only motive behind corporate charity programmes.",
+        "collocations": ["motive for", "profit motive", "ulterior motive", "underlying motive"],
+        "family": ["motivate", "motivation", "motivated"],
+        "warning": "Para \"motivo\" en general (\"por este motivo\") se usa más \"reason\": \"for this reason\"."
+      },
+      {
+        "id": "awl-neutral",
+        "term": "neutral",
+        "pos": "adjective",
+        "definition": "Not supporting either side in an argument or conflict; having no strong qualities.",
+        "es": "neutral, neutro",
+        "example": "Researchers should use neutral language when writing survey questions.",
+        "collocations": ["remain neutral", "politically neutral", "carbon neutral", "neutral tone"],
+        "family": ["neutrality", "neutralise"]
+      },
+      {
+        "id": "awl-nevertheless",
+        "term": "nevertheless",
+        "pos": "adverb",
+        "definition": "Despite what has just been said; however.",
+        "es": "sin embargo, no obstante",
+        "example": "The experiment had several flaws. Nevertheless, its findings were later confirmed.",
+        "collocations": ["Nevertheless, ...", "but nevertheless"],
+        "family": [],
+        "warning": "Introduce un contraste tras una idea ya dicha; no se usa como \"although\" para unir dos cláusulas."
+      },
+      {
+        "id": "awl-overseas",
+        "term": "overseas",
+        "pos": "adjective / adverb",
+        "definition": "In, to or from foreign countries, especially those across the sea.",
+        "es": "extranjero, en el extranjero, de ultramar",
+        "example": "The number of overseas students in Australia doubled within a decade.",
+        "collocations": ["overseas students", "study overseas", "overseas markets", "overseas aid"],
+        "family": [],
+        "warning": "Como adverbio no lleva preposición: \"study overseas\", no \"study in overseas\"."
+      },
+      {
+        "id": "awl-precede",
+        "term": "precede",
+        "pos": "verb",
+        "definition": "To happen or exist before something else.",
+        "es": "preceder, anteceder",
+        "example": "The financial crisis was preceded by a long period of easy credit.",
+        "collocations": ["immediately precede", "the preceding year", "preceded by", "precede in time"],
+        "family": ["preceding", "precedent", "precedence", "unprecedented"],
+        "warning": "No confundir con \"proceed\" (continuar, proceder)."
+      },
+      {
+        "id": "awl-presume",
+        "term": "presume",
+        "pos": "verb",
+        "definition": "To think something is true without being certain or having proof.",
+        "es": "suponer, presuponer",
+        "example": "It is often presumed that older workers are less adaptable, but evidence suggests otherwise.",
+        "collocations": ["it is presumed that", "presume innocence", "wrongly presume", "presumed dead"],
+        "family": ["presumption", "presumably", "presumptuous"],
+        "warning": "Falso amigo: \"presume\" NO es \"presumir\" (\"show off\" / \"boast\")."
+      },
+      {
+        "id": "awl-rational",
+        "term": "rational",
+        "pos": "adjective",
+        "definition": "Based on clear thinking and reason rather than emotion.",
+        "es": "racional, razonable",
+        "example": "Classical economics assumes that consumers make rational choices.",
+        "collocations": ["rational choice", "rational decision", "rational explanation", "perfectly rational"],
+        "family": ["rationality", "rationale", "rationalise", "irrational"]
+      },
+      {
+        "id": "awl-recover",
+        "term": "recover",
+        "pos": "verb",
+        "definition": "To return to a normal state after an illness or difficulty; to get something back.",
+        "es": "recuperar(se)",
+        "example": "Tourism took almost three years to recover after the pandemic.",
+        "collocations": ["recover from", "fully recover", "economic recovery", "recover costs"],
+        "family": ["recovery", "recoverable"]
+      },
+      {
+        "id": "awl-reveal",
+        "term": "reveal",
+        "pos": "verb",
+        "definition": "To make known something that was secret or previously unknown.",
+        "es": "revelar, mostrar",
+        "example": "The survey revealed that most commuters would switch to rail if it were cheaper.",
+        "collocations": ["reveal that", "data reveal", "reveal the truth", "a revealing study"],
+        "family": ["revelation", "revealing"]
+      },
+      {
+        "id": "awl-scope",
+        "term": "scope",
+        "pos": "noun",
+        "definition": "The range of things that a subject, study or activity deals with; opportunity to do something.",
+        "es": "alcance, ámbito; margen",
+        "example": "A detailed cost analysis is beyond the scope of this essay.",
+        "collocations": ["beyond the scope of", "scope for improvement", "limited scope", "broaden the scope"],
+        "family": ["scopes"]
+      },
+      {
+        "id": "awl-subsidy",
+        "term": "subsidy",
+        "pos": "noun",
+        "definition": "Money that a government pays to reduce the cost of a product or service.",
+        "es": "subvención, subsidio",
+        "example": "Farm subsidies keep food prices low but may harm producers in poorer countries.",
+        "collocations": ["government subsidy", "agricultural subsidies", "receive a subsidy", "subsidy for"],
+        "family": ["subsidise", "subsidised"]
+      },
+      {
+        "id": "awl-tape",
+        "term": "tape",
+        "pos": "noun / verb",
+        "definition": "A narrow strip of material used for sticking or recording; to record sound or video.",
+        "es": "cinta; grabar",
+        "example": "Interviews were taped and later transcribed for analysis.",
+        "collocations": ["red tape", "tape recording", "on tape", "adhesive tape"],
+        "family": ["taped"],
+        "warning": "\"Red tape\" = burocracia (no \"cinta roja\")."
+      },
+      {
+        "id": "awl-trace",
+        "term": "trace",
+        "pos": "verb / noun",
+        "definition": "To find the origin or development of something; a very small amount or sign of something.",
+        "es": "rastrear, remontar; rastro, huella",
+        "example": "The tradition can be traced back to the early medieval period.",
+        "collocations": ["trace back to", "trace amounts", "without trace", "trace the history of"],
+        "family": ["traceable", "traced"]
+      },
+      {
+        "id": "awl-transform",
+        "term": "transform",
+        "pos": "verb",
+        "definition": "To change something completely, usually improving it.",
+        "es": "transformar",
+        "example": "Mobile banking has transformed financial services in parts of East Africa.",
+        "collocations": ["transform into", "radically transform", "transform the way", "digital transformation"],
+        "family": ["transformation", "transformative", "transformed"]
+      },
+      {
+        "id": "awl-transport",
+        "term": "transport",
+        "pos": "noun / verb",
+        "definition": "A system for carrying people or goods; to move them from one place to another.",
+        "es": "transporte; transportar",
+        "example": "Investment in public transport is essential to reduce urban air pollution.",
+        "collocations": ["public transport", "transport links", "means of transport", "transport goods"],
+        "family": ["transportation", "transporter"],
+        "warning": "En inglés británico \"public transport\"; en americano \"public transportation\"."
+      },
+      {
+        "id": "awl-underlie",
+        "term": "underlie",
+        "pos": "verb",
+        "definition": "To be the real cause or basis of something, often not obvious.",
+        "es": "subyacer, ser la base de",
+        "example": "Poverty and poor housing often underlie health inequalities.",
+        "collocations": ["underlying cause", "underlying assumption", "underlying problem", "underlie the decision"],
+        "family": ["underlying", "underlay"],
+        "warning": "La forma más útil es el adjetivo \"underlying\": \"the underlying cause\"."
+      },
+      {
+        "id": "awl-utilise",
+        "term": "utilise",
+        "pos": "verb",
+        "definition": "To use something, especially in an effective or practical way.",
+        "es": "utilizar, aprovechar",
+        "example": "Many hospitals fail to utilise the data they already collect.",
+        "collocations": ["fully utilise", "utilise resources", "underutilised", "effectively utilised"],
+        "family": ["utilize (US)", "utilisation", "utility"],
+        "warning": "No abuses de \"utilise\" en lugar de \"use\": suena pomposo. Úsalo para \"aprovechar\" recursos."
+      }
+    ]
+  }
+]

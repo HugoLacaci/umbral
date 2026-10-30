@@ -1,0 +1,500 @@
+[
+  {
+    "id": "toefl-build-m3-01",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Priya",
+      "text": "Where are you taking all those old boxes?"
+    },
+    "respondent": "Tom",
+    "prefix": "I'm",
+    "suffix": "today.",
+    "answer": [
+      "bringing",
+      "them",
+      "to the recycling center",
+      "before",
+      "it",
+      "closes"
+    ],
+    "distractors": [
+      "close"
+    ],
+    "explanation": "Verbo + pronombre objeto + destino («bring them to…») y oración temporal con «before» + sujeto + verbo. Con «it» el presente lleva -s: «it closes»; «close» no concuerda con la tercera persona."
+  },
+  {
+    "id": "toefl-build-m3-02",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Kevin",
+      "text": "You look exhausted. Did you sleep at all last night?"
+    },
+    "respondent": "Lina",
+    "prefix": "Not really. I had to",
+    "suffix": ".",
+    "answer": [
+      "stay",
+      "up",
+      "until three",
+      "to finish",
+      "my history essay"
+    ],
+    "distractors": [
+      "staying"
+    ],
+    "explanation": "«Have to» va seguido de infinitivo sin «to» («had to stay»), nunca de -ing. «Stay up» es phrasal verb (quedarse despierto) y «to finish» es un infinitivo de finalidad (para terminar)."
+  },
+  {
+    "id": "toefl-build-m3-03",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Grace",
+      "text": "Is it hard to get a ticket for the jazz concert on Friday?"
+    },
+    "respondent": "Omar",
+    "prefix": "No, you",
+    "suffix": "until Thursday.",
+    "answer": [
+      "can",
+      "buy",
+      "one",
+      "at",
+      "the student union"
+    ],
+    "distractors": [
+      "buying"
+    ],
+    "explanation": "Verbo modal + infinitivo sin «to»: «can buy». «One» sustituye a «a ticket» para no repetir el nombre. «Buying» no puede ir detrás de un modal."
+  },
+  {
+    "id": "toefl-build-m3-04",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Ruth",
+      "text": "Why did you move to the front row during the lecture?"
+    },
+    "respondent": "Dan",
+    "prefix": "The screen",
+    "suffix": "the slides.",
+    "answer": [
+      "was",
+      "too",
+      "far away",
+      "for me",
+      "to read"
+    ],
+    "distractors": [
+      "reading"
+    ],
+    "explanation": "Estructura «too + adjetivo + for + persona + to + infinitivo» (demasiado lejos para que yo pudiera leer). Tras «for me» va el infinitivo con «to», no la forma -ing."
+  },
+  {
+    "id": "toefl-build-m3-05",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Hiro",
+      "text": "Did you enjoy the guest lecture on ocean pollution?"
+    },
+    "respondent": "Sara",
+    "prefix": "Yes, it was",
+    "suffix": "this semester.",
+    "answer": [
+      "the most",
+      "interesting",
+      "talk",
+      "I've",
+      "attended"
+    ],
+    "distractors": [
+      "more"
+    ],
+    "explanation": "Superlativo de adjetivo largo («the most interesting») + oración de relativo sin pronombre en present perfect («I've attended»), típica tras un superlativo. «More» es comparativo y aquí no hay «than»."
+  },
+  {
+    "id": "toefl-build-m3-06",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Marta",
+      "text": "Do you know if the swimming pool is open on Sundays?"
+    },
+    "respondent": "Leo",
+    "prefix": "I'm not sure, but",
+    "suffix": "on weekends.",
+    "answer": [
+      "the website",
+      "should",
+      "say",
+      "what",
+      "its hours",
+      "are"
+    ],
+    "distractors": [
+      "is"
+    ],
+    "explanation": "Pregunta indirecta: tras «say what…» va el orden de afirmación (sujeto + verbo: «what its hours are»), no «what are its hours». «Hours» es plural, así que el verbo es «are», no «is»."
+  },
+  {
+    "id": "toefl-build-m3-07",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Ben",
+      "text": "Why is there such a long line outside the electronics store?"
+    },
+    "respondent": "Chloe",
+    "prefix": "I heard that",
+    "suffix": "today.",
+    "answer": [
+      "the first",
+      "fifty customers",
+      "will",
+      "receive",
+      "a free",
+      "pair of headphones"
+    ],
+    "distractors": [
+      "receiving"
+    ],
+    "explanation": "Futuro con «will» + infinitivo sin «to» («will receive»). El sujeto es «the first fifty customers» (determinante + ordinal + número + nombre). «Receiving» no puede seguir a «will»."
+  },
+  {
+    "id": "toefl-build-m3-08",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Paula",
+      "text": "Have they decided where the graduation ceremony will take place?"
+    },
+    "respondent": "Sam",
+    "prefix": "Not yet. The organizers are still",
+    "suffix": "in June.",
+    "answer": [
+      "trying",
+      "to figure out",
+      "whether",
+      "the stadium",
+      "will be",
+      "available"
+    ],
+    "distractors": [
+      "tried"
+    ],
+    "explanation": "Pregunta indirecta de sí/no con «whether» y orden de afirmación («whether the stadium will be available»). Tras «are still» va el gerundio del continuo («trying»), no el pasado «tried»."
+  },
+  {
+    "id": "toefl-build-m3-09",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Iris",
+      "text": "Why did the bookstore stop buying back used textbooks?"
+    },
+    "respondent": "Noah",
+    "prefix": "The manager told us that",
+    "suffix": ".",
+    "answer": [
+      "the program",
+      "had been",
+      "discontinued",
+      "because of",
+      "low",
+      "demand"
+    ],
+    "distractors": [
+      "has discontinued"
+    ],
+    "explanation": "Estilo indirecto con cambio de tiempo: pasiva en past perfect («had been discontinued»). «Because of» va seguido de un sintagma nominal («low demand»). «Has discontinued» es activa y no tiene objeto: el programa no discontinuó nada."
+  },
+  {
+    "id": "toefl-build-m3-10",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 3,
+    "context": {
+      "name": "Ella",
+      "text": "Are you going to accept the internship in Boston?"
+    },
+    "respondent": "Marco",
+    "prefix": "I",
+    "suffix": "housing for the summer.",
+    "answer": [
+      "would",
+      "accept",
+      "the position",
+      "if",
+      "they",
+      "offered",
+      "me"
+    ],
+    "distractors": [
+      "offer"
+    ],
+    "explanation": "Segundo condicional (situación hipotética presente): «would + infinitivo» en la principal y pasado simple tras «if» («if they offered me housing»). «Offer» en presente no combina con «would» en este tipo de condicional."
+  },
+  {
+    "id": "toefl-build-m4-01",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Julia",
+      "text": "Do you want to get lunch together after class?"
+    },
+    "respondent": "Ken",
+    "prefix": "Sure, let's",
+    "suffix": "ends.",
+    "answer": [
+      "meet",
+      "outside",
+      "the science building",
+      "after",
+      "our lecture"
+    ],
+    "distractors": [
+      "meeting"
+    ],
+    "explanation": "«Let's» va seguido de infinitivo sin «to» («let's meet»), no de -ing. Después, lugar («outside the science building») y una oración temporal con «after» + sujeto + verbo («after our lecture ends»)."
+  },
+  {
+    "id": "toefl-build-m4-02",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Amir",
+      "text": "How was the hiking trip last weekend?"
+    },
+    "respondent": "Zoe",
+    "prefix": "It was great, but",
+    "suffix": "I expected.",
+    "answer": [
+      "the trail",
+      "was",
+      "much",
+      "steeper",
+      "than"
+    ],
+    "distractors": [
+      "steepest"
+    ],
+    "explanation": "Comparativo de adjetivo corto con -er + «than» («steeper than»), intensificado con «much». «Steepest» es superlativo y no puede ir con «than»."
+  },
+  {
+    "id": "toefl-build-m4-03",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Nadia",
+      "text": "Whose umbrella is this by the door?"
+    },
+    "respondent": "Paul",
+    "prefix": "I think",
+    "suffix": "next to me.",
+    "answer": [
+      "it",
+      "belongs",
+      "to",
+      "the woman",
+      "who",
+      "sat"
+    ],
+    "distractors": [
+      "belong"
+    ],
+    "explanation": "«Belong to» (pertenecer a) en presente con -s porque el sujeto es «it». «Who sat next to me» es una oración de relativo que identifica a la mujer. «Belong» no concuerda con «it»."
+  },
+  {
+    "id": "toefl-build-m4-04",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Tara",
+      "text": "I missed the announcement. When is the essay due?"
+    },
+    "respondent": "Ivan",
+    "prefix": "The professor said",
+    "suffix": ".",
+    "answer": [
+      "we",
+      "have to",
+      "submit",
+      "it",
+      "by",
+      "Friday morning"
+    ],
+    "distractors": [
+      "submitted"
+    ],
+    "explanation": "Estilo indirecto con «said (that)» omitido + «have to + infinitivo» («have to submit»). «By» indica plazo límite (como muy tarde el viernes). «Submitted» no puede ir tras «have to»."
+  },
+  {
+    "id": "toefl-build-m4-05",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Felipe",
+      "text": "Why are you studying out here in the hallway?"
+    },
+    "respondent": "Anna",
+    "prefix": "The library",
+    "suffix": "a seat.",
+    "answer": [
+      "was",
+      "so",
+      "crowded",
+      "that",
+      "I",
+      "couldn't find"
+    ],
+    "distractors": [
+      "such"
+    ],
+    "explanation": "Estructura consecutiva «so + adjetivo + that + oración» (tan lleno que…). «Such» se usa con un nombre («such a crowded place»), no con un adjetivo solo."
+  },
+  {
+    "id": "toefl-build-m4-06",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Lucy",
+      "text": "Did you sign up for the volunteer trip to the national park?"
+    },
+    "respondent": "Joel",
+    "prefix": "I wanted to, but",
+    "suffix": "the time I registered.",
+    "answer": [
+      "all the spots",
+      "had",
+      "already been",
+      "taken",
+      "by"
+    ],
+    "distractors": [
+      "have"
+    ],
+    "explanation": "Pasiva en past perfect («had already been taken») para una acción anterior a otra pasada; «by the time + pasado» (para cuando…). «Have» (present perfect) no encaja con un relato en pasado."
+  },
+  {
+    "id": "toefl-build-m4-07",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Victor",
+      "text": "Should I take the bus or the subway to the airport?"
+    },
+    "respondent": "Mia",
+    "prefix": "I'd take the subway",
+    "suffix": ".",
+    "answer": [
+      "because",
+      "it",
+      "doesn't",
+      "get",
+      "stuck",
+      "in traffic"
+    ],
+    "distractors": [
+      "don't"
+    ],
+    "explanation": "Oración causal con «because» + presente simple negativo. Con «it» el auxiliar es «doesn't», no «don't». «Get stuck in traffic» = quedarse atascado."
+  },
+  {
+    "id": "toefl-build-m4-08",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Rosa",
+      "text": "Did you ever find out who left the flowers on your desk?"
+    },
+    "respondent": "Eli",
+    "prefix": "No, and",
+    "suffix": ".",
+    "answer": [
+      "I",
+      "still have",
+      "no idea",
+      "who",
+      "they",
+      "were",
+      "from"
+    ],
+    "distractors": [
+      "did"
+    ],
+    "explanation": "Pregunta indirecta tras «no idea»: orden de afirmación («who they were from»), con la preposición al final. En una pregunta indirecta no se usa el auxiliar «did» ni se invierte sujeto y verbo."
+  },
+  {
+    "id": "toefl-build-m4-09",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Owen",
+      "text": "You moved downtown last year, right? Do you like it?"
+    },
+    "respondent": "Hana",
+    "prefix": "Yes, but sometimes I",
+    "suffix": "nearby.",
+    "answer": [
+      "wish",
+      "I",
+      "lived",
+      "somewhere",
+      "quieter",
+      "with",
+      "more parks"
+    ],
+    "distractors": [
+      "live"
+    ],
+    "explanation": "«Wish + pasado simple» expresa un deseo sobre el presente (ojalá viviera): «I wish I lived». «Somewhere quieter» = adverbio + comparativo. «Live» en presente no es posible tras «wish» con este sentido."
+  },
+  {
+    "id": "toefl-build-m4-10",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "context": {
+      "name": "Dana",
+      "text": "Why didn't the soccer match start on time?"
+    },
+    "respondent": "Kofi",
+    "prefix": "It",
+    "suffix": "of snow yet.",
+    "answer": [
+      "was",
+      "delayed",
+      "because",
+      "the field",
+      "had",
+      "not",
+      "been",
+      "cleared"
+    ],
+    "distractors": [
+      "have"
+    ],
+    "explanation": "Dos pasivas: pasado simple («was delayed») y past perfect negativo («had not been cleared»), porque limpiar el campo debía ocurrir antes del retraso. «Have» no concuerda con el sujeto singular «the field» ni con el relato en pasado."
+  }
+]

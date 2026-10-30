@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ielts-l-p3-06",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 3,
+    "title": "Phones and sleep study",
+    "context": "You will hear two psychology students, Aisha and Ryan, discussing their research project on phone use and sleep with their tutor, Dr Kowalski.",
+    "audio": {
+      "speakers": [
+        { "id": "tutor", "name": "Dr Kowalski", "role": "tutor", "gender": "f", "accent": "en-CA" },
+        { "id": "aisha", "name": "Aisha", "role": "student", "gender": "f", "accent": "en-GB" },
+        { "id": "ryan", "name": "Ryan", "role": "student", "gender": "m", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "tutor", "t": "Come in, both of you. So I see you've changed your research question since we last met." },
+        { "s": "aisha", "t": "Yes. We were going to compare the sleep of students in halls of residence with students living at home. But after our last meeting we realised there were just too many other things involved, like noise, sharing rooms, and travel time, and we'd have no way of controlling them." },
+        { "s": "ryan", "t": "At first we thought the problem was that there wouldn't be enough students living at home, but actually there are plenty. So that wasn't it." },
+        { "s": "tutor", "t": "And now you're looking at phone use before bed. There's quite a lot of research on that already, you know." },
+        { "s": "aisha", "t": "We know, but most of it is on teenagers, not university students, so we think there's still a gap. Students also have far more freedom over when they go to bed, which makes them a really interesting group to study." },
+        { "s": "tutor", "t": "Fair enough. How are you planning to measure sleep?" },
+        { "s": "ryan", "t": "We'd like to use fitness trackers, the wristbands that record sleep automatically." },
+        { "s": "tutor", "t": "They're tempting, but the cheaper ones aren't very accurate for sleep, and you'd need to buy dozens of them. A sleep diary is far more practical." },
+        { "s": "ryan", "t": "Could we use both? Diaries for most people and trackers for a few?" },
+        { "s": "tutor", "t": "That would double your workload, and you'd have two kinds of data that don't really match. Keep it simple." },
+        { "s": "aisha", "t": "OK, diaries only, then. We were thinking people could keep them for a month." },
+        { "s": "tutor", "t": "In my experience, people start dropping out after about ten days. Two weeks is a better compromise. It still gives you two weekends, which matters, because sleep patterns are so different on Saturdays and Sundays." },
+        { "s": "aisha", "t": "That makes sense. Two weeks." },
+        { "s": "ryan", "t": "For recruiting, we were going to post on social media. We'd probably get a lot of responses quickly." },
+        { "s": "tutor", "t": "You probably would, but who would they be? Mostly people who follow your accounts, so your friends and their friends. They're likely to be quite similar to each other, and that's a problem if you want to say anything about students in general." },
+        { "s": "ryan", "t": "Hmm, I hadn't thought of that. So what would you suggest?" },
+        { "s": "tutor", "t": "Let's go through the procedure step by step. Before anything else, you need approval from the ethics committee, because you're collecting personal information. Allow at least three weeks for that." },
+        { "s": "aisha", "t": "Right. Then recruitment. Could we make announcements at first year lectures instead? The lecturers usually allow a couple of minutes at the start." },
+        { "s": "tutor", "t": "That's much better. You'll reach students from different courses who don't know you." },
+        { "s": "ryan", "t": "Then everyone who agrees fills in a short questionnaire about their general habits, like caffeine and exercise, so we've got some background information." },
+        { "s": "tutor", "t": "Good. And the diary itself? When will they fill it in?" },
+        { "s": "aisha", "t": "We thought in the evening, just before bed, when they put their phone down." },
+        { "s": "tutor", "t": "The trouble is, they won't know yet when they actually fell asleep. It's much more reliable to fill it in each morning, as soon as they wake up." },
+        { "s": "aisha", "t": "Of course. Each morning, then." },
+        { "s": "ryan", "t": "People will forget, though. Should we send them a reminder by email every day?" },
+        { "s": "aisha", "t": "Students hardly ever check their email. A text would be much more effective." },
+        { "s": "tutor", "t": "I agree. A text is quick, and most people read them within minutes. And finally, how will you thank people for taking part? I'm afraid the department can't pay participants." },
+        { "s": "ryan", "t": "We thought about a prize draw, but the café on campus has offered us a voucher for a free coffee for everyone who completes the two weeks." },
+        { "s": "tutor", "t": "That's better than a draw, since everyone gets something. It should help with drop-outs too. Right, send me the revised plan by Friday and I'll sign the ethics form." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–24\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q1", "kind": "mcq", "qtype": "mcq",
+            "prompt": "Why did the students change their original research question?",
+            "options": ["There would not have been enough participants.", "Too many other factors could have affected the results.", "The topic had already been widely researched."],
+            "answer": 1,
+            "optionNotes": ["Ryan says there are plenty of students living at home.", "Correct: noise, sharing rooms and travel time could not be controlled.", "The tutor says this about the NEW topic, not the old one."],
+            "explanation": "Aisha explains there were too many other things involved that they couldn't control.",
+            "evidence": "there were just too many other things involved"
+          },
+          {
+            "id": "q2", "kind": "mcq", "qtype": "mcq",
+            "prompt": "How will the students measure sleep?",
+            "options": ["with fitness trackers", "with sleep diaries", "with a combination of methods"],
+            "answer": 1,
+            "optionNotes": ["Inaccurate and too expensive.", "Correct.", "Ryan suggests this, but the tutor says it doubles the workload."],
+            "explanation": "The tutor rejects trackers and the combination; Aisha confirms diaries only.",
+            "evidence": "OK, diaries only, then."
+          },
+          {
+            "id": "q3", "kind": "mcq", "qtype": "mcq",
+            "prompt": "Why does the tutor recommend a two-week period?",
+            "options": ["It is long enough to include two weekends.", "It matches the length of other studies.", "It allows time to replace participants who leave."],
+            "answer": 0,
+            "optionNotes": ["Correct: sleep differs at weekends.", "Not mentioned.", "She mentions drop-outs, but not replacing participants."],
+            "explanation": "A month is too long because people drop out; two weeks still includes two weekends, which matter for sleep.",
+            "evidence": "It still gives you two weekends"
+          },
+          {
+            "id": "q4", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What problem does the tutor see with recruiting through social media?",
+            "options": ["The students would receive too many replies.", "The participants would not be typical of all students.", "Personal data might not be kept secure."],
+            "answer": 1,
+            "optionNotes": ["She agrees they would get many responses, but that isn't the problem.", "Correct: mostly friends, who are similar to each other.", "Data security is not discussed in relation to social media."],
+            "explanation": "Respondents would mostly be the students' friends, so they couldn't generalise to students in general.",
+            "evidence": "They're likely to be quite similar to each other"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "flowchart-completion",
+        "instructions": "Questions 25–30\nComplete the flow-chart below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Research procedure",
+        "template": "Obtain permission from the {{q5}} committee\n↓\nFind participants by speaking at {{q6}}\n↓\nParticipants complete a {{q7}} on general habits\n↓\nParticipants fill in the diary every {{q8}}\n↓\nA daily reminder is sent by {{q9}}\n↓\nParticipants who finish receive a {{q10}}",
+        "items": [
+          { "id": "q5", "kind": "gap", "qtype": "flowchart-completion", "answers": ["ethics"], "maxWords": 1, "allowNumber": false,
+            "explanation": "They need approval from the ethics committee first.", "evidence": "you need approval from the ethics committee" },
+          { "id": "q6", "kind": "gap", "qtype": "flowchart-completion", "answers": ["lectures"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Instead of social media, they will make announcements at first year lectures.", "evidence": "make announcements at first year lectures" },
+          { "id": "q7", "kind": "gap", "qtype": "flowchart-completion", "answers": ["questionnaire"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Participants fill in a short questionnaire about general habits.", "evidence": "fills in a short questionnaire about their general habits" },
+          { "id": "q8", "kind": "gap", "qtype": "flowchart-completion", "answers": ["morning"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Aisha suggests the evening, but the tutor says each morning is more reliable, and Aisha agrees.", "evidence": "Each morning, then." },
+          { "id": "q9", "kind": "gap", "qtype": "flowchart-completion", "answers": ["text"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Email is rejected because students rarely check it; a text is chosen.", "evidence": "A text would be much more effective." },
+          { "id": "q10", "kind": "gap", "qtype": "flowchart-completion", "answers": ["voucher"], "maxWords": 1, "allowNumber": false,
+            "explanation": "A prize draw is rejected; everyone who completes gets a café voucher.", "evidence": "a voucher for a free coffee for everyone who completes the two weeks" }
+        ]
+      }
+    ]
+  }
+]

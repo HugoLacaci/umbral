@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ielts-l-m1-p2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "part": 2,
+    "title": "The new Seaview Recreation Park",
+    "context": "You will hear a park manager describing a new recreation park to a group of local residents.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Brett", "role": "Park manager", "gender": "m", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "G'day, everyone, and thanks for coming along to this preview of Seaview Recreation Park. I'm Brett, the park manager. We open to the public in two weeks, so this is your chance to find out what's here before the crowds arrive." },
+        { "s": "a", "t": "First, a bit of history. A lot of people think the redevelopment happened because the state government gave the council a big grant. We did get a grant, but that came later. What really started it all was the storm three years ago, which badly damaged the old swimming baths on this site. They couldn't be repaired, so the council decided to start again from scratch." },
+        { "s": "a", "t": "The heart of the park is the main building. On the ground floor you'll find the gym and the changing rooms, and upstairs there's a café with amazing views over the ocean. We'd planned to put some meeting rooms up there as well, but in the end there just wasn't enough space." },
+        { "s": "a", "t": "Parking. The car park is free for the first two hours, and after that it's three dollars an hour. Some people have asked whether members will get free parking all day. I'm sorry, but they won't, because we'd soon have no spaces left for visitors. There are plenty of bike racks near the entrance, though, so if you live nearby, why not leave the car at home and ride here instead?" },
+        { "s": "a", "t": "And one date for your diaries. We were hoping to open the outdoor pool in October, along with everything else, but there's been a delay with the heating system. So the pool will open on the first of December instead, just in time for summer." },
+        { "s": "a", "t": "Okay, let's look at the map. You'll see Beach Road along the bottom, that's the southern edge of the park, and the main entrance path runs north from Beach Road up to the main building. The car park is in the south-west, and the sports field is in the north-east corner." },
+        { "s": "a", "t": "As you walk in along the entrance path from Beach Road, immediately on your right you'll see the bike hire kiosk. You can hire bikes by the hour and ride along the coastal path. On the other side of the path, on your left, is the ticket office for the pool." },
+        { "s": "a", "t": "Now, the outdoor pool itself is behind the main building, so that's directly to the north of it. It's a fifty-metre pool, with a separate shallow area for little ones." },
+        { "s": "a", "t": "The tennis courts are to the east of the main building, just south of the sports field. There are four courts, and you can book them online." },
+        { "s": "a", "t": "The skate park was a hot topic at the planning meetings, because it can be quite noisy. So we put it as far away from the picnic area as possible, in the south-east corner of the park, right next to Beach Road." },
+        { "s": "a", "t": "The picnic area, then, is in the opposite corner, the north-west, in among the trees. There are barbecues there, and they're free to use." },
+        { "s": "a", "t": "And finally, the children's playground. That's on the western side of the park, between the picnic area and the car park, so parents can keep an eye on the kids while they're eating. There's a fence all the way round it, too." },
+        { "s": "a", "t": "Right, if anyone has any questions, I'm happy to answer them now, or you can come and find me in the café afterwards." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 11–14\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q11", "kind": "mcq", "qtype": "mcq", "prompt": "Why was the park redeveloped?",
+            "options": ["The government offered the council a grant.", "A storm damaged the old swimming baths.", "The local population had grown quickly."], "answer": 1,
+            "explanation": "The storm that damaged the old baths started the project; the grant came later.",
+            "evidence": "What really started it all was the storm three years ago",
+            "optionNotes": ["A common belief, but the grant came later.", "Correct.", "Not mentioned."] },
+          { "id": "q12", "kind": "mcq", "qtype": "mcq", "prompt": "What is on the upper floor of the main building?",
+            "options": ["a gym", "a café", "meeting rooms"], "answer": 1,
+            "explanation": "The gym is on the ground floor; meeting rooms were planned but there was no space. The café is upstairs.",
+            "evidence": "upstairs there's a café with amazing views over the ocean",
+            "optionNotes": ["It is on the ground floor.", "Correct.", "Planned, but there wasn't enough space."] },
+          { "id": "q13", "kind": "mcq", "qtype": "mcq", "prompt": "What does Brett say about parking?",
+            "options": ["It is free for the first two hours.", "Members can park free all day.", "Visitors pay three dollars per visit."], "answer": 0,
+            "explanation": "The first two hours are free; after that it costs three dollars an hour, not per visit. Members do not get free parking.",
+            "evidence": "The car park is free for the first two hours",
+            "optionNotes": ["Correct.", "Brett says they won't.", "It is three dollars an hour, after two free hours."] },
+          { "id": "q14", "kind": "mcq", "qtype": "mcq", "prompt": "When will the outdoor pool open?",
+            "options": ["in October", "in November", "in December"], "answer": 2,
+            "explanation": "October was the original plan, but a heating delay means it opens on the first of December.",
+            "evidence": "So the pool will open on the first of December instead",
+            "optionNotes": ["The original plan, before the delay.", "Not mentioned.", "Correct."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "map-labelling",
+        "instructions": "Questions 15–20\nLabel the map below.\nWrite the correct letter, A–G, next to Questions 15–20.",
+        "title": "Seaview Recreation Park",
+        "options": [
+          { "key": "A", "text": "A" }, { "key": "B", "text": "B" }, { "key": "C", "text": "C" }, { "key": "D", "text": "D" },
+          { "key": "E", "text": "E" }, { "key": "F", "text": "F" }, { "key": "G", "text": "G" }
+        ],
+        "diagram": {
+          "width": 600,
+          "height": 400,
+          "compass": true,
+          "shapes": [
+            { "kind": "road", "x": 0, "y": 360, "w": 600, "h": 40, "label": "Beach Road" },
+            { "kind": "trees", "x": 40, "y": 40, "w": 110, "h": 90 },
+            { "kind": "building", "x": 220, "y": 140, "w": 160, "h": 110, "label": "Main Building" },
+            { "kind": "path", "x": 290, "y": 250, "w": 20, "h": 110 },
+            { "kind": "parking", "x": 20, "y": 270, "w": 160, "h": 80, "label": "Car Park" },
+            { "kind": "field", "x": 420, "y": 30, "w": 160, "h": 130, "label": "Sports Field" }
+          ],
+          "markers": [
+            { "key": "A", "x": 95, "y": 85 },
+            { "key": "B", "x": 95, "y": 205 },
+            { "key": "C", "x": 300, "y": 95 },
+            { "key": "D", "x": 480, "y": 210 },
+            { "key": "E", "x": 520, "y": 320 },
+            { "key": "F", "x": 245, "y": 310 },
+            { "key": "G", "x": 355, "y": 310 }
+          ]
+        },
+        "items": [
+          { "id": "q15", "kind": "match", "qtype": "map-labelling", "prompt": "Bike hire kiosk", "answer": "G",
+            "explanation": "Walking north along the entrance path, 'on your right' is the east side. F, on the left, is the pool ticket office.",
+            "evidence": "immediately on your right you'll see the bike hire kiosk" },
+          { "id": "q16", "kind": "match", "qtype": "map-labelling", "prompt": "Outdoor pool", "answer": "C",
+            "explanation": "It is behind the main building, directly to the north.",
+            "evidence": "the outdoor pool itself is behind the main building, so that's directly to the north of it" },
+          { "id": "q17", "kind": "match", "qtype": "map-labelling", "prompt": "Tennis courts", "answer": "D",
+            "explanation": "East of the main building and just south of the sports field.",
+            "evidence": "The tennis courts are to the east of the main building, just south of the sports field." },
+          { "id": "q18", "kind": "match", "qtype": "map-labelling", "prompt": "Skate park", "answer": "E",
+            "explanation": "In the south-east corner, next to Beach Road.",
+            "evidence": "in the south-east corner of the park, right next to Beach Road" },
+          { "id": "q19", "kind": "match", "qtype": "map-labelling", "prompt": "Picnic area", "answer": "A",
+            "explanation": "In the opposite corner to the skate park, the north-west, among the trees.",
+            "evidence": "the opposite corner, the north-west, in among the trees" },
+          { "id": "q20", "kind": "match", "qtype": "map-labelling", "prompt": "Children's playground", "answer": "B",
+            "explanation": "On the western side, between the picnic area and the car park.",
+            "evidence": "That's on the western side of the park, between the picnic area and the car park" }
+        ]
+      }
+    ]
+  }
+]

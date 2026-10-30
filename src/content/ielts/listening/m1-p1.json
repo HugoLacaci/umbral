@@ -1,0 +1,94 @@
+[
+  {
+    "id": "ielts-l-m1-p1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "part": 1,
+    "title": "Booking a room for a family celebration",
+    "context": "You will hear a man phoning a hotel to book a room for a family party.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Rachel", "role": "Events manager", "gender": "f", "accent": "en-GB" },
+        { "id": "b", "name": "Andrew", "role": "Customer", "gender": "m", "accent": "en-NZ" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good afternoon, The Old Mill Hotel, events team. Rachel speaking." },
+        { "s": "b", "t": "Hi, Rachel. I'm organising a surprise party for my parents and I wondered whether you could host it." },
+        { "s": "a", "t": "I'm sure we can. Let me take some details. What's your name, please?" },
+        { "s": "b", "t": "Andrew Ogilvie. The surname is O-G-I-L-V-I-E." },
+        { "s": "a", "t": "Thank you, Mr Ogilvie. And what's the occasion?" },
+        { "s": "b", "t": "It's my parents' wedding anniversary. They've actually been together for forty-five years, but they've been married for forty, so it's their 40th anniversary." },
+        { "s": "a", "t": "How lovely. And what date were you thinking of?" },
+        { "s": "b", "t": "A Saturday in October. Ideally the 4th of October." },
+        { "s": "a", "t": "Let me look. I'm afraid we've got a wedding on the 4th, and it's taking over the whole ground floor. The following Saturday, the 11th of October, is completely free." },
+        { "s": "b", "t": "The 11th should be fine. Most of the family are flying in, so one week won't make much difference." },
+        { "s": "a", "t": "Great. How many guests are you expecting?" },
+        { "s": "b", "t": "We sent out eighty invitations, but so far sixty-five people have said yes, and the deadline for replies has passed. So let's say 65." },
+        { "s": "a", "t": "Sixty-five. That affects which room you can have. Our Library Room is very popular, but it only holds fifty, so that won't work. For sixty-five, I'd suggest the Garden Room. It has big glass doors that open onto the lawn." },
+        { "s": "b", "t": "The Garden Room sounds ideal. Mum loves gardens." },
+        { "s": "a", "t": "I should mention one thing about it. Because of all the glass, it can get quite cold in there once the sun goes down, especially in October. We do put heaters in, though, so nobody needs to wear their coat." },
+        { "s": "b", "t": "That's good to know. What about food?" },
+        { "s": "a", "t": "For a group your size, most people go for a buffet. We offer a cold buffet, with salads and sandwiches, or a hot buffet, with three main dishes." },
+        { "s": "b", "t": "A cold buffet might look a bit mean in October. Let's go for the hot buffet." },
+        { "s": "a", "t": "The hot buffet is £28.50 per head, and that includes tea and coffee afterwards." },
+        { "s": "b", "t": "£28.50. That's within our budget." },
+        { "s": "a", "t": "We can also arrange flowers for the tables and a cake, if you'd like. And we have a list of local bands." },
+        { "s": "b", "t": "Flowers would be lovely, so yes, please arrange those. And could you email me that list of bands? We'd like to book one through you. But we won't need a cake from you. My sister makes amazing cakes, and she's already planning one, so we'll bring that ourselves." },
+        { "s": "a", "t": "That's absolutely fine. We just ask that it arrives before six o'clock so we can keep it in the fridge." },
+        { "s": "b", "t": "No problem. What happens next?" },
+        { "s": "a", "t": "I'll send you a booking form by email. We usually also suggest that people come and look at the room before they confirm. Would you be able to visit?" },
+        { "s": "b", "t": "I could come on Sunday morning, if that works. I'd rather see the place before I tell the rest of the family about it." },
+        { "s": "a", "t": "Sunday morning is perfect. Ask for me at reception, and I'll show you round." },
+        { "s": "b", "t": "Brilliant. Thanks so much, Rachel. See you on Sunday." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–7\nComplete the form below.\nWrite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+        "title": "The Old Mill Hotel – Function booking",
+        "template": "Name: Andrew {{q1}}\nOccasion: parents' {{q2}} wedding anniversary\nDate: Saturday {{q3}}\nNumber of guests: {{q4}}\nRoom: the {{q5}} Room\nFood: {{q6}} buffet\nPrice per person: £{{q7}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Ogilvie"], "maxWords": 2, "allowNumber": true,
+            "explanation": "He spells the surname: O-G-I-L-V-I-E.", "evidence": "The surname is O-G-I-L-V-I-E." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["40th", "fortieth"], "maxWords": 2, "allowNumber": true,
+            "explanation": "They have been together for 45 years, but married for 40, so it is their 40th wedding anniversary.", "evidence": "so it's their 40th anniversary" },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["11 October", "11th October", "11th of October", "October 11", "October 11th"], "maxWords": 2, "allowNumber": true,
+            "explanation": "The 4th is taken by a wedding, so the party is on the 11th of October.", "evidence": "the 11th of October, is completely free" },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["65", "sixty-five"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Eighty invitations were sent, but 65 people have accepted.", "evidence": "So let's say 65." },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["Garden"], "maxWords": 2, "allowNumber": true,
+            "explanation": "The Library Room only holds fifty, so they choose the Garden Room.", "evidence": "The Garden Room sounds ideal." },
+          { "id": "q6", "kind": "gap", "qtype": "form-completion", "answers": ["hot"], "maxWords": 2, "allowNumber": true,
+            "explanation": "He rejects the cold buffet and chooses the hot one.", "evidence": "Let's go for the hot buffet." },
+          { "id": "q7", "kind": "gap", "qtype": "form-completion", "answers": ["28.50"], "maxWords": 2, "allowNumber": true,
+            "explanation": "The hot buffet costs £28.50 per head.", "evidence": "The hot buffet is £28.50 per head" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 8–10\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q8", "kind": "mcq", "qtype": "mcq", "prompt": "What problem does Rachel mention about the Garden Room?",
+            "options": ["It is too small for the group.", "It can be cold in the evening.", "It is next to the hotel car park."], "answer": 1,
+            "explanation": "Because of the glass, it gets cold when the sun goes down, but heaters are provided.",
+            "evidence": "it can get quite cold in there once the sun goes down",
+            "optionNotes": ["This is the problem with the Library Room, not the Garden Room.", "Correct.", "Not mentioned."] },
+          { "id": "q9", "kind": "mcq", "qtype": "mcq", "prompt": "What will Andrew's family provide themselves?",
+            "options": ["the flowers", "the cake", "the band"], "answer": 1,
+            "explanation": "The hotel will arrange the flowers and Andrew will book a band from the hotel's list; only the cake (made by his sister) comes from the family.",
+            "evidence": "so we'll bring that ourselves",
+            "optionNotes": ["He asks the hotel to arrange the flowers.", "Correct: his sister is making it.", "The band will be booked through the hotel's list."] },
+          { "id": "q10", "kind": "mcq", "qtype": "mcq", "prompt": "What will Andrew do next?",
+            "options": ["visit the hotel", "speak to his parents", "send the guest list"], "answer": 0,
+            "explanation": "He will come and see the room on Sunday morning. The party is a surprise, so he will not tell his parents.",
+            "evidence": "I could come on Sunday morning",
+            "optionNotes": ["Correct.", "It is a surprise party.", "Not mentioned."] }
+        ]
+      }
+    ]
+  }
+]

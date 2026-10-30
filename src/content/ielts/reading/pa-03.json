@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ielts-r-pa-03",
+    "difficulty": "medium",
+    "usage": "practice",
+    "passageNo": 2,
+    "title": "The Night Shift",
+    "subtitle": "What the sleeping brain does with the day's memories",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Most people accept that a good night's sleep helps them think clearly the next day. For a long time, scientists assumed that the important work of memory happened only while people were awake, as they paid attention, repeated and practised. Far fewer people realise that sleep may also be doing important work on what they learned the day before. Over the past century, and especially in the last thirty years, researchers have gathered evidence that the sleeping brain does not simply rest but actively sorts, strengthens and reorganises memories. The process is known as memory consolidation, and the role of sleep in it has become one of the most active areas of neuroscience."
+      },
+      {
+        "label": "B",
+        "text": "The first hints came from a modest study published in 1924 by two American psychologists, John Jenkins and Karl Dallenbach. They asked two students to learn lists of nonsense syllables and then tested them after intervals of one to eight hours, which the students spent either awake or asleep. Recall was consistently better after sleep. Jenkins and Dallenbach concluded that sleep helped not because it did anything positive, but because it protected new memories from interference: a sleeping person was not taking in fresh information that might push out what had just been learned. This passive explanation dominated thinking for decades."
+      },
+      {
+        "label": "C",
+        "text": "The discovery of sleep stages in the 1950s opened the door to more detailed questions. By recording electrical activity in the brain, scientists found that a night's sleep consists of repeated cycles, each lasting roughly ninety minutes. Within each cycle, the sleeper passes from light sleep into deep, or slow-wave, sleep, characterised by large, slow brain waves, and then into rapid eye movement (REM) sleep, the stage most associated with vivid dreams. These stages can be distinguished only with equipment, since a sleeper's outward behaviour reveals little about what the brain is doing. Deep sleep is concentrated in the early part of the night, while REM periods become longer towards morning."
+      },
+      {
+        "label": "D",
+        "text": "A key piece of evidence for a more active role came from studies of rats in the 1990s. Researchers recorded the activity of individual cells in the hippocampus, a region essential for forming new memories, while the animals ran through a maze. Each location in the maze triggered a particular pattern of firing. When the rats later fell into slow-wave sleep, the same patterns reappeared, in the same order but several times faster, as if the brain were replaying the route. Moreover, the more replay the researchers observed during sleep, the better the rats tended to perform in the maze the following day. Similar replay has since been detected in humans using brain-imaging techniques."
+      },
+      {
+        "label": "E",
+        "text": "According to the most widely accepted theory, this replay allows information to be transferred gradually from the hippocampus, which stores new experiences only temporarily, to the neocortex, the outer layer of the brain, where long-term knowledge is kept. During deep sleep, bursts of activity in the hippocampus appear to be coordinated with slower rhythms in the cortex, providing brief windows in which the two regions can communicate. In this view, the hippocampus acts rather like a notebook for the day's events, and sleep is the time when the important notes are copied into a permanent file. Over weeks and months, memories that have been copied in this way become less and less dependent on the hippocampus."
+      },
+      {
+        "label": "F",
+        "text": "Sleep does not, however, strengthen every memory equally. Experiments suggest that the brain gives priority to information that is expected to be useful in the future. In one study, volunteers who were told after learning that they would be tested later remembered significantly more after a night's sleep than those who were not told, even though both groups had learned exactly the same material. Emotional memories also seem to receive special treatment, and some researchers believe that REM sleep in particular helps to preserve the content of an emotional event while gradually reducing the strong feelings attached to it."
+      },
+      {
+        "label": "G",
+        "text": "These findings have obvious implications for students, who often sacrifice sleep before examinations. A night without sleep after learning reduces later recall, and the damage is not fully repaired by sleeping well the following night. Researchers also note that a short daytime nap can produce some of the same benefits, provided it includes a period of slow-wave sleep. Some laboratories have gone further, trying to enhance consolidation directly. Playing quiet sounds that match the rhythm of slow brain waves, for example, has been shown to deepen slow-wave sleep and improve memory in small groups of volunteers. Most researchers, however, warn against commercial devices that promise similar results, pointing out that the effects so far are modest and have been tested only under carefully controlled conditions."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-headings",
+        "instructions": "Questions 1–6\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for paragraphs B–G from the list of headings below.\nWrite the correct number, i–ix.",
+        "title": "List of Headings",
+        "options": [
+          { "key": "i", "text": "The brain's selection of what to keep" },
+          { "key": "ii", "text": "Disagreement over the purpose of dreams" },
+          { "key": "iii", "text": "An early finding explained as protection from disturbance" },
+          { "key": "iv", "text": "Evidence of the brain repeating recent activity" },
+          { "key": "v", "text": "Health risks of long-term sleep loss" },
+          { "key": "vi", "text": "The repeating pattern of a night's sleep" },
+          { "key": "vii", "text": "Promising methods that still need careful testing" },
+          { "key": "viii", "text": "Why animals need more sleep than humans" },
+          { "key": "ix", "text": "How information may move to permanent storage" }
+        ],
+        "items": [
+          {
+            "id": "q1",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph B",
+            "answer": "iii",
+            "evidence": "it protected new memories from interference",
+            "explanation": "B describes the 1924 study (an early finding) and its explanation: sleep 'protected new memories from interference' (= protection from disturbance)."
+          },
+          {
+            "id": "q2",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph C",
+            "answer": "vi",
+            "evidence": "a night's sleep consists of repeated cycles, each lasting roughly ninety minutes",
+            "explanation": "C describes the structure of sleep: 'repeated cycles' of light, deep and REM sleep (= the repeating pattern). Dreams are mentioned only in passing, so ii is wrong."
+          },
+          {
+            "id": "q3",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph D",
+            "answer": "iv",
+            "evidence": "as if the brain were replaying the route",
+            "explanation": "D reports that firing patterns from the maze 'reappeared' during sleep: the brain repeats recent activity. Heading viii is a trap: rats appear, but their sleep needs are not discussed."
+          },
+          {
+            "id": "q4",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph E",
+            "answer": "ix",
+            "evidence": "this replay allows information to be transferred gradually from the hippocampus, which stores new experiences only temporarily, to the neocortex",
+            "explanation": "E explains the transfer from temporary storage (hippocampus) to the neocortex 'where long-term knowledge is kept' (= permanent storage)."
+          },
+          {
+            "id": "q5",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph F",
+            "answer": "i",
+            "evidence": "the brain gives priority to information that is expected to be useful in the future",
+            "explanation": "F argues that sleep 'does not strengthen every memory equally': the brain selects useful and emotional memories."
+          },
+          {
+            "id": "q6",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph G",
+            "answer": "vii",
+            "evidence": "the effects so far are modest and have been tested only under carefully controlled conditions",
+            "explanation": "G presents sound techniques that improve memory (promising) but warns the effects are modest and only tested in controlled conditions (need careful testing). v is a trap: G mentions one night without sleep, not long-term sleep loss."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 7–10\nChoose the correct letter, A, B, C or D.",
+        "items": [
+          {
+            "id": "q7",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Jenkins and Dallenbach believed that sleep improved recall because",
+            "options": [
+              "it prevented new information from disturbing recent memories.",
+              "it actively strengthened the links between memories.",
+              "the students were less tired when they were tested.",
+              "the students had more time to repeat the syllables."
+            ],
+            "answer": 0,
+            "evidence": "a sleeping person was not taking in fresh information that might push out what had just been learned",
+            "explanation": "Their explanation was passive: no 'fresh information' could 'push out' new learning (A). They explicitly said sleep did not do 'anything positive', which rules out B.",
+            "optionNotes": [
+              "Correct.",
+              "This is the later, active view, which they rejected ('not because it did anything positive').",
+              "Tiredness is not mentioned.",
+              "Not mentioned."
+            ]
+          },
+          {
+            "id": "q8",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What does the writer say about deep sleep?",
+            "options": [
+              "It is the stage when most dreams take place.",
+              "It lasts approximately ninety minutes.",
+              "It mostly occurs in the first half of the night.",
+              "It becomes longer as morning approaches."
+            ],
+            "answer": 2,
+            "evidence": "Deep sleep is concentrated in the early part of the night",
+            "explanation": "'Concentrated in the early part of the night' = mostly in the first half (C). Dreams (A) and getting longer towards morning (D) describe REM sleep; ninety minutes (B) is the length of a whole cycle.",
+            "optionNotes": [
+              "This describes REM sleep.",
+              "Ninety minutes is the length of a whole cycle.",
+              "Correct.",
+              "This describes REM periods."
+            ]
+          },
+          {
+            "id": "q9",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "In the studies of rats, how did the patterns recorded during sleep differ from those recorded in the maze?",
+            "options": [
+              "They occurred in the reverse order.",
+              "They happened at a higher speed.",
+              "They involved a different group of cells.",
+              "They appeared only during REM sleep."
+            ],
+            "answer": 1,
+            "evidence": "the same patterns reappeared, in the same order but several times faster",
+            "explanation": "The only difference stated is speed: 'several times faster' (B). The order was the same (not A), the patterns were 'the same' (not C), and they appeared in slow-wave sleep, not REM (not D).",
+            "optionNotes": [
+              "The text says 'in the same order'.",
+              "Correct.",
+              "The text says 'the same patterns'.",
+              "They appeared in slow-wave sleep."
+            ]
+          },
+          {
+            "id": "q10",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What did the study described in paragraph F show?",
+            "options": [
+              "People remember emotional material better than neutral material.",
+              "Expecting a test can increase the benefit that sleep gives to memory.",
+              "People who learn more material need more sleep.",
+              "REM sleep makes unpleasant memories disappear."
+            ],
+            "answer": 1,
+            "evidence": "volunteers who were told after learning that they would be tested later remembered significantly more after a night's sleep than those who were not told",
+            "explanation": "The group that expected a test remembered more after sleep (B). Emotional memories are mentioned separately and not as the result of this study (A); REM reduces the feelings, not the memory itself (D).",
+            "optionNotes": [
+              "Emotional memories are mentioned, but not compared with neutral material in this study.",
+              "Correct.",
+              "Not stated; both groups learned the same material.",
+              "REM keeps the content and reduces the feelings; the memory does not disappear."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "summary-completion",
+        "instructions": "Questions 11–13\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.",
+        "title": "Moving memories",
+        "template": "The hippocampus holds new experiences for only a short time, while long-term knowledge is stored in the {{q11}}. In deep sleep, bursts of activity in the hippocampus seem to be {{q12}} with slower rhythms in the cortex, allowing the two areas to communicate for short periods. The writer compares the hippocampus to a {{q13}} whose important contents are copied into a permanent file during sleep.",
+        "items": [
+          {
+            "id": "q11",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["neocortex"],
+            "maxWords": 1,
+            "evidence": "to the neocortex, the outer layer of the brain, where long-term knowledge is kept",
+            "explanation": "Long-term knowledge 'is kept' in the neocortex. 'Cortex' alone appears later, but the passage names the storage area as the 'neocortex'."
+          },
+          {
+            "id": "q12",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["coordinated", "co-ordinated"],
+            "maxWords": 1,
+            "evidence": "bursts of activity in the hippocampus appear to be coordinated with slower rhythms in the cortex",
+            "explanation": "'Appear to be coordinated' = 'seem to be coordinated'. 'Brief windows' = 'short periods'."
+          },
+          {
+            "id": "q13",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["notebook"],
+            "maxWords": 1,
+            "evidence": "the hippocampus acts rather like a notebook for the day's events",
+            "explanation": "The comparison ('acts rather like') is with a notebook. 'File' is the place the notes are copied to, not the hippocampus."
+          }
+        ]
+      }
+    ]
+  }
+]

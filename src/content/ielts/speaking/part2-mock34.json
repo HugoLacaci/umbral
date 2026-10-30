@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ielts-p2-m3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "topic": "A piece of advice you received",
+    "cue": "Describe a useful piece of advice that someone gave you.",
+    "bullets": [
+      "who gave you the advice",
+      "what the advice was",
+      "when you received it"
+    ],
+    "closing": "and explain why it was useful to you.",
+    "followUps": [
+      "Do you often ask other people for advice?"
+    ],
+    "sampleAnswer": "I'd like to talk about some advice I was given by a teacher when I was about seventeen, in my last year of secondary school. She taught us history, and she was known for being quite strict, but she was also the person most students went to when they had a problem. At the time, I was completely overwhelmed. I had exams coming up, I was trying to decide which degree to apply for, and I'd convinced myself that if I made the wrong choice, my whole life would be ruined. One afternoon I stayed behind after class and more or less poured all of this out to her. She listened for a while, and then she said something that has stayed with me ever since. She told me that very few decisions are as permanent as they feel, and that most of the time the important thing is not to make the perfect choice, but to make a reasonable choice and then commit to it properly. She also pointed out that she herself had started out studying law and switched to history after two years, and that nobody had held it against her. It sounds simple, but it was exactly what I needed to hear. It took an enormous amount of pressure off me. I stopped going round in circles, chose a degree that genuinely interested me, and concentrated on my exams. Since then, I've used that advice many times, for example when I was deciding whether to move abroad for a job. Whenever I find myself frozen by a decision, I remind myself that I can usually adjust my path later, and that not deciding at all is often the worst option. I think the reason it was so useful is that it changed the way I think about choices in general, not just that particular one."
+  },
+  {
+    "id": "ielts-p2-m4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "topic": "A place that has changed",
+    "cue": "Describe a place you know well that has changed a lot.",
+    "bullets": [
+      "where it is",
+      "what it was like before",
+      "how it has changed"
+    ],
+    "closing": "and explain how you feel about these changes.",
+    "followUps": [
+      "Do you think the changes will continue in the future?"
+    ],
+    "sampleAnswer": "The place I'd like to describe is the old port area of the city where I grew up, which is on the coast. When I was a child, it was a fairly rundown industrial zone. There were warehouses, a lot of them empty, rusty cranes, and a few fish-processing plants, and it smelt strongly of diesel and fish. My parents used to warn me not to go there on my own because it was quite deserted in the evenings, and it had a reputation for being a bit dangerous. Over the last fifteen years or so, though, it's been completely transformed. The city council decided to regenerate the whole area, so most of the warehouses were either demolished or converted. Some of them are now restaurants and bars, one has become a contemporary art gallery, and another houses a covered food market that's always packed at the weekend. They also built a long promenade along the water, with cycle lanes and benches, and planted hundreds of trees. A few of the old cranes were kept and painted bright colours as a reminder of the area's history, which I think was a nice touch. These days it's one of the most popular places in the city, both for locals and for tourists. I have mixed feelings about it, to be honest. On the one hand, it's wonderful that an area that used to be neglected is now so lively and safe, and I love walking along the promenade when I go back to visit my family. On the other hand, the regeneration has pushed up prices enormously. Many of the families who used to live in the streets nearby, often fishermen and dock workers, couldn't afford to stay, and the area has lost some of its character. So I'm glad it changed, but I wish the changes had benefited the original residents a bit more."
+  }
+]

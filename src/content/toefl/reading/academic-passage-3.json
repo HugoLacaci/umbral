@@ -1,0 +1,462 @@
+[
+  {
+    "id": "toefl-ap-17",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Governing Shared Resources",
+    "text": "For much of the twentieth century, economists and policymakers widely assumed that resources held in common, such as grazing land, fisheries, or groundwater, were doomed to overuse. The reasoning was straightforward: each user captures the full benefit of taking an additional unit of the resource but bears only a fraction of the resulting damage, which is shared by everyone. Individually rational choices therefore aggregate into collective ruin. The standard remedies followed from this diagnosis: either the state should regulate access, or the resource should be divided into private property whose owners would have an incentive to conserve it.\n\nField research complicated this picture considerably. Studies of alpine meadows, irrigation systems, and coastal fisheries documented communities that had managed shared resources sustainably for centuries without either outside regulation or privatization. Comparing such cases, the political economist Elinor Ostrom identified recurring features of durable arrangements: clearly defined boundaries, rules adapted to local conditions, monitoring by users themselves or by people accountable to them, graduated penalties for violations, and inexpensive means of resolving conflicts.\n\nOstrom did not claim that communal management always succeeds; her own work catalogued many failures. Her point was rather that the outcome is not predetermined by the nature of the resource. Where users can communicate, build trust, and enforce agreements, self-governance may outperform solutions imposed from outside, which often disregard local knowledge and undermine existing institutions.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Shared resources are always overused unless the state regulates them.",
+          "Ostrom proved that communal management of resources never fails.",
+          "Private property is the most effective way to conserve fisheries.",
+          "Research showed that communities can sometimes manage shared resources well, challenging the belief that overuse is inevitable."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "This is the older assumption that the passage goes on to challenge.",
+          "Contradicted: Ostrom's own work catalogued many failures.",
+          "Not claimed: privatization is only one of the standard remedies described.",
+          "Correct: field research and Ostrom's analysis showed that overuse is not predetermined."
+        ],
+        "explanation": "Paragraph 1 states the old assumption, paragraph 2 presents counter-evidence, and paragraph 3 clarifies Ostrom's actual claim: the outcome is not predetermined.",
+        "evidence": "Her point was rather that the outcome is not predetermined by the nature of the resource."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, why was overuse of shared resources considered inevitable?",
+        "options": [
+          "Each user gains the whole benefit of extra use but bears only part of the damage.",
+          "Governments refused to regulate common resources.",
+          "Users did not know how resources could be renewed.",
+          "Shared resources were usually far from the communities that used them."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: benefits are private while the damage is shared, so each user is tempted to take more.",
+          "Not stated: state regulation is presented as a remedy, not as something refused.",
+          "Not mentioned: the problem is incentives, not knowledge.",
+          "Not mentioned in the passage."
+        ],
+        "explanation": "The \"straightforward\" reasoning is that each user gets the full benefit but only a fraction of the cost of taking more.",
+        "evidence": "each user captures the full benefit of taking an additional unit of the resource but bears only a fraction of the resulting damage"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"aggregate\" in the passage is closest in meaning to",
+        "options": [
+          "compete",
+          "add up",
+          "break down",
+          "turn back"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not the meaning; the sentence describes a combined result, not rivalry.",
+          "Correct: many individual choices add up to a collective outcome.",
+          "Opposite: the choices combine rather than separate.",
+          "Not the meaning; nothing is reversed."
+        ],
+        "explanation": "The sentence contrasts \"individually\" with \"collective\": individual choices combine, or add up, into ruin for everyone.",
+        "evidence": "Individually rational choices therefore aggregate into collective ruin."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "Which of the following would Ostrom most likely predict about a fishery where an outside agency imposes uniform national rules?",
+        "options": [
+          "It will succeed because users no longer need to monitor one another.",
+          "It will inevitably collapse.",
+          "It may perform worse if the rules ignore local knowledge and weaken existing institutions.",
+          "It will eventually be divided into private property."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: monitoring by users is one of the features of durable arrangements.",
+          "Too strong: Ostrom's point is that outcomes are not predetermined.",
+          "Correct: imposed solutions often disregard local knowledge and undermine existing institutions.",
+          "Not supported: nothing suggests Ostrom predicted privatization."
+        ],
+        "explanation": "Uniform national rules are an example of a solution imposed from outside; Ostrom warned that such solutions may do worse because they ignore local conditions.",
+        "evidence": "solutions imposed from outside, which often disregard local knowledge and undermine existing institutions"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that Ostrom's \"own work catalogued many failures\"?",
+        "options": [
+          "To suggest that Ostrom's research was unreliable",
+          "To support the view that private property is superior",
+          "To show that the field studies in paragraph 2 were exaggerated",
+          "To make clear that Ostrom's argument did not claim that communal management always works"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Opposite: recording failures shows careful research, not unreliability.",
+          "Not argued: the failures do not lead to support for privatization.",
+          "Not stated: the author does not question those studies.",
+          "Correct: the detail prevents readers from overstating her claim."
+        ],
+        "explanation": "The sentence begins \"Ostrom did not claim that communal management always succeeds\"; the failures support this clarification of her more limited argument.",
+        "evidence": "Ostrom did not claim that communal management always succeeds; her own work catalogued many failures."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Missing Mass of Galaxies",
+    "text": "In a system governed by gravity, the speed at which an object orbits depends on how much mass lies inside its orbit. In the solar system, where nearly all the mass is concentrated in the Sun, distant planets move far more slowly than nearby ones: Neptune travels at roughly one-ninth the orbital speed of Mercury. Astronomers in the mid-twentieth century expected spiral galaxies to behave similarly. Because most of a galaxy's visible stars are clustered toward its center, stars and gas in the outer regions should orbit more slowly.\n\nMeasurements contradicted this expectation. Beginning in the 1970s, observations of hydrogen gas far beyond the visible edges of galaxies showed that orbital speeds remain nearly constant with distance, a pattern described as a flat rotation curve. If the visible matter were all there was, material at such speeds would escape into intergalactic space. The most widely accepted interpretation is that each galaxy is embedded in a vast halo of matter that emits no detectable light and reveals itself solely through its gravitational pull.\n\nThis so-called dark matter has since been invoked to explain other phenomena, including the motions of galaxies within clusters and the bending of light from distant sources. Its nature, however, remains unknown, and repeated attempts to detect its particles directly have so far failed. A minority of researchers therefore argue that the law of gravity itself must be modified at very low accelerations, though such proposals have struggled to account for all the observations that dark matter explains.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Unexpected orbital speeds in galaxies led astronomers to propose invisible dark matter, whose nature is still debated.",
+          "Spiral galaxies rotate in the same way as the solar system.",
+          "Dark matter particles were first detected directly in the 1970s.",
+          "The law of gravity has been shown to be incorrect."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the passage moves from the expected rotation, to the surprising measurements, to dark matter and the open debate.",
+          "Contradicted: measurements showed galaxies do not behave like the solar system.",
+          "Contradicted: attempts to detect the particles directly have failed.",
+          "Too strong: only a minority argue gravity must be modified, and their proposals have struggled."
+        ],
+        "explanation": "The passage presents an expectation, the observations that contradicted it, the dark matter interpretation, and the remaining uncertainty.",
+        "evidence": "The most widely accepted interpretation is that each galaxy is embedded in a vast halo of matter that emits no detectable light"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention Neptune and Mercury?",
+        "options": [
+          "To suggest that the solar system contains dark matter",
+          "To illustrate how orbital speed falls with distance when most mass is at the center",
+          "To compare the sizes of two planets",
+          "To explain how astronomers observe hydrogen gas"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Opposite: the solar system is the example of a system where visible mass explains the speeds.",
+          "Correct: the outer planet moves much more slowly, which is what astronomers expected for galaxies too.",
+          "Size is not mentioned; the comparison concerns speed.",
+          "Hydrogen gas is discussed in paragraph 2 and has no connection to these planets."
+        ],
+        "explanation": "The planets provide a concrete example of the principle in the first sentence, which sets up the expectation for galaxies.",
+        "evidence": "Neptune travels at roughly one-ninth the orbital speed of Mercury"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, what would happen if galaxies contained only visible matter?",
+        "options": [
+          "Their outer stars would orbit faster than their inner stars.",
+          "Their hydrogen gas would become visible.",
+          "Material in their outer regions moving at the observed speeds would escape into space.",
+          "They would collapse toward their centers."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not stated: the passage says outer material should orbit more slowly.",
+          "Not mentioned in the passage.",
+          "Correct: without extra mass, there would not be enough gravity to hold this fast-moving material.",
+          "Opposite: the danger described is escape, not collapse."
+        ],
+        "explanation": "The conditional sentence states that if visible matter were all there was, material at such speeds would escape into intergalactic space.",
+        "evidence": "If the visible matter were all there was, material at such speeds would escape into intergalactic space."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"itself\" in paragraph 2 refers to",
+        "options": [
+          "a galaxy",
+          "hydrogen gas",
+          "a rotation curve",
+          "a vast halo of matter"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The galaxy is embedded in the halo; it is visible, so it does not reveal itself only through gravity.",
+          "Hydrogen gas can be observed; it is not described as invisible.",
+          "A rotation curve is a pattern of measurements, not something with a gravitational pull.",
+          "Correct: the halo emits no light and reveals itself only through its gravity."
+        ],
+        "explanation": "The relative clause \"that emits no detectable light and reveals itself…\" describes the halo of matter.",
+        "evidence": "a vast halo of matter that emits no detectable light and reveals itself solely through its gravitational pull"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"invoked\" in the passage is closest in meaning to",
+        "options": [
+          "rejected",
+          "called upon",
+          "measured",
+          "concealed"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Opposite: dark matter is used to explain these phenomena.",
+          "Correct: scientists have called upon dark matter as an explanation for other phenomena.",
+          "Not the meaning; dark matter has not been measured directly.",
+          "Not the meaning; nothing is hidden."
+        ],
+        "explanation": "\"Invoked to explain\" means used or called upon as an explanation.",
+        "evidence": "has since been invoked to explain other phenomena"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-19",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Compromise of Equal Temperament",
+    "text": "Musical intervals that sound especially harmonious correspond to simple ratios between frequencies. An octave doubles the frequency of a note, while a perfect fifth multiplies it by three-halves. The difficulty is that these ratios are mathematically incompatible. Stacking twelve pure fifths should, in principle, return a note to its starting point several octaves higher, but the result overshoots by a small discrepancy, roughly a quarter of a semitone. Any keyboard instrument with fixed pitches must therefore distribute this error somewhere.\n\nEarlier tuning systems concentrated the discrepancy in a few intervals, leaving the commonly used keys beautifully pure but rendering certain remote keys virtually unusable; one fifth in particular sounded so harsh that musicians nicknamed it the wolf. Composers working with such instruments largely confined themselves to a limited set of keys, and the choice of key carried a distinctive emotional color, since each key was tuned slightly differently.\n\nEqual temperament spreads the discrepancy evenly across all twelve fifths, so that every semitone is identical. No interval except the octave is perfectly pure, yet none is badly out of tune, and music can modulate freely into any key. Although the system was described mathematically by the late sixteenth century, it became standard for keyboards only gradually, in the nineteenth century. Its triumph came at a price that some musicians still regret: the subtle differences of character among keys largely disappeared.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, why must keyboard instruments distribute an error in their tuning?",
+        "options": [
+          "Twelve pure fifths do not exactly match a whole number of octaves.",
+          "Keyboard strings gradually lose their tension.",
+          "Octaves cannot be tuned purely on a keyboard.",
+          "Perfect fifths are harder to hear than octaves."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: stacking twelve pure fifths overshoots the octave by a small discrepancy.",
+          "Not mentioned in the passage.",
+          "Contradicted: in equal temperament the octave remains perfectly pure.",
+          "Not mentioned: the problem is mathematical, not perceptual."
+        ],
+        "explanation": "The two ratios are incompatible: twelve fifths should equal several octaves but overshoot, so a fixed-pitch instrument must place that error somewhere.",
+        "evidence": "Stacking twelve pure fifths should, in principle, return a note to its starting point several octaves higher, but the result overshoots by a small discrepancy"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"it\" in the phrase \"musicians nicknamed it the wolf\" refers to",
+        "options": [
+          "a remote key",
+          "one particular fifth",
+          "the discrepancy",
+          "the keyboard instrument"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Remote keys were unusable, but the nickname is given to a single interval.",
+          "Correct: one fifth sounded so harsh that it was called the wolf.",
+          "The discrepancy was concentrated in this fifth, but the nickname names the interval that sounded harsh.",
+          "The instrument is not mentioned in this clause."
+        ],
+        "explanation": "The sentence says \"one fifth in particular sounded so harsh that musicians nicknamed it the wolf\"; the pronoun refers to that fifth.",
+        "evidence": "one fifth in particular sounded so harsh that musicians nicknamed it the wolf"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 2 about composers who used earlier tuning systems?",
+        "options": [
+          "They frequently wrote music that moved through all twelve keys.",
+          "They regarded the wolf fifth as the most expressive interval.",
+          "They probably avoided keys in which the harshest intervals would be heard.",
+          "They preferred equal temperament but were unable to achieve it."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: they confined themselves to a limited set of keys.",
+          "Not supported: the wolf is described as harsh, not expressive.",
+          "Correct: remote keys were virtually unusable, so composers stayed within the keys that sounded good.",
+          "Not supported: equal temperament was already described mathematically, and nothing suggests composers wanted it."
+        ],
+        "explanation": "Since remote keys contained the harsh intervals and composers limited themselves to a set of keys, we can infer they avoided those harsh keys.",
+        "evidence": "Composers working with such instruments largely confined themselves to a limited set of keys"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"modulate\" in the passage is closest in meaning to",
+        "options": [
+          "perform",
+          "compose",
+          "resolve",
+          "shift"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not the meaning; the sentence is about moving between keys, not performing.",
+          "Not the meaning; composing is not done \"into\" a key.",
+          "Not the meaning in this context.",
+          "Correct: music can shift from one key into any other."
+        ],
+        "explanation": "With every key equally in tune, music can move (shift) freely \"into any key\".",
+        "evidence": "music can modulate freely into any key"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that some musicians \"still regret\" the triumph of equal temperament?",
+        "options": [
+          "To argue that equal temperament should be abandoned",
+          "To point out that the system's advantages came with a real loss",
+          "To explain why the system was adopted so slowly",
+          "To show that equal temperament is badly out of tune"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Too strong: the author reports a regret but does not argue for abandoning the system.",
+          "Correct: the regret concerns the disappearance of the different characters of keys.",
+          "Distorted: slow adoption is mentioned, but the regret explains a cost, not the delay.",
+          "Contradicted: no interval in equal temperament is badly out of tune."
+        ],
+        "explanation": "The sentence names the price: the subtle differences of character among keys largely disappeared.",
+        "evidence": "the subtle differences of character among keys largely disappeared"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Trophic Cascades",
+    "text": "Ecologists long tended to view ecosystems as controlled from the bottom up: the amount of plant growth, determined by sunlight, water, and nutrients, set limits on the herbivores that ate the plants, which in turn limited the predators above them. Beginning in the 1960s, however, a series of experiments suggested that influence can also flow in the opposite direction, so that predators at the top of a food chain indirectly regulate the abundance of plants at its base. Such chains of indirect effects are termed trophic cascades.\n\nAmong the most frequently cited examples is that of sea otters along the Pacific coast of North America. Otters prey on sea urchins, which graze on kelp, a large brown alga that forms dense underwater forests. Where otters were hunted nearly to extinction for their fur, urchin populations multiplied and consumed kelp so thoroughly that forests gave way to bare rocky seafloor, known as urchin barrens. Where otters were protected or returned, urchins declined and kelp recovered, along with the fish and invertebrates that shelter in it.\n\nThe concept has proved powerful but also prone to oversimplification. Cascades are typically strongest in relatively simple food chains, such as those in many aquatic systems; in species-rich terrestrial communities, where herbivores face multiple predators and predators have alternative prey, the effects of removing a single species are often diluted. Accordingly, attributing a dramatic landscape change to one predator generally requires careful evidence ruling out other causes.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Plant growth is the only factor that controls the number of predators.",
+          "Predators can indirectly control plant abundance, although the strength of such effects varies and is easily overstated.",
+          "Sea otters are the most important predators in the world's oceans.",
+          "Trophic cascades are strongest in species-rich land communities."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Contradicted: this older bottom-up view is the one the passage qualifies.",
+          "Correct: the passage defines trophic cascades, gives an example, and warns against oversimplification.",
+          "Too broad: otters are one well-known example, not ranked against all ocean predators.",
+          "Opposite: cascades are strongest in simple food chains and diluted in species-rich land communities."
+        ],
+        "explanation": "Paragraph 1 introduces top-down control, paragraph 2 illustrates it with otters, and paragraph 3 limits the claim.",
+        "evidence": "predators at the top of a food chain indirectly regulate the abundance of plants at its base"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"it\" in the phrase \"shelter in it\" refers to",
+        "options": [
+          "the rocky seafloor",
+          "the urchin population",
+          "kelp",
+          "the Pacific coast"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The bare seafloor is what replaced the kelp forests; the fish shelter in the recovered kelp.",
+          "Fish do not shelter inside an urchin population.",
+          "Correct: fish and invertebrates return along with the kelp forests they shelter in.",
+          "The coast is not mentioned in this sentence."
+        ],
+        "explanation": "The sentence says kelp recovered \"along with the fish and invertebrates that shelter in it\": the kelp forest provides their habitat.",
+        "evidence": "along with the fish and invertebrates that shelter in it"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author describe what happened where otters were hunted and where they were protected?",
+        "options": [
+          "To argue that all hunting of marine mammals should be banned",
+          "To show that sea urchins prey on otters",
+          "To illustrate how plant growth controls the animals above it",
+          "To show how changes in the number of a top predator affected kelp through its effect on urchins"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "No policy argument is made.",
+          "Opposite: otters prey on urchins.",
+          "Opposite: the example shows top-down, not bottom-up, control.",
+          "Correct: the two contrasting cases show a trophic cascade: fewer otters, more urchins, less kelp, and the reverse."
+        ],
+        "explanation": "The contrasting cases work like a natural experiment demonstrating the top-down chain of effects defined in paragraph 1.",
+        "evidence": "Where otters were protected or returned, urchins declined and kelp recovered"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"diluted\" in the passage is closest in meaning to",
+        "options": [
+          "weakened",
+          "reversed",
+          "delayed",
+          "concealed"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: with many predators and alternative prey, the effect of losing one species is weaker.",
+          "Not the meaning; the effects do not change direction.",
+          "Not the meaning; timing is not discussed.",
+          "Tempting, but the effects are not hidden; they are smaller."
+        ],
+        "explanation": "The contrast is with simple food chains, where cascades are \"strongest\"; in complex communities the effects are weaker.",
+        "evidence": "the effects of removing a single species are often diluted"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 3 about removing one predator from a forest with many species of predators and prey?",
+        "options": [
+          "The forest's plants would disappear rapidly.",
+          "The effect on plants might be small because other predators could continue to limit the herbivores.",
+          "The total number of predators in the forest would increase.",
+          "The effect would be stronger than in a typical aquatic system."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Too extreme: in species-rich communities the effects are diluted.",
+          "Correct: herbivores face multiple predators, so losing one predator changes less.",
+          "Not supported by the passage.",
+          "Opposite: cascades are typically strongest in simple aquatic food chains."
+        ],
+        "explanation": "When herbivores face multiple predators, the remaining predators can still control them, so the cascade from removing one predator is weak.",
+        "evidence": "in species-rich terrestrial communities, where herbivores face multiple predators and predators have alternative prey, the effects of removing a single species are often diluted"
+      }
+    ]
+  }
+]

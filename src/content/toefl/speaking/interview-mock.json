@@ -1,0 +1,44 @@
+[
+  {
+    "id": "toefl-interview-m1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "topic": "Remote work",
+    "intro": "Hello, and thank you for agreeing to talk with me. I'm a researcher studying how remote work is changing people's lives, and I'd like to ask you some questions about it.",
+    "interviewer": { "id": "int", "name": "Dr. Sarah Mitchell", "role": "Workplace researcher", "gender": "f", "accent": "en-US" },
+    "questions": [
+      "Have you ever worked or studied from home for a long period? What was it like?",
+      "What do you think is the biggest challenge for people who work from home?",
+      "Some managers believe employees are less productive when they work from home. Do you agree? Why or why not?",
+      "How do you think the growth of remote work will change cities in the future? Explain your ideas."
+    ],
+    "sampleAnswers": [
+      "Yes, for about a year all my university classes were online, so I studied from home every day. At first I really liked it, because I didn't have to commute and I could wake up later. But after a few months it became harder. My desk was in my bedroom, so I never really felt like I left work. I also missed talking to classmates before and after class. To cope, I started going for a walk every morning, as if I were travelling to campus, and that small routine helped me separate my study time from my free time.",
+      "I'd say the biggest challenge is isolation. When you work from home, you lose those small, informal conversations with colleagues, like chatting in the kitchen or asking a quick question at someone's desk. Those moments build relationships and help you learn. My sister works remotely for a software company, and she says that when she started, she felt like she didn't really know anyone on her team. Her company now organises a meeting in person once a month and short online coffee chats, and she says it has made a big difference to how connected she feels.",
+      "I don't fully agree. For tasks that need concentration, like writing reports or programming, many people are actually more productive at home, because there are fewer interruptions and no time lost commuting. But it depends a lot on the person and the job. Some people struggle with self-discipline, and jobs that depend on constant collaboration may suffer. I think the problem is that some managers measure productivity by seeing people at their desks, rather than by looking at results. If managers set clear goals and check the outcomes, remote workers can be just as productive, or even more.",
+      "I think remote work could change cities quite a lot. If people only go to the office two or three days a week, companies might need less office space, so some office buildings in city centres could be turned into apartments, which might help with the housing shortage. At the same time, neighbourhoods where people live might become livelier, with more cafés and co-working spaces. Some people may even move to smaller towns, since they don't need to commute every day. On the negative side, businesses in city centres, like restaurants that depend on office workers, might struggle unless they adapt."
+    ]
+  },
+  {
+    "id": "toefl-interview-m2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "topic": "Artificial intelligence in education",
+    "intro": "Hi, thanks for your time. I'm a reporter for the campus newspaper, and I'm writing a story about how artificial intelligence is being used in education.",
+    "interviewer": { "id": "int", "name": "Ethan Clarke", "role": "Campus newspaper reporter", "gender": "m", "accent": "en-GB" },
+    "questions": [
+      "Have you ever used an artificial intelligence tool for your studies? How did you use it?",
+      "What do you think teachers worry about most when students use these tools?",
+      "Some people think universities should ban students from using artificial intelligence for assignments. Do you agree? Why or why not?",
+      "In the future, do you think artificial intelligence could replace human teachers? Explain your view."
+    ],
+    "sampleAnswers": [
+      "Yes, I've used a chatbot a few times, mostly to help me understand difficult concepts. For example, in my economics course I didn't understand the idea of opportunity cost, so I asked the tool to explain it with simple examples from student life. That helped a lot. I've also used it to check my grammar in English essays and to suggest how to organise my ideas. But I don't use it to write my assignments, partly because it's not allowed, and partly because it sometimes gives wrong information with total confidence, so I always double-check what it says with my textbook.",
+      "I think their biggest worry is that students will use these tools to do the work for them instead of learning. If a student asks a program to write a whole essay, they might get a decent grade but learn nothing about researching or structuring an argument. Teachers also worry about fairness, because it's hard to tell who wrote what. One of my professors mentioned that she's had to change her assignments completely. Now she asks us to write the first draft in class, and to explain our process in a short reflection, so she can see our own thinking.",
+      "I don't think a total ban is realistic or helpful. These tools are already everywhere, and students will use them in their future jobs, so it makes more sense to teach them how to use them responsibly. A ban would also be almost impossible to enforce. Instead, universities should set clear rules, for example allowing artificial intelligence for brainstorming or checking grammar, but requiring students to say when and how they used it. My department did this last year, and I think it worked well, because it made expectations clear and encouraged honesty rather than hiding.",
+      "I don't think it could completely replace human teachers, at least not in the foreseeable future. Artificial intelligence can be great for explaining facts, giving practice exercises, and providing instant feedback, which might allow students to learn some content on their own. But teaching is much more than delivering information. Good teachers motivate students, notice when someone is struggling emotionally, and help them develop values and social skills. I still remember a high school teacher who convinced me to keep studying when I wanted to quit. A machine couldn't really do that. So I see it as a powerful assistant for teachers, not a replacement."
+    ]
+  }
+]

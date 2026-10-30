@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ielts-l-m1-p4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "part": 4,
+    "title": "The economics of overtourism",
+    "context": "You will hear part of an economics lecture about the costs of mass tourism and how cities try to manage them.",
+    "audio": {
+      "speakers": [
+        { "id": "lec", "name": "Professor James Whitfield", "role": "lecturer", "gender": "m", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "lec", "t": "Good afternoon, everyone. Today's lecture applies some of the ideas we've covered this term to a very visible problem, and that's what's often called overtourism. You've probably seen the images of crowded squares in Venice or Barcelona, but I want to look at the issue as economists, asking who pays the costs of tourism and what tools are available to manage them." },
+        { "s": "lec", "t": "Tourism brings obvious benefits. It creates jobs, it supports local businesses, and it brings in foreign currency. But it also creates costs that aren't reflected in the price a tourist pays. When a visitor buys a hotel room or a meal, the price covers the hotel's or the restaurant's costs. It doesn't cover the extra traffic, the noise, the litter, or the wear on public spaces. These costs fall on residents, and economists call them externalities." },
+        { "s": "lec", "t": "One externality that has received a lot of attention recently is housing. When apartments in a city centre are converted into short-term holiday rentals, there are fewer homes available for local people, and that pushes up rents. In some popular neighbourhoods, long-term residents have been forced to move out altogether, and the area gradually loses its local character, which ironically was what attracted tourists in the first place." },
+        { "s": "lec", "t": "In a sense, a historic city centre behaves like a shared resource. No single visitor causes the problem, but when everyone acts in their own interest, the resource is overused. This is a classic example of what's known as the tragedy of the commons, a concept we discussed in week three in relation to fishing." },
+        { "s": "lec", "t": "So what can be done? The most common tool is the tourist tax, usually a small charge added to each night in a hotel. Now, you might expect this to reduce visitor numbers, but the evidence suggests it doesn't, at least not much. For most travellers, a few euros a night is a tiny part of the total cost of a trip, so in economic terms, demand is fairly inelastic. That means the tax isn't very effective at reducing crowds, but it is good at raising money, which can be spent on maintenance of streets, parks and historic buildings." },
+        { "s": "lec", "t": "A bigger problem for many cities is day visitors, especially passengers from cruise ships. They arrive in large numbers at the same time, they don't pay for accommodation, so they avoid hotel taxes completely, and they often eat on board. So they spend relatively little but contribute a great deal to crowding. Some cities have responded by introducing an entry fee for day visitors on the busiest days." },
+        { "s": "lec", "t": "A more direct approach is to cap numbers. Some popular sites now limit how many people can enter each day. Visitors have to book a time slot in advance, often online, and once the slots are gone, that's it. Economists tend to point out that this rations access rather than pricing it, but it does give certainty about crowd levels." },
+        { "s": "lec", "t": "The final strategy is dispersal, spreading visitors out in space and time. Tourist boards promote lesser-known towns and regions, and they encourage travel in the shoulder season, which is the period between the peak and the low season, typically spring and autumn. The weather is still pleasant, prices are lower, and local businesses get income for more of the year." },
+        { "s": "lec", "t": "Before we finish, I need to mention one more issue, which affects whether tourism really benefits a destination at all. A large share of tourist spending may never reach the local economy. If a visitor books through an international website, stays in a hotel owned by a foreign chain and eats imported food, much of the money flows abroad. This is known as leakage, and in some small island economies, it's estimated that more than half of tourist spending is lost in this way." },
+        { "s": "lec", "t": "One way to reduce leakage is to encourage locally owned guesthouses and restaurants that buy from local suppliers. That keeps more of the money circulating in the community. In the seminar, we'll look at two case studies and you can judge which of these policies has worked best. Please read the two short articles on the course website before then, and come prepared to argue for one policy over the others." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–40\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Overtourism: an economic view",
+        "template": "Costs of tourism\n• costs not included in prices but paid by residents are called {{q1}}\n• holiday rentals reduce housing and increase {{q2}}\n• historic centres as an example of the tragedy of the {{q3}}\n\nPolicy tools\n• tourist taxes: demand is relatively {{q4}}, so visitor numbers fall very little\n• tax income can pay for the {{q5}} of public spaces\n• cruise passengers spend little but add to {{q6}}\n• caps: visitors must reserve a {{q7}} in advance\n• dispersal: encouraging travel in the {{q8}} season\n\nLeakage\n• {{q9}}: tourist money that leaves the local economy\n• can be reduced by supporting local {{q10}} and restaurants",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "note-completion", "answers": ["externalities"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Costs that fall on residents are called externalities.", "evidence": "These costs fall on residents, and economists call them externalities." },
+          { "id": "q2", "kind": "gap", "qtype": "note-completion", "answers": ["rents", "rent"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Fewer homes for locals pushes up rents.", "evidence": "that pushes up rents" },
+          { "id": "q3", "kind": "gap", "qtype": "note-completion", "answers": ["commons"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The 'tragedy of the commons'.", "evidence": "the tragedy of the commons" },
+          { "id": "q4", "kind": "gap", "qtype": "note-completion", "answers": ["inelastic"], "maxWords": 1, "allowNumber": false,
+            "explanation": "A small tax barely affects demand: 'demand is fairly inelastic'.", "evidence": "demand is fairly inelastic" },
+          { "id": "q5", "kind": "gap", "qtype": "note-completion", "answers": ["maintenance"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Money can be spent on maintenance of streets, parks and buildings.", "evidence": "spent on maintenance of streets, parks and historic buildings" },
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["crowding"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Cruise passengers spend little but contribute a great deal to crowding.", "evidence": "contribute a great deal to crowding" },
+          { "id": "q7", "kind": "gap", "qtype": "note-completion", "answers": ["slot"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Visitors have to book a time slot in advance. 'Reserve a time slot' — 'slot' is the noun needed.", "evidence": "Visitors have to book a time slot in advance" },
+          { "id": "q8", "kind": "gap", "qtype": "note-completion", "answers": ["shoulder"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Tourist boards encourage travel in the shoulder season (spring and autumn).", "evidence": "they encourage travel in the shoulder season" },
+          { "id": "q9", "kind": "gap", "qtype": "note-completion", "answers": ["leakage"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Money flowing abroad is known as leakage.", "evidence": "This is known as leakage" },
+          { "id": "q10", "kind": "gap", "qtype": "note-completion", "answers": ["guesthouses"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Encourage locally owned guesthouses and restaurants.", "evidence": "encourage locally owned guesthouses and restaurants" }
+        ]
+      }
+    ]
+  }
+]

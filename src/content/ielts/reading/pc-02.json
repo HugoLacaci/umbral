@@ -1,0 +1,237 @@
+[
+  {
+    "id": "ielts-r-pc-02",
+    "difficulty": "hard",
+    "usage": "practice",
+    "passageNo": 3,
+    "title": "What Do Intelligence Tests Measure?",
+    "subtitle": "A writer argues that the tests deserve neither reverence nor contempt",
+    "paragraphs": [
+      {
+        "text": "Few scientific instruments have been praised and attacked as fiercely as the intelligence test. To its defenders, it is one of psychology's genuine achievements: a short set of puzzles that predicts, better than almost any other single measure, how well a person will do at school and in many kinds of work. To its critics, it is a device that turns a narrow set of skills into a number and then treats that number as a fact about a person's mind. I want to suggest that both descriptions contain more truth than their supporters usually allow, and that the argument has been confused by a failure to separate what the tests measure from what they are used for."
+      },
+      {
+        "text": "The first practical test was not designed to rank people at all. In 1905 the French psychologist Alfred Binet, asked by the authorities to help identify children who needed extra support at school, devised a series of tasks of increasing difficulty. Binet was explicit that his scale did not measure a fixed quantity, and he warned against using it to label children as permanently limited. Within a few decades, however, adapted versions were being used to sort army recruits and, in some countries, to support arguments for restricting immigration. It is hard to avoid the conclusion that the test's later reputation owes less to its design than to the purposes of those who took it up."
+      },
+      {
+        "text": "The strongest argument for the tests rests on a statistical regularity that has been observed for more than a century. People who do well on one kind of mental task - remembering lists of numbers, say, or spotting patterns in shapes - tend to do well on others, even when the tasks appear to have little in common. Psychologists summarise this pattern with a general factor, usually called g, and intelligence tests are essentially attempts to estimate it. The pattern is not in doubt. What is in doubt is its interpretation. A general factor may reflect a single underlying capacity of the brain, but it could equally arise because many separate abilities develop together, each supporting the growth of the others, in which case 'general intelligence' would describe a pattern of development rather than a thing that people possess."
+      },
+      {
+        "text": "A second difficulty concerns change over time. During the twentieth century, average scores on intelligence tests rose steadily in many countries, by roughly three points every ten years, so that tests had to be made harder at regular intervals to keep the average at 100. This rise, now known as the Flynn effect, was far too rapid to have a genetic explanation. Better nutrition, smaller families and longer schooling have all been proposed as causes, but the most interesting suggestion is that modern life has trained people in exactly the kind of abstract classification that the tests reward. If so, the tests are measuring something real, but something shaped by culture to a far greater degree than early researchers assumed."
+      },
+      {
+        "text": "Researchers continue to disagree about what follows. A team in Scotland that followed thousands of people from childhood into old age found that scores at the age of eleven predicted not only educational success but also health and length of life, and argued that the tests capture something of lasting practical importance. An international group of developmental psychologists has proposed that the general factor emerges gradually during childhood as separate skills reinforce one another, and should not be thought of as a fixed property of the brain. Neuroscientists in Germany reported that people with higher scores tend to show more efficient communication between distant regions of the brain, while cautioning that this does not show which came first. Researchers in Scandinavia, comparing young men whose education had been lengthened by a change in the law with those who had just missed it, concluded that each additional year at school raised test scores, suggesting that the tests partly measure what has been taught. Finally, educational researchers in the United States have warned that when results carry high stakes for schools, teaching narrows towards whatever the test contains, so that scores rise without any matching gain in the abilities they were meant to reflect."
+      },
+      {
+        "text": "My own view is that the tests deserve neither the reverence nor the contempt they attract. They measure, reasonably well, a set of reasoning skills that matter in modern schools and workplaces, and to abandon them altogether would be to discard useful information - information that has, for instance, helped to identify able children from poor families whom teachers had overlooked. But to say that the tests measure skills that matter is not to say that they measure intelligence in any complete sense. They say almost nothing about creativity, practical judgement or the ability to work with other people, and a score obtained on a single morning is a snapshot of performance, not a measurement of potential."
+      },
+      {
+        "text": "The deeper mistake, I believe, has been to treat the number as a destination rather than a starting point. A score can usefully prompt a question - why is this child struggling, or why has that one been overlooked? - but it cannot answer it. Binet understood this more than a century ago. It would be a strange kind of progress if, with far more sophisticated statistics at our disposal, we were to understand it less well than he did."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "ynng",
+        "instructions": "Questions 1–4\nDo the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 1–4 on your answer sheet, write\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+        "items": [
+          {
+            "id": "q1",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "The bad reputation of intelligence tests is mainly due to the ways in which they were later used.",
+            "answer": "YES",
+            "evidence": "the test's later reputation owes less to its design than to the purposes of those who took it up",
+            "explanation": "'Mainly due to the ways in which they were later used' paraphrases 'owes less to its design than to the purposes of those who took it up'. The writer presents this as a conclusion that is 'hard to avoid', so it is the writer's view: YES."
+          },
+          {
+            "id": "q2",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "The existence of a general factor proves that intelligence is a single capacity of the brain.",
+            "answer": "NO",
+            "evidence": "it could equally arise because many separate abilities develop together",
+            "explanation": "The writer accepts the pattern ('not in doubt') but says its interpretation is uncertain: a single capacity is only one possibility, and it 'could equally' come from separate abilities developing together. 'Proves' contradicts this, so NO."
+          },
+          {
+            "id": "q3",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Scores rose most in the countries where children spent the longest time at school.",
+            "answer": "NOT GIVEN",
+            "explanation": "Longer schooling is listed as a proposed cause of rising scores, and a Scandinavian study links extra schooling to higher scores, but the writer never compares countries or says where the rise was greatest. Combining these two details is a trap: NOT GIVEN."
+          },
+          {
+            "id": "q4",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Intelligence tests should no longer be used.",
+            "answer": "NO",
+            "evidence": "to abandon them altogether would be to discard useful information",
+            "explanation": "The writer criticises how tests are interpreted but explicitly argues against abandoning them, giving the example of able children from poor families identified by tests. This contradicts the statement: NO."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-features",
+        "instructions": "Questions 5–8\nLook at the following statements (Questions 5–8) and the list of researchers below.\nMatch each statement with the correct group of researchers, A–E.\nWrite the correct letter, A–E, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
+        "title": "List of Researchers",
+        "options": [
+          { "key": "A", "text": "a team in Scotland" },
+          { "key": "B", "text": "developmental psychologists" },
+          { "key": "C", "text": "neuroscientists in Germany" },
+          { "key": "D", "text": "researchers in Scandinavia" },
+          { "key": "E", "text": "educational researchers in the United States" }
+        ],
+        "items": [
+          {
+            "id": "q5",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "Test results in childhood are linked to outcomes many decades later.",
+            "answer": "A",
+            "evidence": "scores at the age of eleven predicted not only educational success but also health and length of life",
+            "explanation": "'Linked to outcomes many decades later' paraphrases scores at eleven predicting 'health and length of life' in a study that followed people 'into old age'. B also talks about childhood, but about how the general factor develops, not about later outcomes."
+          },
+          {
+            "id": "q6",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "The general factor builds up through interaction between abilities rather than being present from the start.",
+            "answer": "B",
+            "evidence": "the general factor emerges gradually during childhood as separate skills reinforce one another",
+            "explanation": "'Builds up' = 'emerges gradually'; 'interaction between abilities' = 'separate skills reinforce one another'; 'rather than being present from the start' = 'should not be thought of as a fixed property'. C is a trap: it also concerns the brain, but describes a correlation without explaining where the factor comes from."
+          },
+          {
+            "id": "q7",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "Performance on the tests depends partly on the amount of education a person has received.",
+            "answer": "D",
+            "evidence": "each additional year at school raised test scores",
+            "explanation": "The Scandinavian study found that extra years at school raised scores, 'suggesting that the tests partly measure what has been taught'. E also mentions teaching and rising scores, but its point is that scores can rise WITHOUT any real gain in ability."
+          },
+          {
+            "id": "q8",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "Higher results can be achieved without any real improvement in the skills being assessed.",
+            "answer": "E",
+            "evidence": "scores rise without any matching gain in the abilities they were meant to reflect",
+            "explanation": "'Without any real improvement in the skills being assessed' paraphrases 'without any matching gain in the abilities they were meant to reflect'. D is the closest distractor: it also reports rising scores, but treats them as a genuine effect of extra schooling."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "summary-completion",
+        "instructions": "Questions 9–12\nComplete the summary using the list of words, A–I, below.\nWrite the correct letter, A–I, in boxes 9–12 on your answer sheet.",
+        "title": "Rising scores",
+        "options": [
+          { "key": "A", "text": "steadily" },
+          { "key": "B", "text": "suddenly" },
+          { "key": "C", "text": "genetic" },
+          { "key": "D", "text": "cultural" },
+          { "key": "E", "text": "nutrition" },
+          { "key": "F", "text": "healthcare" },
+          { "key": "G", "text": "abstract" },
+          { "key": "H", "text": "creative" },
+          { "key": "I", "text": "practical" }
+        ],
+        "template": "In many countries during the twentieth century, average test scores rose {{q9}}, so that the tests had to be made more difficult at intervals. The increase was so fast that {{q10}} causes can be ruled out. Explanations that have been put forward include better {{q11}} and smaller families, but one interesting possibility is that modern life gives people practice in the kind of {{q12}} thinking that the tests reward.",
+        "items": [
+          {
+            "id": "q9",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 9",
+            "answer": "A",
+            "evidence": "average scores on intelligence tests rose steadily in many countries",
+            "explanation": "Scores 'rose steadily', by about three points every ten years. 'Suddenly' (B) contradicts this regular, decade-by-decade rise, even though the passage calls it 'rapid' in biological terms."
+          },
+          {
+            "id": "q10",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 10",
+            "answer": "C",
+            "evidence": "was far too rapid to have a genetic explanation",
+            "explanation": "The rise was 'far too rapid to have a genetic explanation', so genetic causes are ruled out. 'Cultural' (D) is the opposite: the writer concludes that the scores are 'shaped by culture'."
+          },
+          {
+            "id": "q11",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 11",
+            "answer": "E",
+            "evidence": "Better nutrition, smaller families and longer schooling have all been proposed as causes",
+            "explanation": "'Better nutrition' is listed together with 'smaller families'. 'Healthcare' (F) is plausible from general knowledge but is not mentioned in the passage."
+          },
+          {
+            "id": "q12",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 12",
+            "answer": "G",
+            "evidence": "modern life has trained people in exactly the kind of abstract classification that the tests reward",
+            "explanation": "'Gives people practice in' = 'has trained people in'; the thinking is 'abstract classification'. 'Creative' (H) and 'practical' (I) appear later as things the tests say almost nothing about, so they are the opposite of what the tests reward."
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "qtype": "mcq",
+        "instructions": "Questions 13–14\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 13 and 14 on your answer sheet.",
+        "items": [
+          {
+            "id": "q13",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Why does the writer describe Binet's work in the second paragraph?",
+            "options": [
+              "to show that the earliest tests were scientifically unreliable",
+              "to contrast the original purpose of testing with its later uses",
+              "to explain how tests came to be used by the army",
+              "to argue that tests should only ever be given to children"
+            ],
+            "answer": 1,
+            "evidence": "The first practical test was not designed to rank people at all",
+            "explanation": "The paragraph sets Binet's aim (identifying children who needed support, with a warning against labelling them) against later uses (sorting recruits, restricting immigration). C is only a detail within that contrast; A and D are not claimed.",
+            "optionNotes": [
+              "The writer criticises later uses, not the reliability of Binet's test.",
+              "Correct: original aim vs later purposes ('owes less to its design than to the purposes of those who took it up').",
+              "The army is mentioned as one example of later use, not explained.",
+              "Nothing suggests tests should be limited to children."
+            ]
+          },
+          {
+            "id": "q14",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What point does the writer make in the final paragraph?",
+            "options": [
+              "Modern statistical methods have made Binet's ideas out of date.",
+              "A test score is most useful as a reason for further investigation.",
+              "Teachers should trust test results more than their own judgement.",
+              "Future tests will need to measure creativity as well as reasoning."
+            ],
+            "answer": 1,
+            "evidence": "A score can usefully prompt a question",
+            "explanation": "A score should be 'a starting point' that prompts a question but 'cannot answer it'. A is the opposite: the writer fears we may understand Binet's lesson 'less well than he did' despite better statistics. C reverses the example of overlooked children, and D is not predicted.",
+            "optionNotes": [
+              "Opposite: Binet's insight is still valid.",
+              "Correct: a score is a starting point that prompts questions.",
+              "Not stated; tests are only one source of information.",
+              "Creativity is mentioned earlier as a limitation, with no prediction about future tests."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

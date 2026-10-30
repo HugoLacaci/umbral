@@ -1,0 +1,88 @@
+[
+  {
+    "id": "ielts-l-m2-p1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "part": 1,
+    "title": "Hiring a campervan",
+    "context": "You will hear a woman phoning a company to hire a campervan for a holiday.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Hemi", "role": "Rental agent", "gender": "m", "accent": "en-NZ" },
+        { "id": "b", "name": "Sarah", "role": "Customer", "gender": "f", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Kia ora, Kiwi Trails Campervans, Hemi speaking. How can I help?" },
+        { "s": "b", "t": "Hi, Hemi. I'm planning a trip to New Zealand with my family in March, and I'd like to hire a campervan." },
+        { "s": "a", "t": "Great choice. March is a beautiful time to travel. Let me start a booking form for you. What's your name?" },
+        { "s": "b", "t": "Sarah Lindqvist. That's L-I-N-D-Q-V-I-S-T." },
+        { "s": "a", "t": "Thanks, Sarah. All drivers need a full licence. Where was yours issued?" },
+        { "s": "b", "t": "Well, I live in Australia now, but I've never changed my licence. It's still the one from Canada." },
+        { "s": "a", "t": "A licence from Canada is fine, as long as it's in English. Now, where would you like to pick the van up?" },
+        { "s": "b", "t": "We were going to start in Auckland, but the flights were so expensive that we've booked into Christchurch instead. So could we collect it at Christchurch airport?" },
+        { "s": "a", "t": "Christchurch airport, no problem. What date?" },
+        { "s": "b", "t": "Our flight lands on the 2nd of March, but it doesn't get in until nearly midnight. So I think we'll stay in a hotel that night and pick up the van the next morning, the 3rd of March." },
+        { "s": "a", "t": "That's very sensible. Driving after a long flight isn't a good idea. How many of you are travelling?" },
+        { "s": "b", "t": "Me, my husband and our two kids." },
+        { "s": "a", "t": "Then I'd suggest a four-berth van. People sometimes try to squeeze a family into a two-berth, but it's really too small." },
+        { "s": "b", "t": "Yes, four-berth, definitely. What does that cost?" },
+        { "s": "a", "t": "In March, our four-berth vans are $139 a day. That's actually a bit cheaper than in February, which is our busiest month." },
+        { "s": "b", "t": "Okay. And what's included?" },
+        { "s": "a", "t": "All the bedding, towels and kitchen equipment are included, and every van comes with a heater, because the nights can get quite cold in the South Island. You can hire camping chairs and a table for an extra ten dollars." },
+        { "s": "b", "t": "Good to know about the heater. What about insurance?" },
+        { "s": "a", "t": "Basic insurance is included, but the excess is quite high, three thousand dollars. That's the amount you'd pay if there was any damage. For an extra twenty-five dollars a day, we can reduce that to $500." },
+        { "s": "b", "t": "I think we'll take that. With two kids, you never know." },
+        { "s": "a", "t": "Very wise. Now, when you return the van, we ask you to do two things. First, the fuel tank needs to be full. And second, the waste tank, that's where the water from the sink and shower goes, needs to be empty. There are special places to empty it at most campgrounds." },
+        { "s": "b", "t": "Full fuel and an empty waste tank. Got it." },
+        { "s": "a", "t": "And one last thing. Do you have a discount code? Sometimes people find them on travel websites." },
+        { "s": "b", "t": "Actually, yes. I signed up for your newsletter last month, and there was a code in it for five percent off. I think it's TRAIL 5." },
+        { "s": "a", "t": "That's right, the newsletter code. I'll add that now. I'll email the full booking details to you within the hour." },
+        { "s": "b", "t": "Oh, and before I forget, could we drop the van off somewhere different at the end, like Queenstown?" },
+        { "s": "a", "t": "You can, but there's a one-way fee of one hundred and fifty dollars. Most people think it's worth it, because it saves them a whole day of driving back to where they started." },
+        { "s": "b", "t": "Let me talk to my husband about that, and I'll let you know by the end of the week. Thanks for all your help, Hemi." },
+        { "s": "a", "t": "No worries, Sarah. Enjoy planning your trip." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–5\nComplete the form below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Kiwi Trails Campervans – Booking form",
+        "template": "Name: Sarah {{q1}}\nDriving licence issued in: {{q2}}\nPick-up location: {{q3}} airport\nPick-up date: {{q4}}\nVehicle: {{q5}}-berth campervan",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Lindqvist"], "maxWords": 1, "allowNumber": true,
+            "explanation": "She spells it: L-I-N-D-Q-V-I-S-T.", "evidence": "That's L-I-N-D-Q-V-I-S-T." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["Canada"], "maxWords": 1, "allowNumber": true,
+            "explanation": "She lives in Australia, but her licence is still the Canadian one.", "evidence": "It's still the one from Canada." },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["Christchurch"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Auckland was the original plan, but they are flying into Christchurch.", "evidence": "could we collect it at Christchurch airport" },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["3 March", "3rd March", "March 3", "March 3rd"], "maxWords": 1, "allowNumber": true,
+            "explanation": "They land late on the 2nd and collect the van the next morning, the 3rd of March.", "evidence": "pick up the van the next morning, the 3rd of March" },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["4", "four"], "maxWords": 1, "allowNumber": true,
+            "explanation": "A two-berth is too small for a family; they choose a four-berth.", "evidence": "Yes, four-berth, definitely." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "note-completion",
+        "instructions": "Questions 6–10\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Booking details",
+        "template": "Cost: ${{q6}} per day\nIncluded: bedding, towels, kitchen equipment and a {{q7}}\nOptional insurance reduces the excess to ${{q8}}\nOn return: fuel tank full and {{q9}} tank empty\nDiscount code found in a {{q10}}",
+        "items": [
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["139"], "maxWords": 1, "allowNumber": true,
+            "explanation": "A four-berth van costs $139 a day in March.", "evidence": "our four-berth vans are $139 a day" },
+          { "id": "q7", "kind": "gap", "qtype": "note-completion", "answers": ["heater"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Every van comes with a heater. Chairs and a table cost extra, so they are not included.", "evidence": "every van comes with a heater" },
+          { "id": "q8", "kind": "gap", "qtype": "note-completion", "answers": ["500"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The normal excess is three thousand dollars; the extra insurance reduces it to $500.", "evidence": "we can reduce that to $500" },
+          { "id": "q9", "kind": "gap", "qtype": "note-completion", "answers": ["waste"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The waste tank must be empty when the van is returned.", "evidence": "the waste tank" },
+          { "id": "q10", "kind": "gap", "qtype": "note-completion", "answers": ["newsletter"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Hemi mentions travel websites, but Sarah got the code from the company newsletter.", "evidence": "I signed up for your newsletter last month, and there was a code in it" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "toefl-email-09", "difficulty": "medium", "usage": "practice",
+    "scenario": "Your proposal to present a poster at a student research conference has been accepted. The organizers need the final poster file by Monday. However, your research supervisor has just asked you to rerun part of your experiment because one of your measurements may be wrong, and the new results will not be ready until Thursday. Write an email to Dr. Moreau, the conference organizer.",
+    "to": "Dr. Moreau, Conference Organizer",
+    "subject": "Request for extension – poster submission",
+    "tasks": [
+      "Explain why you cannot submit your poster on time.",
+      "Describe what you will do to make sure the poster is ready.",
+      "Ask for a short extension and propose a new date."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Dr. Moreau,\n\nThank you again for accepting my poster, Soil Bacteria and Plant Growth in Urban Gardens, for this year's conference. I am writing because I will not be able to send the final file by Monday as requested.\n\nWhile reviewing my data last week, my supervisor, Dr. Kessler, noticed that one set of measurements may have been affected by a faulty sensor. To make sure the results I present are accurate, she has asked me to repeat that part of the experiment, and the new data will be available on Thursday.\n\nThe rest of the poster is already finished, including the introduction, methods, and design. As soon as I receive the new results, I will update the graphs and the conclusion, and Dr. Kessler has agreed to review the final version the same day.\n\nWould it be possible to extend my deadline until Friday at noon? I understand this may cause some inconvenience, and I am happy to send you a draft version on Monday if that would help with planning.\n\nKind regards,\nPriya Nair",
+        "commentary": "Nivel 5: razón clara y creíble (sensor defectuoso, petición de la supervisora), plan concreto que demuestra responsabilidad (lo que ya está hecho, revisión el mismo día) y una petición precisa con fecha y hora, más una oferta para compensar las molestias. Registro académico formal y cortés. Buen uso de pasiva y modales («may have been affected») y conectores temporales."
+      },
+      {
+        "level": "3",
+        "text": "Dear Dr. Moreau,\n\nI am sorry but I can't send my poster on Monday. My professor say my experiment have a problem and I need to do it again.\n\nI will work hard to finish the poster.\n\nCan I send it later? Thank you very much.\n\nPriya",
+        "commentary": "Nivel 3: la explicación es comprensible pero vaga, la segunda tarea se limita a «I will work hard» (no describe ningún paso concreto) y la petición no propone fecha, aunque la tarea lo pide expresamente. No menciona el título del póster ni su nombre completo. Errores de concordancia: «My professor say», «my experiment have». Demasiado corto para mostrar variedad."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-10", "difficulty": "medium", "usage": "practice",
+    "scenario": "You are the president of the International Cooking Club at your university. The club wants to raise money to donate to a local food bank. You have an idea for a fundraising event, but you need permission and possibly a room from the Office of Student Activities. Write an email to Mr. Carlson, the director of that office.",
+    "to": "Mr. Carlson, Director of Student Activities",
+    "subject": "Proposal for a fundraising event",
+    "tasks": [
+      "Describe the event you are planning.",
+      "Explain how the event would benefit the university community.",
+      "Ask for the specific support you need from the office."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Mr. Carlson,\n\nI am the president of the International Cooking Club, and I am writing to ask for your support for a fundraising event we would like to organize next month.\n\nWe are planning a \"World Food Night\" on Friday, March 14, from 6 to 9 p.m. Club members from about twelve countries would each prepare one traditional dish, and visitors would buy tickets for five dollars to taste them. All the money raised would go to the Eastside Community Food Bank.\n\nWe believe the event would benefit the university in several ways. It would give international students a chance to share their culture, help domestic students meet people from different backgrounds, and show that our campus cares about the local community. Last year, a similar event at another university raised more than two thousand dollars.\n\nTo make this possible, we would need to reserve the Student Center hall and borrow some tables and heating equipment. We would also appreciate help promoting the event on the university's social media.\n\nThank you for considering our proposal.\n\nBest regards,\nTomás Herrera",
+        "commentary": "Nivel 5: describe el evento con detalles prácticos (fecha, hora, precio, destino del dinero), da tres beneficios distintos y convincentes y concreta exactamente qué apoyo necesita (sala, mesas, equipo, difusión). Estructura muy clara, registro formal adecuado para un director y uso natural del condicional («would prepare», «would benefit»)."
+      },
+      {
+        "level": "3",
+        "text": "Hi Mr. Carlson,\n\nOur club want to make an event to get money for the food bank. We will cook food from many countries and people can eat.\n\nThis event is good for everybody because food is very nice and people like it.\n\nCan you help us? We need a place.\n\nThanks!\nTomás",
+        "commentary": "Nivel 3: menciona el evento, un beneficio y una petición, pero todo de forma muy general: no hay fecha ni precio, el beneficio («food is very nice») no explica el valor para la comunidad universitaria, y la petición («a place») es imprecisa. El saludo y el cierre son demasiado informales para un director. Errores: «Our club want», «make an event»."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-11", "difficulty": "medium", "usage": "practice",
+    "scenario": "You are applying to a summer internship at an environmental organization. The application requires a letter of recommendation from a teacher who knows your work well. You took two courses with Professor Okonkwo last year and did well in both, but you have not been in contact with her for several months. The application deadline is in three weeks. Write an email to Professor Okonkwo.",
+    "to": "Professor Okonkwo",
+    "subject": "Request for a letter of recommendation",
+    "tasks": [
+      "Remind the professor who you are and how she knows you.",
+      "Describe the internship and why you are interested in it.",
+      "Ask whether she could write a letter and explain what you can provide to help."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Professor Okonkwo,\n\nI hope you are doing well. My name is Lena Fischer, and I took your Ecology course and your Conservation Policy course last year. In the policy course, I wrote my final paper on wetland protection in the Great Lakes region, which you encouraged me to develop further.\n\nI am now applying for a summer internship with GreenWater Alliance, a nonprofit that monitors water quality in rivers near our city. Interns collect samples, analyze data, and help prepare reports for local governments. I am very interested in this position because it would allow me to apply what I learned in your classes to real environmental problems and help me decide whether to pursue a master's degree in this field.\n\nWould you be willing to write a letter of recommendation for me? The deadline is April 20. To make the process easier, I can send you my résumé, a copy of my final paper, and a short description of the internship. Of course, I completely understand if you are too busy at the moment.\n\nThank you very much for considering my request.\n\nWarm regards,\nLena Fischer",
+        "commentary": "Nivel 5: refresca la memoria de la profesora con datos concretos (asignaturas, trabajo final), describe la práctica y conecta su interés con lo aprendido y con sus planes, y pide la carta con fecha límite, materiales de apoyo y una salida cortés si la profesora no puede. Tono respetuoso y cálido, muy adecuado. Lenguaje rico y correcto («Would you be willing to…», «pursue a master's degree»)."
+      },
+      {
+        "level": "3",
+        "text": "Dear Professor,\n\nI was your student last year in two classes. I want to do an internship in a environmental organization in the summer and I need a recommendation letter.\n\nThe internship is very interesting and I like the environment.\n\nCan you write the letter for me please? The deadline is in three weeks.\n\nBest,\nLena",
+        "commentary": "Nivel 3: aborda las tres tareas pero de manera superficial: no da su nombre completo ni qué asignaturas cursó, el interés por la práctica es genérico («I like the environment») y no ofrece ningún material para ayudar, que era parte de la tarea. La petición es demasiado directa para alguien con quien no habla desde hace meses. Errores: «a environmental». Muy poco desarrollo."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-12", "difficulty": "medium", "usage": "practice",
+    "scenario": "You have a three-month membership at a local fitness center, which you chose mainly because of its evening yoga classes. In the past four weeks, the 7 p.m. yoga class has been canceled five times, often with only an hour's notice. The front desk staff told you to contact the manager. Write an email to Mr. Brooks, the manager of the fitness center.",
+    "to": "Mr. Brooks, Fitness Center Manager",
+    "subject": "Repeated cancellations of evening yoga",
+    "tasks": [
+      "Describe the problem with the classes.",
+      "Explain how the cancellations have affected you.",
+      "Suggest what the fitness center could do."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Mr. Brooks,\n\nI have been a member of your fitness center since September, and I am writing about the 7 p.m. yoga class on Tuesdays and Thursdays. Over the past four weeks, this class has been canceled five times. In most cases, I received the cancellation message only an hour before the start, when I was already on my way to the gym.\n\nThese cancellations have been quite frustrating. I chose this membership mainly because of the evening yoga classes, since I work until 6 p.m. and cannot attend morning sessions. Yoga also helps me manage back pain from sitting at a desk all day, so missing so many classes has had a real effect on how I feel.\n\nI would like to suggest two possible solutions. First, the center could train a substitute instructor who can cover the class when the regular teacher is unavailable. Second, if a class must be canceled, members should be informed at least four hours in advance. I would also appreciate a partial refund or a one-month extension of my membership.\n\nThank you for your attention.\n\nSincerely,\nAnna Kowalczyk",
+        "commentary": "Nivel 5: describe el problema con datos (días, número de cancelaciones, aviso de una hora), explica un impacto personal concreto (horario laboral, dolor de espalda) y ofrece soluciones organizadas («First… Second…») más una compensación razonable. Queja firme pero educada, como requiere la rúbrica de tono. Lenguaje preciso y variado, sin errores relevantes."
+      },
+      {
+        "level": "3",
+        "text": "Dear Manager,\n\nThe yoga class is cancel a lot of times. This is very bad service. I pay every month and I can't go to my class.\n\nI think you need more teachers. Also you should give me my money back.\n\nRegards,\nAnna",
+        "commentary": "Nivel 3: menciona el problema, el efecto y una sugerencia, pero cada punto en una sola frase vaga: no dice qué clase, cuántas veces ni con cuánto aviso, y el impacto personal se limita a «I can't go». El tono es más de reproche que de colaboración («very bad service»). Errores de forma verbal («is cancel») y desarrollo muy limitado."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-13", "difficulty": "easy", "usage": "practice",
+    "scenario": "You have been accepted into a one-semester exchange program at a university in another country. You will arrive in late August. The university's website says that exchange students can live in a dormitory or with a local host family, but it does not give many details. Write an email to Ms. Tanaka, the exchange program coordinator at the host university.",
+    "to": "Ms. Tanaka, Exchange Program Coordinator",
+    "subject": "Questions about housing options",
+    "tasks": [
+      "Introduce yourself and explain your situation.",
+      "Describe what kind of housing you would prefer and why.",
+      "Ask two questions about the housing options."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Ms. Tanaka,\n\nMy name is Carlos Mendes, and I am a third-year architecture student from the University of Porto. I was recently accepted into your exchange program for the fall semester, and I plan to arrive on August 25. I am very excited about this opportunity, but I still need to decide where to live.\n\nIf possible, I would prefer to stay with a host family. One of my main goals for the semester is to improve my language skills, and I think living with a local family would give me much more practice than a dormitory. I would also like to learn about daily life and customs in a way that is difficult to experience as a tourist.\n\nI have two questions about the options. First, how far are most host families from the campus, and is public transportation available? Second, is there a deadline to request a host family, and what happens if no family is available?\n\nThank you for your help. I look forward to your reply.\n\nBest regards,\nCarlos Mendes",
+        "commentary": "Nivel 5: se presenta con los datos necesarios, elige una opción y la justifica con dos razones claras, y formula exactamente dos preguntas útiles y bien construidas (cada una incluso con una subpregunta). Organización muy clara, tono educado y entusiasta. Gramática precisa, incluidas las preguntas directas e indirectas."
+      },
+      {
+        "level": "3",
+        "text": "Hello Ms. Tanaka,\n\nI am Carlos, I go to your university in August for exchange. I want to live with a family because is more interesting.\n\nHow much it costs? And the family is near the university?\n\nThank you,\nCarlos",
+        "commentary": "Nivel 3: incluye presentación, preferencia y dos preguntas, pero todo muy poco desarrollado: no dice de qué universidad viene ni qué estudia, y la razón de su preferencia es una sola palabra vaga («interesting»). Las dos preguntas tienen errores de orden («How much it costs?», «the family is near…?»). También «because is» sin sujeto. Muy breve."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-14", "difficulty": "hard", "usage": "practice",
+    "scenario": "You are doing an internship at a small consulting company. Yesterday you prepared a sales report that your supervisor, Mr. Ali, sent to an important client. This morning you realized that one of the tables in the report contained incorrect figures because you used data from the wrong month. Mr. Ali is traveling today and cannot be reached by phone. Write an email to Mr. Ali.",
+    "to": "Mr. Ali, Supervisor",
+    "subject": "Error in the sales report sent to the client",
+    "tasks": [
+      "Explain the mistake you made.",
+      "Describe what you have done to correct it.",
+      "Suggest how to prevent similar problems in the future."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Mr. Ali,\n\nI am sorry to contact you while you are traveling, but I need to let you know about an error in the quarterly sales report that was sent to Harbor Foods yesterday. While checking the file this morning, I realized that Table 3, which compares regional sales, contains figures from August instead of September. I copied the data from the wrong spreadsheet tab, and I take full responsibility for the mistake.\n\nI have already prepared a corrected version of the report and double-checked every table against the original database. I have not sent anything to the client yet, because I thought you would prefer to decide how to communicate the correction. The revised file is attached, along with a short note highlighting exactly which numbers changed. The overall conclusions of the report are not affected.\n\nTo avoid similar problems in the future, I would suggest that all reports go through a quick second check by another team member before they are sent. I have also started using a checklist that includes confirming the date range of every data source.\n\nPlease let me know how you would like me to proceed.\n\nBest regards,\nIsabel Cruz",
+        "commentary": "Nivel 5 (nota máxima de la escala 0–5): respuesta modélica para una situación profesional difícil. Explica el error con precisión y asume la responsabilidad sin excusas; describe acciones concretas (versión corregida, verificación, nota con los cambios) y muestra buen juicio al no contactar al cliente sin permiso; propone medidas preventivas realistas. Registro profesional impecable, cohesión excelente y lenguaje sofisticado y exacto."
+      },
+      {
+        "level": "3",
+        "text": "Dear Mr. Ali,\n\nI have bad news. The report for the client have a mistake in one table. The numbers are wrong because I use the wrong data. Sorry.\n\nI made a new report. Maybe you can send it to the client.\n\nIn the future I will be more careful.\n\nThanks,\nIsabel",
+        "commentary": "Nivel 3: menciona el error, la corrección y una idea para el futuro, pero sin detalles: no dice qué cliente, qué tabla ni qué datos, y «I will be more careful» no es una sugerencia concreta de prevención. La disculpa («Sorry.») resulta demasiado informal ante un error serio con un cliente. Errores: «the report… have», «I use» en lugar de pasado. Desarrollo insuficiente para la gravedad de la situación."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-15", "difficulty": "easy", "usage": "practice",
+    "scenario": "Your friend Jake, who lives in another country, is going to visit your city for a weekend next month. He has never been there before and has asked you for advice. He enjoys being outdoors and trying local food, but he does not have much money to spend. You will be busy with work on Saturday morning. Write an email to Jake.",
+    "to": "Jake (a friend)",
+    "subject": "Your weekend visit",
+    "tasks": [
+      "Recommend some things he could do in your city.",
+      "Explain why you think he would enjoy them.",
+      "Tell him about your availability and suggest a plan to meet."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Hi Jake,\n\nI'm so happy you're finally coming to visit! I've been thinking about what you might like, and I have a few ideas.\n\nSince you love being outdoors, you should definitely hike up Castle Hill. It only takes about forty minutes, it's completely free, and the view of the whole city and the river from the top is amazing, especially at sunset. On Saturday morning, you could also check out the farmers' market by the old train station. It's a great place to try local food without spending much: there are stalls selling fresh empanadas, cheese, and fruit for just a couple of dollars.\n\nUnfortunately, I have to work on Saturday until about 1 p.m., but I'm completely free after that and all day Sunday. How about meeting at the market around 1:30? We could grab lunch there and then do the hike together in the afternoon. On Sunday, I'll take you to my favorite noodle place.\n\nLet me know what you think!\n\nSee you soon,\nMarta",
+        "commentary": "Nivel 5: registro informal y cercano perfectamente adecuado a un amigo. Recomienda actividades concretas adaptadas a sus gustos y a su presupuesto, explica por qué le gustarán y propone un plan detallado según su disponibilidad. Muy natural, con expresiones idiomáticas («check out», «grab lunch», «How about…?») y sin errores."
+      },
+      {
+        "level": "3",
+        "text": "Dear Jake,\n\nMy city is very beautiful and you will like it. You can visit the museums and the shopping center, there are many shops.\n\nI am busy on Saturday because I work. We can meet after.\n\nI wait for you.\n\nBest regards,\nMarta",
+        "commentary": "Nivel 3: las recomendaciones no se ajustan a lo que dice el enunciado (a Jake le gustan el aire libre y la comida local y tiene poco dinero, pero se le sugieren museos y tiendas), y no se explica por qué le gustarían. El plan para quedar es muy vago («after»). El registro es inconsistente: «Dear» y «Best regards» suenan demasiado formales para un amigo. «I wait for you» es un calco del español."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-16", "difficulty": "hard", "usage": "practice",
+    "scenario": "You live in a university residence hall, and all residents must buy a meal plan. You have a serious nut allergy, and you informed the dining office about it before the semester started. However, many dishes in the dining hall are not clearly labeled, and last week you had a mild allergic reaction after eating a sauce that contained nuts. Write an email to Dr. Evans, the director of Dining Services.",
+    "to": "Dr. Evans, Director of Dining Services",
+    "subject": "Food labeling and allergy safety in the dining hall",
+    "tasks": [
+      "Explain your situation and what happened last week.",
+      "Describe the problems you have noticed with food labeling.",
+      "Suggest changes that would make the dining hall safer for students with allergies."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Dr. Evans,\n\nI am a first-year student living in Hartley Hall, and I am writing about allergy safety in the main dining hall. I have a severe nut allergy, which I reported to the dining office in August. Last Wednesday, I ate a chicken dish with a sauce that, I later learned, contained peanuts. Fortunately, the reaction was mild and I recovered quickly after taking my medication, but the experience was very frightening.\n\nSince then, I have paid closer attention to the food labels, and I have noticed several problems. Many dishes, especially sauces, desserts, and the daily specials, have no ingredient information at all. In other cases, the labels are written on small cards that are sometimes placed in front of the wrong dish. When I asked the staff, they were helpful but often unsure of the ingredients.\n\nI would like to suggest a few changes. Every dish could have a clear label listing the most common allergens, and the menu could also be posted online each morning. In addition, a short training session for staff would help them answer students' questions with confidence.\n\nThank you for taking this matter seriously.\n\nSincerely,\nHannah Schmidt",
+        "commentary": "Nivel 5: relata el incidente con claridad y sin dramatizar, describe problemas de etiquetado específicos y observados (salsas, tarjetas mal colocadas, personal inseguro) y propone tres cambios concretos y viables. Tono serio pero constructivo, adecuado para un director. Buen uso de oraciones de relativo, incisos y conectores («Since then», «In addition»)."
+      },
+      {
+        "level": "3",
+        "text": "Dear Dr. Evans,\n\nI have allergy to nuts. Last week I eat a sauce with nuts and I was sick. This is very dangerous and the dining hall is responsible.\n\nThe food don't have labels so I don't know what I eat.\n\nYou need to put labels on all the food.\n\nHannah",
+        "commentary": "Nivel 3: toca las tres tareas, pero con escaso desarrollo: no dice que avisó de la alergia antes del semestre (dato clave), la descripción del etiquetado es una sola frase general y la sugerencia es mínima. El tono es acusador y el email carece de saludo de cierre cortés. Errores: «I have allergy», «I eat» en lugar de «ate», «The food don't have»."
+      }
+    ]
+  }
+]

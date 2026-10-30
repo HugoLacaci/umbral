@@ -1,0 +1,1033 @@
+[
+  {
+    "id": "toefl-talk-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Countershading",
+    "context": "Listen to part of a talk in a biology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Reed",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today I want to look at a type of camouflage that's so common, you've probably seen it many times without noticing. It's called countershading."
+        },
+        {
+          "s": "p",
+          "t": "Countershading means that an animal is darker on its back and lighter on its belly. Think of a shark, or a deer, or many kinds of fish."
+        },
+        {
+          "s": "p",
+          "t": "So why would that pattern help an animal hide? Well, light usually comes from above. When sunlight hits an animal, its back is bright and its belly is in shadow. That shadow makes the animal look solid and three-dimensional, which makes it easier to see."
+        },
+        {
+          "s": "p",
+          "t": "Countershading cancels out that effect. The dark back absorbs some of the light from above, and the pale belly brightens the shadowed part. The result is that the animal looks flatter, and it blends into the background."
+        },
+        {
+          "s": "p",
+          "t": "In the ocean, there's a second advantage. A predator looking down at a fish sees its dark back against the dark deep water. A predator looking up from below sees its pale belly against the bright surface."
+        },
+        {
+          "s": "p",
+          "t": "Interestingly, some animals that spend their lives upside down, like a certain catfish that swims belly up, have the pattern reversed. Their bellies are darker than their backs, which actually supports the idea that the pattern is about the direction of light."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How sharks and other predators hunt fish",
+          "How some animals change color to match their surroundings",
+          "Why the deep ocean is darker than the surface",
+          "How a particular color pattern helps animals avoid being seen"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Predators are mentioned only to explain the pattern's advantage.",
+          "Countershading is a fixed pattern; changing color is not discussed.",
+          "Dark deep water is a detail, not the topic.",
+          "Correct. The talk explains countershading and why it works as camouflage."
+        ],
+        "explanation": "The professor defines countershading, explains why it hides animals and gives evidence for the explanation."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, what makes an animal without countershading easier to see?",
+        "options": [
+          "Its colors are brighter than the background.",
+          "The shadow on its belly makes it look three-dimensional.",
+          "Its back is darker than its belly.",
+          "It moves more often than other animals."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Bright colors are not discussed.",
+          "Correct. The shadow makes the body look solid and therefore visible.",
+          "That describes countershading itself, which makes animals harder to see.",
+          "Movement is not mentioned."
+        ],
+        "explanation": "Light from above leaves the belly in shadow, which makes the body look solid and stand out.",
+        "evidence": "That shadow makes the animal look solid and three-dimensional, which makes it easier to see."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why is a countershaded fish hard to see for a predator swimming above it?",
+        "options": [
+          "Its dark back matches the dark water below it.",
+          "Its pale belly reflects the light from the surface.",
+          "It swims too deep for light to reach it.",
+          "It turns upside down when predators approach."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. From above, the dark back blends with the dark deep water.",
+          "The pale belly matters to a predator looking up from below.",
+          "Depth of swimming is not discussed.",
+          "Only certain catfish live upside down, and not to escape predators."
+        ],
+        "explanation": "A predator looking down sees the dark back against dark deep water.",
+        "evidence": "A predator looking down at a fish sees its dark back against the dark deep water."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention a catfish that swims belly up?",
+        "options": [
+          "To give an exception that weakens the explanation",
+          "To show that catfish have few predators",
+          "To support the idea that the pattern is related to the direction of light",
+          "To introduce a different kind of camouflage"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "It looks like an exception, but the professor says it actually supports the explanation.",
+          "Catfish predators are not discussed.",
+          "Correct. Its reversed pattern still puts the dark side toward the light.",
+          "It is still countershading, just reversed."
+        ],
+        "explanation": "The upside-down catfish has a darker belly, which faces the light, confirming the light-direction explanation.",
+        "evidence": "which actually supports the idea that the pattern is about the direction of light"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-02",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Why Mars is red",
+    "context": "Listen to part of a talk in an astronomy class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Shaw",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Let's start with a simple question: why is Mars red? Students often guess that it's hot, but Mars is actually much colder than Earth."
+        },
+        {
+          "s": "p",
+          "t": "The real answer is rust. The surface of Mars is covered in dust and rock that contain a lot of iron. Over a very long time, that iron reacted with small amounts of oxygen and became iron oxide, which is the same material as the rust on an old bicycle."
+        },
+        {
+          "s": "p",
+          "t": "Now, the color isn't just on the ground. Winds on Mars lift this fine dust into the air, so even the sky often looks pinkish or butterscotch in photographs taken by robots on the surface."
+        },
+        {
+          "s": "p",
+          "t": "Here's something that surprises people. If you dig just a few centimeters under the surface, the rock is often grey, not red. The rusty layer is quite thin, a bit like a coat of paint."
+        },
+        {
+          "s": "p",
+          "t": "We know this partly because the rovers have drilled into rocks, and the powder that came out was grey. That tells scientists that the red color is mainly a surface effect, caused by long exposure to the Martian environment."
+        },
+        {
+          "s": "p",
+          "t": "Next time, we'll look at where that oxygen might have come from, which is still being debated."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the main topic of the talk?",
+        "options": [
+          "The reason Mars has a red color",
+          "How rovers drill into rocks on Mars",
+          "Why Mars is colder than Earth",
+          "Where the oxygen on Mars came from"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. The whole talk explains why Mars looks red.",
+          "Drilling is mentioned only as evidence.",
+          "The temperature is mentioned only to reject a wrong guess.",
+          "That is the topic of the next class."
+        ],
+        "explanation": "The professor explains that rusted iron in surface dust and rock makes Mars red."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, what causes the red color of Mars?",
+        "options": [
+          "The high temperature of the surface",
+          "Iron that has combined with oxygen",
+          "Red light from the Martian sky",
+          "Dust blown from other planets"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She says Mars is actually much colder than Earth.",
+          "Correct. The iron became iron oxide, or rust.",
+          "The sky looks pinkish because of the dust, not the other way around.",
+          "The dust comes from Mars itself."
+        ],
+        "explanation": "Iron in the surface reacted with oxygen and became iron oxide, the same material as rust.",
+        "evidence": "that iron reacted with small amounts of oxygen and became iron oxide"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor compare the rusty layer to a coat of paint?",
+        "options": [
+          "To suggest that the color changes with the seasons",
+          "To suggest that wind can remove the color easily",
+          "To emphasize that the red layer is thin",
+          "To explain why the sky looks pinkish"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Seasons are not mentioned.",
+          "Wind lifts dust into the air, but she does not say it removes the red color.",
+          "Correct. Just a few centimeters down, the rock is grey.",
+          "The sky's color is explained earlier by wind-blown dust."
+        ],
+        "explanation": "The comparison stresses that the red rust is only a thin surface layer over grey rock.",
+        "evidence": "The rusty layer is quite thin, a bit like a coat of paint."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the class discuss next time?",
+        "options": [
+          "How the Mars rovers were designed",
+          "Why Earth's sky is blue",
+          "The temperature on the surface of Mars",
+          "The possible origin of the oxygen on Mars"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Rover design is not mentioned.",
+          "Earth's sky is not mentioned.",
+          "Temperature was mentioned only at the start.",
+          "Correct. She says they will look at where the oxygen might have come from."
+        ],
+        "explanation": "The professor ends by saying the next class will look at where the oxygen came from.",
+        "evidence": "we'll look at where that oxygen might have come from"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-03",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "The paint tube and Impressionism",
+    "context": "Listen to part of a talk in an art history class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Lambert",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "When we talk about the Impressionists, we usually focus on their style: the quick brushstrokes, the bright colors, the interest in changing light. But today I want to talk about a piece of technology that made their work possible: the paint tube."
+        },
+        {
+          "s": "p",
+          "t": "Before the eighteen-forties, artists, or their assistants, ground their own pigments and mixed them with oil in the studio. The paint was stored in pieces of animal bladder tied with string, and it dried out quickly once opened. So painting outdoors for hours was very impractical."
+        },
+        {
+          "s": "p",
+          "t": "Then, in eighteen forty-one, an American portrait painter named John Rand invented a collapsible metal tube with a screw cap. Paint could now be carried easily, kept fresh, and squeezed out as needed."
+        },
+        {
+          "s": "p",
+          "t": "This changed things a lot. Painters could set up an easel in a field or by a river and work directly in front of their subject. That's exactly what artists like Monet did. They wanted to capture how a scene looked at a particular moment, say, a haystack in the morning versus the same haystack at sunset."
+        },
+        {
+          "s": "p",
+          "t": "Renoir is reported to have said that without paint in tubes, there would have been no Impressionism. That may be an exaggeration, but it reminds us that artistic movements don't come only from ideas. Sometimes they depend on very practical inventions."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the main idea of the talk?",
+        "options": [
+          "Artists stopped grinding their own pigments for health reasons.",
+          "Impressionist painters preferred to work in their studios.",
+          "John Rand was an important Impressionist painter.",
+          "A practical invention helped make an artistic style possible."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Health reasons are not mentioned.",
+          "The opposite: tubes let them paint outdoors.",
+          "Rand was a portrait painter who invented the tube; he is not called an Impressionist.",
+          "Correct. The paint tube allowed painters to work outdoors, which Impressionism depended on."
+        ],
+        "explanation": "The professor argues that the paint tube, a practical invention, made outdoor Impressionist painting possible."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What problem did painters have before the 1840s?",
+        "options": [
+          "Pigments were too expensive to buy.",
+          "Their paint dried out quickly after being opened.",
+          "Metal containers made the paint change color.",
+          "They were not allowed to paint in public places."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Cost is not mentioned.",
+          "Correct. Paint stored in animal bladders dried out quickly once opened.",
+          "Metal tubes were the solution, not the problem.",
+          "No such rule is mentioned."
+        ],
+        "explanation": "Paint stored in animal bladders dried out quickly, which made long outdoor sessions impractical.",
+        "evidence": "it dried out quickly once opened"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention a haystack in the morning and at sunset?",
+        "options": [
+          "To describe the farm where Monet lived",
+          "To show that paint tubes worked well in cold weather",
+          "To illustrate the Impressionists' interest in how a scene looks at a specific time",
+          "To compare the styles of two different painters"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Monet's home is not discussed.",
+          "Weather is not discussed.",
+          "Correct. The example shows them capturing a scene at a particular moment.",
+          "The example is about one subject at two times, not two painters."
+        ],
+        "explanation": "The haystack example illustrates the goal of capturing a scene at a particular moment of the day.",
+        "evidence": "They wanted to capture how a scene looked at a particular moment"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's opinion of Renoir's statement?",
+        "options": [
+          "He thinks it is overstated but makes a valid point.",
+          "He thinks Renoir never actually said it.",
+          "He thinks it ignores Rand's contribution.",
+          "He believes it is completely accurate."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. He calls it 'an exaggeration' but says it reminds us of something true.",
+          "He says Renoir is 'reported' to have said it but does not question that.",
+          "The statement actually emphasizes the importance of tubes.",
+          "He calls it a possible exaggeration."
+        ],
+        "explanation": "He concedes it may be an exaggeration but agrees that movements can depend on practical inventions.",
+        "evidence": "That may be an exaggeration, but it reminds us that artistic movements don't come only from ideas."
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-04",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "The strength of weak ties",
+    "context": "Listen to part of a talk in a sociology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Mitchell",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-AU"
+        },
+        {
+          "id": "s",
+          "name": "Student",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today's concept comes from a famous study in sociology about how people find jobs. It's called the strength of weak ties."
+        },
+        {
+          "s": "p",
+          "t": "Let me define the terms first. Your strong ties are the people you're close to: family, best friends, people you see all the time. Weak ties are acquaintances: someone from your old school, a neighbor you chat with occasionally, a friend of a friend."
+        },
+        {
+          "s": "p",
+          "t": "Now, you might expect that when people look for work, their close friends would be the most helpful. They care about you, after all. But in the original research, most people who found jobs through a personal contact had heard about the job from someone they saw only occasionally or rarely."
+        },
+        {
+          "s": "p",
+          "t": "Why would that be? The explanation is about information. Your close friends tend to know the same people you know and hear the same news you hear. So they rarely tell you something new. Your acquaintances move in different circles, so they're more likely to know about opportunities you haven't heard of."
+        },
+        {
+          "s": "s",
+          "t": "So does that mean close friends aren't useful at all in a job search?"
+        },
+        {
+          "s": "p",
+          "t": "Not at all. Close friends may be more willing to help once you know about a job, for example by recommending you. The point is that weak ties are especially valuable as a source of new information."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How to ask close friends for job recommendations",
+          "Why acquaintances can be valuable sources of information about jobs",
+          "Why people lose contact with old school friends",
+          "How companies choose which applicants to hire"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Recommendations come up only in the answer to the student.",
+          "Correct. The talk explains why weak ties often lead people to jobs.",
+          "Losing contact is not discussed.",
+          "Hiring decisions are not discussed."
+        ],
+        "explanation": "The talk presents the 'strength of weak ties': acquaintances often provide new job information."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "How does the professor define weak ties?",
+        "options": [
+          "Acquaintances a person sees occasionally",
+          "Family members who live far away",
+          "Coworkers at a person's current job",
+          "Friends who are not willing to help"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Weak ties are acquaintances, like a neighbor you chat with occasionally.",
+          "Family members are given as strong ties.",
+          "Coworkers are not mentioned.",
+          "Willingness to help is not part of the definition."
+        ],
+        "explanation": "Weak ties are acquaintances, such as an old schoolmate or a friend of a friend.",
+        "evidence": "Weak ties are acquaintances"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, why are close friends less likely to provide new information?",
+        "options": [
+          "They are competing for the same jobs.",
+          "They do not care about a person's career.",
+          "They know the same people and hear the same news.",
+          "They usually live in different cities."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Competition is not mentioned.",
+          "The professor says close friends do care.",
+          "Correct. Their information overlaps with yours.",
+          "Location is not mentioned."
+        ],
+        "explanation": "Close friends share your contacts and news, so they rarely tell you something new.",
+        "evidence": "Your close friends tend to know the same people you know and hear the same news you hear."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the professor imply in her answer to the student?",
+        "options": [
+          "Close friends are rarely useful to job seekers.",
+          "The original study is no longer considered accurate.",
+          "Weak ties are the best people to write recommendations.",
+          "Close friends can help in a different way."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "She says 'Not at all' to that idea.",
+          "She does not question the study.",
+          "She links recommendations to close friends, not weak ties.",
+          "Correct. Close friends may help by recommending you once you know about a job."
+        ],
+        "explanation": "She says weak ties bring new information, but close friends may help in another way, such as recommending you.",
+        "evidence": "Close friends may be more willing to help once you know about a job"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-05",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "How limestone caves form",
+    "context": "Listen to part of a talk in a geology class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Harper",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Last week we talked about how water shapes the land's surface. Today, let's go underground and look at limestone caves."
+        },
+        {
+          "s": "p",
+          "t": "Limestone is made mostly of calcium carbonate, often from the shells of ancient sea creatures. On its own, pure water doesn't dissolve limestone very well. But rainwater picks up carbon dioxide from the air and, more importantly, from the soil, and this forms a weak acid called carbonic acid."
+        },
+        {
+          "s": "p",
+          "t": "As this slightly acidic water seeps down through cracks in the limestone, it slowly dissolves the rock and widens the cracks. Over hundreds of thousands of years, the cracks can grow into tunnels and large chambers."
+        },
+        {
+          "s": "p",
+          "t": "Now here's the interesting part. The same process that creates a cave also decorates it. When water carrying dissolved limestone drips from a cave ceiling, it comes into contact with the cave air and loses some carbon dioxide. When that happens, it can't hold as much dissolved mineral, so a tiny amount of calcium carbonate is left behind. Drop by drop, that builds a stalactite hanging from the ceiling."
+        },
+        {
+          "s": "p",
+          "t": "Where the drops land on the floor, the same thing happens, building a stalagmite upward. Given enough time, the two may meet and form a column."
+        },
+        {
+          "s": "p",
+          "t": "These formations grow incredibly slowly, often less than a millimeter per year, which is why touching them is discouraged: oils from your skin can stop their growth."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How people damage caves when they visit them",
+          "Why limestone is made from the shells of sea creatures",
+          "How limestone caves and the formations inside them develop",
+          "The difference between rainwater and seawater"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Damage from touching is a final detail only.",
+          "The origin of limestone is a brief detail.",
+          "Correct. The talk covers how caves form and how stalactites and stalagmites grow.",
+          "Seawater is not discussed."
+        ],
+        "explanation": "The professor explains how acidic water creates caves and how the same chemistry builds cave formations."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, where does rainwater get most of its carbon dioxide?",
+        "options": [
+          "From the air inside caves",
+          "From the soil",
+          "From ancient shells",
+          "From the ocean"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Water loses carbon dioxide in cave air; it doesn't gain it there.",
+          "Correct. She says 'more importantly, from the soil'.",
+          "Shells are the source of the limestone, not the carbon dioxide.",
+          "The ocean is not mentioned as a source."
+        ],
+        "explanation": "Rainwater picks up some carbon dioxide from the air, but more importantly from the soil.",
+        "evidence": "from the air and, more importantly, from the soil"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why does dripping water leave calcium carbonate behind on a cave ceiling?",
+        "options": [
+          "The water loses carbon dioxide and can hold less dissolved mineral.",
+          "The water freezes in the cold cave air.",
+          "The water becomes more acidic.",
+          "The water mixes with oils from visitors' skin."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Losing carbon dioxide means the water cannot hold as much mineral.",
+          "Freezing is not mentioned.",
+          "It becomes less acidic, not more, as it loses carbon dioxide.",
+          "Skin oils stop growth; they don't cause it."
+        ],
+        "explanation": "Contact with cave air makes the water lose carbon dioxide, so it can't keep all the mineral dissolved.",
+        "evidence": "it comes into contact with the cave air and loses some carbon dioxide"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What can be inferred about a tall column in a cave?",
+        "options": [
+          "It formed from the floor upward only.",
+          "It is made of a different mineral from stalactites.",
+          "It will soon stop growing.",
+          "It took a very long time to form."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "A column forms when a stalactite and stalagmite meet, so it grows from both directions.",
+          "All the formations are calcium carbonate.",
+          "Nothing suggests columns stop growing soon.",
+          "Correct. Formations grow less than a millimeter a year, so a tall column must be very old."
+        ],
+        "explanation": "Since formations grow incredibly slowly, a tall column must have taken an enormous amount of time.",
+        "evidence": "These formations grow incredibly slowly, often less than a millimeter per year"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-06",
+    "difficulty": "easy",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Loss leaders",
+    "context": "Listen to part of a talk in a business class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Wright",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today we're going to look at a pricing strategy you've almost certainly experienced as a shopper, even if you didn't know its name. It's called a loss leader."
+        },
+        {
+          "s": "p",
+          "t": "A loss leader is a product that a store sells at a very low price, sometimes even below what the store paid for it. So the store loses money on every one it sells. Why would a business do that?"
+        },
+        {
+          "s": "p",
+          "t": "The idea is that the cheap product brings customers into the store. Once they're there, most people don't buy just one item. They pick up other things too, and the store makes a good profit on those other products."
+        },
+        {
+          "s": "p",
+          "t": "A classic example is a supermarket selling milk or eggs very cheaply. People buy these items often, so they notice the low price, and they come in regularly. While they're shopping, they also buy bread, snacks, and cleaning products at normal prices."
+        },
+        {
+          "s": "p",
+          "t": "But the strategy has risks. Some customers, sometimes called cherry pickers, visit several stores and buy only the discounted items. If too many shoppers behave like that, the store simply loses money."
+        },
+        {
+          "s": "p",
+          "t": "That's why stores choose loss leaders carefully. They pick products that people need regularly, and they often put them at the back of the store, so customers have to walk past many other products to reach them."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "How stores decide where to build new branches",
+          "Why supermarkets have raised the price of milk",
+          "A strategy of selling one product cheaply to attract customers",
+          "Why some shoppers prefer to visit only one store"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Store locations are not discussed.",
+          "Milk is an example of a cheap product, not of rising prices.",
+          "Correct. The talk defines and evaluates the loss-leader strategy.",
+          "Cherry pickers actually visit several stores."
+        ],
+        "explanation": "The professor explains loss leaders: products sold cheaply to bring customers in."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why do supermarkets often choose milk or eggs as loss leaders?",
+        "options": [
+          "They are cheap for the store to produce.",
+          "People buy them often and notice their price.",
+          "They are located near the store entrance.",
+          "They make the largest profit for the store."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Production cost is not mentioned.",
+          "Correct. Frequent purchases make people notice the low price and return regularly.",
+          "Loss leaders are often placed at the back, not the entrance.",
+          "The store loses money on them."
+        ],
+        "explanation": "Because people buy milk and eggs often, they notice the low price and come back regularly.",
+        "evidence": "People buy these items often, so they notice the low price"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What problem do cherry pickers cause for stores?",
+        "options": [
+          "They complain about prices to the manager.",
+          "They return products after buying them.",
+          "They take products from the back of the store.",
+          "They buy only the discounted items."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Complaining is not mentioned.",
+          "Returns are not mentioned.",
+          "This misuses the detail about where loss leaders are placed.",
+          "Correct. They skip the full-price products the store profits from."
+        ],
+        "explanation": "Cherry pickers buy only discounted items, so the store loses money on them.",
+        "evidence": "buy only the discounted items"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "Why are loss leaders often placed at the back of the store?",
+        "options": [
+          "To encourage customers to see and buy other products",
+          "Because cherry pickers cannot find them there",
+          "Because they need to be kept cold",
+          "Because they are delivered through the back door"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Customers must walk past many other products, which may lead to more purchases.",
+          "Hiding the products is not the stated goal.",
+          "Temperature is not mentioned.",
+          "Deliveries are not mentioned."
+        ],
+        "explanation": "Walking past many other products on the way increases the chance that customers buy more.",
+        "evidence": "so customers have to walk past many other products to reach them"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-07",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "Loanwords",
+    "context": "Listen to part of a talk in a linguistics class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Fraser",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Today we're looking at how languages borrow words from each other. Linguists call these borrowed words loanwords."
+        },
+        {
+          "s": "p",
+          "t": "English is full of them. Ballet and restaurant come from French, kindergarten from German, and tsunami from Japanese. In fact, a large share of everyday English vocabulary was originally borrowed."
+        },
+        {
+          "s": "p",
+          "t": "So why do languages borrow? There are two main reasons. The first is need. When speakers encounter a new object or idea, they often simply take the name along with the thing. Coffee and chocolate entered European languages this way, together with the products themselves."
+        },
+        {
+          "s": "p",
+          "t": "The second reason is prestige. If speakers see another language as fashionable or powerful, they may borrow words even when they already have perfectly good ones. After the Norman Conquest of ten sixty-six, French was the language of the ruling class in England. That's why English has pairs like cow and beef. The animal in the field kept its old English name, but the meat served at the tables of French-speaking nobles got a French name."
+        },
+        {
+          "s": "p",
+          "t": "One more thing: borrowed words usually change to fit their new language. Speakers adjust the pronunciation to sounds they already use, and they apply their own grammar. English speakers say tsunamis, with an s for the plural, even though Japanese doesn't mark plurals that way."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the main topic of the talk?",
+        "options": [
+          "The history of the French language in England",
+          "Why and how languages take words from other languages",
+          "How English grammar has changed over time",
+          "Why Japanese has no plural forms"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "French in England is one example of prestige borrowing.",
+          "Correct. The talk explains reasons for borrowing and how loanwords adapt.",
+          "Grammar is mentioned only for how loanwords adapt.",
+          "Japanese plurals are a small detail."
+        ],
+        "explanation": "The professor discusses loanwords: the reasons for borrowing (need and prestige) and how borrowed words adapt."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the professor say about borrowing because of need?",
+        "options": [
+          "Speakers adopt the name of a new item along with the item itself.",
+          "Speakers replace old words that are hard to pronounce.",
+          "Speakers borrow words from languages they consider powerful.",
+          "Speakers create new words from their own language."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Coffee and chocolate arrived together with their names.",
+          "Pronunciation difficulty is not given as a reason.",
+          "That describes prestige, the second reason.",
+          "Creating words is the opposite of borrowing."
+        ],
+        "explanation": "With need-based borrowing, speakers take the name together with the new object or idea.",
+        "evidence": "they often simply take the name along with the thing"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor mention the words cow and beef?",
+        "options": [
+          "To show how animal names change over time",
+          "To explain why meat was imported into England",
+          "To illustrate borrowing caused by the social status of a language",
+          "To show that English had no word for meat"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "The point is about borrowing, not gradual change.",
+          "Importing meat is not mentioned.",
+          "Correct. French, the language of the ruling class, gave English the word for the meat.",
+          "English had words; French ones were borrowed anyway because of prestige."
+        ],
+        "explanation": "Cow and beef illustrate prestige borrowing: French was the language of the ruling class.",
+        "evidence": "French was the language of the ruling class in England"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the professor say about the word tsunamis?",
+        "options": [
+          "It is pronounced exactly as in Japanese.",
+          "It was borrowed because of prestige.",
+          "It is rarely used in everyday English.",
+          "It follows the English rule for plurals."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "She says speakers adjust pronunciation to their own sounds.",
+          "She does not link this word to prestige.",
+          "Frequency of use is not discussed.",
+          "Correct. English adds an s for the plural, unlike Japanese."
+        ],
+        "explanation": "Tsunamis shows a loanword taking English plural grammar.",
+        "evidence": "English speakers say tsunamis, with an s for the plural"
+      }
+    ]
+  },
+  {
+    "id": "toefl-talk-08",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-talk",
+    "title": "The urban heat island",
+    "context": "Listen to part of a talk in an environmental science class.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "p",
+          "name": "Professor Kelly",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "p",
+          "t": "Let's turn to a phenomenon that's become central to city planning: the urban heat island. Simply put, cities tend to be warmer than the surrounding countryside, sometimes by several degrees, and the difference is usually greatest at night, not during the day."
+        },
+        {
+          "s": "p",
+          "t": "Several factors contribute. First, materials. Asphalt and concrete absorb a great deal of solar radiation during the day and release it slowly after sunset. Second, the loss of vegetation. Plants cool their surroundings through evapotranspiration, essentially releasing water vapor, which uses up heat energy. Replace a park with a parking lot, and you lose that cooling. Third, geometry. Tall buildings lining narrow streets trap heat, because energy reflected off one wall simply hits another rather than escaping to the sky."
+        },
+        {
+          "s": "p",
+          "t": "And then there's waste heat from human activity: vehicles, industry, and, ironically, air conditioners, which pump heat out of buildings and into the street."
+        },
+        {
+          "s": "p",
+          "t": "Now, mitigation. Cities have experimented with cool roofs, coated to reflect sunlight, and with planting street trees. Trees are interesting because their benefit goes beyond shade. A single mature tree can transpire hundreds of liters of water on a hot day. But trees need water, and in drought-prone cities that creates a genuine trade-off, so planners can't simply plant their way out of the problem."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-gist",
+        "prompt": "What is the talk mainly about?",
+        "options": [
+          "Why cities are warmer during the day than at night",
+          "Why air conditioners use so much energy",
+          "How droughts affect city parks",
+          "The causes of higher temperatures in cities and ways to reduce them"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "He says the difference is greatest at night.",
+          "Air conditioners are one example of waste heat.",
+          "Drought is mentioned only as a limit on tree planting.",
+          "Correct. The professor lists the causes of urban heat islands and then discusses mitigation."
+        ],
+        "explanation": "The talk explains why cities are warmer than the countryside and how cities try to reduce the effect."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "According to the professor, when is the temperature difference between cities and the countryside usually greatest?",
+        "options": [
+          "At night",
+          "In the early morning",
+          "At midday",
+          "During rainy periods"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct. Stored heat is released slowly after sunset.",
+          "Early morning is not mentioned.",
+          "He specifically says 'not during the day'.",
+          "Rain is not mentioned."
+        ],
+        "explanation": "The urban-rural temperature difference is usually greatest at night.",
+        "evidence": "the difference is usually greatest at night, not during the day"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the professor use the word \"ironically\" when he mentions air conditioners?",
+        "options": [
+          "Because air conditioners are rarely used in cities",
+          "Because air conditioners work better in the countryside",
+          "Because devices meant to cool people actually add heat to the street",
+          "Because air conditioners were invented to replace trees"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Nothing suggests they are rare.",
+          "The countryside is not mentioned in this context.",
+          "Correct. They cool buildings by pushing heat outside, warming the city.",
+          "No such claim is made."
+        ],
+        "explanation": "It is ironic that cooling machines contribute to heating the city by pumping heat into the street.",
+        "evidence": "air conditioners, which pump heat out of buildings and into the street"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the professor imply about planting trees to cool cities?",
+        "options": [
+          "It is less effective than painting roofs.",
+          "It may be of limited use where water is scarce.",
+          "It has already solved the problem in most cities.",
+          "Its only benefit is providing shade."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "He doesn't compare the two methods' effectiveness.",
+          "Correct. Trees need water, creating a trade-off in drought-prone cities.",
+          "He says planners can't simply plant their way out of the problem.",
+          "He says their benefit goes beyond shade."
+        ],
+        "explanation": "Because trees need water, in dry cities they cannot be relied on as a complete solution.",
+        "evidence": "in drought-prone cities that creates a genuine trade-off"
+      }
+    ]
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "id": "toefl-ap-09",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Flying Buttress",
+    "text": "The great cathedrals built in France from the twelfth century onward are famous for their soaring height and their walls of stained glass. Achieving both features at once was a serious engineering challenge. A tall stone vault, the arched ceiling covering the main hall, pushes not only downward but also outward against the walls that support it. In earlier Romanesque churches, builders resisted this outward thrust with extremely thick walls pierced by only a few small windows, which left the interiors relatively dark.\n\nGothic builders solved the problem with the flying buttress. This is an arch of stone that springs from the upper part of the wall and transfers the vault's thrust across open space to a massive pier standing outside the building. Because the outward force is carried away from the wall, the wall itself no longer has to be thick. Large sections of it could be replaced with glass, flooding the interior with colored light.\n\nThe flying buttress was not designed according to modern mathematical theory. Medieval masons relied on experience, geometric rules passed down through workshops, and sometimes costly failure. Several cathedral vaults collapsed during or soon after construction, most famously at Beauvais in 1284. Such disasters, however, taught builders where their limits lay, and later structures were adjusted accordingly.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the main idea of the passage?",
+        "options": [
+          "Romanesque churches were darker than Gothic cathedrals because of their small windows.",
+          "The cathedral at Beauvais was the tallest building of the Middle Ages.",
+          "Medieval masons used advanced mathematics to design cathedrals.",
+          "The flying buttress allowed Gothic builders to construct tall buildings with thin walls and large windows."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "True but only background in paragraph 1; it is not the main point.",
+          "Not mentioned: Beauvais is cited only for a collapse.",
+          "Contradicted: the buttress was not designed with modern mathematical theory.",
+          "Correct: the passage explains the engineering problem and how the flying buttress solved it."
+        ],
+        "explanation": "Paragraph 1 states the problem (height plus glass), paragraph 2 gives the solution (the flying buttress) and paragraph 3 explains how builders learned to use it.",
+        "evidence": "Gothic builders solved the problem with the flying buttress."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, how did Romanesque builders deal with the outward push of the vault?",
+        "options": [
+          "They built extremely thick walls.",
+          "They placed massive piers outside the building.",
+          "They replaced stone vaults with wooden roofs.",
+          "They used stained glass to strengthen the walls."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the outward thrust was resisted with extremely thick walls.",
+          "Distorted: external piers are part of the later Gothic solution.",
+          "Not mentioned in the passage.",
+          "Illogical: glass replaced wall sections; it did not strengthen them."
+        ],
+        "explanation": "Romanesque churches used thick walls with few small windows, which made them dark.",
+        "evidence": "builders resisted this outward thrust with extremely thick walls"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"transfers\" in the passage is closest in meaning to",
+        "options": [
+          "reduces",
+          "conceals",
+          "reverses",
+          "moves"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Tempting, but the force is not made smaller; it is carried to another place.",
+          "Not the meaning; nothing is hidden.",
+          "The force is not turned in the opposite direction.",
+          "Correct: the buttress moves the thrust from the wall to the outside pier."
+        ],
+        "explanation": "The thrust is carried \"across open space to a massive pier\", so \"transfers\" means moves from one place to another.",
+        "evidence": "transfers the vault's thrust across open space"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"it\" in the sentence \"Large sections of it could be replaced with glass\" refers to",
+        "options": [
+          "the outward force",
+          "the wall",
+          "the pier",
+          "the interior"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "A force cannot have sections replaced with glass.",
+          "Correct: once the wall no longer had to be thick, large parts of it could become windows.",
+          "The pier stands outside and must remain massive.",
+          "The interior is what the light floods, not what is replaced."
+        ],
+        "explanation": "The previous sentence ends with \"the wall itself no longer has to be thick\"; sections of that wall were replaced with glass.",
+        "evidence": "Large sections of it could be replaced with glass"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 3 about the collapse at Beauvais?",
+        "options": [
+          "It led builders to stop constructing Gothic cathedrals.",
+          "It happened because builders ignored traditional workshop rules.",
+          "It gave builders knowledge that influenced later construction.",
+          "It was caused by flying buttresses that were too thick."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not supported: the passage mentions later structures, so building continued.",
+          "Not stated: the passage gives no specific cause for the collapse.",
+          "Correct: disasters like this one taught builders their limits, and later structures were adjusted.",
+          "Not stated: no cause is given, and thickness of buttresses is never discussed."
+        ],
+        "explanation": "The author says such disasters taught builders where their limits lay; Beauvais is the most famous example, so it contributed to later adjustments.",
+        "evidence": "Such disasters, however, taught builders where their limits lay, and later structures were adjusted accordingly."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-10",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "How Catalysts Work",
+    "text": "Many chemical reactions that release energy do not happen on their own at ordinary temperatures. A piece of paper, for example, can sit in air for years without burning, even though its reaction with oxygen would give off a great deal of heat. The reason is that molecules must first overcome an energy barrier, called the activation energy, before they can rearrange into new products. Lighting a match supplies enough heat for some molecules to cross this barrier, and the energy released then keeps the reaction going.\n\nA catalyst offers a different solution. Rather than supplying extra energy, it provides an alternative pathway for the reaction, one with a lower barrier. Many industrial catalysts are metals whose surfaces hold reacting molecules in positions that make it easier for their bonds to break and re-form. Importantly, a catalyst is not consumed by the reaction. Once the products leave its surface, it is free to assist the next set of molecules, so a small amount of catalyst can process enormous quantities of material.\n\nLiving organisms depend on biological catalysts called enzymes. Without them, the reactions that digest food or copy genetic material would proceed far too slowly to sustain life at body temperature. Enzymes are often highly specific: each typically speeds up only a single reaction or a small group of closely related ones, because its shape fits only certain molecules.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "Why paper burns only when a catalyst is present",
+          "How catalysts speed up reactions by lowering the energy barrier, in industry and in living things",
+          "Why enzymes are more effective than metal catalysts",
+          "Why most chemical reactions release large amounts of heat"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Distorted: paper burns when a match supplies heat; no catalyst is mentioned.",
+          "Correct: the passage explains activation energy, how catalysts lower it, and enzymes as biological catalysts.",
+          "Not stated: the passage does not compare their effectiveness.",
+          "Not the focus: heat release is mentioned only to introduce the barrier problem."
+        ],
+        "explanation": "Paragraph 1 introduces the activation energy barrier, paragraph 2 explains how catalysts lower it, and paragraph 3 applies the idea to enzymes.",
+        "evidence": "Rather than supplying extra energy, it provides an alternative pathway for the reaction, one with a lower barrier."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention a piece of paper in paragraph 1?",
+        "options": [
+          "To illustrate that a reaction that releases energy may still need help to get started",
+          "To show that paper contains natural catalysts",
+          "To compare burning with the digestion of food",
+          "To explain why matches are made of paper"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: paper could release much heat by burning, but it does not burn until the barrier is overcome.",
+          "Not mentioned: the paper example involves no catalyst.",
+          "Digestion appears only in paragraph 3 and is not compared with burning.",
+          "Not mentioned: the passage says nothing about what matches are made of."
+        ],
+        "explanation": "The paper example supports the opening claim that energy-releasing reactions do not always happen on their own.",
+        "evidence": "A piece of paper, for example, can sit in air for years without burning"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, why can a small amount of catalyst process a large quantity of material?",
+        "options": [
+          "It supplies extra heat to each reaction.",
+          "It is gradually turned into the products.",
+          "It becomes more active as the reaction continues.",
+          "It is not used up and can assist one set of molecules after another."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Contradicted: a catalyst works \"rather than supplying extra energy\".",
+          "Opposite: a catalyst is not consumed by the reaction.",
+          "Not mentioned in the passage.",
+          "Correct: once the products leave, the catalyst is free to assist the next molecules."
+        ],
+        "explanation": "Because the catalyst is not consumed, the same catalyst is reused again and again, which is why a little of it goes a long way.",
+        "evidence": "Importantly, a catalyst is not consumed by the reaction."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"its\" in the phrase \"Once the products leave its surface\" refers to",
+        "options": [
+          "the reaction",
+          "the next set of molecules",
+          "the catalyst",
+          "the products"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "A reaction does not have a surface in this sense.",
+          "These molecules arrive after the products leave; they are not the surface.",
+          "Correct: the products leave the catalyst's surface, where they were held during the reaction.",
+          "The products cannot leave their own surface."
+        ],
+        "explanation": "The previous sentences describe catalysts whose surfaces hold the reacting molecules; the products then leave the catalyst's surface.",
+        "evidence": "Once the products leave its surface, it is free to assist the next set of molecules"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 3 about an enzyme that helps digest a particular food molecule?",
+        "options": [
+          "It would probably not speed up the copying of genetic material.",
+          "It works only at temperatures far above body temperature.",
+          "It is used up after a single reaction.",
+          "It can change its shape to fit any molecule."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: enzymes typically speed up only one reaction or closely related ones, and copying genetic material is a very different reaction.",
+          "Contradicted: enzymes allow reactions to proceed fast enough at body temperature.",
+          "Contradicted: catalysts, including enzymes, are not consumed.",
+          "Contradicted: an enzyme's shape fits only certain molecules."
+        ],
+        "explanation": "Since each enzyme is highly specific, a digestive enzyme is unlikely to also catalyze an unrelated reaction such as copying genetic material.",
+        "evidence": "each typically speeds up only a single reaction or a small group of closely related ones"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-11",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Seasonal Herding in the Mountains",
+    "text": "In many mountainous regions of the world, herders practice a form of seasonal movement known as transhumance. Rather than wandering continuously in search of grass, as is sometimes imagined, these communities move their livestock between fixed locations according to a regular yearly schedule. In summer, the animals graze in high mountain pastures, where snowmelt produces fresh vegetation. In autumn, before snow covers the slopes, herders lead them back down to valleys, where winter fodder has been stored.\n\nTranshumance is closely tied to the environment. High pastures cannot support animals all year, and lowland fields are often needed for crops during the growing season. By moving herds upward in summer, communities make use of land that would otherwise be unproductive while leaving the valleys free for farming. The practice therefore allows a population to support more animals than either zone could feed on its own.\n\nThe system also shapes social life. Routes between pastures are frequently governed by customary agreements that have been honored for generations, and the departure and return of the herds are often marked by festivals. In recent decades, however, transhumance has declined in many areas as young people move to cities and roads make it possible to transport fodder by truck. Some governments now support the practice, arguing that grazing helps maintain mountain meadows and their plant diversity.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the main idea of the passage?",
+        "options": [
+          "Mountain herders wander continuously without fixed destinations.",
+          "Mountain festivals celebrate the harvest of crops in the valleys.",
+          "Governments have recently tried to end transhumance.",
+          "Transhumance is a regular seasonal movement of herds that suits mountain environments and shapes social life."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Opposite: the passage corrects this common image; herders move between fixed locations.",
+          "Distorted: festivals mark the departure and return of the herds.",
+          "Opposite: some governments now support the practice.",
+          "Correct: the passage defines transhumance, explains its environmental logic and describes its social role and decline."
+        ],
+        "explanation": "The three paragraphs cover the definition, the environmental advantages and the social dimension of transhumance.",
+        "evidence": "these communities move their livestock between fixed locations according to a regular yearly schedule"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, why do herders bring their animals down to the valleys in autumn?",
+        "options": [
+          "To sell the animals at valley markets",
+          "To let the high pastures recover from summer grazing",
+          "To avoid the snow and to use the winter fodder stored there",
+          "To help farmers harvest their crops"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not mentioned in the passage.",
+          "Plausible but not stated as the reason.",
+          "Correct: they move before snow covers the slopes, to valleys where fodder has been stored.",
+          "Not mentioned: the valleys are left free for farming, but herders are not said to help with harvests."
+        ],
+        "explanation": "The text gives two reasons in one sentence: snow is coming to the slopes, and winter fodder is waiting in the valleys.",
+        "evidence": "In autumn, before snow covers the slopes, herders lead them back down to valleys, where winter fodder has been stored."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"unproductive\" in the passage is closest in meaning to",
+        "options": [
+          "dangerous",
+          "distant",
+          "crowded",
+          "yielding little benefit"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not the meaning; the sentence is about usefulness, not danger.",
+          "High pastures are far away, but that is not what \"unproductive\" means.",
+          "Opposite in context: the land would be empty, not crowded.",
+          "Correct: without summer grazing the high land would produce nothing useful."
+        ],
+        "explanation": "Herders \"make use of\" the high land, which would otherwise be \"unproductive\": producing no benefit.",
+        "evidence": "make use of land that would otherwise be unproductive"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 2 about a community that kept all its animals in the valley throughout the year?",
+        "options": [
+          "It would probably be able to keep fewer animals.",
+          "It would have more land available for crops.",
+          "It would not need to store fodder for the winter.",
+          "It would increase the plant diversity of mountain meadows."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: transhumance lets a population support more animals than either zone could alone, so using only the valley would support fewer.",
+          "Opposite: animals grazing in the valley in summer would occupy land needed for crops.",
+          "Not supported: the animals would still need food in winter.",
+          "Opposite: the passage says grazing helps maintain the meadows, and this community would not graze them."
+        ],
+        "explanation": "If combining the two zones supports more animals than either zone alone, relying on the valley alone means fewer animals.",
+        "evidence": "The practice therefore allows a population to support more animals than either zone could feed on its own."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention roads and trucks in paragraph 3?",
+        "options": [
+          "To describe how herders move their animals today",
+          "To explain one reason why transhumance has become less common",
+          "To show why governments support transhumance",
+          "To contrast mountain regions with cities"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Distorted: trucks transport fodder, not animals, and this is not presented as part of transhumance.",
+          "Correct: being able to truck fodder reduces the need to move herds, contributing to the decline.",
+          "The governments' reason is the maintenance of meadows, not roads.",
+          "No contrast between mountains and cities is drawn here."
+        ],
+        "explanation": "Roads and trucks appear in the list of reasons following \"transhumance has declined in many areas as…\".",
+        "evidence": "roads make it possible to transport fodder by truck"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-12",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Coral Bleaching",
+    "text": "Reef-building corals may look like plants or rocks, but they are animals, and much of their success depends on a partnership. Living inside the tissues of most corals are microscopic algae. Through photosynthesis, these algae produce sugars, and they pass a large share of them to their coral hosts. In return, the corals provide the algae with shelter and with nutrients from their waste. The algae also give corals much of their color.\n\nThis relationship is sensitive to temperature. When seawater stays even one or two degrees Celsius above its usual summer maximum for several weeks, the algae's photosynthetic machinery is damaged and begins to produce harmful chemicals. The corals respond by expelling the algae. Without them, the coral's tissue becomes nearly transparent, and the white limestone skeleton beneath shows through. This loss of color is known as bleaching.\n\nA bleached coral is not necessarily dead. If water temperatures return to normal fairly quickly, algae can recolonize the coral, and it may recover within months. Prolonged bleaching, however, deprives the coral of its main food source, leaving it starved and vulnerable to disease. As ocean temperatures rise, bleaching events have become more frequent, giving reefs less time to recover between episodes. Scientists are now studying certain corals that have survived repeated heat waves, hoping to learn what makes them more resilient.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "How heat disrupts the partnership between corals and algae, causing bleaching that can threaten coral survival",
+          "Why corals are classified as plants rather than animals",
+          "Why bleached corals always die within a few weeks",
+          "How scientists have found a way to prevent coral bleaching"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the passage describes the partnership, how heat breaks it, and the consequences.",
+          "Contradicted: the passage states that corals are animals.",
+          "Contradicted: a bleached coral is not necessarily dead.",
+          "Overstated: scientists are only studying resilient corals; no method of prevention is reported."
+        ],
+        "explanation": "Paragraph 1 describes the partnership, paragraph 2 explains how heat causes bleaching, and paragraph 3 describes recovery and the growing threat.",
+        "evidence": "This relationship is sensitive to temperature."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"them\" in the phrase \"they pass a large share of them to their coral hosts\" refers to",
+        "options": [
+          "microscopic algae",
+          "sugars",
+          "tissues",
+          "corals"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The algae are \"they\", the ones doing the passing, not what is passed.",
+          "Correct: the algae pass a share of the sugars they produce to the corals.",
+          "Tissues are where the algae live; they are not passed to anyone.",
+          "The corals are the hosts that receive the share."
+        ],
+        "explanation": "The algae produce sugars and pass a large share of them (the sugars) to their hosts.",
+        "evidence": "Through photosynthesis, these algae produce sugars, and they pass a large share of them to their coral hosts."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"expelling\" in the passage is closest in meaning to",
+        "options": [
+          "feeding",
+          "hiding",
+          "forcing out",
+          "repairing"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Opposite in context: the corals are getting rid of the algae.",
+          "Not the meaning; after expulsion the algae are gone, not hidden.",
+          "Correct: the corals force the damaged algae out of their tissues.",
+          "Not the meaning; the corals do not fix the algae."
+        ],
+        "explanation": "The next sentence begins \"Without them\", showing that the algae are no longer in the coral: they have been forced out.",
+        "evidence": "The corals respond by expelling the algae."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author state that \"A bleached coral is not necessarily dead\"?",
+        "options": [
+          "To argue that bleaching is not a serious problem",
+          "To explain why corals expel their algae",
+          "To show that bleaching events are becoming less frequent",
+          "To correct a possible misunderstanding and introduce the conditions for recovery"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Contradicted: the author goes on to describe starvation, disease and more frequent bleaching.",
+          "The reason for expelling algae was given in paragraph 2.",
+          "Opposite: bleaching events have become more frequent.",
+          "Correct: readers might assume a white coral is dead; the author then explains when it can recover."
+        ],
+        "explanation": "The sentence opens paragraph 3 and leads directly into the condition for recovery: a quick return to normal temperatures.",
+        "evidence": "If water temperatures return to normal fairly quickly, algae can recolonize the coral"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 3 about the effect of rising ocean temperatures on reefs?",
+        "options": [
+          "Reefs will recover more quickly from each bleaching event.",
+          "More reefs may suffer lasting damage because recovery periods are becoming shorter.",
+          "Algae will soon stop living inside corals altogether.",
+          "Corals will become more colorful."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not supported: the passage says reefs have less time, not that they recover faster.",
+          "Correct: more frequent bleaching leaves less time to recover, so damage is more likely to accumulate.",
+          "Too extreme: nothing suggests the partnership will disappear completely.",
+          "Opposite: bleaching is a loss of color."
+        ],
+        "explanation": "Recovery takes months, and frequent bleaching shortens the time between episodes, so reefs are more likely to be damaged permanently.",
+        "evidence": "bleaching events have become more frequent, giving reefs less time to recover between episodes"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-13",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Dating with Tree Rings",
+    "text": "In regions with distinct seasons, a tree adds a new layer of wood each year. Wood formed in spring is usually light in color, while wood formed later in the growing season is darker and denser. Together they form one annual ring. Counting the rings in a cut trunk therefore reveals the tree's age. Dendrochronology, the scientific study of tree rings, goes much further than simple counting, however.\n\nThe width of each ring depends on growing conditions. In a wet, mild year, a tree grows well and produces a wide ring; in a year of drought, the ring is narrow. Because all trees of the same species in a region experience the same weather, they share a recognizable sequence of wide and narrow rings. By matching the overlapping patterns of living trees, old timbers, and preserved logs, researchers have built continuous chronologies extending back thousands of years.\n\nThese chronologies are a valuable tool for archaeologists. When a wooden beam is found in an ancient building, its ring pattern can be compared with the regional sequence. If the outermost ring under the bark has survived, the match can show the exact year in which the tree was cut down. Dendrochronology has also been used to check radiocarbon dates, which become less precise for older materials, making the two methods complementary.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the main idea of the passage?",
+        "options": [
+          "Radiocarbon dating is more accurate than tree-ring dating.",
+          "Trees grow faster in dry years than in wet years.",
+          "Tree rings reveal not only a tree's age but, through matched patterns, the dates of ancient wood.",
+          "Archaeologists usually find wooden beams with the bark still attached."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not stated: the two methods are described as complementary.",
+          "Opposite: drought produces narrow rings, meaning less growth.",
+          "Correct: the passage moves from ring counting to regional chronologies and their use in archaeology.",
+          "Not stated: the passage only says the exact year can be found if the outer ring survives."
+        ],
+        "explanation": "The key sentence says dendrochronology \"goes much further than simple counting\"; the rest of the passage explains how and why.",
+        "evidence": "Dendrochronology, the scientific study of tree rings, goes much further than simple counting, however."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, what does a narrow ring indicate?",
+        "options": [
+          "The tree was very young when the ring formed.",
+          "The tree grew during a dry year.",
+          "The wood formed in spring.",
+          "The tree was cut down in that year."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not stated: ring width is linked to weather, not to age.",
+          "Correct: in a year of drought, the ring is narrow.",
+          "Distorted: spring wood is described by its color, and it is only part of a ring.",
+          "Not stated: the year of cutting is shown by the outermost ring, not by a narrow one."
+        ],
+        "explanation": "Paragraph 2 contrasts wet, mild years (wide rings) with drought years (narrow rings).",
+        "evidence": "in a year of drought, the ring is narrow"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"distinct\" in the passage is closest in meaning to",
+        "options": [
+          "clearly different",
+          "mild",
+          "long",
+          "unpredictable"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: seasons that are clearly different from each other produce visible annual rings.",
+          "Not the meaning, and mild weather would make seasons less distinct.",
+          "Not the meaning; the word refers to difference, not length.",
+          "Opposite in sense: rings form because seasons come in a regular, recognizable pattern."
+        ],
+        "explanation": "Annual rings form because spring and later growth differ; that requires seasons that are clearly different.",
+        "evidence": "In regions with distinct seasons"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"they\" in the phrase \"they share a recognizable sequence of wide and narrow rings\" refers to",
+        "options": [
+          "growing conditions",
+          "researchers",
+          "the rings",
+          "trees of the same species in a region"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Conditions do not have rings.",
+          "Researchers are mentioned only in the next sentence.",
+          "Rings cannot share a sequence of rings.",
+          "Correct: trees that experience the same weather share the same pattern of rings."
+        ],
+        "explanation": "The \"because\" clause names the subject: all trees of the same species in a region experience the same weather, so they share a sequence.",
+        "evidence": "Because all trees of the same species in a region experience the same weather, they share a recognizable sequence of wide and narrow rings."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention \"the outermost ring under the bark\"?",
+        "options": [
+          "To explain how the age of a living tree is calculated",
+          "To identify the condition under which the year a tree was cut can be known exactly",
+          "To describe how bark protects wood from decay",
+          "To argue that beams without bark cannot be dated at all"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The age of a living tree is calculated by counting rings, as paragraph 1 explains.",
+          "Correct: only if that last ring survives can the exact felling year be determined.",
+          "Not mentioned in the passage.",
+          "Too strong: the passage implies such beams can still be matched, just not to the exact felling year."
+        ],
+        "explanation": "The sentence is a condition (\"If…\"): the outermost ring marks the last year of growth, so it gives the exact year the tree was cut down.",
+        "evidence": "If the outermost ring under the bark has survived, the match can show the exact year in which the tree was cut down."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-14",
+    "difficulty": "medium",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Network Effects",
+    "text": "For most products, the value a buyer receives does not depend on how many other people own the same item. A loaf of bread is equally satisfying whether one person or a million people buy it. Some goods and services, however, become more valuable as more people use them. Economists describe this property as a network effect. The classic example is the telephone: a single telephone is useless, but each additional subscriber increases the number of people every existing user can call.\n\nNetwork effects can produce unusual patterns of competition. Once a product gains a lead in users, it becomes more attractive to new customers, which strengthens its lead further. As a result, markets with strong network effects often tend toward a single dominant provider, even when rival products are technically superior. Early success can matter more than quality, and firms may sell at a loss for years in an effort to build a large user base quickly.\n\nSuch dominance is not always permanent. Network effects that are limited to small groups, such as friends who use the same messaging service, can make it easier for users to switch together. In addition, if a dominant provider allows its service to decline, the cost of moving to a competitor may eventually seem worth paying. Regulators in several countries have also considered requiring compatibility between rival networks, which would weaken the advantage of size.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, why is a single telephone useless?",
+        "options": [
+          "It is too expensive for most buyers.",
+          "It has been replaced by better technology.",
+          "It cannot be connected to a computer network.",
+          "There is no one else for its owner to call."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not mentioned: price is not discussed.",
+          "Not mentioned: the example is about the logic of networks, not technology.",
+          "Not mentioned in the passage.",
+          "Correct: a telephone's value comes from the number of people its owner can call."
+        ],
+        "explanation": "The example contrasts a single telephone (useless) with each additional subscriber, who increases the number of people every user can call.",
+        "evidence": "a single telephone is useless, but each additional subscriber increases the number of people every existing user can call"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention a loaf of bread?",
+        "options": [
+          "To show that food products have strong network effects",
+          "To explain why some firms sell at a loss",
+          "To give an example of a product whose value does not depend on how many others buy it",
+          "To contrast an inexpensive product with an expensive one"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Opposite: bread is the example of a product without a network effect.",
+          "Selling at a loss is discussed in paragraph 2, unrelated to bread.",
+          "Correct: bread illustrates the ordinary case, which is then contrasted with network goods.",
+          "Price is not the point of the comparison."
+        ],
+        "explanation": "The author first describes ordinary goods (bread) so that network goods, introduced with \"however\", stand out by contrast.",
+        "evidence": "A loaf of bread is equally satisfying whether one person or a million people buy it."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"superior\" in the passage is closest in meaning to",
+        "options": [
+          "newer",
+          "cheaper",
+          "more popular",
+          "better"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not the meaning; the word refers to quality, not age.",
+          "Not the meaning; the word refers to quality, not price.",
+          "Opposite in context: the rivals are less popular despite their quality.",
+          "Correct: rival products may be technically better and still lose."
+        ],
+        "explanation": "The sentence makes a contrast: one provider dominates \"even when\" rival products are technically better.",
+        "evidence": "even when rival products are technically superior"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 2 about a firm that sells its service at a loss for several years?",
+        "options": [
+          "It expects that a large user base will make its service more attractive and give it an advantage later.",
+          "Its product is lower in quality than its competitors' products.",
+          "It is preparing to leave the market.",
+          "It has been required to do so by regulators."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the losses are an investment to build a large user base, which then strengthens the product's lead.",
+          "Not supported: the passage does not link selling at a loss to low quality.",
+          "Opposite: the firm is trying to dominate, not to leave.",
+          "Not supported: regulators are mentioned only in connection with compatibility."
+        ],
+        "explanation": "A lead in users attracts more users, so firms accept losses \"in an effort to build a large user base quickly\" in the hope of gaining that self-reinforcing lead.",
+        "evidence": "firms may sell at a loss for years in an effort to build a large user base quickly"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"which\" in the last sentence of the passage refers to",
+        "options": [
+          "several countries",
+          "rival networks",
+          "requiring compatibility between rival networks",
+          "a dominant provider"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Countries cannot weaken the advantage of size in this sentence.",
+          "The networks themselves already exist; the weakening comes from making them compatible.",
+          "Correct: making rival networks compatible would weaken the advantage of the biggest network.",
+          "The dominant provider is the one whose advantage would be weakened."
+        ],
+        "explanation": "If rival networks were compatible, users of a small network could reach users of a large one, so size would matter less. \"Which\" refers to the whole idea of requiring compatibility.",
+        "evidence": "Regulators in several countries have also considered requiring compatibility between rival networks, which would weaken the advantage of size."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-15",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "The Delayed Acceptance of Continental Drift",
+    "text": "When the German meteorologist Alfred Wegener proposed in 1912 that the continents had once been joined and had since drifted apart, he assembled an impressive array of evidence. The coastlines of South America and Africa fit together with remarkable precision; identical fossils of land-dwelling reptiles appeared on continents now separated by thousands of kilometers of ocean; and rock formations in eastern Brazil matched those in western Africa. Yet for nearly half a century, most geologists rejected his hypothesis.\n\nTheir resistance was not simply conservatism. Wegener could offer no convincing mechanism capable of moving entire continents. His suggestion that continents plowed through the solid ocean floor, propelled by forces arising from Earth's rotation, was readily shown by physicists to be inadequate by several orders of magnitude. To many specialists, an observation without a plausible cause was not a theory but a curiosity, and the fossil evidence could be accommodated, however awkwardly, by supposing that narrow land bridges had once connected the continents and later sunk.\n\nThe decisive evidence came not from the continents but from the seafloor, which had been largely inaccessible in Wegener's time. Surveys in the 1950s and 1960s revealed that oceanic crust is young, is created at underwater ridges, and records reversals of Earth's magnetic field in symmetrical stripes on either side of them. These findings implied that the ocean floor itself spreads, carrying the continents with it, and continental drift was reborn as part of plate tectonics.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Wegener's evidence for continental drift was largely inaccurate.",
+          "Physicists were the first scientists to accept Wegener's ideas.",
+          "Land bridges remain the best explanation for the distribution of fossils.",
+          "Continental drift was long rejected for lack of a mechanism until discoveries about the seafloor provided one."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Contradicted: the author calls his evidence impressive; the problem was the missing mechanism.",
+          "Contradicted: physicists showed his proposed mechanism to be inadequate.",
+          "Contradicted: land bridges are presented as an awkward explanation that was later superseded.",
+          "Correct: the passage explains why the theory was resisted and how seafloor spreading revived it."
+        ],
+        "explanation": "Paragraph 1 presents the evidence, paragraph 2 explains the rejection (no mechanism), and paragraph 3 shows how seafloor spreading supplied the mechanism.",
+        "evidence": "Wegener could offer no convincing mechanism capable of moving entire continents."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, which of the following was part of Wegener's evidence?",
+        "options": [
+          "Magnetic stripes on the ocean floor",
+          "Measurements of how fast the continents move today",
+          "Matching rock formations in Brazil and Africa",
+          "The young age of oceanic crust"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Distorted: magnetic stripes were discovered in the 1950s and 1960s, after Wegener.",
+          "Not mentioned in the passage.",
+          "Correct: rock formations in eastern Brazil matched those in western Africa.",
+          "Distorted: this was revealed by later seafloor surveys."
+        ],
+        "explanation": "Paragraph 1 lists three kinds of evidence: matching coastlines, identical fossils and matching rock formations.",
+        "evidence": "rock formations in eastern Brazil matched those in western Africa"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention \"narrow land bridges\"?",
+        "options": [
+          "To present the mechanism that Wegener proposed",
+          "To give an example of evidence found on the seafloor",
+          "To argue that such bridges actually existed",
+          "To show how opponents could explain some of Wegener's evidence without accepting drift"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Wegener's mechanism was continents plowing through the ocean floor, not land bridges.",
+          "The seafloor evidence is discussed in paragraph 3 and concerns spreading, not bridges.",
+          "The author calls this explanation awkward and does not endorse it.",
+          "Correct: land bridges allowed critics to account for the fossils while rejecting moving continents."
+        ],
+        "explanation": "The land-bridge idea is introduced as a way the fossil evidence \"could be accommodated, however awkwardly\" by those who rejected drift.",
+        "evidence": "the fossil evidence could be accommodated, however awkwardly, by supposing that narrow land bridges had once connected the continents and later sunk"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "It can be inferred from paragraph 2 that many geologists of Wegener's time believed that",
+        "options": [
+          "a scientific theory should explain the cause of the phenomena it describes",
+          "Earth's rotation could easily move entire continents",
+          "fossil evidence was irrelevant to geology",
+          "physicists were not qualified to judge geological questions"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: for them, an observation without a plausible cause was only a curiosity, not a theory.",
+          "Opposite: physicists showed these forces were far too weak.",
+          "Not supported: geologists tried to explain the fossils with land bridges, so they took them seriously.",
+          "Not supported: the physicists' objections were accepted, not dismissed."
+        ],
+        "explanation": "The phrase \"not a theory but a curiosity\" shows that these specialists required a causal mechanism before accepting a theory.",
+        "evidence": "To many specialists, an observation without a plausible cause was not a theory but a curiosity"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"them\" in the phrase \"on either side of them\" refers to",
+        "options": [
+          "surveys",
+          "reversals",
+          "underwater ridges",
+          "continents"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Surveys are the means of discovery, not a physical location with sides.",
+          "The stripes record the reversals; they are not arranged on either side of them.",
+          "Correct: new crust forms at the ridges, and the magnetic stripes are symmetrical on both sides of each ridge.",
+          "Continents are not mentioned in this sentence."
+        ],
+        "explanation": "Crust is created at underwater ridges and moves away in both directions, so the stripes appear symmetrically on either side of the ridges.",
+        "evidence": "records reversals of Earth's magnetic field in symmetrical stripes on either side of them"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-16",
+    "difficulty": "hard",
+    "usage": "practice",
+    "task": "academic-passage",
+    "title": "Signals That Cannot Be Faked",
+    "text": "Animals frequently communicate information that the receiver cannot verify directly: a gazelle's speed, a bird's health, a rival's fighting ability. This poses a theoretical puzzle. If a signal benefits the sender whenever it is believed, natural selection should favor individuals that exaggerate, and receivers, repeatedly deceived, should learn to ignore signals altogether. That communication of this kind nonetheless persists suggests that something keeps it honest.\n\nOne influential answer, often called costly signaling theory, holds that a signal remains reliable when producing it imposes a cost that only high-quality individuals can afford. A conspicuous ornament, such as an elaborate tail, consumes resources and may attract predators; a weak or diseased male that grew one would pay a disproportionately heavy price. Because the cost is lower for strong individuals, the ornament's size tracks underlying condition, and females that prefer larger ornaments are, in effect, selecting healthier mates. Paradoxically, then, it is precisely the wastefulness of the display that guarantees its accuracy.\n\nSubsequent work has qualified this conclusion. Mathematical models indicate that honesty does not always require a costly signal; when sender and receiver share interests, as between parents and offspring, cheap signals can remain reliable. Moreover, some signals are honest because they are physically impossible to fake rather than expensive: the depth of a deer's roar, for instance, is constrained by the size of its body. Costly signaling, in short, is one route to honesty rather than the only one.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Animals generally exaggerate their qualities when they communicate.",
+          "Mathematical models have disproved costly signaling theory.",
+          "Females usually prefer males with the smallest ornaments.",
+          "Costly signaling helps explain why animal signals stay honest, although other routes to honesty also exist."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Distorted: exaggeration is what theory predicts, but the passage explains why signals remain honest.",
+          "Too strong: the models qualified the theory; they did not disprove it.",
+          "Opposite: females prefer larger ornaments.",
+          "Correct: the passage presents the puzzle, the costly signaling answer, and its later qualification."
+        ],
+        "explanation": "The passage ends by summarizing its argument: costly signaling is one route to honesty but not the only one.",
+        "evidence": "Costly signaling, in short, is one route to honesty rather than the only one."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"conspicuous\" in the passage is closest in meaning to",
+        "options": [
+          "easily noticed",
+          "expensive",
+          "fragile",
+          "colorful"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: a conspicuous ornament is highly visible, which is why it may attract predators.",
+          "The ornament is costly, but that idea is expressed separately (\"consumes resources\").",
+          "Not the meaning; nothing in the sentence concerns fragility.",
+          "Tempting because ornaments are often colorful, but \"conspicuous\" means easy to see, for any reason."
+        ],
+        "explanation": "The ornament \"may attract predators\" precisely because it is easy to see.",
+        "evidence": "A conspicuous ornament, such as an elaborate tail"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "According to costly signaling theory, what would most likely happen to a sick male that developed an unusually large ornament?",
+        "options": [
+          "It would attract more females than healthy males do.",
+          "It would recover its health more quickly.",
+          "It would suffer greater harm from the ornament than a healthy male would.",
+          "It would be ignored by predators."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not supported: the theory explains why weak males cannot afford such ornaments, not why they would win mates.",
+          "Not supported: the ornament consumes resources, which would not help recovery.",
+          "Correct: a weak or diseased male would pay a disproportionately heavy price.",
+          "Opposite: ornaments may attract predators."
+        ],
+        "explanation": "The theory relies on the cost being higher for low-quality individuals; a sick male with a large ornament would bear a disproportionate cost.",
+        "evidence": "a weak or diseased male that grew one would pay a disproportionately heavy price"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention \"the depth of a deer's roar\"?",
+        "options": [
+          "To give an example of a costly ornament",
+          "To show that deer communicate mainly with their offspring",
+          "To support the claim that all honest signals are wasteful",
+          "To illustrate a signal that is reliable because it cannot physically be faked, not because it is costly"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Opposite: it is offered as an alternative to costly signals.",
+          "Not stated: the parent-offspring case is a separate example.",
+          "Opposite: the example qualifies the costly signaling conclusion.",
+          "Correct: how deep the roar sounds is limited by body size, so it is honest without being expensive."
+        ],
+        "explanation": "The deer example follows the claim that some signals are honest because they are physically impossible to fake; it illustrates that second route to honesty.",
+        "evidence": "some signals are honest because they are physically impossible to fake rather than expensive"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"its\" in the phrase \"guarantees its accuracy\" refers to",
+        "options": [
+          "the wastefulness",
+          "the display",
+          "the theory",
+          "the female's preference"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The wastefulness is what guarantees accuracy; it is not the thing that is accurate.",
+          "Correct: the display's wastefulness guarantees that the display is an accurate signal.",
+          "The theory is not mentioned in this sentence.",
+          "Female preference is discussed earlier but is not the thing whose accuracy is guaranteed."
+        ],
+        "explanation": "The sentence states the paradox: the wastefulness of the display ensures that the display accurately reflects the male's condition.",
+        "evidence": "it is precisely the wastefulness of the display that guarantees its accuracy"
+      }
+    ]
+  }
+]

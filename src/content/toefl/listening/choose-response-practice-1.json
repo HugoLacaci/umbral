@@ -1,0 +1,134 @@
+[
+  {
+    "id": "toefl-cr-01", "difficulty": "easy", "usage": "practice", "task": "choose-response", "title": "Finding a printer",
+    "audio": { "speakers": [{ "id": "s1", "name": "Emily", "gender": "f", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "Do you know where the nearest printer is?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Yes, I printed it this morning.", "There's one on the second floor of the library.", "It's about ten pages long.", "No, I'm not near it."],
+      "answer": 1,
+      "optionNotes": ["Repeats 'print' but says nothing about where a printer is.", "Correct: it gives a location, which is what the question asks for.", "Answers 'how long is it?', not 'where?'.", "Plays on 'nearest/near' but doesn't answer the question."],
+      "explanation": "The speaker wants a location. Only B gives a place (second floor of the library). The other options reuse words from the question (print, near) without answering it."
+    }]
+  },
+  {
+    "id": "toefl-cr-02", "difficulty": "easy", "usage": "practice", "task": "choose-response", "title": "Dining hall hours",
+    "audio": { "speakers": [{ "id": "s1", "name": "James", "gender": "m", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "What time does the dining hall close on Sundays?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["At eight, I think. That's earlier than on weekdays.", "It's right next to the gym.", "I usually have pasta there.", "Yes, it was closed last Sunday."],
+      "answer": 0,
+      "optionNotes": ["Correct: gives a time, answering 'what time'.", "Answers 'where', not 'what time'.", "Talks about food, not closing time.", "A yes/no answer to a wh-question, and in the wrong tense."],
+      "explanation": "'What time' requires a time. Only A gives one. B answers 'where', C is off-topic and D answers a yes/no question about the past."
+    }]
+  },
+  {
+    "id": "toefl-cr-03", "difficulty": "medium", "usage": "practice", "task": "choose-response", "title": "Borrowing lecture notes",
+    "audio": { "speakers": [{ "id": "s1", "name": "Chloe", "gender": "f", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Would you mind if I borrowed your notes from Tuesday's lecture?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["No, I didn't mind the lecture at all.", "Tuesday works better for me.", "Not at all. I'll email them to you tonight.", "I borrowed them from the library."],
+      "answer": 2,
+      "optionNotes": ["Repeats 'mind' and 'lecture' but answers a different question.", "Treats the request as a scheduling question.", "Correct: 'Not at all' means 'I don't mind', so it accepts the request.", "Repeats 'borrowed' but doesn't respond to the request."],
+      "explanation": "'Would you mind if...?' is a polite request; 'Not at all' grants permission. C agrees and adds a helpful detail. Remember: answering 'Yes' to 'Would you mind' would actually mean refusing."
+    }]
+  },
+  {
+    "id": "toefl-cr-04", "difficulty": "hard", "usage": "practice", "task": "choose-response", "title": "Exam moved earlier",
+    "audio": { "speakers": [{ "id": "s1", "name": "Ryan", "gender": "m", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "I can't believe the professor moved the exam up a whole week." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I know. I'll have to rethink my entire study schedule.", "It's on the third floor, up the stairs.", "Yes, I believe he's a full professor.", "A week should be enough to move everything."],
+      "answer": 0,
+      "optionNotes": ["Correct: shares the speaker's surprise and reacts to having less time.", "Misreads 'moved up' as a physical location.", "Repeats 'believe' and 'professor' but ignores the complaint.", "Misreads 'move' as moving belongings."],
+      "explanation": "'Move something up' means make it earlier. The speaker is complaining, so a sympathetic reaction about losing study time (A) fits. B and D take 'move' literally; C just echoes words."
+    }]
+  },
+  {
+    "id": "toefl-cr-05", "difficulty": "easy", "usage": "practice", "task": "choose-response", "title": "Bus to campus",
+    "audio": { "speakers": [{ "id": "s1", "name": "Sophie", "gender": "f", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "How long does it take to get to campus by bus?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["The bus is blue and white.", "It costs two dollars each way.", "I took it yesterday afternoon.", "About twenty minutes if there's no traffic."],
+      "answer": 3,
+      "optionNotes": ["Describes the bus, not the travel time.", "Answers 'how much', not 'how long'.", "Says when the speaker took it, not how long it takes.", "Correct: gives a duration."],
+      "explanation": "'How long does it take' asks for a duration. Only D gives one. B is a classic trap: it answers 'how much'."
+    }]
+  },
+  {
+    "id": "toefl-cr-06", "difficulty": "medium", "usage": "practice", "task": "choose-response", "title": "Lunch invitation",
+    "audio": { "speakers": [{ "id": "s1", "name": "Michael", "gender": "m", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "Why don't we grab lunch after the seminar?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Because the seminar ends at noon.", "Sounds good. How about that new Thai place?", "I didn't grab anything.", "The seminar was really interesting."],
+      "answer": 1,
+      "optionNotes": ["Treats 'Why don't we' as a real question about reasons.", "Correct: accepts the invitation and suggests a place.", "Repeats 'grab' with a different meaning.", "Comments on the seminar instead of the invitation."],
+      "explanation": "'Why don't we...?' is an invitation, not a request for a reason. B accepts naturally. A answers with 'because', which is the trap."
+    }]
+  },
+  {
+    "id": "toefl-cr-07", "difficulty": "hard", "usage": "practice", "task": "choose-response", "title": "Lab report deadline",
+    "audio": { "speakers": [{ "id": "s1", "name": "Hannah", "gender": "f", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "Has anyone told you the lab report's been pushed back to Friday?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["No, it hasn't been pushed out of the lab.", "I reported it to the lab manager on Friday.", "Really? That's a relief. I'm nowhere near done.", "Friday's lab is in room 204."],
+      "answer": 2,
+      "optionNotes": ["Takes 'pushed' literally.", "Repeats 'report' and 'Friday' with a different meaning.", "Correct: reacts to the news that the deadline is later.", "Gives a location that nobody asked for."],
+      "explanation": "'Pushed back' means postponed. The speaker is sharing news, so a reaction like C ('That's a relief') is natural. The other options recycle words (pushed, report, Friday, lab)."
+    }]
+  },
+  {
+    "id": "toefl-cr-08", "difficulty": "easy", "usage": "practice", "task": "choose-response", "title": "An empty seat",
+    "audio": { "speakers": [{ "id": "s1", "name": "Liam", "gender": "m", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Excuse me, is this seat taken?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Yes, I took the bus today.", "It's a really comfortable chair.", "I'm taking four classes this term.", "No, go right ahead."],
+      "answer": 3,
+      "optionNotes": ["Repeats 'took/taken' with a different meaning.", "Describes the seat but doesn't say whether it is free.", "Repeats 'taking' with a different meaning.", "Correct: the seat is free, so the speaker can sit."],
+      "explanation": "'Is this seat taken?' asks if someone is using it. 'No, go right ahead' says it is free and invites the person to sit."
+    }]
+  },
+  {
+    "id": "toefl-cr-09", "difficulty": "medium", "usage": "practice", "task": "choose-response", "title": "Cover letter favor",
+    "audio": { "speakers": [{ "id": "s1", "name": "Olivia", "gender": "f", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "I was hoping you could look over my cover letter sometime this week." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Sure, I'll send you my cover letter tomorrow.", "I'd be happy to. Is Thursday soon enough?", "I hope the letter covers everything.", "It was a pretty long letter, wasn't it?"],
+      "answer": 1,
+      "optionNotes": ["Reverses the roles: the speaker wants the listener to read HER letter.", "Correct: accepts the request and proposes a time.", "Repeats 'hope' and 'cover' but doesn't respond to the request.", "Talks about a letter as if it had already been read."],
+      "explanation": "'I was hoping you could...' is an indirect request for help. B accepts and offers a day. A is a role-reversal trap."
+    }]
+  },
+  {
+    "id": "toefl-cr-10", "difficulty": "medium", "usage": "practice", "task": "choose-response", "title": "Returning equipment",
+    "audio": { "speakers": [{ "id": "s1", "name": "Oliver", "gender": "m", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "Where should I drop off the equipment I borrowed?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["At the media desk on the ground floor.", "You can borrow it for up to three days.", "I dropped it last week by accident.", "Whenever it's convenient for you."],
+      "answer": 0,
+      "optionNotes": ["Correct: gives a place to return it.", "Answers 'how long can I borrow it?'.", "Repeats 'drop' with a different meaning.", "Answers 'when', not 'where'."],
+      "explanation": "The question asks 'where'. Only A gives a place. D is the wrong wh-word trap (when); C plays on 'drop'."
+    }]
+  },
+  {
+    "id": "toefl-cr-11", "difficulty": "hard", "usage": "practice", "task": "choose-response", "title": "Still on that essay",
+    "audio": { "speakers": [{ "id": "s1", "name": "Grace", "gender": "f", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "You're not still working on that essay, are you?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["No, I'm not working at the café anymore.", "The essay is about climate policy.", "I wish I weren't. The conclusion is giving me trouble.", "You can still turn it in on time."],
+      "answer": 2,
+      "optionNotes": ["Changes 'working' to mean a job.", "Answers 'what is it about?'.", "Correct: indirectly says 'yes, I'm still working on it' and explains why.", "Sounds like advice to the speaker, who isn't the one writing the essay."],
+      "explanation": "The speaker is surprised the listener is still working. 'I wish I weren't' means 'Yes, unfortunately I am', which answers the question indirectly."
+    }]
+  },
+  {
+    "id": "toefl-cr-12", "difficulty": "easy", "usage": "practice", "task": "choose-response", "title": "Directions to the registrar",
+    "audio": { "speakers": [{ "id": "s1", "name": "Ethan", "gender": "m", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "Can you tell me how to get to the registrar's office?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I registered for my classes online.", "The office closes at five on Fridays.", "Sure. It's in the admin building, just past the fountain.", "Yes, I can tell you're new here."],
+      "answer": 2,
+      "optionNotes": ["Plays on 'registrar/registered'.", "Gives opening hours, not directions.", "Correct: gives directions.", "Repeats 'tell' with a different meaning."],
+      "explanation": "The speaker is asking for directions. C gives them. A and D reuse sounds from the question; B answers a different question."
+    }]
+  }
+]

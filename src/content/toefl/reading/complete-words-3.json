@@ -1,0 +1,38 @@
+[
+  {
+    "id": "toefl-ctw-m1-router", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "complete-words",
+    "title": "How glaciers shape the land",
+    "text": "Glaciers form in places where more snow falls in winter than melts in summer. Over many [[years|ye]], the snow is compressed into dense ice. [[When|Wh]] the ice becomes thick enough, it [[begins|beg]] to flow slowly downhill under its [[own|o]] weight. As glaciers move, they [[carry|ca]] rocks and soil, scraping the land [[beneath|ben]] them. This process has shaped [[many|ma]] of the world's valleys and lakes. [[Today|To]], most glaciers are shrinking [[because|bec]] of rising temperatures, a [[change|cha]] that affects water supplies for millions of people.",
+    "explanation": "«When the ice becomes … , it begins»: subordinada temporal. «under its own weight» = por su propio peso. «beneath them» = debajo de ellos (los glaciares raspan el suelo). «because of» + sustantivo. «a change that affects»: aposición que resume la frase anterior."
+  },
+  {
+    "id": "toefl-ctw-m1-lower", "difficulty": "easy", "usage": "mock", "mock": 1, "module": "lower", "task": "complete-words",
+    "title": "Public libraries",
+    "text": "Public libraries offer much more than books. In [[most|mo]] towns, they provide free internet access [[for|f]] people who do not have it at [[home|ho]]. Many libraries also run classes, [[such|su]] as language lessons and computer courses. [[Children|Chil]] can attend story hours, and students [[often|of]] go there to study in a quiet [[place|pl]]. Because all of these services are [[free|fr]], libraries help people [[with|wi]] low incomes take part in [[modern|mod]] life.",
+    "explanation": "«at home» (expresión fija). «such as» = como (para ejemplos). «Children … story hours»: la hora del cuento es para niños. «a quiet place» = un lugar tranquilo. «free» retoma «free internet access». «people with low incomes» = personas con pocos ingresos."
+  },
+  {
+    "id": "toefl-ctw-m1-upper", "difficulty": "hard", "usage": "mock", "mock": 1, "module": "upper", "task": "complete-words",
+    "title": "Life without sunlight",
+    "text": "Until 1977, scientists assumed that all ecosystems ultimately depended on energy from the sun. That year, [[researchers|resea]] exploring the floor of the Pacific Ocean discovered [[thriving|thri]] communities of animals around hydrothermal vents, [[where|wh]] mineral-rich water escapes from the crust. [[Because|Bec]] no sunlight reaches such depths, these organisms [[could|co]] not rely on photosynthesis. Instead, bacteria [[obtain|obt]] energy from chemicals such as hydrogen sulfide, a process [[known|kn]] as chemosynthesis. The discovery [[prompted|prom]] speculation that life might exist [[in|i]] similar environments elsewhere, [[perhaps|per]] beneath the icy surfaces of distant moons.",
+    "explanation": "«thriving communities» = comunidades prósperas (contrasta con la suposición inicial). «where» introduce un lugar (las fuentes hidrotermales). «Because no sunlight reaches…» explica la causa. «could not rely on»: modal en pasado. «a process known as» = conocido como. «prompted speculation» = suscitó especulaciones. «perhaps» introduce una posibilidad."
+  },
+  {
+    "id": "toefl-ctw-m2-router", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "complete-words",
+    "title": "The first domesticated animal",
+    "text": "Dogs were the first animals to be domesticated, but exactly when and where this happened is still debated. Genetic [[studies|stu]] suggest that dogs descended from a population [[of|o]] wolves that lived more than 15,000 years [[ago|a]]. One popular theory holds that some wolves [[began|be]] to scavenge near human camps, [[where|wh]] food was easy to find. Over [[time|ti]], the calmest animals were tolerated and [[eventually|event]] bred. Their descendants became [[less|le]] fearful of people [[and|a]] gradually developed into [[the|t]] dogs we know today.",
+    "explanation": "«Genetic studies suggest»: plural por «suggest». «years ago»: pasado. «began to scavenge»: pasado irregular de begin. «where food was easy to find»: relativo de lugar (camps). «Over time» = con el tiempo. «eventually» = finalmente. «less fearful» = menos miedosos (calmest → menos miedo)."
+  },
+  {
+    "id": "toefl-ctw-m2-lower", "difficulty": "easy", "usage": "mock", "mock": 2, "module": "lower", "task": "complete-words",
+    "title": "Recycling paper",
+    "text": "Recycling paper is one of the simplest ways to protect the environment. When paper is [[recycled|recy]], it is mixed with water and broken [[down|do]] into a soft pulp. The pulp is [[cleaned|cle]] to remove ink and glue, and then [[it|i]] is pressed and dried to [[make|ma]] new sheets. This process uses [[less|le]] energy and water than making paper [[from|fr]] trees. However, paper fibers become [[shorter|sho]] each time, so paper can [[only|on]] be recycled a few [[times|ti]].",
+    "explanation": "«is recycled / is cleaned»: pasivas en presente. «broken down» = descompuesto. «to make new sheets»: infinitivo de finalidad. «less energy … than»: comparativo con incontable. «shorter each time … only a few times»: la fibra se acorta, por eso sólo se puede reciclar unas pocas veces."
+  },
+  {
+    "id": "toefl-ctw-m2-upper", "difficulty": "hard", "usage": "mock", "mock": 2, "module": "upper", "task": "complete-words",
+    "title": "The Late Bronze Age collapse",
+    "text": "Around 1200 BCE, several powerful societies in the eastern Mediterranean declined within a few decades. Cities [[were|we]] abandoned, long-distance trade [[largely|lar]] ceased, and writing disappeared in [[some|so]] regions for centuries. Historians [[once|on]] attributed this collapse to invaders known [[as|a]] the Sea Peoples, but most scholars [[now|n]] favor a more complex explanation. Drought, earthquakes, and [[internal|inte]] rebellions may have struck at roughly the [[same|sa]] time, and because these economies [[depended|depe]] heavily on one another, the failure of one [[may|m]] have triggered the failure of others.",
+    "explanation": "«were abandoned»: pasiva en pasado, sujeto plural. «largely ceased» = cesó en gran medida. «once … now»: contraste entre lo que se pensaba antes y lo que se piensa ahora. «internal rebellions» = revueltas internas (frente a los invasores externos). «at roughly the same time» = más o menos a la vez. «may have triggered»: posibilidad en el pasado, paralelo con «may have struck»."
+  }
+]

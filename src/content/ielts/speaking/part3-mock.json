@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ielts-p3-m1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "topic": "Teamwork and cooperation",
+    "linkedP2": "ielts-p2-m1",
+    "questions": [
+      "What makes a team work well together?",
+      "Do you think children should do more group work at school?",
+      "Is it better to have a strong leader or to make decisions together as a group?",
+      "How has the way people work together changed with technology?",
+      "Do you think people are becoming more individualistic in modern society?"
+    ],
+    "sampleAnswers": [
+      "I'd say the most important factor is clear communication. If everyone understands the goal and knows what they're responsible for, there's much less confusion and conflict. Trust is also essential; team members need to feel they can rely on each other and share ideas without being judged. A good mix of skills and personalities helps too, because a team where everyone thinks the same way can miss important problems. And finally, a team works better when people feel their contribution is recognised rather than taken for granted.",
+      "Yes, within reason. Group work teaches children valuable skills, such as listening to others, compromising and sharing responsibility, which they'll definitely need in their future careers. It can also help weaker students learn from stronger ones. However, it shouldn't replace individual work entirely, because children also need to develop independence and be assessed fairly on their own abilities. Teachers also need to structure group tasks carefully, so that one or two confident children don't end up doing all the work while others hide.",
+      "I think it depends on the situation. In an emergency, or when a decision needs to be made quickly, a strong leader is probably more effective, because discussion takes time. But for long-term decisions that affect everyone, a more collective approach usually leads to better outcomes, since people with different perspectives can spot problems a single leader might miss. People are also more committed to decisions they've helped to make. Ideally, a good leader listens carefully to the group but takes responsibility for the final decision.",
+      "It's changed dramatically. Teams no longer need to be in the same place; people can collaborate across different cities or even continents using video calls, shared documents and project management tools. This has made it possible to bring together people with very specialised skills. However, I think something has been lost as well. Building trust and resolving conflicts can be harder online, and informal conversations, which often generate new ideas, happen less naturally. So many companies are now trying to combine remote work with regular face-to-face meetings.",
+      "To some extent, I think they are, at least in many Western countries. People are more likely to live alone, move away from their hometowns and prioritise personal goals such as career success. Social media can also encourage a focus on self-presentation. However, I wouldn't say people have stopped caring about others. Many young people are very involved in collective causes, like environmental movements, and communities often come together impressively in times of crisis. So individualism may be growing in everyday life, but solidarity hasn't disappeared."
+    ]
+  },
+  {
+    "id": "ielts-p3-m2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "topic": "Nature and the environment",
+    "linkedP2": "ielts-p2-m2",
+    "questions": [
+      "Why do people like to spend time in nature?",
+      "Do you think children today spend enough time outdoors?",
+      "Should access to natural areas like national parks be limited to protect them?",
+      "How has the relationship between people and nature changed over time?",
+      "Who should be responsible for protecting the natural environment: governments or individuals?",
+      "Do you think cities can be designed to include more nature?"
+    ],
+    "sampleAnswers": [
+      "I think it gives people a sense of calm and perspective that's hard to find in modern life. Being surrounded by trees, water or mountains seems to reduce stress, and there's research showing that time in green spaces can improve mood and even concentration. Nature also offers a break from screens and constant noise. For many people, there's a feeling of freedom and simplicity in being outdoors. And of course, natural places offer opportunities for exercise, such as hiking or swimming, which people may enjoy more than going to a gym.",
+      "Generally, I'd say no, particularly in cities. Children today seem to spend much more time indoors, often in front of screens, than previous generations did. Part of this is due to parents' safety concerns, since many are reluctant to let children play outside unsupervised. Busy schedules filled with organised activities also leave less time for free outdoor play. This is a shame, because playing outside helps children develop physically and socially, and it builds a connection with nature that might encourage them to protect it later on.",
+      "In some cases, I think it's necessary. Very popular natural areas can suffer serious damage from overcrowding, such as erosion of paths, litter and disturbance to wildlife. Limiting visitor numbers through permits or booking systems can help protect these places for future generations. However, restrictions shouldn't make nature accessible only to wealthy people, so any fees should be kept reasonable. I think education is equally important. If visitors understand why certain rules exist, they're much more likely to respect them.",
+      "Historically, most people lived and worked close to nature, particularly in farming communities, so they depended on it directly and understood the seasons and the land. With industrialisation and urbanisation, many people became disconnected from it, and nature was increasingly seen as a resource to be exploited. More recently, I think there's been a shift towards seeing nature as something to protect, largely because of growing awareness of climate change and biodiversity loss. Ironically, though, many people now experience nature mainly through documentaries rather than directly.",
+      "I'd say both have a role, but governments carry the greater responsibility. They have the power to pass laws, protect natural areas, regulate pollution and invest in renewable energy, which can have a far larger impact than individual actions. Big companies also need to be held accountable, since they're responsible for a large share of environmental damage. That said, individuals can make a difference by changing their consumption habits and, perhaps more importantly, by voting for politicians who take the environment seriously and putting pressure on businesses.",
+      "Definitely, and many cities are already doing it. Planners can create more parks and green corridors, plant trees along streets, and encourage green roofs and walls on buildings. Some cities have even uncovered rivers that were previously buried under roads. These measures don't just make cities more pleasant; they also help to reduce air pollution, provide shade during heatwaves and support wildlife. The challenge is mainly space and cost, especially in dense city centres, but even small changes, like pocket parks, can make a big difference."
+    ]
+  }
+]

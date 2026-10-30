@@ -1,0 +1,184 @@
+[
+  {
+    "id": "ielts-p1-11",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Shopping",
+    "questions": [
+      "Do you enjoy shopping?",
+      "Do you prefer shopping online or in shops?",
+      "What was the last thing you bought?",
+      "Are there any shops in your area that you particularly like?"
+    ],
+    "sampleAnswers": [
+      "It depends on what I'm shopping for. I quite like browsing in bookshops or markets, but shopping for clothes is something I find quite tiring, so I tend to get it over with as quickly as possible.",
+      "For practical things like electronics or household items, I usually buy online because it's more convenient and I can compare prices. But for clothes I prefer going to a shop, since I like to try things on first.",
+      "A new pair of running shoes. My old ones were completely worn out, and I'd been getting sore knees, so I finally treated myself to a decent pair from a specialist shop.",
+      "There's a small second-hand bookshop near my flat that I love. It's a bit chaotic, but the owner knows exactly where everything is, and I always find something unexpected there."
+    ]
+  },
+  {
+    "id": "ielts-p1-12",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Friends",
+    "questions": [
+      "Do you have a lot of friends?",
+      "How often do you see your friends?",
+      "What do you usually do together?",
+      "Is it easy to make new friends as an adult?"
+    ],
+    "sampleAnswers": [
+      "I wouldn't say a lot, but I have a close group of about five friends I've known since secondary school, plus a few newer friends from university. I'd rather have a few close friends than lots of acquaintances.",
+      "My university friends I see almost every day. The old school group is spread across different cities now, so we only all get together a few times a year, usually around the holidays, but we chat online constantly.",
+      "Nothing too exciting. We often cook dinner at someone's place, go for a drink, or play board games. In the summer we sometimes rent a house by the coast for a few days, which is always fun.",
+      "I think it gets harder. At school you're surrounded by people your age every day, but as an adult you have to make more of an effort, for example by joining a club or a sports team."
+    ]
+  },
+  {
+    "id": "ielts-p1-13",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Mornings",
+    "questions": [
+      "Are you a morning person?",
+      "What do you usually do in the morning?",
+      "Do you have breakfast every day?",
+      "Is your morning routine different at the weekend?"
+    ],
+    "sampleAnswers": [
+      "Not naturally, no. I've always found it hard to get out of bed early, but I've trained myself to be more productive in the mornings because I've noticed I concentrate much better before lunch.",
+      "I get up at around seven, make a strong coffee, and spend ten minutes stretching. Then I check my emails, have a shower and leave for university. I try not to look at social media first thing, because it wastes so much time.",
+      "Almost always. If I skip it, I'm starving and irritable by eleven. It's usually something simple, like toast with tomato and olive oil, or yoghurt with fruit.",
+      "Completely. At the weekend I let myself sleep in until nine or so, and I'll often make a proper breakfast, like pancakes or eggs, and eat it slowly while listening to a podcast."
+    ]
+  },
+  {
+    "id": "ielts-p1-14",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Mobile apps",
+    "questions": [
+      "What apps do you use most often?",
+      "Are there any apps you find particularly useful?",
+      "Have you ever deleted an app because you used it too much?",
+      "Do you think older people use apps as much as younger people?"
+    ],
+    "sampleAnswers": [
+      "Honestly, messaging apps, by a mile. After that, probably a music streaming app and a map app, because I'm constantly listening to music and I've got a terrible sense of direction.",
+      "I'd say my budgeting app. It automatically sorts my spending into categories, so I can see at a glance how much I'm spending on food or transport. It's made me much more careful with money.",
+      "Yes, actually. I deleted a short video app last year because I realised I was losing about two hours a day scrolling through it. I don't miss it at all, and I've got much more time for reading.",
+      "Generally, no, although it's changing. My grandparents only use their phones for calls and video chats, but my parents use banking and shopping apps all the time. I think the gap will disappear eventually."
+    ]
+  },
+  {
+    "id": "ielts-p1-15",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Holidays",
+    "questions": [
+      "Where did you go on your last holiday?",
+      "Do you prefer holidays by the sea or in the mountains?",
+      "Who do you usually go on holiday with?",
+      "What did you do on holidays when you were a child?"
+    ],
+    "sampleAnswers": [
+      "Last summer I spent a week in Croatia with my sister. We stayed in a small town on the coast and spent most of our time swimming, exploring old towns and eating far too much seafood.",
+      "I'd probably pick the mountains. I like the beach, but I get bored lying in the sun after a day or two, whereas in the mountains there's always a new trail to explore and the air is so fresh.",
+      "Usually with friends or my sister. We tend to have similar ideas about what makes a good holiday, mostly lots of walking and good food, and we split the costs, which makes travelling much more affordable.",
+      "We nearly always went to my grandparents' village in August. My cousins and I spent the whole day outside, riding bikes and swimming in the river, so for a city kid it felt like total freedom."
+    ]
+  },
+  {
+    "id": "ielts-p1-16",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Clothes",
+    "questions": [
+      "What kind of clothes do you usually wear?",
+      "Do you follow fashion trends?",
+      "Do you wear different clothes at the weekend?",
+      "Do people in your country wear traditional clothes?"
+    ],
+    "sampleAnswers": [
+      "Mostly casual things: jeans, plain T-shirts and trainers. I value comfort over style, to be honest. I've got one smart outfit for interviews and special occasions, but that's about it.",
+      "Not really. Trends seem to change so quickly these days, and I don't like the idea of buying clothes that will look outdated in a few months. I'd rather invest in a few good-quality basics.",
+      "A bit. During the week I dress a little more neatly for university, but at the weekend I'll happily spend the whole day in a hoodie and tracksuit bottoms, especially if I'm staying in.",
+      "Only on special occasions. In some regions people wear traditional costumes during local festivals, and they look amazing, but in everyday life almost everyone dresses in a modern, international style."
+    ]
+  },
+  {
+    "id": "ielts-p1-17",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Weekends",
+    "questions": [
+      "What do you usually do at the weekend?",
+      "Do you prefer busy weekends or relaxing weekends?",
+      "What did you do last weekend?",
+      "Do you think the weekend should be longer?"
+    ],
+    "sampleAnswers": [
+      "On Saturday mornings I usually go to the market and do the week's shopping, and then in the afternoon I meet friends. Sundays are more relaxed. I often go for a long walk and then prepare for the week ahead.",
+      "I like a bit of both, to be honest. If I have something planned every hour, I start Monday feeling exhausted, but if I do nothing at all I feel I've wasted my time. One activity each day is about right for me.",
+      "Last weekend was my friend's birthday, so on Saturday we had a picnic in the park and then went to a karaoke bar. On Sunday I mostly recovered, to be honest, and caught up on some reading.",
+      "I'd certainly welcome it. Some companies are experimenting with a four-day week, and from what I've read, productivity often stays the same while people are happier and healthier. It seems worth trying."
+    ]
+  },
+  {
+    "id": "ielts-p1-18",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Plants and gardening",
+    "questions": [
+      "Do you have any plants at home?",
+      "Did you grow plants when you were a child?",
+      "Why do you think many people like having plants in their homes?",
+      "Would you like to have a garden in the future?"
+    ],
+    "sampleAnswers": [
+      "I've got a few, mainly on the windowsill in my bedroom. There's a cactus, which is pretty much impossible to kill, and a couple of herbs like basil and mint that I use when I cook.",
+      "Yes, my grandmother had a vegetable patch and she let me help her. I remember being incredibly proud the first time I grew tomatoes, even though they were tiny and slightly sour.",
+      "I suppose they bring a bit of nature into urban life. Lots of people live in flats without any outdoor space, and plants make a room feel more alive and calming. Some people also claim they improve the air quality, although I'm not sure how much.",
+      "I'd love that. My dream would be a small garden where I could grow my own vegetables and have breakfast outside in summer. Realistically, though, in the city a balcony might be the best I can hope for."
+    ]
+  },
+  {
+    "id": "ielts-p1-19",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Photographs",
+    "questions": [
+      "Do you like taking photos?",
+      "What do you usually take photos of?",
+      "Do you prefer taking photos with a phone or a camera?",
+      "Do you ever print your photos?",
+      "Do you like being in photos yourself?"
+    ],
+    "sampleAnswers": [
+      "Yes, quite a lot. I wouldn't call myself a photographer, but I like capturing moments, especially when I'm travelling. Looking back at old photos is a great way to remember details I'd otherwise forget.",
+      "Mostly landscapes and street scenes, things like interesting buildings or the light at sunset. I also take loads of pictures of food, which my friends find quite funny.",
+      "My phone, just because it's always in my pocket. The quality is good enough for what I need. A friend of mine is really into film cameras, though, and his photos have a character that phone pictures just don't have.",
+      "Hardly ever, which is a shame. I've got thousands of photos on my phone that I rarely look at. My mum still makes printed albums for every family holiday, and I have to admit it's much nicer to flick through them.",
+      "Not particularly. I always feel a bit awkward and I never know what to do with my hands. I'm much more comfortable being the one behind the camera, although I do like having group photos with friends."
+    ]
+  },
+  {
+    "id": "ielts-p1-20",
+    "difficulty": "hard",
+    "usage": "practice",
+    "topic": "Noise",
+    "questions": [
+      "Is the area where you live noisy or quiet?",
+      "What kinds of noise do you find annoying?",
+      "Do you prefer to work or study in silence?",
+      "Do you think cities are getting noisier?"
+    ],
+    "sampleAnswers": [
+      "It's fairly noisy, to be honest. I live just off a main road in the city centre, so there's a constant hum of traffic, and on Friday and Saturday nights people chat loudly outside the bars until quite late.",
+      "Car alarms and motorbikes with very loud exhausts drive me mad, particularly at night. I also find it irritating when people play music or videos out loud on public transport instead of using headphones.",
+      "Not complete silence, actually, I find that a bit unsettling. A bit of background noise, like the gentle murmur in a café or some instrumental music, helps me concentrate. But loud conversations next to me are a real distraction.",
+      "In some ways, yes, because there's more construction and delivery traffic. On the other hand, the shift to electric vehicles might make streets quieter in the long run, since they're much less noisy than petrol cars."
+    ]
+  }
+]

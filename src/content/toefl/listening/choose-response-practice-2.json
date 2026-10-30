@@ -1,0 +1,134 @@
+[
+  {
+    "id": "toefl-cr-13", "difficulty": "medium", "usage": "practice", "task": "choose-response", "title": "The career fair",
+    "audio": { "speakers": [{ "id": "s1", "name": "Isla", "gender": "f", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "Did you end up going to the career fair?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It ends at four this afternoon.", "I'm hoping for a career in finance.", "No, I didn't know you were going.", "I did, and I actually got two interviews out of it."],
+      "answer": 3,
+      "optionNotes": ["Plays on 'end up' / 'ends'.", "Repeats 'career' but doesn't say whether the speaker went.", "Talks about the other person going, not about oneself.", "Correct: says yes and adds a result."],
+      "explanation": "'Did you end up going' means 'did you finally go'. D answers yes and adds a natural detail. A confuses 'end up' with an ending time."
+    }]
+  },
+  {
+    "id": "toefl-cr-14", "difficulty": "hard", "usage": "practice", "task": "choose-response", "title": "Laptop advice",
+    "audio": { "speakers": [{ "id": "s1", "name": "Daniel", "gender": "m", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "I'd go with the cheaper laptop if I were you." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["If I were you, I'd go too.", "Yeah, but the cheaper one only has half the memory.", "I left my laptop in the library.", "I went there yesterday with my sister."],
+      "answer": 1,
+      "optionNotes": ["Takes 'go with' literally as travelling.", "Correct: responds to the advice with a reasonable objection.", "Repeats 'laptop' but ignores the advice.", "Takes 'go' as a trip somewhere."],
+      "explanation": "'Go with' means 'choose'. The speaker is giving advice; B reacts to it with a counter-argument, which is a natural reply. A and D misread 'go'."
+    }]
+  },
+  {
+    "id": "toefl-cr-15", "difficulty": "easy", "usage": "practice", "task": "choose-response", "title": "Psychology instructor",
+    "audio": { "speakers": [{ "id": "s1", "name": "Aisha", "gender": "f", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "Who's teaching the intro to psychology class this semester?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It meets on Mondays and Wednesdays.", "Doctor Okafor, I think. Same as last year.", "I'm teaching myself Spanish.", "Psychology is my favorite subject."],
+      "answer": 1,
+      "optionNotes": ["Answers 'when', not 'who'.", "Correct: names a person.", "Repeats 'teaching' but is about the speaker.", "Repeats 'psychology' but doesn't name a teacher."],
+      "explanation": "'Who' needs a person. B names the instructor. A is the wrong wh-word (when)."
+    }]
+  },
+  {
+    "id": "toefl-cr-16", "difficulty": "medium", "usage": "practice", "task": "choose-response", "title": "Noise while studying",
+    "audio": { "speakers": [{ "id": "s1", "name": "Jack", "gender": "m", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Could you keep it down a bit? I'm trying to study." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Sure, I'll keep it for you until Monday.", "It's down the hall on the left.", "Sorry about that. I'll put my headphones on.", "I studied there last year."],
+      "answer": 2,
+      "optionNotes": ["Misreads 'keep' as holding something.", "Misreads 'down' as a direction.", "Correct: apologizes and offers to be quieter.", "Repeats 'study' but ignores the request."],
+      "explanation": "'Keep it down' means 'be quieter'. C apologizes and solves the problem. A and B take the words literally."
+    }]
+  },
+  {
+    "id": "toefl-cr-17", "difficulty": "hard", "usage": "practice", "task": "choose-response", "title": "Shuttle schedule",
+    "audio": { "speakers": [{ "id": "s1", "name": "Rachel", "gender": "f", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "I thought you said the shuttle ran every fifteen minutes." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I said I'd go running with you tomorrow.", "The shuttle stop is across the street.", "It takes fifteen minutes to get there.", "It does, but not after nine at night."],
+      "answer": 3,
+      "optionNotes": ["Plays on 'ran/running'.", "Gives a location; doesn't address the confusion.", "Repeats 'fifteen minutes' but talks about travel time, not frequency.", "Correct: confirms the information and explains the exception."],
+      "explanation": "The speaker is confused because the shuttle isn't coming as expected. D explains why: the schedule changes at night. This is an implied complaint that needs an explanation."
+    }]
+  },
+  {
+    "id": "toefl-cr-18", "difficulty": "easy", "usage": "practice", "task": "choose-response", "title": "Library hours",
+    "audio": { "speakers": [{ "id": "s1", "name": "Harry", "gender": "m", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "Is the library open late tonight?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Yes, until midnight during exam week.", "I was late for class this morning.", "I returned the books yesterday.", "It's the tall building by the lake."],
+      "answer": 0,
+      "optionNotes": ["Correct: answers yes and gives the closing time.", "Repeats 'late' with a different meaning.", "Related to libraries but doesn't answer.", "Answers 'where', not 'is it open'."],
+      "explanation": "A yes/no question about opening hours. A answers yes and adds a useful detail."
+    }]
+  },
+  {
+    "id": "toefl-cr-19", "difficulty": "medium", "usage": "practice", "task": "choose-response", "title": "Study group room",
+    "audio": { "speakers": [{ "id": "s1", "name": "Zoe", "gender": "f", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Which room is the study group meeting in?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["We're meeting at around seven.", "Room 3B, the one with the whiteboard.", "There are about six of us in the group.", "I'm studying for the biology exam."],
+      "answer": 1,
+      "optionNotes": ["Answers 'when', not 'which room'.", "Correct: identifies the room.", "Answers 'how many'.", "Repeats 'study' but doesn't answer."],
+      "explanation": "'Which room' needs a room. Only B gives one; A and C answer different questions."
+    }]
+  },
+  {
+    "id": "toefl-cr-20", "difficulty": "hard", "usage": "practice", "task": "choose-response", "title": "Missing textbook",
+    "audio": { "speakers": [{ "id": "s1", "name": "Owen", "gender": "m", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "The bookstore's out of the textbook, and class starts Monday." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Yes, the bookstore opens at ten on Mondays.", "The class starts at nine, I think.", "Have you checked whether the library has a reserve copy?", "I sold all my old textbooks last spring."],
+      "answer": 2,
+      "optionNotes": ["Repeats 'bookstore' and 'Monday' but ignores the problem.", "Repeats 'class starts' but adds nothing useful.", "Correct: offers a solution to the problem.", "Talks about the listener's own books, not the speaker's problem."],
+      "explanation": "The speaker states a problem without asking a question. The best reply offers help: C suggests a practical solution."
+    }]
+  },
+  {
+    "id": "toefl-cr-21", "difficulty": "medium", "usage": "practice", "task": "choose-response", "title": "Morning presentation",
+    "audio": { "speakers": [{ "id": "s1", "name": "Lucy", "gender": "f", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "How did your presentation go this morning?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It's about renewable energy.", "I'm going to present it on Friday.", "Professor Lee is in charge of it.", "Better than I expected, actually."],
+      "answer": 3,
+      "optionNotes": ["Answers 'what is it about?'.", "Wrong time: the presentation already happened this morning.", "Answers 'who', not 'how did it go'.", "Correct: evaluates how it went."],
+      "explanation": "'How did it go?' asks for an evaluation of a past event. D gives one. B uses the future, which contradicts 'this morning'."
+    }]
+  },
+  {
+    "id": "toefl-cr-22", "difficulty": "hard", "usage": "practice", "task": "choose-response", "title": "A spare charger",
+    "audio": { "speakers": [{ "id": "s1", "name": "Kevin", "gender": "m", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "You wouldn't happen to have a spare charger, would you?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["No, I wouldn't charge you for that.", "Sorry, mine's at home. But the front desk lends them out.", "My phone's battery lasts all day.", "It happened just before the meeting."],
+      "answer": 1,
+      "optionNotes": ["Plays on 'charger/charge'.", "Correct: says no politely and suggests an alternative.", "Talks about the listener's phone, not the request.", "Repeats 'happen' with a different meaning."],
+      "explanation": "This is a polite, indirect request. B declines but helpfully suggests where to get one. A and D are sound-alike traps."
+    }]
+  },
+  {
+    "id": "toefl-cr-23", "difficulty": "easy", "usage": "practice", "task": "choose-response", "title": "Paper deadline",
+    "audio": { "speakers": [{ "id": "s1", "name": "Erin", "gender": "f", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "When is the paper due?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["Next Thursday, by midnight.", "It's about five pages.", "I'll write it at the library.", "Yes, I've already paid my dues."],
+      "answer": 0,
+      "optionNotes": ["Correct: gives a deadline.", "Answers 'how long is it?'.", "Answers 'where'.", "Sound-alike trap: 'due/dues'."],
+      "explanation": "'When' needs a time. A gives the deadline."
+    }]
+  },
+  {
+    "id": "toefl-cr-24", "difficulty": "hard", "usage": "practice", "task": "choose-response", "title": "Gym on holidays",
+    "audio": { "speakers": [{ "id": "s1", "name": "Ben", "gender": "m", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "I don't suppose the gym's open on public holidays." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I suppose I'll go on holiday in May.", "Yes, I'm open to that idea.", "Actually, it is. Just with shorter hours.", "The gym's right next to the pool."],
+      "answer": 2,
+      "optionNotes": ["Repeats 'suppose' and 'holiday' but ignores the question.", "Plays on 'open' with a different meaning.", "Correct: corrects the speaker's assumption and gives a detail.", "Answers 'where', not 'is it open'."],
+      "explanation": "'I don't suppose...' is an indirect question: is the gym open on holidays? C answers it ('Actually, it is'), correcting the speaker's guess."
+    }]
+  }
+]

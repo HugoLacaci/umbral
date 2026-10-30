@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ielts-l-p1-05",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 1,
+    "title": "Registering for an evening course",
+    "context": "You will hear a man registering for an evening language course at a community college.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Denise", "role": "College receptionist", "gender": "f", "accent": "en-US" },
+        { "id": "b", "name": "Oliver", "role": "Caller", "gender": "m", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good afternoon, Brookfield Community College, continuing education. How can I help you?" },
+        { "s": "b", "t": "Hello, I'd like to sign up for one of your evening language courses, please. I tried to do it online, but the website kept freezing. I'm hoping to brush up my Spanish before a trip to Mexico next spring." },
+        { "s": "a", "t": "Sorry about that. We've been having problems with it all week. I can register you over the phone. Can I have your full name?" },
+        { "s": "b", "t": "Oliver Fairbrother. That's F-A-I-R-B-R-O-T-H-E-R." },
+        { "s": "a", "t": "And your address, Oliver?" },
+        { "s": "b", "t": "It's Apartment 12, 418 Maple Avenue. People sometimes get those two numbers the wrong way round, so just to be clear, 12 is the apartment and 418 is the building." },
+        { "s": "a", "t": "Apartment 12, 418 Maple Avenue. And the zip code?" },
+        { "s": "b", "t": "4 8 2 0 7." },
+        { "s": "a", "t": "Thank you. Now, which course are you interested in?" },
+        { "s": "b", "t": "Spanish. I did a beginners' course a couple of years ago, and I was thinking of going straight into the advanced class, but I took your online placement test last night and it put me at intermediate level. So I suppose I'd better do that one." },
+        { "s": "a", "t": "That's sensible. The placement test is usually pretty accurate. We run intermediate Spanish on three evenings, Monday, Tuesday and Thursday, all from seven until nine." },
+        { "s": "b", "t": "Monday would be easiest for me." },
+        { "s": "a", "t": "Let me check. Oh, I'm sorry, the Monday group has just filled up." },
+        { "s": "b", "t": "That's a shame. Thursday's no good either, because I play football on Thursdays. So it'll have to be Tuesday." },
+        { "s": "a", "t": "Tuesday it is. I should mention the start date. The fall term officially begins on September 2nd, but the Tuesday group starts a week later, on September 9th, because their classroom is being repainted." },
+        { "s": "b", "t": "So my first class is on the 9th. Fine. And how much is the course?" },
+        { "s": "a", "t": "The full fee is $340. But do you live within the city limits?" },
+        { "s": "b", "t": "Yes, Maple Avenue is in the city." },
+        { "s": "a", "t": "Then you get the resident's rate, which is $285. That includes all the photocopied materials, but not the course book." },
+        { "s": "b", "t": "Where can I get the book? Should I just order it online?" },
+        { "s": "a", "t": "You can, but it's usually cheaper at the campus bookstore, because students get a discount there. Most people buy it there in the first week." },
+        { "s": "b", "t": "Okay, I'll go to the campus bookstore then. Is there parking at the college? I'll be driving straight from work." },
+        { "s": "a", "t": "There is. You can pay a daily rate of six dollars, but if you're coming every week, it's much better value to buy a parking permit. That's $40 for the whole term." },
+        { "s": "b", "t": "I'll get the permit, then. Can I add that to the payment now?" },
+        { "s": "a", "t": "Yes, I'll add it. Finally, your classroom. The Tuesday intermediate group is in Room 14, in the Hamilton Building." },
+        { "s": "b", "t": "Sorry, did you say Hampton?" },
+        { "s": "a", "t": "No, Hamilton. H-A-M-I-L-T-O-N. It's the brick building right next to the main parking lot." },
+        { "s": "b", "t": "Great. That's really convenient." },
+        { "s": "a", "t": "So, to confirm, intermediate Spanish on Tuesday evenings, starting September 9th. I'll email you a receipt and a map of the campus." },
+        { "s": "b", "t": "Thank you very much. You've been really helpful." },
+        { "s": "a", "t": "You're welcome. Please bring the receipt with you to the first class, because your teacher will need to check the register." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–10\nComplete the form below.\nWrite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+        "title": "Brookfield Community College – Evening Course Registration",
+        "template": "Name: Oliver {{q1}}\nAddress: Apartment 12, {{q2}} Maple Avenue\nZip code: {{q3}}\nCourse: Spanish, {{q4}} level\nDay: {{q5}} evenings, 7–9 pm\nFirst class: {{q6}}\nFee (resident's rate): ${{q7}}\nCourse book: buy from the {{q8}}\nParking permit: ${{q9}} per term\nClassroom: Room 14, {{q10}} Building",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Fairbrother"], "maxWords": 2, "allowNumber": true,
+            "explanation": "He spells it: F-A-I-R-B-R-O-T-H-E-R.", "evidence": "That's F-A-I-R-B-R-O-T-H-E-R." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["418"], "maxWords": 2, "allowNumber": true,
+            "explanation": "12 is the apartment number; 418 is the building number on Maple Avenue.", "evidence": "12 is the apartment and 418 is the building" },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["48207"], "maxWords": 2, "allowNumber": true,
+            "explanation": "He reads the zip code digit by digit: 4 8 2 0 7.", "evidence": "4 8 2 0 7." },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["intermediate"], "maxWords": 2, "allowNumber": true,
+            "explanation": "He considered the advanced class, but the placement test put him at intermediate level.", "evidence": "it put me at intermediate level" },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["Tuesday"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Monday is full and Thursday clashes with football, so he chooses Tuesday.", "evidence": "So it'll have to be Tuesday." },
+          { "id": "q6", "kind": "gap", "qtype": "form-completion", "answers": ["September 9", "September 9th", "9 September", "9th September", "9th of September"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Term begins on September 2nd, but the Tuesday group starts a week later, on the 9th.", "evidence": "the Tuesday group starts a week later, on September 9th" },
+          { "id": "q7", "kind": "gap", "qtype": "form-completion", "answers": ["285"], "maxWords": 2, "allowNumber": true,
+            "explanation": "$340 is the full fee; as a city resident he pays $285.", "evidence": "the resident's rate, which is $285" },
+          { "id": "q8", "kind": "gap", "qtype": "form-completion", "answers": ["campus bookstore", "bookstore"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Ordering online is possible, but he decides to buy it at the cheaper campus bookstore.", "evidence": "I'll go to the campus bookstore then" },
+          { "id": "q9", "kind": "gap", "qtype": "form-completion", "answers": ["40"], "maxWords": 2, "allowNumber": true,
+            "explanation": "Six dollars is the daily rate; the permit costs $40 for the term.", "evidence": "That's $40 for the whole term." },
+          { "id": "q10", "kind": "gap", "qtype": "form-completion", "answers": ["Hamilton"], "maxWords": 2, "allowNumber": true,
+            "explanation": "He mishears 'Hampton', and Denise corrects him and spells H-A-M-I-L-T-O-N.", "evidence": "No, Hamilton. H-A-M-I-L-T-O-N." }
+        ]
+      }
+    ]
+  }
+]

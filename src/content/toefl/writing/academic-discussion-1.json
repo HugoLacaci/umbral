@@ -1,0 +1,242 @@
+[
+  {
+    "id": "toefl-disc-01", "difficulty": "easy", "usage": "practice",
+    "course": "Sociology",
+    "professor": {
+      "name": "Dr. Harper",
+      "post": "This week we have been discussing how technology shapes our relationships with the people around us. Social media allows us to stay in touch with friends and family all over the world, but some researchers argue that it weakens our ties to our local neighborhoods. Others believe that online platforms can actually help people become more involved in their communities. What do you think? Does social media make people more or less connected to their local communities? Explain your view."
+    },
+    "students": [
+      {
+        "name": "Rosa",
+        "post": "I think social media makes people less connected locally. People spend hours looking at their phones instead of talking to their neighbors. In my apartment building, I barely know anyone, even though we all follow each other's lives online. We know what someone ate for dinner, but we don't say hello in the elevator."
+      },
+      {
+        "name": "Kofi",
+        "post": "I disagree with Rosa. In my town, there is a neighborhood group online where people share information about lost pets, local events, and road closures. Last year, the group even organized a cleanup of the river. Without social media, many of those people would never have met."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Both Rosa and Kofi make good points, but I think the answer depends on how people use social media. Kofi's example shows that online groups can bring neighbors together, but I would add that the most important factor is whether online contact leads to face-to-face activities. When it doesn't, Rosa is right that we end up watching each other's lives instead of sharing them.\n\nFrom my own experience, social media works best for local connection when it has a practical purpose. In my hometown, the public library started a page to advertise free workshops, such as repairing bicycles and cooking on a budget. Within a few months, the workshops were full, and many participants became friends. In contrast, platforms designed mainly for entertainment rarely create these real-life connections. So rather than asking whether social media is good or bad, communities should create online spaces that encourage people to meet in person.",
+        "commentary": "Nivel 5: postura clara y matizada que dialoga con ambos compañeros sin repetirlos: aporta una idea nueva (lo decisivo es si la conexión online lleva a encuentros reales). El ejemplo de la biblioteca es concreto y apoya bien el argumento. Buena progresión de ideas y conectores («From my own experience», «In contrast», «So rather than…»). Vocabulario variado y gramática precisa; unas 160 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Rosa that social media make people less connected. People use the phone all the time and they don't talk with neighbors. For example in my building I don't know my neighbors. It is a problem in the modern society. Also social media is not real life, it is only virtual. Kofi say the online group helped, but I think this is not common. So I think social media is bad for the communities.",
+        "commentary": "Nivel 3: la opinión es clara, pero el razonamiento repite casi literalmente la idea y el ejemplo de Rosa, en lugar de aportar algo nuevo. La respuesta a Kofi es una afirmación sin justificar. Las ideas son generales («a problem in the modern society», «not real life»). Errores de concordancia («social media make», «Kofi say») y uso innecesario del artículo («the modern society», «the communities»). Unas 80 palabras: por debajo de las 100 recomendadas."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-02", "difficulty": "easy", "usage": "practice",
+    "course": "Education",
+    "professor": {
+      "name": "Professor Lin",
+      "post": "Many young adults leave school without knowing how to create a budget, use credit responsibly, or save for the future. As a result, some universities are considering a new rule: every student, regardless of major, would have to complete a one-semester course in personal finance before graduating. Supporters say these skills are essential for adult life. Critics argue that students already have too many required courses and should be free to choose. Should universities require all students to take a personal finance course? Why or why not?"
+    },
+    "students": [
+      {
+        "name": "Megan",
+        "post": "Yes, I think it should be required. Many students get into debt during university because they use credit cards without understanding interest rates. A course like this could prevent serious financial problems later in life, and it would benefit students from every major, not just business students."
+      },
+      {
+        "name": "Arjun",
+        "post": "I don't think it should be required. Students already have a lot of general education requirements, and adding one more course could delay graduation. Also, there are many free online resources about money management. Students who are interested can learn on their own."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I support making personal finance a requirement, but for a different reason than Megan's. Avoiding debt is important, but I think the biggest benefit is that the course would reduce inequality between students. Some of us grew up in families where parents talked openly about salaries, taxes, and investments, while others never discussed money at home. A required course would give everyone the same basic knowledge before they start their careers.\n\nArjun is right that free online resources exist, but students usually don't know which ones are reliable, and the people who need them most are often the least likely to look for them. For example, my cousin signed a rental contract in his first year without understanding that he was responsible for repairs, and it cost him almost a thousand dollars. A short, practical course could easily have prevented that. To address Arjun's concern, universities could make the course worth fewer credits so it doesn't delay graduation.",
+        "commentary": "Nivel 5: toma partido con un argumento nuevo (igualdad de oportunidades) que no repite el de Megan, rebate a Arjun con una razón concreta y además propone una solución a su objeción. El ejemplo del primo es específico y pertinente. Cohesión fluida y vocabulario adecuado («inequality», «reliable», «address a concern»). Unas 165 palabras con muy pocos errores."
+      },
+      {
+        "level": "3",
+        "text": "In my opinion universities should require the personal finance course. Like Megan said, many students have debts with credit cards. The money is very important in the life and everybody need to know about it. If students don't know how to use money they will have problems in the future. I don't agree with Arjun because online resources are not enough. So the course is a good idea for all students.",
+        "commentary": "Nivel 3: opinión clara, pero el único argumento concreto es el de Megan, y el resto son generalidades («money is very important in the life»). La crítica a Arjun no se justifica. No hay ningún ejemplo propio. Errores: «everybody need», «The money… in the life» (artículos innecesarios, calco del español). Unas 75 palabras: desarrollo insuficiente."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-03", "difficulty": "medium", "usage": "practice",
+    "course": "Business Management",
+    "professor": {
+      "name": "Dr. Okafor",
+      "post": "During the past few years, millions of office employees started working from home, and many companies discovered that productivity did not fall. Now some employers want everyone back in the office full-time, while others have decided to let employees work remotely forever. In our discussion board this week, I want you to consider the question from the company's point of view, not just the worker's. Should companies allow employees to work from home permanently? Support your opinion with reasons and examples."
+    },
+    "students": [
+      {
+        "name": "Lucas",
+        "post": "From the company's point of view, remote work makes a lot of sense. Businesses can save huge amounts of money on office rent, electricity, and equipment. They can also hire talented people who live in other cities or even other countries, so they are not limited to the local job market."
+      },
+      {
+        "name": "Hye-jin",
+        "post": "I think companies should bring employees back to the office. When people work in the same place, they share ideas more easily and solve problems faster. New employees especially need to watch experienced colleagues and ask quick questions, which is much harder over video calls."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I believe companies should offer permanent remote work, but not for every role. Lucas focuses on cost savings, and Hye-jin focuses on collaboration, but I think the key issue for a company is employee retention. Replacing a skilled worker is extremely expensive because of recruitment, training, and lost productivity. Surveys in many industries show that flexibility is now one of the main reasons people choose or leave a job.\n\nFor example, my aunt works as a software tester for a mid-sized company. When her manager announced that everyone had to return to the office five days a week, three people on her team of eight resigned within two months, and the company spent half a year replacing them. A competitor that kept remote options hired two of them.\n\nThat said, Hye-jin's point about new employees is valid. A good compromise would be to require new hires to spend their first few months in the office and then let them choose.",
+        "commentary": "Nivel 5: postura clara con un matiz razonable y un argumento distinto de los dos compañeros (retención del talento), justificado con una consecuencia económica. El ejemplo de la tía es detallado y convincente. Reconoce la validez del punto de Hye-jin y propone un compromiso concreto. Organización lógica, transiciones naturales («That said») y vocabulario preciso. Unas 160 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I think companies should allow work from home. It is more comfortable for workers and they don't waste time in the traffic. Also companies save money for the office, like Lucas said. Hye-jin say people share ideas in the office but now we have video calls and it is the same. In my opinion working from home is the future and companies need to accept it.",
+        "commentary": "Nivel 3: da una opinión, pero ignora la indicación del profesor de pensar desde el punto de vista de la empresa (habla de la comodidad del trabajador), repite el argumento de Lucas y despacha el de Hye-jin con una afirmación discutible y sin pruebas. Ideas generales y sin ejemplo concreto. Errores: «allow work from home», «in the traffic», «Hye-jin say». Unas 70 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-04", "difficulty": "medium", "usage": "practice",
+    "course": "Environmental Studies",
+    "professor": {
+      "name": "Professor Grant",
+      "post": "Plastic waste is one of the most visible environmental problems in cities. Single-use bags, bottles, and food containers fill landfills and often end up in rivers and oceans. Cities have tried different strategies. Some ban certain plastic products completely. Others use financial incentives, such as charging customers for plastic bags or paying people a small amount for returning bottles. In your opinion, which approach is more effective for reducing plastic waste: banning plastic products or using financial incentives? Explain why."
+    },
+    "students": [
+      {
+        "name": "Daniela",
+        "post": "Bans are more effective because they solve the problem immediately. If plastic bags are illegal, nobody can use them, and companies are forced to find alternatives. Incentives are too weak: many people will happily pay a few extra cents for a bag rather than change their habits."
+      },
+      {
+        "name": "Tom",
+        "post": "I prefer incentives. Bans often make people angry and can create new problems. For example, when some places banned plastic bags, people started buying thicker plastic bags for their trash instead. Small payments for returning bottles, on the other hand, encourage people to participate voluntarily."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "In my view, the most effective approach is to use incentives first and bans only later, once alternatives are available. Daniela is right that small charges can be too weak, and Tom is right that sudden bans cause frustration, but neither of them mentions the role of the businesses that have to adapt.\n\nSmall restaurants and street vendors, for instance, often depend on cheap plastic containers. If a city bans them overnight, these businesses face higher costs immediately, while large chains can absorb the change more easily. An incentive period gives smaller businesses time to find affordable alternatives. My city followed exactly this approach with takeaway containers: for two years, restaurants received a discount on their waste-collection fees if they used reusable or compostable packaging. By the time the ban was introduced, about seventy percent of them had already switched, so there was very little opposition.\n\nIn short, incentives prepare the ground, and bans finish the job.",
+        "commentary": "Nivel 5 (nota máxima de la escala 0–5): respuesta sobresaliente. Propone una postura original (combinación secuencial de incentivos y prohibición), reconoce lo válido de cada compañero y señala lo que ambos omiten (el impacto en los pequeños negocios). El ejemplo es específico, con datos, y apoya directamente la tesis. Cierre conciso y memorable. Gran variedad de estructuras y vocabulario preciso («absorb the change», «prepare the ground») sin errores relevantes."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Daniela, bans are better. Plastic is very bad for the environment and the oceans. If the government ban the plastic, the people will stop to use it. Incentives are not enough because people don't care about few cents. Tom say people buy more plastic bags but I think this is not a big problem. We need to protect the planet for the future.",
+        "commentary": "Nivel 3: opinión clara, pero el razonamiento reproduce el de Daniela casi palabra por palabra y la objeción de Tom se descarta sin argumentos. No hay ejemplo propio y el final es una frase hecha («protect the planet for the future»). Errores: «the government ban», «stop to use» (debería ser «stop using»), «few cents» (falta «a»). Unas 70 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-05", "difficulty": "medium", "usage": "practice",
+    "course": "Technology and Society",
+    "professor": {
+      "name": "Dr. Martinez",
+      "post": "The age at which children receive their first smartphone keeps getting younger. Parents often say they want to be able to contact their children at any time, and children argue that they need phones to communicate with friends. However, some experts and schools have suggested that children should not have their own smartphones until they are at least twelve years old. Do you think children under twelve should have their own smartphones? Give reasons and examples to support your answer."
+    },
+    "students": [
+      {
+        "name": "Chloe",
+        "post": "I don't think children under twelve need smartphones. At that age, they should be playing outside and developing social skills face to face. Smartphones are designed to keep users looking at the screen, and young children don't have enough self-control to limit their use."
+      },
+      {
+        "name": "Mateo",
+        "post": "I think it depends on the child, but in general a phone can be useful. Many children travel to school alone or take part in activities after school, and parents feel safer if they can call them. A phone can also be a tool for learning, with educational apps and games."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I agree with Chloe that children under twelve should not have their own smartphones, but I think Mateo's safety concern deserves a better answer than simply saying no. The real problem is not the ability to call parents; it is unlimited access to the internet and social media. Parents can solve the safety issue with a basic phone that only makes calls and sends messages.\n\nThere is another reason I would add: smartphones can expose young children to online pressure they are not ready for. My younger sister got a smartphone when she was ten, mainly so my parents could reach her after school. Within a few months, she was in group chats with dozens of classmates, and she became very anxious whenever she was left out of a conversation. When my parents replaced it with a simple phone, she was still reachable, but she was much calmer.\n\nSo children can be safe without having a smartphone in their pocket.",
+        "commentary": "Nivel 5: postura clara que se apoya en Chloe pero aporta una razón nueva (presión social online) y responde de forma inteligente a la preocupación de Mateo con una alternativa concreta (teléfono básico). El ejemplo de la hermana es específico y muestra causa y efecto. Buena cohesión y vocabulario adecuado. Unas 160 palabras con gramática precisa."
+      },
+      {
+        "level": "3",
+        "text": "I think children can have smartphone but with control. The parents need to check what they do. Smartphones are useful for call the parents, like Mateo said, and for learning. But also is dangerous because there are bad things in internet. So it is good and bad. The parents must decide.",
+        "commentary": "Nivel 3: la postura es poco clara («it is good and bad») y las razones se toman de Mateo o son muy generales («bad things in internet»). No hay ejemplos ni se desarrolla ninguna idea. Errores: «have smartphone» (falta artículo), «useful for call» (debería ser «for calling»), «also is dangerous» (falta sujeto), «in internet». Unas 55 palabras: muy por debajo de lo esperado."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-06", "difficulty": "medium", "usage": "practice",
+    "course": "Urban Planning",
+    "professor": {
+      "name": "Professor Novak",
+      "post": "Many cities are redesigning their streets to encourage cycling. One common approach is to take an existing car lane on a busy road and convert it into a protected bike lane. Supporters say this makes cycling safer and reduces traffic and pollution in the long term. Opponents argue that it causes more congestion for drivers and hurts businesses that depend on customers arriving by car. Should cities convert car lanes into bike lanes on busy roads? Explain your position."
+    },
+    "students": [
+      {
+        "name": "Isaac",
+        "post": "Yes, cities should do it. Many people would like to cycle, but they are afraid of riding next to fast cars. Protected bike lanes make cycling safe enough for ordinary people, not just experienced cyclists. Over time, more people will cycle and fewer will drive."
+      },
+      {
+        "name": "Fiona",
+        "post": "I'm not convinced. In cities with cold winters or lots of hills, only a small number of people will cycle regularly. Removing a car lane would make traffic worse for the majority, including buses and delivery trucks, just to benefit a minority."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I think cities should convert car lanes into bike lanes, and I want to respond to the business concern mentioned by the professor, since neither Isaac nor Fiona discussed it. Many shop owners believe most of their customers arrive by car, but studies in several cities have found that they usually overestimate this. People who walk or cycle tend to visit shops more often, even if they spend a little less each time.\n\nA street near my university is a good example. Two years ago, one car lane was replaced with a bike lane, and several restaurant owners protested. Today, the same street has outdoor tables, more pedestrians, and at least three new cafés. The owner of a bakery there told me his sales have actually increased.\n\nFiona is right that weather and hills matter, so cities should start with flat, central routes where cycling is realistic all year. If those lanes are successful, they can be expanded gradually.",
+        "commentary": "Nivel 5: postura clara y una contribución original: aborda el argumento comercial que ningún compañero trató. El ejemplo local es concreto (cafés nuevos, testimonio del panadero) y refuerza la tesis. Reconoce la objeción de Fiona y propone una estrategia práctica. Organización excelente y lenguaje natural («tend to», «overestimate»). Unas 165 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I agree with Isaac. Bike lanes are good for the city because people can cycle safe and there is less pollution. Cars are very bad for the environment. Fiona say the weather is a problem but people can use the bike in summer. I think in the future everybody will use bikes. So cities must to do more bike lanes.",
+        "commentary": "Nivel 3: opinión clara, pero repite el argumento de Isaac y añade solo generalidades sobre la contaminación. La respuesta a Fiona es débil y no considera el resto de su argumento (autobuses, camiones). Predicción exagerada sin apoyo («everybody will use bikes»). Errores: «cycle safe» (adverbio «safely»), «Fiona say», «must to do». Unas 65 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-07", "difficulty": "hard", "usage": "practice",
+    "course": "Psychology",
+    "professor": {
+      "name": "Dr. Reyes",
+      "post": "We have been studying motivation, and today I'd like you to think about two powerful social forces: competition and cooperation. In schools and workplaces, people are often ranked against each other, given prizes for being the best, or compared publicly. In other settings, people are rewarded for working together toward a shared goal. Based on your own experience and what you have learned, which motivates people more effectively in the long term: competition or cooperation? Explain your reasoning."
+    },
+    "students": [
+      {
+        "name": "Sam",
+        "post": "I believe competition is a stronger motivator. When I know my performance will be compared to others, I work much harder. Sports are a good example: athletes push themselves to their limits because they want to win. Without competition, many people would simply do the minimum."
+      },
+      {
+        "name": "Nadia",
+        "post": "I think cooperation is better. Competition creates stress and can make people afraid of failing. When people work together, they help each other learn and feel responsible to the group, so they don't want to let their teammates down. That feeling can be just as motivating as winning."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I would argue that cooperation is more effective in the long term, mainly because competition only motivates the people who believe they have a chance to win. Sam's description fits strong performers, but for everyone else, constant ranking can lead them to give up. If you are always near the bottom of a list, the logical response is to stop trying, which is the opposite of what the system intends.\n\nI saw this clearly in my high school math class. Our first teacher posted test scores on the wall every week, and after a couple of months, about a third of the class had stopped doing homework. The next year, a new teacher put us in small study teams and gave a bonus when every member of a team improved. Students who had given up began asking questions again, because their effort now mattered to their teammates.\n\nThis adds to Nadia's point: cooperation keeps everyone involved, not just the winners.",
+        "commentary": "Nivel 5: postura clara con una idea propia (la competición solo motiva a quien cree que puede ganar) que matiza a Sam y amplía a Nadia sin repetirla. El ejemplo de las dos profesoras funciona como un contraste casi experimental y está muy bien narrado. Buen razonamiento lógico, cohesión clara y lenguaje variado y preciso. Unas 160 palabras."
+      },
+      {
+        "level": "3",
+        "text": "I think competition is better, like Sam. When there is competition people work more hard because everyone want to be the first. For example in sports the athletes train a lot for win. Cooperation is good too but some people in the group don't work and the others do everything. So competition is more motivating.",
+        "commentary": "Nivel 3: opinión clara, pero el argumento principal y el ejemplo del deporte son los mismos que los de Sam. La idea sobre los miembros del grupo que no trabajan podría ser una aportación, pero no se desarrolla. No se responde a la pregunta «a largo plazo». Errores: «more hard» (debería ser «harder»), «everyone want», «for win» (debería ser «to win»). Unas 60 palabras."
+      }
+    ]
+  },
+  {
+    "id": "toefl-disc-08", "difficulty": "hard", "usage": "practice",
+    "course": "Public Health",
+    "professor": {
+      "name": "Professor Adams",
+      "post": "Rates of obesity and type 2 diabetes have risen sharply in many countries, and sugary drinks are one of the main sources of added sugar in people's diets. In response, several governments have introduced a special tax on soft drinks, energy drinks, and other beverages with high sugar content. The goal is to discourage consumption and use the money for health programs. Is a tax on sugary drinks a good way to improve public health? Why or why not?"
+    },
+    "students": [
+      {
+        "name": "Leila",
+        "post": "I think the tax is a good idea. Price has a big influence on what people buy, especially young people. If soda becomes more expensive, many people will switch to water or other drinks. The money from the tax can also pay for sports facilities or nutrition education."
+      },
+      {
+        "name": "Marcus",
+        "post": "I'm against it. A tax like this hurts low-income families the most, because they spend a bigger share of their income on food and drinks. It's also a bit paternalistic: adults should be free to decide what they drink without the government punishing them."
+      }
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "I think a sugar tax can be a useful tool, but its most important effect is not on consumers; it is on the companies that make the drinks. Leila and Marcus both focus on how buyers react to higher prices, but when a tax is based on sugar content, manufacturers have a strong reason to change their recipes so they pay less.\n\nThis is what happened when the United Kingdom introduced its soft drinks levy. Before the tax even started, many major brands reduced the sugar in their drinks, and some popular products lost almost half of their sugar content. As a result, people consumed less sugar even if they kept buying the same brands, without paying more.\n\nThis also partly answers Marcus's concern. If companies reformulate their products, low-income families are not punished financially, yet they still benefit from healthier drinks. For that reason, governments should design the tax to reward reformulation rather than simply raise prices.",
+        "commentary": "Nivel 5: perspectiva original (el efecto sobre los fabricantes) que ninguno de los compañeros menciona, apoyada en un ejemplo real y bien explicado. Además, usa esa idea para responder a la objeción de Marcus, lo que demuestra un razonamiento elaborado. Organización y conectores muy claros («As a result», «For that reason»), vocabulario específico («levy», «reformulate»). Unas 160 palabras."
+      },
+      {
+        "level": "3",
+        "text": "In my opinion the tax is good. The sugar drinks are very unhealthy and cause many diseases like diabetes. If the price is more high, people will buy less. I agree with Leila. Marcus say it is bad for poor families but health is more important than money. The government need to protect the people.",
+        "commentary": "Nivel 3: opinión clara, pero el argumento central repite el de Leila y la réplica a Marcus es una frase hecha que no aborda su objeción. Sin ejemplo concreto ni desarrollo. Errores: «more high» (debería ser «higher»), «Marcus say», «The government need», artículos innecesarios («The sugar drinks», «the people»). Unas 60 palabras."
+      }
+    ]
+  }
+]

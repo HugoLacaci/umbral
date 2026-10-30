@@ -1,0 +1,291 @@
+[
+  {
+    "id": "toefl-conv-m1-router-a", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "conversation", "title": "Resume review",
+    "context": "Listen to a conversation between a student and an advisor at the career center.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Lily", "role": "Student", "gender": "f", "accent": "en-US" },
+        { "id": "b", "name": "Paul", "role": "Advisor", "gender": "m", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi, I was hoping to get my resume reviewed before the career fair on Thursday." },
+        { "s": "b", "t": "Sure. Unfortunately, all of our one-on-one slots are booked until next week. It's always like this before the fair." },
+        { "s": "a", "t": "Oh no. Is there anything else I can do?" },
+        { "s": "b", "t": "Two options. We're running a drop-in resume workshop tomorrow at four. Or you can upload your resume online, and someone will send you comments within forty-eight hours." },
+        { "s": "a", "t": "Hmm, forty-eight hours would be cutting it close. I'll go to the workshop." },
+        { "s": "b", "t": "Good choice. Bring a printed copy, and you'll get feedback right there." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-purpose", "prompt": "Why does the woman go to the career center?",
+        "options": ["To sign up for the career fair", "To get feedback on her resume", "To find out about job openings", "To print copies of her resume"],
+        "answer": 1,
+        "optionNotes": ["She mentions the fair only as her deadline.", "Correct.", "Not mentioned.", "Printing is the advisor's later advice."],
+        "explanation": "She wants her resume reviewed before Thursday's career fair.",
+        "evidence": "I was hoping to get my resume reviewed before the career fair on Thursday."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-inference", "prompt": "Why does the woman choose the workshop instead of the online option?",
+        "options": ["The online comments might not arrive in time.", "She does not have a digital copy of her resume.", "The workshop is free and the online service is not.", "She prefers to meet the advisor one-on-one."],
+        "answer": 0,
+        "optionNotes": ["Correct: 'cutting it close' means there might not be enough time before Thursday.", "Not mentioned.", "Cost is never mentioned.", "One-on-one slots are fully booked."],
+        "explanation": "'Cutting it close' means leaving very little time. Forty-eight hours might be too late for the Thursday fair.",
+        "evidence": "forty-eight hours would be cutting it close"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m1-router-b", "difficulty": "medium", "usage": "mock", "mock": 1, "module": "router", "task": "conversation", "title": "Broken washing machines",
+    "context": "Listen to a conversation between two students who live in the same dormitory.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Alex", "gender": "m", "accent": "en-GB" },
+        { "id": "b", "name": "Jess", "gender": "f", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Did you manage to do your laundry? Two of the machines downstairs are broken again." },
+        { "s": "b", "t": "No, I gave up. Somebody put up a sign saying out of order, but it doesn't look like anyone's actually reported it." },
+        { "s": "a", "t": "I'll submit a maintenance request online. Last time, they fixed them in a day once someone finally filed one." },
+        { "s": "b", "t": "Thanks. In the meantime, I really need clean clothes for my interview on Friday." },
+        { "s": "a", "t": "There's a laundromat on Pine Street. It's a bit pricey, but it's open twenty-four hours." },
+        { "s": "b", "t": "That works. I'll go after dinner." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-detail", "prompt": "What does the man offer to do?",
+        "options": ["Fix the machines himself", "Lend the woman some clothes", "Report the problem online", "Drive the woman to the laundromat"],
+        "answer": 2,
+        "optionNotes": ["Not mentioned.", "Not mentioned.", "Correct: he'll submit a maintenance request.", "He only tells her where it is."],
+        "explanation": "He offers to file a maintenance request, since nobody has done it yet.",
+        "evidence": "I'll submit a maintenance request online."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-detail", "prompt": "Why does the woman need clean clothes soon?",
+        "options": ["She has an interview on Friday.", "She is going away for the weekend.", "She has a sports game after dinner.", "She is moving to another dormitory."],
+        "answer": 0,
+        "optionNotes": ["Correct.", "Not mentioned.", "Not mentioned.", "Not mentioned."],
+        "explanation": "She says she needs clean clothes for her Friday interview.",
+        "evidence": "I really need clean clothes for my interview on Friday."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m1-lower", "difficulty": "easy", "usage": "mock", "mock": 1, "module": "lower", "task": "conversation", "title": "Meal card declined",
+    "context": "Listen to a conversation between a student and a cafeteria worker.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Sam", "role": "Student", "gender": "m", "accent": "en-US" },
+        { "id": "b", "name": "Anne", "role": "Cafeteria worker", "gender": "f", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi, my meal card isn't working. It just beeped and said declined, and I've got class in ten minutes." },
+        { "s": "b", "t": "Let me see. Ah, it says your meal plan ran out yesterday. Did you buy the plan for the fall or for the whole year?" },
+        { "s": "a", "t": "Just the fall, I think. I meant to renew it." },
+        { "s": "b", "t": "You can renew it online or at the housing office. For today, you can pay with cash or a credit card." },
+        { "s": "a", "t": "Okay, I'll pay by card now and renew it this afternoon." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-detail", "prompt": "Why was the man's meal card declined?",
+        "options": ["The card was damaged.", "His meal plan had ended.", "He used the wrong card.", "The machine was not working."],
+        "answer": 1,
+        "optionNotes": ["Not mentioned.", "Correct: the plan ran out yesterday.", "Not mentioned.", "The machine worked; the plan had expired."],
+        "explanation": "The worker checks and finds that his plan ran out the day before.",
+        "evidence": "it says your meal plan ran out yesterday"
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-next", "prompt": "What will the man do?",
+        "options": ["Pay with cash and renew the plan online", "Go to the housing office immediately", "Pay by card now and renew the plan later", "Eat somewhere else today"],
+        "answer": 2,
+        "optionNotes": ["He chooses card, not cash.", "He'll renew it in the afternoon, not now.", "Correct.", "He stays and pays."],
+        "explanation": "He says he'll pay by card and renew the plan in the afternoon.",
+        "evidence": "I'll pay by card now and renew it this afternoon."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m1-upper", "difficulty": "hard", "usage": "mock", "mock": 1, "module": "upper", "task": "conversation", "title": "After-hours lab access",
+    "context": "Listen to a conversation between a student and a lab manager.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Rachel", "role": "Student", "gender": "f", "accent": "en-CA" },
+        { "id": "b", "name": "Greg", "role": "Lab manager", "gender": "m", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi, I'm working on my senior thesis, and I need to run experiments in the evenings. Is it possible to get after-hours access to the lab?" },
+        { "s": "b", "t": "It's possible, but there's a catch. You'd need to complete the advanced safety training first, and the next session isn't until the twentieth." },
+        { "s": "a", "t": "The twentieth? My data's due to my advisor by the end of the month. That leaves me barely a week." },
+        { "s": "b", "t": "I understand. Actually, there's an online version of the training, but it's about six hours long, and most people find it pretty dull." },
+        { "s": "a", "t": "Dull I can handle. Losing two weeks I can't." },
+        { "s": "b", "t": "Fair enough. Once you pass the quiz at the end, send me the certificate, and I'll activate your card the same day." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-attitude", "prompt": "What is the woman's attitude toward the online training?",
+        "options": ["She is willing to do it even though it may be boring.", "She thinks it will be too difficult.", "She would prefer to attend the in-person session.", "She doubts it will be accepted by the lab."],
+        "answer": 0,
+        "optionNotes": ["Correct: she accepts that it's dull because saving time matters more.", "Difficulty isn't her concern; boredom is mentioned, not difficulty.", "The in-person session is too late for her.", "The manager says he will accept the certificate."],
+        "explanation": "'Dull I can handle. Losing two weeks I can't' means boredom is acceptable but waiting is not.",
+        "evidence": "Dull I can handle. Losing two weeks I can't."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-detail", "prompt": "What must the woman do to have her card activated?",
+        "options": ["Get a letter from her thesis advisor", "Attend the session on the twentieth", "Pass the final quiz and send the certificate", "Work in the lab only with a supervisor"],
+        "answer": 2,
+        "optionNotes": ["Not mentioned.", "That's the in-person option she wants to avoid.", "Correct.", "Not mentioned."],
+        "explanation": "The manager explains the steps: pass the quiz at the end of the online training and send him the certificate.",
+        "evidence": "Once you pass the quiz at the end, send me the certificate, and I'll activate your card the same day."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m2-router-a", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "conversation", "title": "Booking a group room",
+    "context": "Listen to a conversation between a student and a librarian.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Nathan", "role": "Student", "gender": "m", "accent": "en-AU" },
+        { "id": "b", "name": "Diane", "role": "Librarian", "gender": "f", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi, I'd like to book a group study room for Wednesday afternoon. There are five of us." },
+        { "s": "b", "t": "Oh, we don't take bookings at the desk anymore. Everything's done through the library app now." },
+        { "s": "a", "t": "Really? I didn't know that. Can you show me how?" },
+        { "s": "b", "t": "Sure. You just pick the date, and the app shows which rooms are free. But rooms for five or more people get booked fast, so I'd do it today." },
+        { "s": "a", "t": "Is there a time limit?" },
+        { "s": "b", "t": "Two hours per booking, and you can't book more than a week in advance." },
+        { "s": "a", "t": "Two hours should be plenty. Thanks." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-detail", "prompt": "How are study rooms reserved now?",
+        "options": ["At the library desk", "By email", "Through the library app", "By phone"],
+        "answer": 2,
+        "optionNotes": ["The librarian says they no longer do this.", "Not mentioned.", "Correct.", "Not mentioned."],
+        "explanation": "Bookings are now made only through the library app.",
+        "evidence": "Everything's done through the library app now."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-inference", "prompt": "Why does the librarian suggest booking today?",
+        "options": ["The app will be closed tomorrow.", "Large rooms are in high demand.", "Bookings must be made exactly one week ahead.", "The library closes early on Wednesdays."],
+        "answer": 1,
+        "optionNotes": ["Not mentioned.", "Correct: rooms for five or more get booked fast.", "The rule is no MORE than a week ahead.", "Not mentioned."],
+        "explanation": "She warns that rooms for big groups fill up quickly.",
+        "evidence": "rooms for five or more people get booked fast"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m2-router-b", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "conversation", "title": "Field trip changes",
+    "context": "Listen to a conversation between two classmates.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Isla", "gender": "f", "accent": "en-GB" },
+        { "id": "b", "name": "Marcus", "gender": "m", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Did you see the email about the geology field trip? They changed the departure time." },
+        { "s": "b", "t": "No, I missed it. What's the new time?" },
+        { "s": "a", "t": "Seven instead of eight thirty. Apparently, the site closes earlier on Saturdays than they thought." },
+        { "s": "b", "t": "Seven? I'll have to skip breakfast, then. Do we still meet in front of the science building?" },
+        { "s": "a", "t": "No, that changed too. The bus is picking us up at the north parking lot." },
+        { "s": "b", "t": "Good thing you told me. I'd have been standing in the wrong place an hour and a half late." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-gist", "prompt": "What is the conversation mainly about?",
+        "options": ["Changes to the plans for a field trip", "Why the man missed a geology class", "Where to have breakfast before the trip", "How to get to the geology site by car"],
+        "answer": 0,
+        "optionNotes": ["Correct: the time and meeting place have changed.", "Not mentioned.", "Breakfast is mentioned only in passing.", "They will take a bus."],
+        "explanation": "The woman tells the man about two changes: the departure time and the pick-up place.",
+        "evidence": "They changed the departure time."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-detail", "prompt": "Where will the students meet the bus?",
+        "options": ["In front of the science building", "At the geology site", "At the north parking lot", "Outside the cafeteria"],
+        "answer": 2,
+        "optionNotes": ["That was the old meeting place.", "That's the destination.", "Correct.", "Not mentioned."],
+        "explanation": "The meeting point changed to the north parking lot.",
+        "evidence": "The bus is picking us up at the north parking lot."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m2-lower", "difficulty": "easy", "usage": "mock", "mock": 2, "module": "lower", "task": "conversation", "title": "Bike repair",
+    "context": "Listen to a conversation between a customer and a mechanic at a bike shop.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Erin", "role": "Customer", "gender": "f", "accent": "en-CA" },
+        { "id": "b", "name": "Tom", "role": "Mechanic", "gender": "m", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi, my bike has a flat tire. Can you fix it today?" },
+        { "s": "b", "t": "Sure. It usually takes about thirty minutes, and it's twelve dollars for the repair." },
+        { "s": "a", "t": "Great. Can I wait here?" },
+        { "s": "b", "t": "Of course. There's coffee by the window. Oh, and your brakes look a little worn. Do you want me to check them too?" },
+        { "s": "a", "t": "Yes, please. But tell me the price before you change anything." },
+        { "s": "b", "t": "No problem. If they need new pads, it's usually around twenty dollars, but I'll check first and let you know." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-purpose", "prompt": "Why does the woman go to the bike shop?",
+        "options": ["To buy a new bike", "To get a flat tire fixed", "To replace her brakes", "To pick up her repaired bike"],
+        "answer": 1,
+        "optionNotes": ["Not mentioned.", "Correct.", "The mechanic notices the brakes later.", "She is bringing it in, not picking it up."],
+        "explanation": "She came because her bike has a flat tire.",
+        "evidence": "my bike has a flat tire"
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-detail", "prompt": "What does the woman ask the mechanic to do?",
+        "options": ["Tell her the cost before replacing any parts", "Finish the repair in fifteen minutes", "Call her when the bike is ready", "Give her a discount"],
+        "answer": 0,
+        "optionNotes": ["Correct.", "He says it takes about thirty minutes.", "She is waiting in the shop.", "Not mentioned."],
+        "explanation": "She agrees to the brake check but wants to know the price first.",
+        "evidence": "tell me the price before you change anything"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m2-upper", "difficulty": "hard", "usage": "mock", "mock": 2, "module": "upper", "task": "conversation", "title": "Dropping statistics",
+    "context": "Listen to a conversation between two friends.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Jordan", "gender": "m", "accent": "en-US" },
+        { "id": "b", "name": "Amelia", "gender": "f", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "I'm thinking about dropping statistics. I failed the first quiz, and the second one's next week." },
+        { "s": "b", "t": "Before you do that, you know it's required for your major, right? You'd just have to take it again next year, probably with the same professor." },
+        { "s": "a", "t": "Yeah, that's the part I keep forgetting." },
+        { "s": "b", "t": "And honestly, one quiz is only five percent of the grade. Have you tried the math help center? They've got tutors who specialize in stats." },
+        { "s": "a", "t": "I went once, but it was so packed that I left after twenty minutes." },
+        { "s": "b", "t": "Go on Friday mornings. Hardly anyone's there then. That's when I went last year, and it saved my grade." },
+        { "s": "a", "t": "Friday mornings, huh? Okay, I'll give it one more shot before I decide anything." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-purpose", "prompt": "Why does the woman mention that one quiz is only five percent of the grade?",
+        "options": ["To show that the course is easy", "To suggest that one bad quiz is not a good reason to drop the course", "To explain how the professor calculates grades", "To encourage him to skip the next quiz"],
+        "answer": 1,
+        "optionNotes": ["She doesn't say the course is easy.", "Correct: she is arguing against dropping the class.", "She isn't explaining the grading system in general.", "She wants him to get help, not skip quizzes."],
+        "explanation": "She is trying to persuade him not to drop the course: one failed quiz has little effect on his final grade.",
+        "evidence": "one quiz is only five percent of the grade"
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-next", "prompt": "What will the man probably do?",
+        "options": ["Drop the course this week", "Take the course again next year", "Ask the professor for an extra quiz", "Visit the math help center on a Friday morning"],
+        "answer": 3,
+        "optionNotes": ["He decides to wait before deciding.", "That's what would happen if he dropped it.", "Not mentioned.", "Correct: he'll try the help center again at the quieter time."],
+        "explanation": "He repeats 'Friday mornings' and agrees to give the help center one more try.",
+        "evidence": "I'll give it one more shot before I decide anything."
+      }
+    ]
+  }
+]

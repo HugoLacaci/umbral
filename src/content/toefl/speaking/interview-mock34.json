@@ -1,0 +1,56 @@
+[
+  {
+    "id": "toefl-interview-m3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "topic": "Parks and green spaces in cities",
+    "intro": "Hi, thanks for joining me today. I work for the city's parks department, and we're collecting opinions about green spaces in urban areas. I'd like to ask you a few questions.",
+    "interviewer": {
+      "id": "int",
+      "name": "Mr. Nathan Brooks",
+      "role": "Parks department officer",
+      "gender": "m",
+      "accent": "en-US"
+    },
+    "questions": [
+      "How often do you visit parks or other green spaces, and what do you usually do there?",
+      "What makes a park pleasant to spend time in? Give some examples.",
+      "Some people think cities should build more housing on unused green land instead of creating new parks. What is your opinion?",
+      "In the future, how do you think cities could include more nature in places where there is very little space? Explain your ideas."
+    ],
+    "sampleAnswers": [
+      "I go to a park near my apartment about three times a week. Usually I go running there early in the morning, before classes, because the air feels fresher and there's less traffic noise than on the streets. On weekends I sometimes meet friends there for a picnic, or I just sit under a tree and read for an hour. Honestly, it's one of the few places in the city where I can relax completely, so for me it's not just a nice extra, it's an important part of my routine.",
+      "I think the most important thing is variety. A good park has open grass for games, quiet areas with benches for people who want to read, and some shade from big trees, which is essential in summer. Clean public toilets and drinking fountains also make a big difference, especially for families with children. For example, there's a park in my hometown with a small lake and a café, and it's always full of people of all ages, because everyone can find something they enjoy there.",
+      "I understand the argument, because housing in many cities is extremely expensive, and building more homes would help. But I don't think we should choose between the two. Green land is very hard to get back once it's built on, and parks become even more important when more people live in a neighborhood. I'd prefer cities to build housing on old industrial sites or empty parking lots, which are not useful to anyone, and to keep green areas as places where residents can breathe and meet.",
+      "I think cities will have to become more creative. One idea is green roofs, where buildings have plants or even small gardens on top, which also help keep the buildings cool. Another is turning narrow streets into green corridors with trees and plants instead of parked cars. Some cities already plant vertical gardens on the walls of buildings. Even small changes, like planting trees along every main road, could reduce heat in summer and make walking much more pleasant for people."
+    ]
+  },
+  {
+    "id": "toefl-interview-m4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "topic": "Learning foreign languages",
+    "intro": "Hello, and thank you for taking part. I'm a researcher in applied linguistics, and I'm interested in how people learn new languages. I'd like to ask you a few questions about your experience.",
+    "interviewer": {
+      "id": "int",
+      "name": "Dr. Emily Thornton",
+      "role": "Applied linguistics researcher",
+      "gender": "f",
+      "accent": "en-GB"
+    },
+    "questions": [
+      "What foreign languages have you studied, and how did you start learning them?",
+      "What is the most difficult part of learning a new language for you? Why?",
+      "Some people say that with translation apps improving so quickly, learning foreign languages will soon be unnecessary. Do you agree? Why or why not?",
+      "At what age do you think children should start learning a second language at school? Explain your reasons."
+    ],
+    "sampleAnswers": [
+      "I've studied English since primary school, and a couple of years ago I also started learning Italian. English was a school subject, so at first I learned it mainly through grammar exercises and textbooks. I only began to really enjoy it when I started watching series in English with subtitles. With Italian it was different: I learned it because I wanted to travel to Italy, so I started with an app on my phone and then joined a conversation group at the university.",
+      "For me, the hardest part is understanding people when they speak fast. In class, teachers speak clearly and use simple words, but in real conversations people use expressions and shortcuts that I've never studied. For example, the first time I watched a film without subtitles, I understood maybe half of it. What helped me was listening to podcasts every day, first slowly and then at normal speed. It's still difficult, but now I can follow most conversations if I concentrate.",
+      "I don't agree. Translation apps are really useful for simple things, like reading a menu or asking for directions, and I use them myself. But a language is more than words. When you speak someone's language, you understand jokes, emotions and cultural references that apps usually miss. Also, having a real conversation through a phone feels slow and unnatural, so it's hard to build a friendship or a business relationship that way. I think apps will help travelers, but they won't replace real language skills.",
+      "I think children should start quite early, maybe around six or seven years old. At that age they are not afraid of making mistakes, and they can imitate sounds and pronunciation very easily. In my country, children start English at six, and many of them have a much better accent than older learners. However, I think the lessons should be based on songs, games and stories rather than grammar, because the goal at that age is to make children curious and confident, not to test them."
+    ]
+  }
+]

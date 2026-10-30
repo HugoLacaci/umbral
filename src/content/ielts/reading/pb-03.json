@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ielts-r-pb-03",
+    "difficulty": "medium",
+    "usage": "practice",
+    "passageNo": 2,
+    "title": "Testing Bridges Against the Wind",
+    "subtitle": "Why long-span bridges are studied in wind tunnels before they are built",
+    "paragraphs": [
+      { "label": "A", "text": "On 7 November 1940, less than five months after it opened, the Tacoma Narrows Bridge in Washington State twisted itself apart in a wind of only about 64 kilometres per hour. The collapse, captured on film, became one of the most famous engineering failures in history. Remarkably, the bridge had been designed to withstand far stronger winds. Its engineers had calculated the static force of the wind, the steady push against the deck, but had not appreciated that wind could also set a long, slender structure in motion and then feed energy into that motion until it became destructive. Fortunately, no human lives were lost; the only casualty was a dog that had been left in a car on the deck." },
+      { "label": "B", "text": "The phenomenon that destroyed the bridge is now known as aerodynamic flutter. When wind flows past a flexible deck, the deck may begin to twist slightly. If the shape of the deck is unfavourable, that twisting changes the way air flows around it in a manner that increases the twisting further. Once the wind speed passes a critical value, the oscillations grow with every cycle. A related problem, vortex shedding, occurs when air peels away from alternate edges of the deck in a regular rhythm, producing small swirls of air. If the rhythm of these vortices matches the natural frequency of the bridge, the deck can bounce up and down, sometimes alarmingly, even in moderate winds." },
+      { "label": "C", "text": "Since the 1940s, every major long-span bridge has been tested in a wind tunnel before construction. The process usually begins with a sectional model: a short, rigid slice of the deck, typically built at a scale of around 1:50, which is mounted on springs so that it can move vertically and twist. By measuring how this model behaves at different wind speeds and angles, engineers can identify the deck shapes most at risk. The most promising design is then built as a full aeroelastic model, a complete replica of the bridge, often more than ten metres long, in which the towers, cables and deck are made flexible enough to reproduce the real structure's movements. Because natural winds are gusty rather than smooth, engineers place blocks and spires on the tunnel floor upstream of the model in order to create turbulence similar to that found at the real site." },
+      { "label": "D", "text": "Wind tunnel results have transformed bridge design. The deck of the original Tacoma Narrows Bridge was a flat plate with solid steel girders along its sides, which blocked the wind. Modern long-span decks are more likely to be streamlined boxes shaped rather like an aircraft wing, which allow air to pass smoothly above and below. On some bridges, engineers have added small fins or guide vanes along the edges of the deck to break up vortices before they can form. The Great Belt Bridge in Denmark, for example, was fitted with guide vanes after its deck was found to oscillate vertically in light winds shortly after opening in 1998." },
+      { "label": "E", "text": "Computers have joined, but not replaced, physical testing. Computational fluid dynamics, or CFD, uses mathematical models to simulate how air flows around a structure. CFD is relatively cheap and allows engineers to compare dozens of possible shapes quickly at an early stage. However, the turbulent flow around a bridge deck is extremely difficult to calculate accurately, and small errors can lead to misleading predictions of flutter speed. For this reason, most engineers regard CFD as a screening tool, and still insist that the final design be confirmed in a wind tunnel. Some researchers believe that as computing power grows, simulations will eventually become reliable enough to reduce the number of physical tests required, but that point has not yet been reached." },
+      { "label": "F", "text": "Testing does not end when a bridge opens. Many long-span bridges are now fitted with monitoring systems that include anemometers to record wind speed and direction, and accelerometers that detect how the deck moves. On the Stonecutters Bridge in Hong Kong, for instance, hundreds of sensors feed information to a control centre. These data allow engineers to check whether the bridge is behaving as the wind tunnel predicted and to spot early signs of damage. They also feed back into research, improving the models used for the next generation of bridges." },
+      { "label": "G", "text": "Engineers are increasingly asked to design for conditions that are changing. Climate scientists expect some regions to experience more intense storms in future, and bridges built today may have to remain in service for more than a century. Designers are therefore building larger safety margins into flutter calculations, so that the critical wind speed is comfortably above any wind the structure is ever likely to meet. Some are also testing models under the stronger and more unusual wind patterns that future storms may bring." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "flowchart-completion",
+        "instructions": "Questions 1–5\nComplete the flow-chart below.\nChoose ONE WORD ONLY from the passage for each answer.",
+        "title": "Testing a long-span bridge for wind",
+        "template": "A sectional model (a rigid slice of the deck, at a scale of about 1:50) is mounted on {{q1}}\n↓\nThe model's behaviour is measured at a range of wind speeds and {{q2}}\n↓\nThe best design is built as a complete, flexible {{q3}} model\n↓\nBlocks and {{q4}} on the tunnel floor produce realistic, gusty air\n↓\nAfter opening, sensors help engineers detect early signs of {{q5}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "flowchart-completion", "answers": ["springs"], "maxWords": 1,
+            "explanation": "The sectional model 'is mounted on springs so that it can move vertically and twist'.",
+            "evidence": "which is mounted on springs so that it can move vertically and twist" },
+          { "id": "q2", "kind": "gap", "qtype": "flowchart-completion", "answers": ["angles"], "maxWords": 1,
+            "explanation": "Engineers measure 'how this model behaves at different wind speeds and angles'. 'A range of' paraphrases 'different'.",
+            "evidence": "By measuring how this model behaves at different wind speeds and angles" },
+          { "id": "q3", "kind": "gap", "qtype": "flowchart-completion", "answers": ["aeroelastic"], "maxWords": 1,
+            "explanation": "'The most promising design is then built as a full aeroelastic model, a complete replica of the bridge'. 'Best' paraphrases 'most promising'.",
+            "evidence": "The most promising design is then built as a full aeroelastic model" },
+          { "id": "q4", "kind": "gap", "qtype": "flowchart-completion", "answers": ["spires"], "maxWords": 1,
+            "explanation": "'engineers place blocks and spires on the tunnel floor upstream of the model in order to create turbulence'. 'Realistic, gusty air' paraphrases 'turbulence similar to that found at the real site'.",
+            "evidence": "engineers place blocks and spires on the tunnel floor upstream of the model" },
+          { "id": "q5", "kind": "gap", "qtype": "flowchart-completion", "answers": ["damage"], "maxWords": 1,
+            "explanation": "Monitoring data allow engineers 'to spot early signs of damage'. 'Detect' paraphrases 'spot'.",
+            "evidence": "to spot early signs of damage" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-endings",
+        "instructions": "Questions 6–9\nComplete each sentence with the correct ending, A–G, below.",
+        "options": [
+          { "key": "A", "text": "prevent small swirls of air from developing." },
+          { "key": "B", "text": "did not realise that wind could make a structure move." },
+          { "key": "C", "text": "allow air to pass through solid steel girders." },
+          { "key": "D", "text": "the regular pattern of air movement matches the deck's natural frequency." },
+          { "key": "E", "text": "turbulent air flow is very hard to calculate precisely." },
+          { "key": "F", "text": "it is more expensive than testing in a wind tunnel." },
+          { "key": "G", "text": "had designed the bridge only for light winds." }
+        ],
+        "items": [
+          { "id": "q6", "kind": "match", "qtype": "matching-endings", "prompt": "The Tacoma Narrows Bridge failed because its engineers", "answer": "B",
+            "explanation": "They 'had not appreciated that wind could also set a long, slender structure in motion'. G is wrong: the bridge 'had been designed to withstand far stronger winds'.",
+            "evidence": "had not appreciated that wind could also set a long, slender structure in motion" },
+          { "id": "q7", "kind": "match", "qtype": "matching-endings", "prompt": "Vortex shedding can make a deck bounce when", "answer": "D",
+            "explanation": "'If the rhythm of these vortices matches the natural frequency of the bridge, the deck can bounce up and down'. 'Regular pattern of air movement' paraphrases 'rhythm of these vortices'.",
+            "evidence": "If the rhythm of these vortices matches the natural frequency of the bridge, the deck can bounce up and down" },
+          { "id": "q8", "kind": "match", "qtype": "matching-endings", "prompt": "Guide vanes are added to the edges of some decks in order to", "answer": "A",
+            "explanation": "Fins or guide vanes are added 'to break up vortices before they can form'. Vortices are described in paragraph B as 'small swirls of air'. C is wrong: the solid girders blocked the wind.",
+            "evidence": "to break up vortices before they can form" },
+          { "id": "q9", "kind": "match", "qtype": "matching-endings", "prompt": "Most engineers do not rely on CFD alone because", "answer": "E",
+            "explanation": "'the turbulent flow around a bridge deck is extremely difficult to calculate accurately'. F is wrong: CFD is described as 'relatively cheap'.",
+            "evidence": "the turbulent flow around a bridge deck is extremely difficult to calculate accurately" }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "short-answer",
+        "instructions": "Questions 10–13\nAnswer the questions below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "items": [
+          { "id": "q10", "kind": "gap", "qtype": "short-answer", "prompt": "What aspect of the wind did the Tacoma Narrows engineers calculate? ___", "answers": ["the static force", "static force"], "maxWords": 3,
+            "explanation": "'Its engineers had calculated the static force of the wind, the steady push against the deck'. 'The static force of the wind' is five words, so write 'static force' or 'the static force'.",
+            "evidence": "Its engineers had calculated the static force of the wind" },
+          { "id": "q11", "kind": "gap", "qtype": "short-answer", "prompt": "What object do modern streamlined bridge decks often resemble? ___", "answers": ["an aircraft wing", "aircraft wing"], "maxWords": 3,
+            "explanation": "Modern decks are 'streamlined boxes shaped rather like an aircraft wing'. 'Resemble' paraphrases 'shaped rather like'.",
+            "evidence": "streamlined boxes shaped rather like an aircraft wing" },
+          { "id": "q12", "kind": "gap", "qtype": "short-answer", "prompt": "Which instruments record the speed and direction of the wind on a monitored bridge? ___", "answers": ["anemometers"], "maxWords": 3,
+            "explanation": "Monitoring systems 'include anemometers to record wind speed and direction'. Accelerometers measure how the deck moves, not the wind.",
+            "evidence": "anemometers to record wind speed and direction" },
+          { "id": "q13", "kind": "gap", "qtype": "short-answer", "prompt": "What are designers adding to flutter calculations because of the risk of stronger storms? ___", "answers": ["larger safety margins", "safety margins"], "maxWords": 3,
+            "explanation": "'Designers are therefore building larger safety margins into flutter calculations'. 'Stronger storms' paraphrases 'more intense storms'.",
+            "evidence": "Designers are therefore building larger safety margins into flutter calculations" }
+        ]
+      }
+    ]
+  }
+]

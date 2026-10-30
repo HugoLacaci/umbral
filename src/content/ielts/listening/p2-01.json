@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ielts-l-p2-01",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 2,
+    "title": "Welcome to Thornbury Botanical Gardens",
+    "context": "You will hear a volunteer guide talking to visitors at a botanical garden.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Eleanor", "role": "Volunteer guide", "gender": "f", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good morning, everyone, and welcome to Thornbury Botanical Gardens. My name's Eleanor, and I'm one of the volunteer guides here. Before you set off to explore on your own, I'll tell you a little about the gardens, and then I'll show you where everything is on the map you were given at the gate." },
+        { "s": "a", "t": "The gardens were opened in 1874. A lot of visitors assume they were created by a wealthy family, because of the grand iron gates, but in fact the land was bought by the town's university, which needed somewhere to grow plants for its medical students to study. The university still owns the gardens today, although they've been open to the public for well over a century." },
+        { "s": "a", "t": "Our opening hours have changed recently. We used to close at five o'clock all year round, but from this month we stay open until eight in the evening on Fridays and Saturdays during the summer, so you can enjoy the gardens after work. We do still close on Christmas Day, and we open at nine every morning, as before." },
+        { "s": "a", "t": "Entry to the gardens is free, as you know, but there are a few things you'll need to pay for. Guided tours of the glasshouse cost three pounds, and the audio guide, which used to be free, now costs two pounds. However, the children's activity booklet is still free, and you can pick one up at the visitor centre." },
+        { "s": "a", "t": "Just a couple of rules. You're very welcome to have a picnic on any of the lawns, and you can wheel bicycles along the main path, although please don't ride them. We do ask that you keep dogs on a lead at all times, because of the wildlife around the lake." },
+        { "s": "a", "t": "Right, if you look at your map, you'll see that we're standing just inside the main entrance, at the bottom of the map, on the southern edge of the gardens. The visitor centre is here, just to the east of the entrance, on your right." },
+        { "s": "a", "t": "First of all, if you turn left as soon as you come through the gate and follow the hedge all the way west, you'll reach the herb garden, which is right over in the south-west corner. It smells wonderful at this time of year." },
+        { "s": "a", "t": "Now, the main path runs straight north from the entrance, right through the middle of the gardens. Walk up it and you'll come to a crossroads, where it meets the path that runs from east to west. Just before you reach the crossroads, on your left, you'll find the café. On the opposite side of the main path, on the right, there's a first aid point, so if anyone feels unwell, that's where to go." },
+        { "s": "a", "t": "If you turn left at the crossroads and walk west, you'll see the lake on your right. Between the path and the lake, on the southern shore of the lake, is the Japanese garden, with its little wooden bridge." },
+        { "s": "a", "t": "Back at the crossroads, if you carry on north along the main path, right to the very end, you'll find the bird hide on your left. It sits between the path and the eastern edge of the lake, so it's perfect for watching the herons." },
+        { "s": "a", "t": "Alternatively, turn right at the crossroads and follow the path east, all the way to the end. Then look to your left, and you'll see the tropical glasshouse, up in the north-east corner of the gardens. The area beside the main path on that side, just north of the crossroads, is closed this year while we build a new rock garden, so please don't go in there." },
+        { "s": "a", "t": "And finally, the wildflower meadow. It's tucked away behind the visitor centre, that is, on its eastern side, close to the southern boundary of the gardens. It's at its best in June, so you've chosen a good week to visit." },
+        { "s": "a", "t": "Right, I'll be in the visitor centre until lunchtime if you have any questions. Enjoy your visit." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 11–14\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q11", "kind": "mcq", "qtype": "mcq", "prompt": "The gardens were originally created",
+            "options": ["as a private garden for a wealthy family.", "so that university students could study plants.", "as a public park for the people of the town."], "answer": 1,
+            "explanation": "The land was bought by the university to grow plants for its medical students. The wealthy family is what visitors wrongly assume.",
+            "evidence": "the land was bought by the town's university, which needed somewhere to grow plants for its medical students to study",
+            "optionNotes": ["A common assumption, which Eleanor corrects.", "Correct.", "It became public later, but that was not the original purpose."] },
+          { "id": "q12", "kind": "mcq", "qtype": "mcq", "prompt": "What change has been made to the opening hours?",
+            "options": ["The gardens open earlier in the morning.", "The gardens stay open later on some evenings.", "The gardens are now open every day of the year."], "answer": 1,
+            "explanation": "They now stay open until eight on Fridays and Saturdays in summer. Opening time is still nine, and they still close on Christmas Day.",
+            "evidence": "we stay open until eight in the evening on Fridays and Saturdays during the summer",
+            "optionNotes": ["They open at nine, as before.", "Correct.", "They still close on Christmas Day."] },
+          { "id": "q13", "kind": "mcq", "qtype": "mcq", "prompt": "Which of these is free?",
+            "options": ["the audio guide", "the glasshouse tour", "the children's activity booklet"], "answer": 2,
+            "explanation": "The audio guide now costs two pounds and the glasshouse tour three pounds; the children's booklet is still free.",
+            "evidence": "the children's activity booklet is still free",
+            "optionNotes": ["It used to be free but now costs two pounds.", "It costs three pounds.", "Correct."] },
+          { "id": "q14", "kind": "mcq", "qtype": "mcq", "prompt": "Visitors are asked to",
+            "options": ["keep dogs on a lead.", "have picnics only in the café area.", "leave bicycles at the entrance."], "answer": 0,
+            "explanation": "Dogs must be kept on a lead at all times. Picnics are allowed on any lawn, and bicycles can be wheeled along the main path.",
+            "evidence": "We do ask that you keep dogs on a lead at all times",
+            "optionNotes": ["Correct.", "Picnics are welcome on any of the lawns.", "Bicycles can be wheeled along the main path."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "map-labelling",
+        "instructions": "Questions 15–20\nLabel the map below.\nWrite the correct letter, A–H, next to Questions 15–20.",
+        "title": "Thornbury Botanical Gardens",
+        "options": [
+          { "key": "A", "text": "A" }, { "key": "B", "text": "B" }, { "key": "C", "text": "C" }, { "key": "D", "text": "D" },
+          { "key": "E", "text": "E" }, { "key": "F", "text": "F" }, { "key": "G", "text": "G" }, { "key": "H", "text": "H" }
+        ],
+        "diagram": {
+          "width": 600,
+          "height": 400,
+          "compass": true,
+          "shapes": [
+            { "kind": "park", "x": 20, "y": 20, "w": 560, "h": 350 },
+            { "kind": "water", "x": 60, "y": 40, "w": 180, "h": 120, "label": "Lake" },
+            { "kind": "path", "x": 290, "y": 20, "w": 20, "h": 360 },
+            { "kind": "path", "x": 20, "y": 200, "w": 560, "h": 20 },
+            { "kind": "building", "x": 330, "y": 320, "w": 100, "h": 45, "label": "Visitor Centre" },
+            { "kind": "label", "x": 300, "y": 392, "label": "Main entrance" }
+          ],
+          "markers": [
+            { "key": "A", "x": 110, "y": 310 },
+            { "key": "B", "x": 255, "y": 245 },
+            { "key": "C", "x": 345, "y": 245 },
+            { "key": "D", "x": 500, "y": 335 },
+            { "key": "E", "x": 150, "y": 180 },
+            { "key": "F", "x": 265, "y": 70 },
+            { "key": "G", "x": 370, "y": 110 },
+            { "key": "H", "x": 510, "y": 100 }
+          ]
+        },
+        "items": [
+          { "id": "q15", "kind": "match", "qtype": "map-labelling", "prompt": "Herb garden", "answer": "A",
+            "explanation": "Turn left at the gate and follow the hedge west: the herb garden is in the south-west corner.",
+            "evidence": "you'll reach the herb garden, which is right over in the south-west corner" },
+          { "id": "q16", "kind": "match", "qtype": "map-labelling", "prompt": "Café", "answer": "B",
+            "explanation": "Walking north up the main path, the café is on the left just before the crossroads. C, on the right, is the first aid point.",
+            "evidence": "Just before you reach the crossroads, on your left, you'll find the café." },
+          { "id": "q17", "kind": "match", "qtype": "map-labelling", "prompt": "Japanese garden", "answer": "E",
+            "explanation": "It lies between the east–west path and the lake, on the lake's southern shore.",
+            "evidence": "Between the path and the lake, on the southern shore of the lake, is the Japanese garden" },
+          { "id": "q18", "kind": "match", "qtype": "map-labelling", "prompt": "Bird hide", "answer": "F",
+            "explanation": "At the northern end of the main path, on the left, between the path and the lake's eastern edge.",
+            "evidence": "you'll find the bird hide on your left. It sits between the path and the eastern edge of the lake" },
+          { "id": "q19", "kind": "match", "qtype": "map-labelling", "prompt": "Tropical glasshouse", "answer": "H",
+            "explanation": "Go east to the end of the path and look left (north): it is in the north-east corner. G is the closed rock-garden area.",
+            "evidence": "you'll see the tropical glasshouse, up in the north-east corner of the gardens" },
+          { "id": "q20", "kind": "match", "qtype": "map-labelling", "prompt": "Wildflower meadow", "answer": "D",
+            "explanation": "It is behind (east of) the visitor centre, near the southern boundary.",
+            "evidence": "It's tucked away behind the visitor centre, that is, on its eastern side" }
+        ]
+      }
+    ]
+  }
+]

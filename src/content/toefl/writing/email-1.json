@@ -1,0 +1,186 @@
+[
+  {
+    "id": "toefl-email-01", "difficulty": "easy", "usage": "practice",
+    "scenario": "You live in a university-owned apartment building. For the past three days, the heating in your apartment has not been working properly, and the temperature at night has dropped below freezing. You reported the problem at the front desk on Monday, but nobody has come to fix it yet. Write an email to Ms. Romero, the building manager.",
+    "to": "Ms. Romero, Building Manager",
+    "subject": "Heating problem in Apartment 4B",
+    "tasks": [
+      "Explain the problem with the heating.",
+      "Describe how the problem is affecting you.",
+      "Ask for a specific action to solve the problem."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Ms. Romero,\n\nI am writing about the heating in Apartment 4B, which has not been working properly since Sunday. The radiators in the bedroom stay cold all night, and the one in the living room only produces a little heat for about an hour in the evening. I reported this at the front desk on Monday morning, but no one has come to look at it yet.\n\nThe situation is becoming difficult. Last night the temperature inside my apartment was around 12 degrees, and I had to sleep in my coat. I also have final exams next week, and it is very hard to concentrate when I am studying in such a cold room.\n\nWould it be possible for a technician to come tomorrow? I will be home all morning and can also leave a key at the front desk if that is more convenient. In the meantime, could the office lend me a portable heater?\n\nThank you very much for your help.\n\nBest regards,\nDaniela Ortiz",
+        "commentary": "Nivel 5: cumple las tres tareas con detalles concretos (desde cuándo, qué radiadores, 12 grados, exámenes). La organización es clara: un párrafo por punto, saludo, propósito al inicio y cierre cortés. El registro es formal pero natural, y la petición es concreta y realista (técnico mañana, llave en recepción, calefactor portátil). Variedad de estructuras (present perfect, oraciones de relativo, preguntas corteses con «Would it be possible…?») y casi sin errores."
+      },
+      {
+        "level": "3",
+        "text": "Hello,\n\nMy heating is broken since three days. I told to the front desk but nobody came. Is very cold in my apartment and I can't sleep good.\n\nPlease fix it soon because this is not acceptable. I am a student and I need to study.\n\nThanks\nDaniela",
+        "commentary": "Nivel 3: responde a las tres tareas, pero de forma muy superficial: la explicación del problema y su efecto son genéricos y la petición («fix it soon») es vaga. El tono roza lo brusco («this is not acceptable») sin dar razones. Hay errores frecuentes que afectan a la precisión: «is broken since three days» (debería ser «has been broken for three days»), «told to the front desk», «Is very cold» (falta el sujeto «It»), «sleep good». Es corto (unas 50 palabras) y no aprovecha el tiempo para desarrollar ideas."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-02", "difficulty": "easy", "usage": "practice",
+    "scenario": "You are taking an introductory biology course. Last Thursday you missed class because you had a high fever and went to the campus health center. During that class, Professor Grant gave a short quiz that counts toward your final grade. You have a note from the health center. Write an email to Professor Grant.",
+    "to": "Professor Grant",
+    "subject": "Missed quiz on Thursday",
+    "tasks": [
+      "Explain why you missed the class.",
+      "Describe what you have done to catch up on the material.",
+      "Ask whether you can take the quiz at another time."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Professor Grant,\n\nMy name is Kenji Watanabe, and I am in your Tuesday–Thursday section of Biology 101. I am writing because I missed class last Thursday. That morning I woke up with a fever of almost 39 degrees, so I went to the campus health center, where the doctor told me to rest for two days. I have a note from the health center and can send you a scanned copy.\n\nSince then, I have tried to catch up as much as possible. I borrowed the lecture notes from a classmate, watched the recording you posted on the course page, and completed the practice questions at the end of Chapter 6.\n\nI understand that there was a quiz that day. Would it be possible for me to take it at another time? I am available during your office hours on Wednesday or at any other time that suits you.\n\nThank you for your understanding.\n\nSincerely,\nKenji Watanabe",
+        "commentary": "Nivel 5: se presenta e identifica el curso, explica la ausencia con detalles y menciona la justificación médica, describe tres acciones concretas para ponerse al día y formula la petición con cortesía y flexibilidad. Organización impecable y registro adecuado para un profesor. Vocabulario preciso («catch up», «scanned copy», «suits you») y gramática variada y correcta."
+      },
+      {
+        "level": "3",
+        "text": "Dear Professor,\n\nI was sick on Thursday so I could not go to class. I went to the health center. I am sorry.\n\nI want to do the quiz another day. When I can do it? Please tell me.\n\nThank you,\nKenji",
+        "commentary": "Nivel 3: explica la ausencia y pide repetir el examen, pero omite casi por completo la segunda tarea (qué ha hecho para ponerse al día), así que la respuesta está incompleta. No se identifica el curso ni el estudiante con claridad. La pregunta «When I can do it?» tiene orden de palabras incorrecto y «I want to do the quiz» suena demasiado directo para un profesor. Es demasiado breve para demostrar variedad de lenguaje."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-03", "difficulty": "easy", "usage": "practice",
+    "scenario": "Your neighborhood has a community garden where residents grow vegetables and flowers. You recently moved to the area and would like to get involved. You noticed that the garden has no space for children, even though many families live nearby. Write an email to Mr. Hughes, the volunteer coordinator of the garden.",
+    "to": "Mr. Hughes, Volunteer Coordinator",
+    "subject": "Joining the community garden",
+    "tasks": [
+      "Introduce yourself and explain why you want to volunteer.",
+      "Describe a skill or experience you could contribute.",
+      "Suggest an idea to make the garden more welcoming for children."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Mr. Hughes,\n\nMy name is Amira Haddad, and I moved to Elm Street last month. I walk past the community garden almost every day, and I would love to volunteer there. I grew up helping my grandparents on their small farm, so working outdoors is something I really miss, and I think the garden would also be a great way to meet my new neighbors.\n\nI have some experience that might be useful. In my previous city, I helped organize a seed-sharing program at the public library for two years, so I am comfortable keeping records and coordinating volunteers.\n\nI also have a suggestion. Since many families live nearby, the garden could set aside one or two small beds for children, with easy plants like sunflowers or strawberries. A short activity on Saturday mornings, such as planting or watering together, could get them excited about gardening.\n\nPlease let me know how I can sign up. I look forward to hearing from you.\n\nKind regards,\nAmira Haddad",
+        "commentary": "Nivel 5: las tres tareas están bien desarrolladas: presentación con motivación personal, experiencia concreta y relevante (programa de intercambio de semillas) y una propuesta específica y viable para niños. Buena cohesión («I also have a suggestion», «Since…»), tono amable y adecuado para un voluntario, y lenguaje variado y preciso con errores mínimos."
+      },
+      {
+        "level": "3",
+        "text": "Hi Mr. Hughes,\n\nI am Amira and I am new in the neighborhood. I like gardens very much and I want to be volunteer because is a good activity.\n\nAlso there are many childrens near the garden. Maybe you can do something for them, like games.\n\nI hope you answer me soon.\n\nAmira",
+        "commentary": "Nivel 3: se presenta y hace una sugerencia, pero la sugerencia es muy vaga («something for them, like games») y la segunda tarea (habilidad o experiencia) no aparece. Las razones para hacer voluntariado son genéricas. Errores típicos: «to be volunteer» (falta «a»), «because is» (falta «it»), «childrens». El cierre «I hope you answer me soon» suena algo exigente. Es corto y poco desarrollado."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-04", "difficulty": "medium", "usage": "practice",
+    "scenario": "Two weeks ago, you reserved a book through the university library's online system because you need it for a research paper due next Friday. Yesterday you received a notification that the book was ready, but when you went to the circulation desk, the staff said it had been lent to another student by mistake. Write an email to Mr. Bello, the head of library services.",
+    "to": "Mr. Bello, Head of Library Services",
+    "subject": "Reserved book given to another user",
+    "tasks": [
+      "Explain what happened when you tried to pick up the book.",
+      "Describe why you need the book urgently.",
+      "Suggest a way the library could solve your problem."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Mr. Bello,\n\nI am writing to ask for your help with a book reservation. On October 2, I reserved Urban Water Systems by L. Carter through the online catalog. Yesterday afternoon I received an email saying the book was waiting for me, but when I arrived at the circulation desk, the staff member explained that it had accidentally been checked out to another student. She was very apologetic, but she told me the book would not be returned for three weeks.\n\nUnfortunately, I need this book for a research paper in my Environmental Engineering course, which is due next Friday. Two of the main sources in my paper come from its chapters on drainage design, and the library does not have another copy.\n\nI was wondering whether the library could contact the other student and ask them to return the book early. Alternatively, would it be possible to request a copy through interlibrary loan or to scan the two chapters I need?\n\nThank you for considering my request.\n\nSincerely,\nLucas Ferreira",
+        "commentary": "Nivel 5: relato claro y cronológico de lo ocurrido con datos concretos (fecha, título, tres semanas), justificación convincente de la urgencia y dos soluciones alternativas realistas. El tono es educado incluso al quejarse (reconoce la amabilidad de la empleada). Uso preciso de pasiva («had accidentally been checked out»), estilo indirecto y fórmulas de cortesía («I was wondering whether…»)."
+      },
+      {
+        "level": "3",
+        "text": "Dear Mr. Bello,\n\nI reserved a book two weeks ago and the library send me a message that the book is ready. But when I went the desk they gave it to other person. This is a big mistake of the library.\n\nI need the book for my paper, is very important for me.\n\nCan you please do something?\n\nRegards,\nLucas",
+        "commentary": "Nivel 3: menciona el problema y la necesidad del libro, pero sin detalles (no dice qué libro, para qué asignatura ni la fecha de entrega), y la tercera tarea se reduce a «Can you please do something?», que no sugiere ninguna solución. El tono es algo acusador («a big mistake of the library»). Errores de tiempos y estructura: «the library send», «went the desk», «other person», «is very important» (falta el sujeto)."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-05", "difficulty": "medium", "usage": "practice",
+    "scenario": "You work part-time at a café on campus. Your manager, Ms. Lin, has just posted next month's work schedule, and you have been assigned three morning shifts during the week of your final exams. Two of these shifts are at the same time as your exams. When you were hired, you told Ms. Lin that you could not work during exam periods. Write an email to Ms. Lin.",
+    "to": "Ms. Lin, Café Manager",
+    "subject": "Schedule conflict during exam week",
+    "tasks": [
+      "Explain the problem with your schedule.",
+      "Remind her of the agreement you made when you were hired.",
+      "Propose a solution that would work for both of you."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Ms. Lin,\n\nThank you for posting the December schedule. I have noticed a conflict that I wanted to bring to your attention as early as possible. I have been assigned morning shifts on December 9, 11, and 12, but I have final exams on the mornings of the 9th and the 11th, so I would not be able to work those days.\n\nWhen you interviewed me in September, I mentioned that I would need time off during exam periods, and you said that would not be a problem. I completely understand that the schedule is complicated to organize, so I suspect this was just an oversight.\n\nTo make things easier, I have already spoken to Jordan, who is happy to take my shifts on the 9th and the 11th if I cover two of his evening shifts the following week. I could also work extra hours during the first week of December if the café needs more help.\n\nPlease let me know if this arrangement is acceptable.\n\nBest wishes,\nSamuel Okafor",
+        "commentary": "Nivel 5: identifica el conflicto con fechas exactas, recuerda el acuerdo sin sonar acusador («I suspect this was just an oversight») y propone una solución concreta y beneficiosa para ambas partes (cambio ya acordado con un compañero y horas extra). Excelente control del registro en una situación delicada con un jefe. Buena variedad gramatical y conectores adecuados."
+      },
+      {
+        "level": "3",
+        "text": "Hi Ms. Lin,\n\nI saw the new schedule and I have to work in my exams days. I can't work that days because I have exams.\n\nYou told me before that I don't have to work in exams. So please change it.\n\nMaybe somebody else can work for me.\n\nThanks,\nSamuel",
+        "commentary": "Nivel 3: toca las tres tareas, pero de forma mínima: no da fechas, el recordatorio del acuerdo suena a reproche («You told me… So please change it») y la solución es una idea vaga que deja el trabajo a la jefa. Repite ideas («exams» tres veces) en lugar de desarrollarlas. Errores: «in my exams days», «that days», «in exams». Registro demasiado directo para escribir a un superior."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-06", "difficulty": "hard", "usage": "practice",
+    "scenario": "You are working on a group project for a marketing class. The project is worth 30 percent of the final grade and is due in two weeks. One member of your four-person group has not attended any meetings or responded to messages for the past ten days, and the group is worried about finishing on time. Write an email to Professor Adeyemi, who teaches the course.",
+    "to": "Professor Adeyemi",
+    "subject": "Concern about group project participation",
+    "tasks": [
+      "Describe the situation in your group.",
+      "Explain what the group has already tried to do.",
+      "Ask for advice on how to proceed."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Professor Adeyemi,\n\nI am writing on behalf of Group 3 in your Marketing Principles course. We are making good progress on our brand analysis project, but we have run into a problem that we have not been able to solve on our own. One of our members has not attended our last three meetings or replied to any messages since October 14, and the sections he agreed to write, the competitor analysis and the budget, have not been started.\n\nWe have tried to resolve this ourselves. We sent him two emails and several messages in our group chat, offered to meet at a time that suited his schedule, and even suggested he choose a smaller part of the project. Unfortunately, we have not received any response, and we are concerned that something may be wrong.\n\nWith the deadline only two weeks away, we would be grateful for your advice. Should we divide his sections among the three of us, or would you prefer to contact him first? We also wanted to ask how individual contributions will be considered in the final grade.\n\nThank you for your time.\n\nRespectfully,\nElena Petrova",
+        "commentary": "Nivel 5 (nota máxima de la escala 0–5): respuesta excelente en una situación delicada. Describe el problema con hechos objetivos (fechas, secciones concretas) sin atacar al compañero, e incluso muestra preocupación por él. Enumera acciones concretas ya intentadas y pide consejo con dos opciones claras más una pregunta pertinente sobre la nota. Registro formal y diplomático, cohesión impecable y lenguaje preciso y variado («on behalf of», «run into a problem», «would be grateful»)."
+      },
+      {
+        "level": "3",
+        "text": "Dear Professor,\n\nI have a problem with my group. One student never comes to the meetings and he don't answer. He is very lazy and it is not fair for us because we do all the work.\n\nWe write to him but nothing. What we should do? I think he should have a lower grade.\n\nThank you\nElena",
+        "commentary": "Nivel 3: describe la situación y pide consejo, pero la segunda tarea (lo que el grupo ya ha intentado) se reduce a «We write to him but nothing», sin desarrollo. El tono no es apropiado para un profesor: juzga al compañero («very lazy») y exige una nota más baja. Faltan datos básicos (asignatura, grupo, plazo). Errores: «he don't answer», «We write» (debería ser pasado), «What we should do?»."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-07", "difficulty": "medium", "usage": "practice",
+    "scenario": "There is a public park near your home where many people walk, jog, and walk their dogs. Several streetlights along the main path have been broken for more than a month, and the park is now very dark after 6 p.m. Last week a jogger tripped and hurt her ankle. Write an email to Ms. Duarte, a member of the city council responsible for parks.",
+    "to": "Ms. Duarte, City Council",
+    "subject": "Broken lights in Riverside Park",
+    "tasks": [
+      "Describe the problem in the park.",
+      "Explain why it is important to fix it soon.",
+      "Suggest what the city could do."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Ms. Duarte,\n\nI am a resident of Maple Avenue, and I am writing to report a safety problem in Riverside Park. At least five streetlights along the main path between the north entrance and the pond have not worked for over a month. Since it gets dark around 6 p.m. at this time of year, most of the path is now almost completely black in the evening.\n\nThis needs attention soon. Many people use the park after work, including joggers, parents with young children, and older residents walking their dogs. Last week a woman tripped over a tree root she could not see and injured her ankle. Some neighbors have also told me they no longer feel safe walking there at night.\n\nI would suggest that the city repair the lights as a priority and, if that will take time, place temporary lamps along the path. It might also be useful to create a simple online form so residents can report broken lights directly.\n\nThank you for your attention to this matter.\n\nYours sincerely,\nMohammed Saleh",
+        "commentary": "Nivel 5: describe el problema con precisión (cinco farolas, tramo concreto, hora), explica la urgencia con varios grupos afectados y el incidente reciente, y propone dos medidas razonables (reparación prioritaria con solución provisional, y un formulario de avisos). Organización clara y tono cívico y respetuoso. Lenguaje variado y correcto («as a priority», «It might also be useful to…»)."
+      },
+      {
+        "level": "3",
+        "text": "Dear Ms. Duarte,\n\nThe lights in the park are broken since a long time. It is very dark and dangerous. A woman fall last week.\n\nThe city must to repair the lights. People pay taxes and the city don't do nothing.\n\nPlease answer me.\n\nMohammed",
+        "commentary": "Nivel 3: aborda las tres tareas solo de forma mínima: no indica qué parque ni qué tramo, la explicación de la urgencia es una frase y la sugerencia es simplemente «repair the lights». El tono es acusador («the city don't do nothing») e inapropiado para una concejala. Errores frecuentes: «are broken since», «A woman fall», «must to repair», doble negación. Muy breve."
+      }
+    ]
+  },
+  {
+    "id": "toefl-email-08", "difficulty": "easy", "usage": "practice",
+    "scenario": "Last week you ordered a desk lamp from an online store called BrightHome. The package arrived yesterday, but it contained a lamp of a different color and model from the one you ordered. You need a lamp for your desk soon because you study late at night. Write an email to the store's customer service team.",
+    "to": "BrightHome Customer Service",
+    "subject": "Wrong item received – order #48213",
+    "tasks": [
+      "Explain what you ordered and what you received.",
+      "Describe why the situation is inconvenient for you.",
+      "Ask what the company will do to fix the problem."
+    ],
+    "models": [
+      {
+        "level": "5",
+        "text": "Dear Customer Service Team,\n\nI am writing about order #48213, which I placed on May 3. I ordered the Nova LED desk lamp in white, with an adjustable arm and three brightness settings. However, the package that arrived yesterday contained a black floor lamp, which is a completely different product.\n\nThis mistake is quite inconvenient for me. I am a university student, and I usually study late in the evening in a small room with very poor overhead lighting. I bought the desk lamp specifically to avoid eye strain while I prepare for my exams, which start in two weeks.\n\nCould you please tell me how to return the floor lamp and how quickly you can send me the correct one? If the white Nova lamp is not available, I would prefer a full refund so that I can buy one from a local store.\n\nThank you in advance for your help.\n\nKind regards,\nValentina Russo",
+        "commentary": "Nivel 5: identifica el pedido con número y fecha y contrasta con claridad lo pedido y lo recibido. Explica por qué le afecta (estudio nocturno, exámenes) y hace preguntas precisas con una alternativa (reembolso). Formato y tono profesional apropiado para atención al cliente. Gramática correcta y vocabulario específico («overhead lighting», «eye strain», «full refund»)."
+      },
+      {
+        "level": "3",
+        "text": "Hello,\n\nI receive the wrong lamp. I order a white lamp for desk and you send me other lamp black. It is not the same.\n\nI need the lamp because I study in the night.\n\nWhat you will do? I want my lamp quickly.\n\nValentina",
+        "commentary": "Nivel 3: cumple las tareas en lo básico, pero sin número de pedido ni detalles, con una explicación muy breve del inconveniente y una pregunta mal formada («What you will do?»). El tono final es algo exigente. Errores de tiempo verbal (presente en lugar de pasado: «I receive», «I order»), orden del adjetivo («other lamp black») y preposiciones («in the night»). Desarrollo insuficiente."
+      }
+    ]
+  }
+]

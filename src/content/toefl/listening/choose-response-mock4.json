@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "toefl-cr-m4-router-1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "choose-response",
+    "title": "Recycling plastic",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Mason",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Do you know which bin the plastic bottles go in?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "The blue one, I think. It says so on the lid.",
+          "I've been drinking more water lately.",
+          "The bottles are in the fridge.",
+          "I know, it's been a long time."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: identifies the bin.",
+          "Related to bottles but irrelevant.",
+          "Repeats 'bottles'.",
+          "Repeats 'know'."
+        ],
+        "explanation": "'Which bin' needs a choice of bin."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-router-2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "choose-response",
+    "title": "Exchange info session",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Imogen",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Are you going to the information session on the exchange programme?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "The programme has students from Japan.",
+          "I changed programmes last year.",
+          "I'd like to, but I have a lab at the same time.",
+          "Yes, the information is wrong."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Repeats 'programme'.",
+          "Plays on exchange/changed.",
+          "Correct: explains why they probably cannot go.",
+          "Repeats 'information'."
+        ],
+        "explanation": "The answer is an indirect 'no' with a reason."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-router-3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "choose-response",
+    "title": "Cooking smells",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Riley",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Something smells amazing. What are you making?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I made it to class on time.",
+          "It smells like rain.",
+          "I'm amazed you're here.",
+          "Just a vegetable curry. Want some?"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Plays on 'make it'.",
+          "Repeats 'smells'.",
+          "Plays on amazing/amazed.",
+          "Correct: names the dish and offers some."
+        ],
+        "explanation": "'What are you making' asks about the food."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-router-4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "choose-response",
+    "title": "Office hours",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Leah",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "When are Professor Lin's office hours this term?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Her office is in Hamilton Hall.",
+          "Tuesdays from two to four, according to the syllabus.",
+          "She's teaching three courses this term.",
+          "It took me about an hour."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Answers 'where'.",
+          "Correct: gives a time.",
+          "Repeats 'this term'.",
+          "Repeats 'hour'."
+        ],
+        "explanation": "'When' needs a time."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-router-5",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "choose-response",
+    "title": "Library fine",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Tyler",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Why did you have to pay a fine at the library?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I'm fine, thank you.",
+          "The library is open until midnight.",
+          "I returned two books almost a month late.",
+          "I paid by card."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Plays on 'fine'.",
+          "Repeats 'library'.",
+          "Correct: gives a reason.",
+          "Answers 'how'."
+        ],
+        "explanation": "'Why' needs a reason."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-router-6",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "choose-response",
+    "title": "One car or two",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Ruby",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Should we take one car to the conference or two?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "One should be enough if we pack light.",
+          "I'll take two of those, please.",
+          "The conference room is on the left.",
+          "Yes, we should."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: makes a choice with a condition.",
+          "Repeats 'take' and 'two' like a shop order.",
+          "Repeats 'conference'.",
+          "Yes/no answer to an either/or question."
+        ],
+        "explanation": "An either/or question needs a choice, not 'yes'."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-router-7",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "choose-response",
+    "title": "Running late",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Alfie",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Sorry, I'm going to be about fifteen minutes late."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "No problem. I'll grab us a table.",
+          "It's about fifteen minutes away.",
+          "Fifteen people are coming.",
+          "Late nights are hard for me."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: accepts the apology and reacts naturally.",
+          "Repeats 'about fifteen minutes'.",
+          "Repeats 'fifteen'.",
+          "Repeats 'late'."
+        ],
+        "explanation": "An apology for lateness needs acceptance."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-router-8",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "choose-response",
+    "title": "Sold-out concert",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Madison",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "I can't believe the tickets sold out in ten minutes."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Ten tickets should be enough.",
+          "The concert is out of town.",
+          "I know. I didn't even get to the checkout page.",
+          "I sold my car last month."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Repeats 'ten' and 'tickets'.",
+          "Repeats 'out'.",
+          "Correct: agrees and shares their experience.",
+          "Repeats 'sold'."
+        ],
+        "explanation": "The speaker expresses surprise; a natural reply agrees and adds a comment."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-lower-1",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "choose-response",
+    "title": "Café name",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Ava",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "What's the name of the café across the street?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "It's across from the bank.",
+          "It's called The Daily Grind.",
+          "I usually get a latte.",
+          "It opened last year."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Gives a location.",
+          "Correct: gives a name.",
+          "Talks about an order.",
+          "Gives a date."
+        ],
+        "explanation": "'What's the name' needs a name."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-lower-2",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "choose-response",
+    "title": "Airport bus",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Logan",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Which bus goes to the airport?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "The airport is very busy.",
+          "I'm flying to Vancouver.",
+          "About an hour.",
+          "The forty-two, from the stop outside the library."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Repeats 'airport'.",
+          "Talks about a trip.",
+          "Answers 'how long'.",
+          "Correct: names a bus."
+        ],
+        "explanation": "'Which bus' needs a bus number or name."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-lower-3",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "choose-response",
+    "title": "Brothers and sisters",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Poppy",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Do you have any brothers or sisters?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I live near my parents.",
+          "No, I don't have a bike.",
+          "Yes, one older brother.",
+          "I'd love some, thanks."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "About family, but does not answer.",
+          "Unrelated.",
+          "Correct: answers the question.",
+          "Answers as if offered food."
+        ],
+        "explanation": "A yes/no question about family; only one option answers it."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-lower-4",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "choose-response",
+    "title": "Lunch spot",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Cooper",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Where do you usually eat lunch?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "In the cafeteria, mostly.",
+          "Around noon.",
+          "A sandwich and some fruit.",
+          "With my classmates."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: gives a place.",
+          "Answers 'when'.",
+          "Answers 'what'.",
+          "Answers 'who with'."
+        ],
+        "explanation": "'Where' needs a place."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-lower-5",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "choose-response",
+    "title": "Borrowing a calculator",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Chloe",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Can I borrow your calculator for the test?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "The test is on Monday.",
+          "I can borrow it from you.",
+          "It's a math test.",
+          "Sure, but I need it back after class."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Gives a date.",
+          "Repeats 'borrow' in the wrong direction.",
+          "Repeats 'test'.",
+          "Correct: agrees with a condition."
+        ],
+        "explanation": "A request needs yes or no."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-lower-6",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "choose-response",
+    "title": "Favourite season",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Henry",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "What's your favourite season?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "The football season starts in August.",
+          "Autumn. I love the colours.",
+          "It's very cold today.",
+          "I like it a lot."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Plays on 'season'.",
+          "Correct: names a season and gives a reason.",
+          "About today's weather.",
+          "Does not name anything."
+        ],
+        "explanation": "'What's your favourite' needs a choice."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-lower-7",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "choose-response",
+    "title": "Living in the city",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Sophie",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "How long have you lived in this city?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "About ten kilometres.",
+          "Almost three years now.",
+          "I live on Pine Street.",
+          "I like it here."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Gives a distance.",
+          "Correct: gives a length of time.",
+          "Gives an address.",
+          "Gives an opinion."
+        ],
+        "explanation": "'How long' needs a time period."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-upper-1",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "choose-response",
+    "title": "Tough grader",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Dylan",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "I heard Professor Diaz doesn't give many A's."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I didn't hear the question.",
+          "She gave me a lift yesterday.",
+          "Many students heard her talk.",
+          "That's what everyone says, but her exams are fair."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Repeats 'heard'.",
+          "Repeats 'give'.",
+          "Repeats 'heard' and 'many'.",
+          "Correct: reacts to the rumour with a balanced view."
+        ],
+        "explanation": "The speaker shares a rumour; the reply comments on it."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-upper-2",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "choose-response",
+    "title": "Fire alarm test",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Eleanor",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Brilliant. A fire alarm test, right in the middle of my exam."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "At least they'll probably give you extra time.",
+          "It was a brilliant test.",
+          "The fire was put out quickly.",
+          "Right, I'll sit in the middle row."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: offers some comfort.",
+          "Takes 'brilliant' literally.",
+          "There was no real fire.",
+          "Repeats 'right' and 'middle'."
+        ],
+        "explanation": "'Brilliant' is sarcastic here: the speaker is annoyed. A comforting reply fits."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-upper-3",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "choose-response",
+    "title": "New or used desk",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Bailey",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Should I buy a new desk or a used one?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I've used it a lot.",
+          "The furniture store is new.",
+          "Used, unless you plan to keep it after you graduate.",
+          "I bought these shoes new."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Repeats 'used' as a verb.",
+          "Repeats 'new'.",
+          "Correct: chooses with a condition.",
+          "Echoes 'buy' (bought) and 'new'."
+        ],
+        "explanation": "An either/or question; the reply chooses 'used'."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-upper-4",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "choose-response",
+    "title": "Party invitation",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Hailey",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Are you coming to Jake's party on Friday?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Jake is coming on Friday.",
+          "I came on Friday.",
+          "It's his birthday party.",
+          "I've got a twelve-page paper due Monday."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Repeats 'Jake', 'coming' and 'Friday'.",
+          "Wrong tense.",
+          "Gives information instead of answering.",
+          "Correct: an indirect 'no'."
+        ],
+        "explanation": "The paper is an indirect way of saying 'probably not'."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-upper-5",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "choose-response",
+    "title": "Late night",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Owen",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "You look exhausted. Did you stay up late?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "I'm going to stay at a hotel.",
+          "Yeah, I was hitting the books until two.",
+          "I'm looking up the word now.",
+          "Late again? That's not like you."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Repeats 'stay'.",
+          "Correct: confirms and explains with an idiom.",
+          "Plays on 'look' and 'up'.",
+          "Repeats 'late' as if the other person was late."
+        ],
+        "explanation": "'Hitting the books' means studying hard."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-upper-6",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "choose-response",
+    "title": "Walking suggestion",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Charlotte",
+          "gender": "f",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "Why don't we just walk? It's only ten minutes from here."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Because I'm ten minutes from here.",
+          "We're walking on the wrong side.",
+          "Fine by me, as long as it doesn't rain.",
+          "I don't know why."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Answers 'why' literally.",
+          "Repeats 'walk'.",
+          "Correct: accepts the suggestion with a condition.",
+          "Treats the suggestion as a real question."
+        ],
+        "explanation": "'Why don't we…?' is a suggestion, not a question about reasons."
+      }
+    ]
+  },
+  {
+    "id": "toefl-cr-m4-upper-7",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "choose-response",
+    "title": "Chemistry final",
+    "audio": {
+      "speakers": [
+        {
+          "id": "s1",
+          "name": "Theo",
+          "gender": "m",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "s1",
+          "t": "How was the chemistry final?"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "cr-response",
+        "prompt": "Choose the best response.",
+        "options": [
+          "Let's just say I won't be framing my grade.",
+          "It was final, yes.",
+          "Chemistry is on Tuesdays.",
+          "I'm framing a picture for my room."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: implies it went badly.",
+          "Plays on 'final'.",
+          "Repeats 'chemistry'.",
+          "Uses 'framing' literally."
+        ],
+        "explanation": "Understatement: not framing the grade means it was bad."
+      }
+    ]
+  }
+]

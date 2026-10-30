@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ielts-l-m2-p4",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 2,
+    "part": 4,
+    "title": "How migrating birds find their way",
+    "context": "You will hear part of a zoology lecture about bird migration and navigation.",
+    "audio": {
+      "speakers": [
+        { "id": "lec", "name": "Dr Sam Reilly", "role": "lecturer", "gender": "m", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "lec", "t": "Morning, everyone. In today's lecture we're going to look at one of the great puzzles of animal behaviour, which is how migrating birds manage to find their way across thousands of kilometres, often to exactly the same spot they left the year before." },
+        { "s": "lec", "t": "To give you a sense of the scale involved, consider the bar-tailed godwit, a wading bird that breeds in Alaska and spends the northern winter here in Australia and New Zealand. Tracking studies have shown that some individuals fly more than eleven thousand kilometres without stopping, a journey that takes around nine days, with no food, no water and no rest." },
+        { "s": "lec", "t": "Journeys like this require serious preparation. In the weeks before departure, migrating birds eat almost constantly and store huge amounts of fat, which is their fuel for the flight. Some birds nearly double their body weight. And remarkably, some species actually reduce the size of their digestive organs before they leave, because they won't be eating during the flight, and carrying heavy organs they don't need would waste energy." },
+        { "s": "lec", "t": "So how do they navigate? The short answer is that birds use several different cues, and which one they rely on depends on the conditions. The first is the sun. A bird can use the position of the sun as a compass, but there's a complication. The sun moves across the sky during the day, so to use it accurately, the bird needs an internal clock that tells it what time it is. This was demonstrated in experiments where birds were kept under artificial lighting that shifted their sense of time by several hours. When they were released, they flew off in the wrong direction, and the error was exactly what you'd predict from the change in their clock." },
+        { "s": "lec", "t": "Many small birds, though, migrate at night, and they use the stars. In a famous series of experiments, young birds were raised inside a planetarium, where researchers could control the artificial night sky. It turned out that the birds weren't born knowing particular constellations. Instead, they learned to identify the point around which the sky appeared to rotate, and they used that to find north. When the researchers made the sky rotate around a different star, the birds adjusted accordingly." },
+        { "s": "lec", "t": "The third cue, and the one that has attracted the most research, is the Earth's magnetic field. We know that birds can sense it, but exactly how is still being debated. The leading theory is that special molecules in the eyes react to the magnetic field, which would mean that birds may, in some sense, see it. For many years, there was a rival theory that iron particles in the beak acted like a tiny compass. However, more careful studies found that those particles were actually part of the immune system, so that idea has largely been abandoned." },
+        { "s": "lec", "t": "Finally, there's smell, which was long thought to be unimportant in birds. Yet when seabirds such as shearwaters had their sense of smell temporarily blocked, they were unable to find their way home across open water, whereas birds whose other senses were affected had no such problem." },
+        { "s": "lec", "t": "Now, there's an important difference between young and experienced birds. In a classic experiment, thousands of starlings were caught in the Netherlands during their autumn migration and transported by plane to Switzerland before being released. The adults corrected their course and reached their usual wintering grounds. The young birds, on their first migration, simply continued in the same direction they'd been flying, and ended up in Spain. So first-time migrants seem to have an inherited direction and distance, but only experience gives them something like a map." },
+        { "s": "lec", "t": "I'll finish with a modern threat. Night migrants are strongly attracted to artificial light, and brightly lit buildings in cities cause enormous numbers of collisions every year. Some cities now run programmes in which owners of tall buildings agree to turn off unnecessary lights during the peak migration months, and volunteers walk the streets at dawn to rescue injured birds and record the numbers." },
+        { "s": "lec", "t": "For the tutorial, please read the paper on starling navigation, and think about whether the results would be the same for other species, particularly birds that migrate in large family groups rather than alone." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–40\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Bird migration and navigation",
+        "template": "Preparation\n• birds build up stores of {{q1}} before leaving\n• some shrink their digestive {{q2}} to save energy\n\nNavigation cues\n• Sun: birds need an internal {{q3}} to allow for the sun's movement\n• Stars: young birds raised in a {{q4}} learned the centre of the sky's rotation\n• Magnetic field: probably detected by molecules in the {{q5}}\n  – the idea that iron in the {{q6}} works as a compass is now rejected\n• {{q7}}: seabirds could not find their way home without it\n\nExperience\n• when moved to Switzerland, young starlings ended up in {{q8}}\n\nThreats\n• lights in cities lead to many {{q9}}\n• volunteers rescue injured birds at {{q10}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "note-completion", "answers": ["fat"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Birds store huge amounts of fat as fuel.", "evidence": "store huge amounts of fat, which is their fuel for the flight" },
+          { "id": "q2", "kind": "gap", "qtype": "note-completion", "answers": ["organs"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Some species reduce the size of their digestive organs.", "evidence": "reduce the size of their digestive organs" },
+          { "id": "q3", "kind": "gap", "qtype": "note-completion", "answers": ["clock"], "maxWords": 1, "allowNumber": false,
+            "explanation": "To use the moving sun, the bird needs an internal clock.", "evidence": "the bird needs an internal clock" },
+          { "id": "q4", "kind": "gap", "qtype": "note-completion", "answers": ["planetarium"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Young birds were raised inside a planetarium.", "evidence": "young birds were raised inside a planetarium" },
+          { "id": "q5", "kind": "gap", "qtype": "note-completion", "answers": ["eyes", "eye"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The leading theory: special molecules in the eyes react to the field.", "evidence": "special molecules in the eyes react to the magnetic field" },
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["beak"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The rival theory (iron particles in the beak) has largely been abandoned.", "evidence": "iron particles in the beak acted like a tiny compass" },
+          { "id": "q7", "kind": "gap", "qtype": "note-completion", "answers": ["smell"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Shearwaters with their sense of smell blocked couldn't find their way home.", "evidence": "had their sense of smell temporarily blocked, they were unable to find their way home" },
+          { "id": "q8", "kind": "gap", "qtype": "note-completion", "answers": ["Spain"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The young starlings kept the same direction and ended up in Spain; the adults corrected their course.", "evidence": "ended up in Spain" },
+          { "id": "q9", "kind": "gap", "qtype": "note-completion", "answers": ["collisions"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Brightly lit buildings cause enormous numbers of collisions.", "evidence": "cause enormous numbers of collisions every year" },
+          { "id": "q10", "kind": "gap", "qtype": "note-completion", "answers": ["dawn"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Volunteers walk the streets at dawn to rescue injured birds.", "evidence": "volunteers walk the streets at dawn to rescue injured birds" }
+        ]
+      }
+    ]
+  }
+]

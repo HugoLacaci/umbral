@@ -1,0 +1,96 @@
+[
+  {
+    "id": "ielts-l-m3-p1",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "part": 1,
+    "title": "Applying for an allotment",
+    "context": "You will hear a man phoning a council office to apply for an allotment, a small piece of land for growing vegetables.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Linda", "role": "Allotments officer", "gender": "f", "accent": "en-GB" },
+        { "id": "b", "name": "Daniel", "role": "Caller", "gender": "m", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good morning, Abbotsford Council allotments office, Linda speaking." },
+        { "s": "b", "t": "Oh, hello. I'm calling about getting an allotment. I've just moved to the area, and one of my neighbours told me there are some plots down by the river." },
+        { "s": "a", "t": "That's right, the Riverbank site. I can take your details now and put you on the waiting list. Could I have your name, please?" },
+        { "s": "b", "t": "Sure, it's Daniel Okafor. That's O-K-A-F-O-R." },
+        { "s": "a", "t": "Thank you. And your address, Daniel?" },
+        { "s": "b", "t": "It's 75 Hawthorn Road. Oh no, sorry, I keep doing that. It's 57. Five seven. We've only been there a couple of weeks." },
+        { "s": "a", "t": "No problem at all. 57 Hawthorn Road. And a contact number?" },
+        { "s": "b", "t": "My cell phone is best. It's 0 7 8 1 6 4 4 3 9 0 2." },
+        { "s": "a", "t": "Lovely. Now, we have two sizes of plot, full plots and half plots. Do you have a preference?" },
+        { "s": "b", "t": "Well, I was going to ask for a full one, but honestly, with my job I don't think I'd have the time to look after it. So I'll go for a half plot." },
+        { "s": "a", "t": "That's what most new people choose. And have you done any growing before?" },
+        { "s": "b", "t": "A little. In my last apartment we didn't have a yard, but there was a flat roof, so I kept a rooftop garden for about three years. Tomatoes, herbs, that kind of thing." },
+        { "s": "a", "t": "That's useful experience. Last question for the form. How did you hear about us? Was it the council website?" },
+        { "s": "b", "t": "I did look at the website afterwards, but actually I first read about it in the council newsletter that came through the door." },
+        { "s": "a", "t": "Great, that helps us know what's working. Right, you'll probably want to know about the costs." },
+        { "s": "b", "t": "Yes, please." },
+        { "s": "a", "t": "A full plot is ninety pounds a year, and a half plot is half that, so forty-five. But in the first year everyone also pays a fifteen-pound deposit for the gate key, which you get back when you give up the plot." },
+        { "s": "b", "t": "So sixty pounds to begin with. That's fine." },
+        { "s": "a", "t": "There are a few rules I should mention. You can put up a small shed, but you need to ask us first. Some people keep chickens, and that's allowed as long as the coop is at the back of the plot. What you can't do is have a bonfire. We had complaints from the houses across the river, so they've been completely banned since last spring." },
+        { "s": "b", "t": "Fair enough. And what about water? Can I use a hose?" },
+        { "s": "a", "t": "There are taps all around the site, and hosepipes are fine, although we do ask people to water in the evening rather than in the heat of the day." },
+        { "s": "b", "t": "And how long is the waiting list at the moment?" },
+        { "s": "a", "t": "For a full plot, I'm afraid it's well over a year. Half plots move much faster, because people often give them up after a single season. I'd say you're looking at about three months." },
+        { "s": "b", "t": "Oh, that's not bad at all. I was expecting much longer." },
+        { "s": "a", "t": "Now, there's a map of the whole site on the notice board by the main gate, so you can go and have a look at it any time. I'll email you a copy of the rules this afternoon, so you know exactly what to expect. And when a plot becomes free, we'll write to you with an invoice." },
+        { "s": "b", "t": "Perfect. Thanks very much for your help." },
+        { "s": "a", "t": "You're welcome, Daniel. Goodbye." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "form-completion",
+        "instructions": "Questions 1–6\nComplete the form below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Riverbank Allotments – Application form",
+        "template": "Name: Daniel {{q1}}\nAddress: {{q2}} Hawthorn Road\nPhone: {{q3}}\nPlot size requested: {{q4}} plot\nPrevious experience: kept a {{q5}} garden for three years\nHeard about the scheme in: council {{q6}}",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "form-completion", "answers": ["Okafor"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He spells his surname: O-K-A-F-O-R.", "evidence": "That's O-K-A-F-O-R." },
+          { "id": "q2", "kind": "gap", "qtype": "form-completion", "answers": ["57"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He first says 75 by mistake and corrects himself: 57.", "evidence": "It's 57. Five seven." },
+          { "id": "q3", "kind": "gap", "qtype": "form-completion", "answers": ["07816443902"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The cell phone number is read digit by digit: 0 7 8 1 6 4 4 3 9 0 2.", "evidence": "It's 0 7 8 1 6 4 4 3 9 0 2." },
+          { "id": "q4", "kind": "gap", "qtype": "form-completion", "answers": ["half"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He considered a full plot but chose a half plot because he lacks time.", "evidence": "So I'll go for a half plot." },
+          { "id": "q5", "kind": "gap", "qtype": "form-completion", "answers": ["rooftop", "roof-top", "roof"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He had no yard, but kept a rooftop garden on a flat roof.", "evidence": "so I kept a rooftop garden for about three years" },
+          { "id": "q6", "kind": "gap", "qtype": "form-completion", "answers": ["newsletter"], "maxWords": 1, "allowNumber": true,
+            "explanation": "He looked at the website afterwards, but he first read about it in the council newsletter.", "evidence": "I first read about it in the council newsletter" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "mcq",
+        "instructions": "Questions 7–10\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q7", "kind": "mcq", "qtype": "mcq", "prompt": "How much will Daniel pay in his first year?",
+            "options": ["£45", "£60", "£90"], "answer": 1,
+            "explanation": "A half plot costs £45, plus a £15 key deposit in the first year: £60 in total.",
+            "evidence": "So sixty pounds to begin with.",
+            "optionNotes": ["The rent alone, without the key deposit.", "Correct: £45 + £15 deposit.", "The price of a full plot."] },
+          { "id": "q8", "kind": "mcq", "qtype": "mcq", "prompt": "What is NOT allowed on the allotments?",
+            "options": ["bonfires", "keeping chickens", "using a hosepipe"], "answer": 0,
+            "explanation": "Bonfires have been banned after complaints. Chickens are allowed if the coop is at the back, and hosepipes are fine.",
+            "evidence": "What you can't do is have a bonfire.",
+            "optionNotes": ["Correct.", "Allowed, with the coop at the back of the plot.", "Allowed, preferably in the evening."] },
+          { "id": "q9", "kind": "mcq", "qtype": "mcq", "prompt": "How long will Daniel probably have to wait for a plot?",
+            "options": ["about two weeks", "about three months", "over a year"], "answer": 1,
+            "explanation": "Half plots become free faster: about three months. Over a year is the wait for a full plot; two weeks is how long he has lived there.",
+            "evidence": "I'd say you're looking at about three months.",
+            "optionNotes": ["How long he has lived on Hawthorn Road.", "Correct.", "The waiting time for a full plot."] },
+          { "id": "q10", "kind": "mcq", "qtype": "mcq", "prompt": "What will Linda send Daniel today?",
+            "options": ["a map of the site", "a copy of the rules", "an invoice"], "answer": 1,
+            "explanation": "She will email the rules this afternoon. The map is on the notice board, and the invoice comes only when a plot is free.",
+            "evidence": "I'll email you a copy of the rules this afternoon",
+            "optionNotes": ["The map is on the notice board by the gate.", "Correct.", "Sent later, when a plot becomes free."] }
+        ]
+      }
+    ]
+  }
+]

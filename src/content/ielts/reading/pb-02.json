@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ielts-r-pb-02",
+    "difficulty": "easy",
+    "usage": "practice",
+    "passageNo": 1,
+    "title": "Before Gutenberg",
+    "subtitle": "The early history of printing in East Asia",
+    "paragraphs": [
+      { "label": "A", "text": "When people think of the invention of printing, they often picture Johannes Gutenberg's workshop in fifteenth-century Germany. Yet printed texts were being produced in East Asia many centuries earlier. The story of these early technologies shows not only great inventiveness but also how the nature of a writing system can shape the way a technology develops. It also raises interesting questions about why an invention that appeared first in one part of the world had such different consequences elsewhere." },
+      { "label": "B", "text": "The first widespread method was woodblock printing, which appeared in China no later than the seventh century. A scribe wrote a page of text on thin paper, which was then pasted face down onto a smooth block of wood, usually pear or jujube. A carver cut away the wood around each character, leaving the text standing in relief. Ink was brushed onto the block, a sheet of paper was laid on top, and the printer rubbed the back of the sheet with a dry brush to transfer the image. Skilled workers could produce well over a thousand copies a day from a single block. Because a carved block reproduced whatever the scribe had written, woodblock printing could also reproduce illustrations, maps and elegant handwriting just as easily as plain text." },
+      { "label": "C", "text": "The oldest surviving printed book with a date is a copy of the Diamond Sutra, a Buddhist text, which was found in a cave near Dunhuang in western China. It is a scroll more than five metres long, and an inscription records that it was made in the year 868. Buddhism played an important role in the spread of printing, since believers gained religious merit by reproducing sacred texts. Even earlier, in the 760s, the Japanese Empress Shotoku had ordered the printing of one million short prayers, each placed inside a small wooden pagoda. Several of these pagodas, together with the prayers they contained, have survived to the present day, although historians still debate exactly how the prayers were printed." },
+      { "label": "D", "text": "Woodblocks had clear disadvantages. Every page required a new block, the blocks took up a great deal of storage space, and a single carving error could spoil an entire page. In the 1040s, a Chinese craftsman named Bi Sheng found a solution. According to the scholar Shen Kuo, who described the invention in his notebooks, Bi Sheng made individual characters from soft clay, hardened them in a fire, and arranged them on an iron plate coated with a mixture of resin and wax. When the plate was warmed, the mixture softened; when it cooled, the characters were held firmly in place. After printing, the plate was heated again and the characters could be removed and reused. Shen Kuo also noted that the method was only really efficient when large numbers of copies were required; for a handful of copies, it offered little advantage." },
+      { "label": "E", "text": "Later inventors experimented with other materials. Around 1300, an official called Wang Zhen had more than 60,000 characters carved in wood and designed revolving tables so that typesetters could reach them more easily: the characters were arranged according to a rhyme scheme, and one worker read out the text while another turned the table to find each character. In Korea, metal type became established. The earliest surviving book printed with movable metal type, a collection of Buddhist teachings known as the Jikji, was produced in 1377, almost eighty years before Gutenberg's Bible. Korean printers cast their type in bronze using moulds made of sand, a technique that required considerable skill in metalworking." },
+      { "label": "F", "text": "Despite these achievements, movable type did not replace woodblocks in China. The main reason lies in the writing system. Whereas a European printer needed only a few dozen letters, a Chinese printer needed many thousands of different characters, and several copies of the commonest ones. Preparing and sorting such a large collection was costly, and for many books it was simply cheaper to carve blocks. Woodblocks also had an advantage for small publishers: the blocks could be stored and used again years later whenever new copies were needed, whereas type had to be broken up after each job. In addition, many readers and collectors valued the appearance of block-printed books, whose characters preserved the style of a skilled calligrapher." },
+      { "label": "G", "text": "In Korea the situation was slightly different. In 1443, King Sejong introduced an alphabet, now called Hangul, consisting of a small number of letters. In principle this should have made movable type far more practical, but for centuries most official and scholarly works continued to be written in Chinese characters. The East Asian experience therefore suggests that an invention alone is not enough; whether it succeeds depends on the economic and cultural conditions in which it appears." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "table-completion",
+        "instructions": "Questions 1–5\nComplete the table below.\nChoose ONE WORD ONLY from the passage for each answer.",
+        "title": "Early printing technologies in East Asia",
+        "template": "| Technology | Key details |\n|---|---|\n| Woodblock printing | Blocks usually made of pear or {{q1}} wood; back of the paper rubbed with a dry {{q2}} |\n| Bi Sheng's movable type | Characters made from {{q3}}, then hardened in a fire; fixed to an iron plate with resin and {{q4}} |\n| Wang Zhen's movable type | Wooden characters on revolving tables, arranged according to a {{q5}} scheme |",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "table-completion", "answers": ["jujube"], "maxWords": 1,
+            "explanation": "Paragraph B: the paper was pasted onto 'a smooth block of wood, usually pear or jujube'.",
+            "evidence": "a smooth block of wood, usually pear or jujube" },
+          { "id": "q2", "kind": "gap", "qtype": "table-completion", "answers": ["brush"], "maxWords": 1,
+            "explanation": "'the printer rubbed the back of the sheet with a dry brush to transfer the image'. Note that ink was also 'brushed' on, but the noun needed is 'brush'.",
+            "evidence": "rubbed the back of the sheet with a dry brush" },
+          { "id": "q3", "kind": "gap", "qtype": "table-completion", "answers": ["clay"], "maxWords": 1,
+            "explanation": "Bi Sheng 'made individual characters from soft clay, hardened them in a fire'. 'Soft clay' would be two words; the limit is ONE WORD.",
+            "evidence": "Bi Sheng made individual characters from soft clay, hardened them in a fire" },
+          { "id": "q4", "kind": "gap", "qtype": "table-completion", "answers": ["wax"], "maxWords": 1,
+            "explanation": "The characters were arranged 'on an iron plate coated with a mixture of resin and wax'.",
+            "evidence": "an iron plate coated with a mixture of resin and wax" },
+          { "id": "q5", "kind": "gap", "qtype": "table-completion", "answers": ["rhyme"], "maxWords": 1,
+            "explanation": "In Wang Zhen's system 'the characters were arranged according to a rhyme scheme'.",
+            "evidence": "the characters were arranged according to a rhyme scheme" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-features",
+        "instructions": "Questions 6–9\nLook at the following statements (Questions 6–9) and the list of people below.\nMatch each statement with the correct person, A–E.\nNB You may use any letter more than once.",
+        "options": [
+          { "key": "A", "text": "Bi Sheng" },
+          { "key": "B", "text": "Shen Kuo" },
+          { "key": "C", "text": "Empress Shotoku" },
+          { "key": "D", "text": "Wang Zhen" },
+          { "key": "E", "text": "King Sejong" }
+        ],
+        "items": [
+          { "id": "q6", "kind": "match", "qtype": "matching-features", "prompt": "commissioned the production of a huge number of printed prayers", "answer": "C",
+            "explanation": "Empress Shotoku 'ordered the printing of one million short prayers'. 'Commissioned' paraphrases 'ordered'; 'a huge number' = 'one million'.",
+            "evidence": "the Japanese Empress Shotoku had ordered the printing of one million short prayers" },
+          { "id": "q7", "kind": "match", "qtype": "matching-features", "prompt": "left a written record explaining how another person's invention worked", "answer": "B",
+            "explanation": "Shen Kuo 'described the invention in his notebooks'. The invention itself belonged to Bi Sheng (A), so A is a trap.",
+            "evidence": "According to the scholar Shen Kuo, who described the invention in his notebooks" },
+          { "id": "q8", "kind": "match", "qtype": "matching-features", "prompt": "created a writing system with relatively few symbols", "answer": "E",
+            "explanation": "King Sejong 'introduced an alphabet, now called Hangul, consisting of a small number of letters'.",
+            "evidence": "King Sejong introduced an alphabet, now called Hangul, consisting of a small number of letters" },
+          { "id": "q9", "kind": "match", "qtype": "matching-features", "prompt": "devised a method in which two workers cooperated to find characters", "answer": "D",
+            "explanation": "Wang Zhen designed revolving tables: 'one worker read out the text while another turned the table to find each character'.",
+            "evidence": "one worker read out the text while another turned the table to find each character" }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "sentence-completion",
+        "instructions": "Questions 10–13\nComplete the sentences below.\nChoose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+        "items": [
+          { "id": "q10", "kind": "gap", "qtype": "sentence-completion", "prompt": "The dated copy of the Diamond Sutra was discovered in a ___ in western China.", "answers": ["cave"], "maxWords": 1, "allowNumber": true,
+            "explanation": "It 'was found in a cave near Dunhuang in western China'. 'Discovered' paraphrases 'found'.",
+            "evidence": "which was found in a cave near Dunhuang in western China" },
+          { "id": "q11", "kind": "gap", "qtype": "sentence-completion", "prompt": "Buddhists believed that copying holy texts earned them religious ___.", "answers": ["merit"], "maxWords": 1, "allowNumber": true,
+            "explanation": "'believers gained religious merit by reproducing sacred texts'. 'Holy' = 'sacred'; 'earned' = 'gained'.",
+            "evidence": "believers gained religious merit by reproducing sacred texts" },
+          { "id": "q12", "kind": "gap", "qtype": "sentence-completion", "prompt": "Unlike movable type, woodblocks could be ___ and printed from again years later.", "answers": ["stored"], "maxWords": 1, "allowNumber": true,
+            "explanation": "'the blocks could be stored and used again years later', whereas type 'had to be broken up after each job'.",
+            "evidence": "the blocks could be stored and used again years later" },
+          { "id": "q13", "kind": "gap", "qtype": "sentence-completion", "prompt": "The Jikji was printed nearly ___ years before Gutenberg's Bible.", "answers": ["eighty", "80"], "maxWords": 1, "allowNumber": true,
+            "explanation": "It was produced in 1377, 'almost eighty years before Gutenberg's Bible'. 'Nearly' = 'almost'.",
+            "evidence": "almost eighty years before Gutenberg's Bible" }
+        ]
+      }
+    ]
+  }
+]

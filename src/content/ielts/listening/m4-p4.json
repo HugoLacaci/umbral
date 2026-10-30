@@ -1,0 +1,195 @@
+[
+  {
+    "id": "ielts-l-m4-p4",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "part": 4,
+    "title": "Lichens and air quality",
+    "context": "You will hear part of an environmental science lecture about how lichens are used to monitor air pollution.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "lec",
+          "name": "Professor Dana Whitfield",
+          "role": "lecturer",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "lec",
+          "t": "Hello, everyone. Today, in our series on environmental monitoring, I want to talk about some of the most overlooked organisms around us, and how scientists use them to measure the quality of the air. I'm talking about lichens, those crusty, leafy or shrub-like growths you see on tree trunks, walls and gravestones."
+        },
+        {
+          "s": "lec",
+          "t": "First of all, what exactly is a lichen? It isn't a single organism. It's a partnership between a fungus and a partner that can photosynthesize, usually an alga. The fungus provides the structure, and the partner produces food from sunlight. What makes lichens so useful to environmental scientists is that they have no roots. Instead, they take in water and minerals directly from rain, mist and the air itself, across their whole surface. And they have no way of filtering what comes in. So whatever is in the atmosphere, including any contaminants, ends up concentrated in the lichen's tissues."
+        },
+        {
+          "s": "lec",
+          "t": "This sensitivity first became obvious during the Industrial Revolution. Naturalists in the nineteenth century noticed that lichens were vanishing from the centers of industrial cities such as Manchester and Paris. In the worst areas, there were none at all, and these zones came to be known as lichen deserts. As you move out from a city center, you'd find a few tough species first, then more and more as the air became cleaner."
+        },
+        {
+          "s": "lec",
+          "t": "We now know that the main cause was sulfur dioxide, which was released in huge quantities when coal was burned in factories and homes. Sulfur dioxide dissolves in moisture to form an acid, and this damages the alga inside the lichen, so it can no longer make food. Incidentally, this is linked to a famous story in biology. When pale lichens died off the trees around industrial towns, and the bark was darkened by soot, dark-colored moths were much harder for birds to spot than pale ones, and their numbers rose."
+        },
+        {
+          "s": "lec",
+          "t": "In nineteen seventy, two British researchers turned these observations into a practical tool. They produced a scale that linked particular groups of lichen species to particular levels of sulfur dioxide. That meant that someone with a hand lens and a good identification guide could estimate the pollution level in an area without any expensive equipment, simply by recording which lichens were growing there. It was a cheap method, and it was used in many school and community surveys."
+        },
+        {
+          "s": "lec",
+          "t": "What happened next is a genuine success story. Clean air laws in the second half of the twentieth century led to a dramatic fall in sulfur dioxide. And slowly, lichens have come back. Species that hadn't been recorded in some cities for over a century are now growing again on trees in city parks."
+        },
+        {
+          "s": "lec",
+          "t": "However, that doesn't mean the problem is solved. Today, the major concern is nitrogen. Some of it comes from vehicle exhaust, but a large proportion comes from agriculture, in the form of ammonia, which is released from animal manure and fertilizers. Nitrogen acts as a fertilizer for some lichens and harms others. So in many areas, the delicate, shrubby species are being replaced by a small number of nitrogen-loving species. Many of these are a bright orange color, so if you see tree branches covered in orange lichen, that's often a sign of high nitrogen levels nearby."
+        },
+        {
+          "s": "lec",
+          "t": "Before I finish, I want to mention two other ways in which lichens have helped scientists. Some lichens grow at a very slow but steady rate, perhaps a millimeter or less per year. Because of this, geologists can measure the size of the largest lichens on a rock surface to estimate how long ago that surface was exposed. This has been used to date things like the movement of glaciers over the past few hundred years."
+        },
+        {
+          "s": "lec",
+          "t": "The second example is less positive. After the nuclear accident at Chernobyl in nineteen eighty-six, radioactive particles were carried across northern Europe. Lichens absorbed these particles very efficiently, and in winter lichens are the main food of reindeer. As a result, the radioactive material passed into the reindeer, and many animals in parts of Scandinavia had to be destroyed because their meat wasn't safe to eat."
+        },
+        {
+          "s": "lec",
+          "t": "So, lichens are both a warning system and a historical record. In the next session, we'll look at how mosses are being used in a similar way to monitor heavy metals."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–40\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Lichens and air quality",
+        "template": "What lichens are\n• a partnership between a fungus and (usually) an alga\n• they lack {{q31}}, so they absorb water and minerals from the air\n• this means they also accumulate {{q32}}\n\nHistory\n• 19th century: areas of cities without lichens were called lichen {{q33}}\n• main cause: sulfur dioxide from burning {{q34}}\n• 1970: researchers developed a {{q35}} linking species to pollution levels\n• after clean air laws, lichens have returned to trees in city {{q36}}\n\nPresent concerns\n• nitrogen from agriculture, especially {{q37}}\n• nitrogen-loving species are often bright {{q38}}\n\nOther uses\n• dating rock surfaces, because some lichens grow at a slow, steady {{q39}}\n• after Chernobyl, radioactive material passed from lichens to {{q40}}",
+        "items": [
+          {
+            "id": "q31",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "roots"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Lichens \"have no roots\", so they take in water and minerals from rain, mist and the air.",
+            "evidence": "they have no roots"
+          },
+          {
+            "id": "q32",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "contaminants"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Whatever is in the atmosphere, including contaminants, is concentrated in their tissues.",
+            "evidence": "including any contaminants, ends up concentrated"
+          },
+          {
+            "id": "q33",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "deserts"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Zones with no lichens were known as lichen deserts.",
+            "evidence": "these zones came to be known as lichen deserts"
+          },
+          {
+            "id": "q34",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "coal"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Sulfur dioxide was released when coal was burned in factories and homes.",
+            "evidence": "when coal was burned in factories and homes"
+          },
+          {
+            "id": "q35",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "scale"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Two researchers produced a scale linking lichen groups to sulfur dioxide levels.",
+            "evidence": "They produced a scale that linked particular groups of lichen species"
+          },
+          {
+            "id": "q36",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "parks"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Lost species are now growing again on trees in city parks.",
+            "evidence": "growing again on trees in city parks"
+          },
+          {
+            "id": "q37",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "ammonia"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Much nitrogen comes from agriculture in the form of ammonia. Vehicle exhaust is a smaller source.",
+            "evidence": "in the form of ammonia"
+          },
+          {
+            "id": "q38",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "orange"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Many nitrogen-loving species are a bright orange color.",
+            "evidence": "Many of these are a bright orange color"
+          },
+          {
+            "id": "q39",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "rate"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Some lichens grow at a very slow but steady rate.",
+            "evidence": "grow at a very slow but steady rate"
+          },
+          {
+            "id": "q40",
+            "kind": "gap",
+            "qtype": "note-completion",
+            "answers": [
+              "reindeer"
+            ],
+            "maxWords": 1,
+            "allowNumber": false,
+            "explanation": "Lichens are the main winter food of reindeer, so the radioactive material passed into them.",
+            "evidence": "the radioactive material passed into the reindeer"
+          }
+        ]
+      }
+    ]
+  }
+]

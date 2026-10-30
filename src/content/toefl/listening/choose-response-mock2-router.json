@@ -1,0 +1,90 @@
+[
+  {
+    "id": "toefl-cr-m2-router-1", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "choose-response", "title": "Choosing an apartment",
+    "audio": { "speakers": [{ "id": "s1", "name": "Sienna", "gender": "f", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Have you decided which apartment you're going to rent?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I paid the rent on Monday.", "Yes, I decided to come today.", "The one near the park. It's a bit pricier, but quieter.", "Both apartments have two bedrooms."],
+      "answer": 2,
+      "optionNotes": ["Repeats 'rent' but about a past payment.", "Repeats 'decided' about something else.", "Correct: identifies which apartment and why.", "Describes the apartments but doesn't say which one."],
+      "explanation": "'Which apartment' needs a choice. C chooses one and gives a reason."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-router-2", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "choose-response", "title": "Winter break plans",
+    "audio": { "speakers": [{ "id": "s1", "name": "Austin", "gender": "m", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "When are you heading home for winter break?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I'm driving with my brother.", "Right after my last exam on the fifteenth.", "Home is about six hours away.", "I broke my arm last winter."],
+      "answer": 1,
+      "optionNotes": ["Answers 'how' or 'with whom'.", "Correct: gives a time.", "Answers 'how far'.", "Plays on 'break/broke' and 'winter'."],
+      "explanation": "'When' needs a time: B."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-router-3", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "choose-response", "title": "Moving boxes",
+    "audio": { "speakers": [{ "id": "s1", "name": "Poppy", "gender": "f", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "Could you help me move some boxes on Saturday?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I could, but only in the morning.", "I moved here on a Saturday.", "The boxes are in the storage room.", "I helped myself to some cake."],
+      "answer": 0,
+      "optionNotes": ["Correct: accepts with a condition.", "Repeats 'move' and 'Saturday' in the past.", "Says where the boxes are, which the speaker already knows.", "Repeats 'help' in a fixed expression with another meaning."],
+      "explanation": "A request for help. A agrees and sets a time limit, a natural reply."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-router-4", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "choose-response", "title": "Empty parking lot",
+    "audio": { "speakers": [{ "id": "s1", "name": "Logan", "gender": "m", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "Why is the parking lot so empty today?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It's a lot bigger than the other one.", "I parked near the gym.", "Most people are away for the long weekend.", "Because I emptied my bag."],
+      "answer": 2,
+      "optionNotes": ["Plays on 'lot'.", "Says where the listener parked, not why the lot is empty.", "Correct: gives a believable reason.", "Starts with 'because' but the reason is nonsense."],
+      "explanation": "'Why' needs a reason. C explains the empty lot."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-router-5", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "choose-response", "title": "Choosing a paper topic",
+    "audio": { "speakers": [{ "id": "s1", "name": "Morgan", "gender": "f", "accent": "en-US" }], "lines": [{ "s": "s1", "t": "I'm not sure which of these two topics to choose for my paper." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["The paper's in the printer tray.", "I chose that topic last year.", "Two papers are due next week.", "Which one do you have more sources for?"],
+      "answer": 3,
+      "optionNotes": ["Uses 'paper' to mean a sheet of paper.", "Talks about the listener's past choice, not the speaker's problem.", "Repeats 'two' and 'paper'.", "Correct: helps the speaker decide with a useful question."],
+      "explanation": "The speaker indirectly asks for advice. D helps by asking a question that could guide the decision."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-router-6", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "choose-response", "title": "Missing package",
+    "audio": { "speakers": [{ "id": "s1", "name": "Riley", "gender": "m", "accent": "en-AU" }], "lines": [{ "s": "s1", "t": "Has the package I ordered arrived yet?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["I ordered pizza for dinner.", "Not yet. Maybe check the tracking number?", "The post office is on Elm Street.", "I'll pack it tonight."],
+      "answer": 1,
+      "optionNotes": ["Repeats 'ordered' about something else.", "Correct: answers and makes a suggestion.", "Gives a location, not an answer.", "Plays on 'package/pack'."],
+      "explanation": "A yes/no question about a delivery. B answers 'not yet' and gives useful advice."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-router-7", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "choose-response", "title": "Guest speaker",
+    "audio": { "speakers": [{ "id": "s1", "name": "Hailey", "gender": "f", "accent": "en-CA" }], "lines": [{ "s": "s1", "t": "What did you think of the guest speaker?" }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["She's speaking again next Tuesday.", "I thought she'd be here at three.", "She was inspiring, though she went on a bit long.", "I'm a guest speaker too."],
+      "answer": 2,
+      "optionNotes": ["Gives a future date, not an opinion.", "Repeats 'thought' but not as an opinion of the talk.", "Correct: gives an opinion.", "Repeats 'guest speaker' about oneself."],
+      "explanation": "'What did you think of' asks for an opinion. C gives one."
+    }]
+  },
+  {
+    "id": "toefl-cr-m2-router-8", "difficulty": "medium", "usage": "mock", "mock": 2, "module": "router", "task": "choose-response", "title": "Dorm heating",
+    "audio": { "speakers": [{ "id": "s1", "name": "Edward", "gender": "m", "accent": "en-GB" }], "lines": [{ "s": "s1", "t": "The heating in our dorm still hasn't been fixed." }] },
+    "questions": [{
+      "id": "q1", "kind": "mcq", "qtype": "cr-response", "prompt": "Choose the best response.",
+      "options": ["It's still in the dorm, I think.", "I fixed my bike last week.", "It's quite hot today.", "Have you reported it to the housing office?"],
+      "answer": 3,
+      "optionNotes": ["Repeats 'still' and 'dorm'.", "Repeats 'fixed' about something else.", "Plays on 'heating/hot'.", "Correct: suggests a way to solve the problem."],
+      "explanation": "The speaker complains about a problem. D responds with a helpful suggestion."
+    }]
+  }
+]

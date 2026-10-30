@@ -1,0 +1,184 @@
+[
+  {
+    "id": "ielts-p1-01",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Hometown",
+    "questions": [
+      "Where is your hometown?",
+      "What do you like most about your hometown?",
+      "Has your hometown changed much since you were a child?",
+      "Would you like to live there in the future?"
+    ],
+    "sampleAnswers": [
+      "I'm from a medium-sized city in the north of Spain, about an hour's drive from the coast. It's not particularly famous, but it's surrounded by green hills, so it's a lovely place if you like being outdoors.",
+      "I'd say it's the pace of life. Things are quite relaxed, people actually stop to chat in the street, and you can walk almost everywhere. Compared with a big capital, it feels much less stressful.",
+      "Yes, quite a lot, actually. The old town centre has been pedestrianised, so it's much more pleasant to walk around, but on the downside a lot of the small family shops I remember have been replaced by chain stores.",
+      "Possibly, but probably not until later in life. At the moment there aren't many job opportunities in my field there, so I'd rather gain some experience in a bigger city first and maybe move back when I want to settle down."
+    ]
+  },
+  {
+    "id": "ielts-p1-02",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Work or studies",
+    "questions": [
+      "Do you work or are you a student?",
+      "Why did you choose that subject or job?",
+      "What do you find most challenging about it?",
+      "What would you like to do in the future?"
+    ],
+    "sampleAnswers": [
+      "I'm a full-time student at the moment. I'm in the third year of a degree in environmental engineering, so I spend most of my week either in lectures or in the lab.",
+      "I've always been fascinated by how cities deal with water and waste, and I was quite good at maths and science at school. So this degree seemed like a practical way to combine my interests with something that actually helps society.",
+      "Probably the workload. There are weeks when we have several lab reports due at the same time, and juggling those with exams can be quite overwhelming. I've had to become much better at planning ahead.",
+      "Ideally, I'd like to work for a public agency designing water treatment systems. Further down the line, I might do a master's degree abroad, because I think living in another country would broaden my perspective."
+    ]
+  },
+  {
+    "id": "ielts-p1-03",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Accommodation",
+    "questions": [
+      "Do you live in a house or an apartment?",
+      "What's your favourite room in your home? Why?",
+      "Is there anything you would like to change about your home?",
+      "Do you plan to live there for a long time?"
+    ],
+    "sampleAnswers": [
+      "I live in a fairly small apartment on the fourth floor of an older building. I share it with two friends from university, which keeps the rent manageable.",
+      "Definitely the living room. It gets loads of natural light in the afternoon, and it's where the three of us usually end up cooking, chatting or watching films together, so it feels like the heart of the flat.",
+      "If I could, I'd add a balcony. In summer it gets really hot inside and it would be nice to have somewhere to sit outside. Better soundproofing would also be welcome, because the street can be noisy at night.",
+      "Probably not. It's perfect for this stage of my life, but once I finish my studies and start working, I'd like a place of my own, maybe somewhere a bit quieter."
+    ]
+  },
+  {
+    "id": "ielts-p1-04",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Hobbies and free time",
+    "questions": [
+      "What do you like to do in your free time?",
+      "Did you have the same hobbies when you were a child?",
+      "Do you prefer to spend your free time alone or with others?",
+      "Is there a new hobby you would like to try?"
+    ],
+    "sampleAnswers": [
+      "I'm really into hiking, so whenever I get a free weekend I try to head to the mountains. On weekday evenings I tend to do something more low-key, like reading or playing the guitar, although I'm not very good at it.",
+      "Not really. As a kid I was obsessed with video games and football, and I couldn't have imagined walking for six hours for fun. I think I only got into hiking when a friend dragged me along on a trip during my first year at university.",
+      "It depends on my mood. I enjoy hiking with friends because the conversation makes the time fly, but I also value having a quiet evening by myself to recharge, especially after a busy week.",
+      "I've been thinking about learning to rock climb. There's an indoor climbing centre near my place, and it looks like a great workout that also requires a lot of problem-solving, which appeals to me."
+    ]
+  },
+  {
+    "id": "ielts-p1-05",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Weather",
+    "questions": [
+      "What's the weather usually like where you live?",
+      "What kind of weather do you like best?",
+      "Does the weather affect your mood?",
+      "Do you check the weather forecast often?"
+    ],
+    "sampleAnswers": [
+      "It's quite mild most of the year. Summers are warm without being unbearably hot, and winters are fairly rainy but rarely freezing, so we don't really get snow except in the mountains.",
+      "I love those crisp, sunny days in autumn, when it's cool enough to wear a jacket but the sky is completely clear. It's perfect weather for walking around the city or going for a bike ride.",
+      "Yes, I'd say so. After a week of grey, rainy days I tend to feel a bit sluggish and unmotivated, whereas a bit of sunshine instantly lifts my spirits and makes me want to go out.",
+      "Pretty much every morning, actually. I cycle to university, so I need to know whether to take a raincoat. It's just a quick glance at the app on my phone, but it's saved me from getting soaked more than once."
+    ]
+  },
+  {
+    "id": "ielts-p1-06",
+    "difficulty": "easy",
+    "usage": "practice",
+    "topic": "Food",
+    "questions": [
+      "What kind of food do you like?",
+      "Do you prefer eating at home or eating out?",
+      "Is there any food you didn't like as a child but like now?",
+      "Do you think people in your country eat healthily?"
+    ],
+    "sampleAnswers": [
+      "I'm a big fan of anything with lots of vegetables and spices. Indian and Mexican food are probably my favourites, but I also love the simple Mediterranean dishes I grew up with, like grilled fish with salad.",
+      "Mostly at home, partly because it's cheaper and partly because I actually enjoy cooking. That said, going out for dinner with friends once a week or so is one of my favourite ways to catch up.",
+      "Yes, mushrooms! As a kid I used to pick them out of everything because of the texture. Now I absolutely love them, especially in risotto. I suppose our tastes just change as we get older.",
+      "To some extent. The traditional diet is quite healthy, with lots of olive oil, vegetables and fish. But I think younger people are eating more processed food and takeaways these days, mainly because they're short of time."
+    ]
+  },
+  {
+    "id": "ielts-p1-07",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Music",
+    "questions": [
+      "What kind of music do you enjoy listening to?",
+      "When do you usually listen to music?",
+      "Have you ever learned to play a musical instrument?",
+      "Do you think children should learn music at school?",
+      "Do you prefer listening to live music or recorded music?"
+    ],
+    "sampleAnswers": [
+      "My taste is fairly eclectic, but I mostly listen to indie rock and a bit of jazz. I'm not really into mainstream pop, although I'll admit that some catchy songs get stuck in my head anyway.",
+      "Mainly when I'm commuting or exercising. Having music on makes a long bus ride or a run go by much faster. I can't listen to anything with lyrics while I'm studying, though, because it distracts me.",
+      "I had piano lessons for about five years when I was younger. I gave up as a teenager because I found the practice boring, which I really regret now, because I've forgotten almost everything.",
+      "Yes, I think so. Apart from being enjoyable, learning music teaches children patience and discipline, and some studies suggest it helps with things like memory and concentration. It also gives kids who aren't academic a chance to shine.",
+      "Live music, definitely, although I can't afford to go very often. There's an energy at a concert that you simply can't get from headphones, especially when the whole crowd is singing along."
+    ]
+  },
+  {
+    "id": "ielts-p1-08",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Transport",
+    "questions": [
+      "How do you usually travel to work or school?",
+      "Is public transport good in your city?",
+      "Did you use the same kind of transport when you were younger?",
+      "What do you think transport will be like in the future?"
+    ],
+    "sampleAnswers": [
+      "I usually cycle. It takes about twenty minutes, which is roughly the same as the bus, but it's free and it means I get some exercise built into my day without having to go to the gym.",
+      "It's reasonably good. The buses are frequent during the day and there's a tram line that runs right through the centre. The main drawback is that services are quite limited late at night and on Sundays.",
+      "Not really. When I was a kid my parents drove me to school every day, because we lived on the outskirts and there wasn't a convenient bus. I only started using public transport regularly when I moved to the city.",
+      "I imagine cities will be much less car-dependent. There'll probably be more electric buses, shared bikes and scooters, and maybe even self-driving taxis, although I suspect that will take longer than people predict."
+    ]
+  },
+  {
+    "id": "ielts-p1-09",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Reading",
+    "questions": [
+      "Do you like reading?",
+      "What kinds of things do you read?",
+      "Did you read a lot when you were a child?",
+      "Do you prefer e-books or paper books?"
+    ],
+    "sampleAnswers": [
+      "Yes, I do, although I don't read as much as I'd like to. During term time, most of my reading is for my course, so reading for pleasure tends to happen mainly during the holidays.",
+      "A mixture of things. I enjoy crime novels because they're gripping, and I also read quite a lot of non-fiction about history and psychology. Every day I skim the news on my phone, too.",
+      "Yes, loads. My parents took me to the local library every Saturday, and I'd come home with a pile of adventure stories. I think that habit is the main reason I still enjoy reading now.",
+      "I prefer paper books, mostly because I spend so much time staring at screens already. There's something satisfying about turning the pages. But I have to admit e-books are much more practical when I'm travelling."
+    ]
+  },
+  {
+    "id": "ielts-p1-10",
+    "difficulty": "medium",
+    "usage": "practice",
+    "topic": "Sport",
+    "questions": [
+      "Do you play any sports?",
+      "What sports are popular in your country?",
+      "Did you do much sport at school?",
+      "Do you prefer watching sport or playing it?"
+    ],
+    "sampleAnswers": [
+      "I play basketball with a group of friends once a week, and I go swimming whenever I can fit it in. I'm not particularly competitive, so for me it's more about staying fit and having fun.",
+      "Football is by far the most popular, it's almost a religion for some people. Basketball and tennis are also big, and cycling has become really fashionable in the last few years.",
+      "Quite a bit. We had PE twice a week and I was on the school volleyball team for a couple of years. Looking back, I think those team sports taught me a lot about cooperating with others.",
+      "Definitely playing. I find watching sport on TV a bit dull unless it's a really important match. Playing is much more engaging, and I always feel better afterwards."
+    ]
+  }
+]

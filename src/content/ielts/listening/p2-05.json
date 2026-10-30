@@ -1,0 +1,94 @@
+[
+  {
+    "id": "ielts-l-p2-05",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 2,
+    "title": "Launching a city bike-share scheme",
+    "context": "You will hear a council officer talking at a community meeting about a new bike-share scheme.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Tane", "role": "Council transport officer", "gender": "m", "accent": "en-NZ" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Evening, everyone. Thanks for coming along. My name's Tane, and I work in the council's transport team. I'm here tonight to tell you about Harbourton Bike Share, which launches on the first of next month, and to explain how it's going to work." },
+        { "s": "a", "t": "Let's start with the bikes themselves. When we first announced the scheme, we said there'd be five hundred bikes on the streets from day one. Unfortunately, there have been delays with our supplier overseas, so we'll be launching with three hundred and fifty, and the rest should arrive before Christmas. About a third of them will be electric." },
+        { "s": "a", "t": "As for prices, you can pay as you go, at two dollars for every half hour. But if you're going to ride regularly, an annual membership is much better value. That costs eighty-five dollars a year. Students and pensioners get a concession rate of sixty dollars, and we were hoping to bring the full price down to the same level, but the council's budget wouldn't stretch that far." },
+        { "s": "a", "t": "People often ask how the return system works. Some cities let you leave a bike anywhere you like, and we did look at that option, but there were too many complaints overseas about bikes blocking footpaths. So in Harbourton, the bikes have to be returned to a docking station. But it doesn't need to be the one you started from. You can leave it at any of our forty stations around the city." },
+        { "s": "a", "t": "Now, the electric bikes. We've chosen a model with some really useful features. First, each one has a basket on the front with a lock, so you can leave your shopping in it safely while you pop into a shop. Second, the lights switch on automatically as soon as it starts to get dark, so you don't have to remember. There isn't a screen with GPS, I'm afraid, though you can use your own phone for navigation, and there's no charger for your phone, which a lot of people have asked about. The seats are adjustable, of course, but that's true of all our bikes." },
+        { "s": "a", "t": "Finally, I'd like to say a few words about the main routes we've been working on. First, the Waterfront Loop. That's the flattest route in the city, and it's completely off-road, so it's ideal if you're new to cycling, or a bit out of practice." },
+        { "s": "a", "t": "Hill Road is a different story. It's a good direct route to the hospital, but there's a very steep section near the top, so you might want to use an electric bike for that one." },
+        { "s": "a", "t": "The Rail Trail follows the old railway line out to the suburbs. It's lovely, but I'm sorry to say it's closed at the moment, because a bridge needs repairing. We expect it to reopen in the spring." },
+        { "s": "a", "t": "The University Link was busy with cars, so we've added a concrete barrier along the whole length, which separates cyclists from traffic completely. Students tell us they feel much safer now." },
+        { "s": "a", "t": "And lastly, Market Street. It's the shortest way into the city centre, but please be careful there. The cycle lane is shared with buses, so keep an eye out for them pulling in to the bus stops. Okay, I'll take some questions now." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 11–13\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q11", "kind": "mcq", "qtype": "mcq", "prompt": "How many bikes will be available when the scheme launches?",
+            "options": ["three hundred and fifty", "four hundred", "five hundred"], "answer": 0,
+            "explanation": "Five hundred was the original promise, but supplier delays mean the launch will have three hundred and fifty.",
+            "evidence": "so we'll be launching with three hundred and fifty",
+            "optionNotes": ["Correct.", "Not mentioned.", "The original plan, but it changed."] },
+          { "id": "q12", "kind": "mcq", "qtype": "mcq", "prompt": "An annual membership for most adults costs",
+            "options": ["sixty dollars.", "eighty-five dollars.", "one hundred and twenty dollars."], "answer": 1,
+            "explanation": "The full annual price is eighty-five dollars. Sixty dollars is only for students and pensioners.",
+            "evidence": "That costs eighty-five dollars a year.",
+            "optionNotes": ["The concession rate only.", "Correct.", "Not mentioned."] },
+          { "id": "q13", "kind": "mcq", "qtype": "mcq", "prompt": "Users can return a bike",
+            "options": ["anywhere in the city.", "only to the station where they hired it.", "to any docking station."], "answer": 2,
+            "explanation": "Leaving bikes anywhere was rejected; they must go to a docking station, but it can be any of the forty.",
+            "evidence": "You can leave it at any of our forty stations around the city.",
+            "optionNotes": ["Considered but rejected because of complaints about blocked footpaths.", "It doesn't need to be the starting station.", "Correct."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "multi",
+        "instructions": "Questions 14 and 15\nChoose TWO letters, A–E.",
+        "items": [
+          { "id": "q14", "kind": "multi", "qtype": "multi", "prompt": "Which TWO features of the electric bikes does Tane mention?",
+            "options": ["a screen with GPS", "a phone charger", "a basket that can be locked", "lights that switch on automatically", "a seat that only electric bikes have"], "answers": [2, 3],
+            "explanation": "He describes a lockable basket and automatic lights. There is no GPS screen or phone charger, and adjustable seats are on all bikes.",
+            "evidence": "each one has a basket on the front with a lock",
+            "optionNotes": ["There isn't one.", "There isn't one, although people have asked.", "Correct.", "Correct.", "Adjustable seats are on all the bikes, not just the electric ones."] }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching",
+        "instructions": "Questions 16–20\nWhat does Tane say about each cycle route?\nChoose FIVE answers from the box and write the correct letter, A–G, next to Questions 16–20.",
+        "options": [
+          { "key": "A", "text": "It is currently closed." },
+          { "key": "B", "text": "It is good for beginners." },
+          { "key": "C", "text": "It has a steep part." },
+          { "key": "D", "text": "Cyclists share it with buses." },
+          { "key": "E", "text": "It has lighting at night." },
+          { "key": "F", "text": "There is a place to buy refreshments." },
+          { "key": "G", "text": "Cyclists are protected by a barrier." }
+        ],
+        "items": [
+          { "id": "q16", "kind": "match", "qtype": "matching", "prompt": "Waterfront Loop", "answer": "B",
+            "explanation": "Flat and off-road, ideal for people who are new to cycling.",
+            "evidence": "it's ideal if you're new to cycling" },
+          { "id": "q17", "kind": "match", "qtype": "matching", "prompt": "Hill Road", "answer": "C",
+            "explanation": "There is a very steep section near the top.",
+            "evidence": "there's a very steep section near the top" },
+          { "id": "q18", "kind": "match", "qtype": "matching", "prompt": "Rail Trail", "answer": "A",
+            "explanation": "It is closed at the moment for bridge repairs.",
+            "evidence": "it's closed at the moment, because a bridge needs repairing" },
+          { "id": "q19", "kind": "match", "qtype": "matching", "prompt": "University Link", "answer": "G",
+            "explanation": "A concrete barrier separates cyclists from traffic.",
+            "evidence": "we've added a concrete barrier along the whole length" },
+          { "id": "q20", "kind": "match", "qtype": "matching", "prompt": "Market Street", "answer": "D",
+            "explanation": "The cycle lane is shared with buses.",
+            "evidence": "The cycle lane is shared with buses" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "toefl-repeat-m3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "context": "You have a new job as a student assistant at the university career center. Listen to the center's director and repeat what he says.",
+    "visual": "A bright office with a reception desk, a wall of job advertisements and two small rooms with glass doors for interviews.",
+    "speaker": {
+      "id": "car",
+      "name": "Mr. James Holloway",
+      "role": "Career center director",
+      "gender": "m",
+      "accent": "en-CA"
+    },
+    "sentences": [
+      "Welcome to the career center.",
+      "Students can book appointments online.",
+      "Please greet every visitor at the front desk.",
+      "The job board on that wall is updated every Monday morning.",
+      "Our advisors can review résumés and help students prepare for interviews.",
+      "If a student arrives without an appointment, check whether an advisor is free before sending them away.",
+      "The two small rooms with glass doors are reserved for practice interviews and should not be used for meetings."
+    ]
+  },
+  {
+    "id": "toefl-repeat-m4",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "context": "You are training to lead tours of the university's sports stadium. Listen to the tour manager and repeat what she says.",
+    "visual": "An empty stadium with a green field, rows of blue seats and a large screen above one end of the field.",
+    "speaker": {
+      "id": "sta",
+      "name": "Ms. Kiri Walker",
+      "role": "Stadium tour manager",
+      "gender": "f",
+      "accent": "en-NZ"
+    },
+    "sentences": [
+      "Tours begin at the main gate.",
+      "Visitors may not walk on the grass.",
+      "The stadium was completely renovated three years ago.",
+      "It can hold more than forty thousand fans on game days.",
+      "The large screen above the field shows replays and messages from our sponsors.",
+      "At the end of the tour, guests can visit the locker rooms where the players prepare before each match.",
+      "Remind everyone to stay with the group, because some areas of the building are closed to the public for safety reasons."
+    ]
+  }
+]

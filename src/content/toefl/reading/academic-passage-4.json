@@ -1,0 +1,704 @@
+[
+  {
+    "id": "toefl-ap-m1-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "module": "router",
+    "task": "academic-passage",
+    "title": "From Teosinte to Maize",
+    "text": "Maize, one of the world's most important crops, looks very different from its wild ancestor. That ancestor, a grass called teosinte that still grows in southern Mexico, produces small ears containing only five to twelve kernels, each enclosed in a hard case that protects it from being digested by animals. A single maize cob, by contrast, can hold several hundred exposed kernels. For many years, the difference was so great that some botanists doubted that teosinte could be the ancestor at all.\n\nGenetic studies have since settled the question. They show that maize was domesticated from teosinte roughly 9,000 years ago in the Balsas River valley of Mexico. Remarkably, many of the most visible changes are controlled by a small number of genes. A change in one gene, for instance, exposed the kernels by reducing the hard case around them, making the grain far easier to eat. Early farmers, by repeatedly planting seeds from the plants they preferred, gradually increased the frequency of such traits.\n\nDomesticated maize also lost the ability to spread on its own. Because its kernels remain firmly attached to the cob and are wrapped in husks, the plant cannot scatter its seeds. Maize therefore depends entirely on human beings for its survival, a striking example of how domestication can create mutual dependence between people and the species they cultivate.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "Why teosinte is more nutritious than maize",
+          "Why early farmers were unable to change wild plants",
+          "Why maize was first grown in South America",
+          "How maize was domesticated from teosinte, which changed the plant greatly and made it dependent on humans"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not mentioned: nutrition is not compared.",
+          "Contradicted: farmers gradually increased the frequency of the traits they preferred.",
+          "Contradicted: domestication took place in Mexico.",
+          "Correct: the passage covers the difference between the plants, the genetic evidence for domestication, and maize's dependence on people."
+        ],
+        "explanation": "Paragraph 1 describes the puzzle, paragraph 2 gives the genetic answer, and paragraph 3 describes one consequence of domestication.",
+        "evidence": "They show that maize was domesticated from teosinte roughly 9,000 years ago in the Balsas River valley of Mexico."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, what is one feature of teosinte?",
+        "options": [
+          "Each of its kernels is enclosed in a hard case.",
+          "Each ear holds several hundred kernels.",
+          "It no longer grows in the wild.",
+          "It is wrapped in husks that prevent it from spreading."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the hard case protects each kernel from being digested by animals.",
+          "Distorted: that describes a maize cob; teosinte has only five to twelve kernels.",
+          "Contradicted: teosinte still grows in southern Mexico.",
+          "Distorted: husks are a feature of domesticated maize (paragraph 3)."
+        ],
+        "explanation": "Paragraph 1 describes teosinte as having small ears of five to twelve kernels, each in a hard case.",
+        "evidence": "each enclosed in a hard case that protects it from being digested by animals"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"them\" in the phrase \"reducing the hard case around them\" refers to",
+        "options": [
+          "genes",
+          "visible changes",
+          "early farmers",
+          "the kernels"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Genes do not have a hard case around them.",
+          "Changes are not physical objects with cases.",
+          "Farmers are mentioned only in the next sentence.",
+          "Correct: the gene change exposed the kernels by reducing the case around the kernels."
+        ],
+        "explanation": "The case is around the kernels, as paragraph 1 explained; reducing it exposed the kernels.",
+        "evidence": "exposed the kernels by reducing the hard case around them"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"settled\" in the passage is closest in meaning to",
+        "options": [
+          "raised",
+          "resolved",
+          "complicated",
+          "ignored"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Opposite: the question had already been raised; the studies answered it.",
+          "Correct: genetic studies resolved the doubt about maize's ancestor.",
+          "Opposite: the studies gave a clear answer.",
+          "Not the meaning; the studies addressed the question directly."
+        ],
+        "explanation": "After botanists' doubts, the studies \"show\" the answer, so the question has been resolved.",
+        "evidence": "Genetic studies have since settled the question."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 3 about a field of maize that farmers abandoned?",
+        "options": [
+          "It would spread quickly into nearby areas.",
+          "It would turn back into teosinte.",
+          "It would probably not continue to reproduce on its own for long.",
+          "It would produce more kernels each year."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Opposite: maize cannot scatter its seeds.",
+          "Not supported: nothing suggests domesticated maize could change back.",
+          "Correct: maize depends entirely on humans, since its seeds cannot be scattered.",
+          "Not supported by the passage."
+        ],
+        "explanation": "Without people to remove and plant the kernels, maize cannot spread its seeds, so an abandoned field would not survive for long.",
+        "evidence": "Maize therefore depends entirely on human beings for its survival"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-m1-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 1,
+    "module": "lower",
+    "task": "academic-passage",
+    "title": "How Camels Survive in the Desert",
+    "text": "Camels are famous for surviving in some of the hottest and driest places on Earth. Many people believe that a camel stores water in its hump, but this is not true. The hump is made mostly of fat. By keeping its fat in one place instead of spreading it under the skin over the whole body, a camel can release heat more easily. The fat can also be broken down for energy when food is hard to find.\n\nCamels have several ways of saving water. They produce very dry waste, and their kidneys make urine that is much more concentrated than human urine. A camel's body temperature can also rise by about six degrees Celsius during the day before it starts to sweat. This means that the animal loses less water through sweating. At night, its body cools down again.\n\nWhen water is available, camels make up for lost time. A thirsty camel can drink more than 100 liters in about ten minutes. Most animals would become ill if they drank so much so quickly, but a camel's red blood cells have an unusual oval shape and can swell without bursting as water rushes into the blood. Thanks to these features, camels can travel long distances across the desert, which is why people have depended on them for thousands of years.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "How camels store water in their humps",
+          "The physical features that help camels survive with little water",
+          "Why camels are the fastest animals in the desert",
+          "Why camels need to drink water every day"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Contradicted: the passage says this common belief is not true.",
+          "Correct: the passage describes the hump, ways of saving water, and how camels drink.",
+          "Not mentioned: speed is not discussed.",
+          "Opposite: camels are adapted to go long periods without water."
+        ],
+        "explanation": "Each paragraph describes features that allow camels to live in hot, dry places.",
+        "evidence": "Camels are famous for surviving in some of the hottest and driest places on Earth."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 1, what is a camel's hump made of mostly?",
+        "options": [
+          "water",
+          "muscle",
+          "fat",
+          "bone"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: the passage says the belief that the hump stores water is not true.",
+          "Not mentioned in the passage.",
+          "Correct: the hump is made mostly of fat.",
+          "Not mentioned in the passage."
+        ],
+        "explanation": "Paragraph 1 corrects the popular belief: the hump is mostly fat, which can be used for energy.",
+        "evidence": "The hump is made mostly of fat."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"concentrated\" in the passage is closest in meaning to",
+        "options": [
+          "warm",
+          "less watery",
+          "plentiful",
+          "colorful"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not the meaning; the sentence is about saving water, not temperature.",
+          "Correct: concentrated urine contains little water, which helps camels save water.",
+          "Opposite in context: camels save water, so they do not produce a lot of urine.",
+          "Not the meaning in this context."
+        ],
+        "explanation": "The paragraph is about saving water; concentrated urine has less water in it.",
+        "evidence": "their kidneys make urine that is much more concentrated than human urine"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that a camel's body temperature can rise by about six degrees?",
+        "options": [
+          "To show that camels often become ill in the heat",
+          "To compare the health of camels and humans",
+          "To describe how camels stay warm at night",
+          "To explain how camels reduce the amount of water they lose by sweating"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not stated: the rise in temperature is normal for camels.",
+          "No comparison with humans is made here.",
+          "Opposite: at night the camel's body cools down.",
+          "Correct: because the body heats up before sweating starts, the camel sweats less."
+        ],
+        "explanation": "The next sentence states the result: the animal loses less water through sweating.",
+        "evidence": "This means that the animal loses less water through sweating."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What can be inferred from paragraph 3 about most animals?",
+        "options": [
+          "Their red blood cells could be harmed if they drank a very large amount of water very quickly.",
+          "They can drink 100 liters of water in ten minutes.",
+          "Their red blood cells have an oval shape.",
+          "They do not need water to survive in the desert."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: most animals would become ill, while camels are protected because their cells can swell without bursting.",
+          "Contradicted: this is presented as a special ability of camels.",
+          "Contradicted: the oval shape is described as unusual.",
+          "Not supported by the passage."
+        ],
+        "explanation": "The contrast (\"but a camel's red blood cells…\") implies that other animals' blood cells lack this protection and could be damaged.",
+        "evidence": "Most animals would become ill if they drank so much so quickly"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-m1-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 1,
+    "module": "upper",
+    "task": "academic-passage",
+    "title": "Critical Periods in the Developing Brain",
+    "text": "During certain windows of early development, the brain is unusually receptive to particular kinds of experience. These intervals, known as critical periods, were first demonstrated convincingly in studies of vision. When one eye of a young mammal was temporarily deprived of patterned light, neurons in the visual cortex that would normally respond to that eye were taken over by connections from the other eye, and the deprived eye remained functionally impaired even after normal input was restored. The same deprivation imposed on an adult animal produced little lasting effect.\n\nSuch findings encouraged a view of the developing brain as a structure that is shaped by experience and then, to a considerable extent, fixed. The closure of a critical period is now understood to be an active process rather than a passive loss of capacity. As circuits mature, inhibitory neurons strengthen, and molecular structures accumulate around certain cells, stabilizing existing connections and restricting the formation of new ones. Plasticity, in other words, is not simply exhausted; it is deliberately constrained.\n\nThis reconceptualization has notable implications. If the brakes on plasticity are imposed by identifiable mechanisms, it may be possible to loosen them. In experiments with rodents, treatments that reduce inhibition or dissolve the stabilizing structures have partially restored juvenile-like plasticity in adulthood, allowing recovery from early visual deprivation. Whether comparable interventions can be applied safely in humans remains uncertain, since the same constraints that limit plasticity presumably also protect established skills and memories.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "Adult brains are as adaptable as the brains of young animals.",
+          "Treatments for early visual deprivation have been proven safe in humans.",
+          "Vision is the only ability that has a critical period.",
+          "Critical periods close through active mechanisms, which suggests that plasticity might be partly restored."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Contradicted: the same deprivation affected young animals but not adults.",
+          "Contradicted: whether such interventions are safe in humans remains uncertain.",
+          "Not stated: vision is where critical periods were first demonstrated, not the only case.",
+          "Correct: the passage moves from the discovery of critical periods to the active view of their closure and its implications."
+        ],
+        "explanation": "The central idea is the reinterpretation of closure as an active process, which opens the possibility of loosening it.",
+        "evidence": "The closure of a critical period is now understood to be an active process rather than a passive loss of capacity."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that the same deprivation in an adult animal \"produced little lasting effect\"?",
+        "options": [
+          "To establish that sensitivity to this deprivation was specific to the young brain",
+          "To show that the deprivation experiments were badly designed",
+          "To argue that adult vision cannot be improved",
+          "To explain how inhibitory neurons develop"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the contrast with adults shows the effect depends on a developmental window, the defining feature of a critical period.",
+          "Not suggested: the experiments are described as convincing.",
+          "Not argued: the sentence concerns vulnerability to deprivation, not improvement.",
+          "Inhibitory neurons are discussed only in paragraph 2."
+        ],
+        "explanation": "A critical period is a window; comparing young and adult animals shows that the deprivation matters only during that window.",
+        "evidence": "The same deprivation imposed on an adult animal produced little lasting effect."
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"restricting\" in the passage is closest in meaning to",
+        "options": [
+          "speeding",
+          "revealing",
+          "limiting",
+          "reversing"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Opposite: maturing circuits make new connections harder to form.",
+          "Not the meaning; nothing is uncovered.",
+          "Correct: the structures limit the formation of new connections.",
+          "Not the meaning; existing connections are stabilized, not undone."
+        ],
+        "explanation": "The paragraph ends by saying plasticity is \"deliberately constrained\", so \"restricting\" means limiting.",
+        "evidence": "restricting the formation of new ones"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"them\" in the phrase \"it may be possible to loosen them\" refers to",
+        "options": [
+          "identifiable mechanisms",
+          "critical periods",
+          "rodents",
+          "the brakes on plasticity"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "The mechanisms impose the brakes; what one would loosen is the brakes themselves.",
+          "Critical periods are not mentioned in this sentence.",
+          "Rodents appear only in the following sentence.",
+          "Correct: if the brakes are imposed by identifiable mechanisms, the brakes might be loosened."
+        ],
+        "explanation": "The metaphor is consistent: brakes are loosened. The following sentence describes treatments that reduce these constraints.",
+        "evidence": "If the brakes on plasticity are imposed by identifiable mechanisms, it may be possible to loosen them."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "What does the author imply about attempts to restore plasticity in adult humans?",
+        "options": [
+          "They are unnecessary because humans have no critical periods.",
+          "They might also weaken skills and memories that people already have.",
+          "They have already failed in experiments with rodents.",
+          "They would work only on people with no visual problems."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not supported: nothing suggests humans lack critical periods.",
+          "Correct: the constraints that limit plasticity probably also protect established skills and memories.",
+          "Contradicted: treatments partially restored plasticity in rodents.",
+          "Not supported: the rodent treatments helped recovery from visual deprivation."
+        ],
+        "explanation": "If loosening the brakes removes protection from established skills and memories, such interventions carry a risk.",
+        "evidence": "since the same constraints that limit plasticity presumably also protect established skills and memories"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-m2-router",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 2,
+    "module": "router",
+    "task": "academic-passage",
+    "title": "The Aqueducts of Rome",
+    "text": "At its height, ancient Rome was supplied by eleven aqueducts that together delivered an enormous volume of water to the city each day. This water supported public fountains, the private homes of the wealthy, and the large public baths that were central to Roman social life. Remarkably, the system used no pumps. It relied entirely on gravity, carrying water from springs in the hills along channels that descended very gradually toward the city.\n\nMaintaining a steady downward slope over long distances was the engineers' central challenge. If the slope was too steep, fast-moving water would erode the channel; if it was too shallow, the water would stagnate. Surveyors used simple leveling instruments to plan routes that often followed the natural contours of the land. Contrary to popular images, most of an aqueduct's length ran underground in covered channels, which protected the water from contamination and evaporation. The famous arched bridges were built only where a route had to cross a valley.\n\nRoman aqueducts required constant upkeep. Minerals in the water left hard deposits that gradually narrowed the channels, and workers had to chip them away. A permanent staff was employed to inspect the system, repair leaks, and prevent people from illegally tapping the supply. Several aqueducts remained in use for centuries, and one of them, after restoration, still feeds fountains in Rome today.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "Why arched bridges were the most important part of Roman aqueducts",
+          "How Roman aqueducts used pumps to lift water into the city",
+          "How Rome's aqueducts carried water by gravity, which required careful engineering and constant maintenance",
+          "Why the public baths used most of Rome's water"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Contradicted: bridges were built only where routes crossed valleys; most channels were underground.",
+          "Contradicted: the system used no pumps.",
+          "Correct: the passage covers the gravity system, the challenge of the slope, and the upkeep.",
+          "Not stated: the baths are one of several uses, and no proportions are given."
+        ],
+        "explanation": "Paragraph 1 introduces the gravity-based system, paragraph 2 the engineering challenge, and paragraph 3 the maintenance.",
+        "evidence": "It relied entirely on gravity, carrying water from springs in the hills along channels that descended very gradually toward the city."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, what was one advantage of building aqueduct channels underground?",
+        "options": [
+          "It was cheaper than building bridges.",
+          "The covered channels kept the water clean and reduced evaporation.",
+          "It hid the water supply from enemy armies.",
+          "Underground channels allowed a steeper slope."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Not mentioned: cost is not discussed.",
+          "Correct: the covered channels protected the water from contamination and evaporation.",
+          "Not mentioned in the passage.",
+          "Not stated, and a steep slope was a problem to avoid."
+        ],
+        "explanation": "The relative clause after \"covered channels\" states their benefit.",
+        "evidence": "which protected the water from contamination and evaporation"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"stagnate\" in the passage is closest in meaning to",
+        "options": [
+          "stop flowing",
+          "overflow",
+          "freeze",
+          "evaporate"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: with too little slope, the water would barely move.",
+          "Not the meaning; overflow is not linked to a shallow slope here.",
+          "Not the meaning; temperature is not discussed.",
+          "Evaporation is mentioned later, but in a different context."
+        ],
+        "explanation": "The sentence contrasts a steep slope (fast-moving water) with a shallow one, where the water would stop moving.",
+        "evidence": "if it was too shallow, the water would stagnate"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention \"popular images\" of aqueducts?",
+        "options": [
+          "To explain how surveyors planned the routes",
+          "To describe the beauty of Roman architecture",
+          "To argue that the arched bridges were unnecessary",
+          "To correct the common belief that aqueducts consisted mainly of arched bridges"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Route planning is described in the previous sentence and is not linked to popular images.",
+          "The passage does not discuss beauty.",
+          "Contradicted: bridges were needed where a route crossed a valley.",
+          "Correct: \"Contrary to popular images\" introduces the fact that most of the length was underground."
+        ],
+        "explanation": "The phrase signals a correction: people imagine arches, but most of an aqueduct was hidden underground.",
+        "evidence": "Contrary to popular images, most of an aqueduct's length ran underground in covered channels"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"them\" in the phrase \"workers had to chip them away\" refers to",
+        "options": [
+          "the channels",
+          "the hard deposits",
+          "the springs",
+          "the leaks"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Workers removed material from the channels, not the channels themselves.",
+          "Correct: the mineral deposits narrowed the channels and had to be removed.",
+          "Springs are mentioned in paragraph 1, not here.",
+          "Leaks are mentioned in the next sentence and were repaired, not chipped away."
+        ],
+        "explanation": "The deposits gradually narrowed the channels, so workers chipped the deposits away.",
+        "evidence": "Minerals in the water left hard deposits that gradually narrowed the channels, and workers had to chip them away."
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-m2-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 2,
+    "module": "lower",
+    "task": "academic-passage",
+    "title": "How Plants Spread Their Seeds",
+    "text": "Plants cannot move from place to place, but their seeds can. If all of a plant's seeds simply fell beneath it, the young plants would have to compete with their parent and with one another for light, water, and nutrients. For this reason, many plants have developed ways to carry their seeds away.\n\nWind is one common method. The seeds of dandelions have tiny parachutes of soft hairs that allow them to float through the air, sometimes for several kilometers. Maple seeds have a flat wing that makes them spin as they fall, which slows them down so that the wind can push them farther from the tree.\n\nAnimals also help. Many plants produce sweet, colorful fruits. When a bird eats the fruit, the seeds pass through its body unharmed and are dropped in a new place, often with a little natural fertilizer. Other seeds have small hooks that catch on the fur of passing animals. An animal may carry these seeds a long way before they fall off or are brushed away. Finally, some plants, such as coconut palms, which often grow near beaches, use water. Their large seeds can float in the ocean for weeks and then begin to grow on a distant shore.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "What is the passage mainly about?",
+        "options": [
+          "The ways plants use wind, animals, and water to carry their seeds away from the parent plant",
+          "Why birds are the most important carriers of seeds",
+          "Why young plants grow best under their parent",
+          "Why seeds with hooks travel the farthest"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the passage explains why seeds are spread and then describes three methods.",
+          "Too narrow: birds are only one example, and they are not ranked as the most important.",
+          "Opposite: young plants under their parent would have to compete with it.",
+          "Not stated: no method is said to carry seeds the farthest."
+        ],
+        "explanation": "Paragraph 1 explains why plants spread seeds; paragraphs 2 and 3 describe wind, animals and water.",
+        "evidence": "For this reason, many plants have developed ways to carry their seeds away."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-detail",
+        "prompt": "According to paragraph 2, how does the wing of a maple seed help it?",
+        "options": [
+          "It helps the seed float on water.",
+          "It attracts birds to the seed.",
+          "It makes the seed spin and fall more slowly.",
+          "It protects the seed from insects."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Distorted: floating on water describes coconuts.",
+          "Not mentioned: birds are attracted by fruit.",
+          "Correct: spinning slows the seed so the wind can push it farther.",
+          "Not mentioned in the passage."
+        ],
+        "explanation": "The wing makes the seed spin, the spinning slows its fall, and the wind can then carry it farther.",
+        "evidence": "Maple seeds have a flat wing that makes them spin as they fall, which slows them down"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that young plants would compete with their parent?",
+        "options": [
+          "To show that parent plants protect young plants",
+          "To explain why spreading seeds is useful for plants",
+          "To describe how plants get their nutrients",
+          "To argue that some plants grow better in groups"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Opposite: the parent is a competitor, not a protector.",
+          "Correct: competition is the reason plants carry their seeds away (\"For this reason\").",
+          "Nutrients are mentioned only as one thing plants compete for.",
+          "Opposite: the passage suggests crowding is harmful."
+        ],
+        "explanation": "The competition problem is followed by \"For this reason, many plants have developed ways to carry their seeds away\".",
+        "evidence": "the young plants would have to compete with their parent and with one another for light, water, and nutrients"
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"unharmed\" in the passage is closest in meaning to",
+        "options": [
+          "quickly",
+          "partly",
+          "without water",
+          "without damage"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not the meaning; the word describes the seeds' condition, not speed.",
+          "Not the meaning; the seeds pass through whole.",
+          "Not the meaning in this context.",
+          "Correct: the seeds are not damaged as they pass through the bird's body."
+        ],
+        "explanation": "The seeds are later dropped in a new place and can grow, so they must not be damaged.",
+        "evidence": "the seeds pass through its body unharmed"
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"Their\" in the last sentence of the passage refers to",
+        "options": [
+          "coconut palms",
+          "beaches",
+          "passing animals",
+          "the oceans"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: coconut palms have large seeds that float in the ocean.",
+          "Beaches do not have seeds.",
+          "Animals are discussed earlier, in connection with hooks, not floating seeds.",
+          "The ocean is where the seeds float, not what produces them."
+        ],
+        "explanation": "The previous sentence introduces coconut palms as plants that use water; \"their large seeds\" are the palms' seeds.",
+        "evidence": "Their large seeds can float in the ocean for weeks"
+      }
+    ]
+  },
+  {
+    "id": "toefl-ap-m2-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 2,
+    "module": "upper",
+    "task": "academic-passage",
+    "title": "Hidden Information in Markets",
+    "text": "Standard models of competitive markets assume that buyers and sellers are equally well informed about what is being traded. In many real transactions, however, one party knows considerably more than the other. A person selling a used car is far better placed than a prospective buyer to know whether the vehicle has hidden defects. Economists refer to such situations as markets with asymmetric information, and their analysis has shown that the imbalance can do more than disadvantage the less informed party: it can undermine the market itself.\n\nSuppose buyers cannot distinguish good cars from defective ones and are therefore willing to pay only a price reflecting average quality. Owners of good cars, who know their vehicles are worth more than this average, will be reluctant to sell. As they withdraw, the average quality of cars on offer falls, buyers lower the price they will pay, and still more owners of good cars exit. In extreme cases, the process continues until only the worst products remain, and transactions that would have benefited both sides never take place.\n\nMarkets have developed numerous institutions that mitigate this problem. Warranties allow sellers of reliable goods to demonstrate their confidence, since a warranty on a defective product would be costly to honor. Independent inspections, brand reputations, and mandatory disclosure laws similarly narrow the information gap. The persistence of such mechanisms is itself evidence of how damaging unchecked asymmetries can be.",
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ap-main-idea",
+        "prompt": "Which of the following best expresses the main idea of the passage?",
+        "options": [
+          "When sellers know more than buyers, a market can shrink or fail, and institutions have arisen to reduce this information gap.",
+          "Most used cars offered for sale have hidden defects.",
+          "Warranties are the only reliable solution to unequal information.",
+          "Buyers usually know more about products than sellers do."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: the passage defines asymmetric information, shows how it can destroy a market, and describes the remedies.",
+          "Not stated: the car is a hypothetical example, and no proportion is given.",
+          "Contradicted: inspections, reputations and disclosure laws are also mentioned.",
+          "Opposite: in the example, the seller is better informed."
+        ],
+        "explanation": "Paragraph 1 introduces the concept and its danger, paragraph 2 explains the mechanism, and paragraph 3 describes the institutions that limit it.",
+        "evidence": "it can undermine the market itself"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ap-reference",
+        "prompt": "The word \"they\" in the phrase \"As they withdraw\" refers to",
+        "options": [
+          "buyers",
+          "defective cars",
+          "owners of good cars",
+          "economists"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Buyers lower their price; they are not the ones withdrawing.",
+          "Defective cars remain on the market; it is the good ones that leave.",
+          "Correct: owners of good cars, reluctant to sell at the average price, withdraw from the market.",
+          "Economists are not mentioned in this paragraph."
+        ],
+        "explanation": "The previous sentence says owners of good cars will be reluctant to sell; as they withdraw, average quality falls.",
+        "evidence": "Owners of good cars, who know their vehicles are worth more than this average, will be reluctant to sell. As they withdraw"
+      },
+      {
+        "id": "q3",
+        "kind": "mcq",
+        "qtype": "ap-inference",
+        "prompt": "It can be inferred from paragraph 2 that as the process described continues, the price buyers are willing to pay",
+        "options": [
+          "rises because fewer cars are available",
+          "falls because the cars that remain are, on average, of lower quality",
+          "stays the same because buyers cannot judge quality",
+          "depends mainly on the age of each car"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Opposite: the passage describes buyers lowering the price.",
+          "Correct: as good cars leave, average quality falls and buyers pay less, which pushes even more good cars out.",
+          "Contradicted: buyers base their offer on average quality, which keeps falling.",
+          "Not mentioned: age is not discussed."
+        ],
+        "explanation": "Buyers pay a price reflecting average quality; when good cars exit, the average falls, so the price falls too, in a self-reinforcing cycle.",
+        "evidence": "As they withdraw, the average quality of cars on offer falls, buyers lower the price they will pay, and still more owners of good cars exit."
+      },
+      {
+        "id": "q4",
+        "kind": "mcq",
+        "qtype": "ap-vocab",
+        "prompt": "The word \"mitigate\" in the passage is closest in meaning to",
+        "options": [
+          "cause",
+          "hide",
+          "measure",
+          "lessen"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Opposite: these institutions reduce the problem rather than create it.",
+          "Not the meaning; the institutions reveal information rather than hide problems.",
+          "Not the meaning; the institutions act on the problem, not just measure it.",
+          "Correct: warranties, inspections and similar institutions lessen the problem."
+        ],
+        "explanation": "The examples that follow all \"narrow the information gap\", so \"mitigate\" means lessen.",
+        "evidence": "Markets have developed numerous institutions that mitigate this problem."
+      },
+      {
+        "id": "q5",
+        "kind": "mcq",
+        "qtype": "ap-purpose",
+        "prompt": "Why does the author mention that \"a warranty on a defective product would be costly to honor\"?",
+        "options": [
+          "To argue that warranties should be banned",
+          "To show that defective products are inexpensive to produce",
+          "To explain why a warranty is a believable signal that a product is reliable",
+          "To criticize sellers of reliable goods"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Not argued: warranties are presented as a useful institution.",
+          "Not stated: the cost refers to honoring the warranty, not to production.",
+          "Correct: only a seller confident in the product can afford to offer a warranty, so buyers can trust it.",
+          "Not stated: the passage presents these sellers positively."
+        ],
+        "explanation": "The \"since\" clause gives the reason a warranty demonstrates confidence: a seller of defective goods would lose money offering one.",
+        "evidence": "since a warranty on a defective product would be costly to honor"
+      }
+    ]
+  }
+]

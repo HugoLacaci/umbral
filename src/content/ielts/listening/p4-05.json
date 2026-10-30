@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ielts-l-p4-05",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 4,
+    "title": "What ancient pots reveal",
+    "context": "You will hear part of an archaeology lecture about analysing food residues in ancient pottery.",
+    "audio": {
+      "speakers": [
+        { "id": "lec", "name": "Professor Diane Walsh", "role": "lecturer", "gender": "f", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "lec", "t": "Hello everyone. In the last session we looked at how archaeologists reconstruct ancient diets from animal bones and plant remains. Today I want to introduce a technique that has transformed this area over the past thirty years or so, and that's the chemical analysis of residues left inside cooking pots. By the end of the session, you should understand how the method works, what it has told us so far, and why its results need to be interpreted with some care." },
+        { "s": "lec", "t": "First, let's remind ourselves why the traditional evidence is limited. Animal bones are very useful, but the bones of large animals tend to be overrepresented, simply because they're bigger and easier for excavators to spot. Small fish bones, for example, are often missed completely. And plant remains, such as seeds and grains, only survive in certain types of soil, usually where they've been burnt or where the ground is permanently waterlogged. So what we find is a rather biased picture of what people actually ate." },
+        { "s": "lec", "t": "Pottery offers a way around this. Most prehistoric pots were unglazed, which means the clay is porous. When food was cooked or stored in them, fats and oils soaked into the walls of the vessel. And once they're inside the clay, these fats are protected from bacteria and from water, so they can survive, in tiny quantities, for many thousands of years." },
+        { "s": "lec", "t": "So how does the analysis work? The archaeologist starts with a fragment of pottery, which is known as a sherd. That's spelt S-H-E-R-D. Using a small drill, a few grams of powder are removed from the inner surface. This powder is then mixed with a solvent, which dissolves the fats and separates them from the clay. The resulting liquid goes into an instrument that separates the different molecules, so we can see exactly what's present." },
+        { "s": "lec", "t": "What makes the method so powerful is the level of detail. We can tell plant oils from animal fats, of course. But by measuring different forms of carbon in the fat molecules, we can go further and distinguish between fat from meat and fat from dairy products. We can even tell whether the meat came from animals like cattle and sheep, or from pigs." },
+        { "s": "lec", "t": "Let me give you some examples of what this has revealed. One study looked at pottery from sites in what is now the Libyan Sahara. Today this is desert, but around seven thousand years ago, the region was covered in grassland, with lakes and rivers. The residues showed clear evidence that people there were processing milk, which pushed back the date of dairying in Africa considerably." },
+        { "s": "lec", "t": "A second study, which I find particularly striking, examined hundreds of pots from Britain. Before farming arrived, people living near the coast clearly ate a lot of seafood. But in pots from the first farming communities, signs of marine foods almost completely disappear. It seems that when people adopted farming, they almost entirely stopped eating fish, even when they lived right next to the sea. Why they did so is still hotly debated." },
+        { "s": "lec", "t": "A third finding concerns beeswax, which turns up in pots from many parts of Europe. Some of it may come from honey, of course. But in some cases it seems that the wax was deliberately applied to the inside of the pot to make it waterproof, rather like a modern coating." },
+        { "s": "lec", "t": "Now, as with any technique, there are limitations. The first is contamination. Modern fats can easily get into the samples, and one surprising source turned out to be the archaeologists themselves. The natural oils on human skin can be transferred to a sherd simply by handling it, so excavators now wear gloves and avoid touching finds wherever possible. In the past, it was also standard practice to wash pottery as soon as it came out of the ground, which unfortunately removed some of the residues." },
+        { "s": "lec", "t": "The second limitation is that pots were rarely used for just one food. A cooking pot might be used for stew one day and porridge the next, over many years. What we detect is therefore a mixture, and separating the individual ingredients can be very difficult. Researchers are now developing statistical methods to deal with this, and that's what we'll look at next week." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 31–40\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+        "title": "Residue analysis of ancient pottery",
+        "template": "Problems with traditional evidence\n• large bones are easier to find than small ones\n• plant remains are preserved only in some kinds of {{q1}}\n\nWhy pottery is useful\n• unglazed clay is {{q2}}, so fats from food enter it\n\nMethod\n• powder is drilled from a piece of pottery called a {{q3}}\n• a {{q4}} is used to extract the fats\n• carbon measurements show whether fat came from meat or {{q5}}\n\nFindings\n• Sahara: 7,000 years ago the area was {{q6}}, and people processed milk\n• Britain: early farmers stopped eating {{q7}}\n• Europe: beeswax may have been used to make pots {{q8}}\n\nLimitations\n• contamination, e.g. from oils on human {{q9}}\n• pots used for many foods leave a {{q10}} that is hard to interpret",
+        "items": [
+          { "id": "q1", "kind": "gap", "qtype": "note-completion", "answers": ["soil", "soils"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Plant remains only survive in certain types of soil.", "evidence": "only survive in certain types of soil" },
+          { "id": "q2", "kind": "gap", "qtype": "note-completion", "answers": ["porous"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Unglazed clay is porous, so fats soak into the walls.", "evidence": "the clay is porous" },
+          { "id": "q3", "kind": "gap", "qtype": "note-completion", "answers": ["sherd"], "maxWords": 1, "allowNumber": false,
+            "explanation": "A fragment of pottery is a sherd; the word is spelt out.", "evidence": "which is known as a sherd. That's spelt S-H-E-R-D." },
+          { "id": "q4", "kind": "gap", "qtype": "note-completion", "answers": ["solvent"], "maxWords": 1, "allowNumber": false,
+            "explanation": "The powder is mixed with a solvent, which dissolves the fats.", "evidence": "This powder is then mixed with a solvent" },
+          { "id": "q5", "kind": "gap", "qtype": "note-completion", "answers": ["dairy"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Carbon measurements distinguish fat from meat and fat from dairy products.", "evidence": "distinguish between fat from meat and fat from dairy products" },
+          { "id": "q6", "kind": "gap", "qtype": "note-completion", "answers": ["grassland"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Today it is desert, but 7,000 years ago it was covered in grassland. 'Desert' is the present-day distractor.", "evidence": "the region was covered in grassland" },
+          { "id": "q7", "kind": "gap", "qtype": "note-completion", "answers": ["fish"], "maxWords": 1, "allowNumber": false,
+            "explanation": "When people adopted farming, they almost entirely stopped eating fish.", "evidence": "they almost entirely stopped eating fish" },
+          { "id": "q8", "kind": "gap", "qtype": "note-completion", "answers": ["waterproof"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Wax was applied inside the pot to make it waterproof.", "evidence": "to make it waterproof" },
+          { "id": "q9", "kind": "gap", "qtype": "note-completion", "answers": ["skin"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Natural oils on human skin can transfer to sherds when handled.", "evidence": "The natural oils on human skin" },
+          { "id": "q10", "kind": "gap", "qtype": "note-completion", "answers": ["mixture"], "maxWords": 1, "allowNumber": false,
+            "explanation": "Because pots held many foods, 'what we detect is therefore a mixture'.", "evidence": "What we detect is therefore a mixture" }
+        ]
+      }
+    ]
+  }
+]

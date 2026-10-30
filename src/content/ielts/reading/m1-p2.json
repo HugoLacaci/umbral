@@ -1,0 +1,204 @@
+[
+  {
+    "id": "ielts-r-m1-p2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "passageNo": 2,
+    "title": "Cooling the City",
+    "subtitle": "Why cities are warmer than the countryside, and what planners can do about it",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "On a still summer evening, the centre of a large city can be several degrees warmer than the farmland that surrounds it. This phenomenon, known as the urban heat island, was first described in the early nineteenth century by the amateur meteorologist Luke Howard, who compared temperature records from central London with those taken in the villages outside it. Howard noticed that the difference was greatest at night, and he correctly guessed that the city itself was in some way producing or storing heat. Two hundred years later, with more than half of the world's population living in urban areas, his observation has become a matter of public health."
+      },
+      {
+        "label": "B",
+        "text": "The causes are now well understood. Dark surfaces such as asphalt and roofing tar absorb a large proportion of the sunlight that falls on them, and materials like concrete and brick store this energy during the day and release it slowly after sunset. Tall buildings standing close together trap the warmth further, because heat radiated from one wall is absorbed by the wall opposite rather than escaping to the sky. Meanwhile, the vehicles, air-conditioning units and factories of the city release waste heat directly into the air. Perhaps most important of all is what cities lack: vegetation. In the countryside, plants release water vapour through their leaves, a process that uses energy and cools the surrounding air in much the same way that sweating cools the human body."
+      },
+      {
+        "label": "C",
+        "text": "The consequences can be serious. During heatwaves, the hottest neighbourhoods record noticeably higher rates of hospital admissions, particularly among elderly people, whose bodies are less able to regulate temperature. Night-time heat is especially harmful because it denies people the chance to recover from the heat of the day. There are economic costs too: as temperatures rise, so does demand for air conditioning, which increases electricity consumption and, in turn, releases more waste heat outdoors, creating a cycle that is difficult to break. Research has also found that the burden is not shared equally. In many cities, poorer districts have fewer trees and parks than wealthier ones, and so experience the most extreme temperatures."
+      },
+      {
+        "label": "D",
+        "text": "One of the cheapest responses is to change the colour of the city. Surfaces painted white or coated with reflective materials can send much of the sun's energy back into the atmosphere before it is absorbed. Some studies of 'cool roofs' have recorded roof surface temperatures more than 20 degrees lower than those of conventional dark roofs on sunny afternoons. Yet the approach has limitations. A study led by the climate scientist Rosa Mendel found that reflective pavements, although cooler themselves, can bounce heat onto nearby pedestrians and building walls, so that people walking on them may actually feel hotter. Reflective surfaces also lose their effectiveness as they become dirty, and need regular cleaning."
+      },
+      {
+        "label": "E",
+        "text": "Many planners therefore prefer what is sometimes called 'green infrastructure'. Street trees provide shade as well as cooling through the release of water vapour, and a single large tree can have a cooling effect equivalent to several air-conditioning units. Parks, green roofs and walls covered with climbing plants all contribute. The geographer Tomas Aaltonen has shown, however, that the benefits of a park extend only a limited distance beyond its edges - in his measurements, rarely more than a few hundred metres - which suggests that many small green spaces spread across a city may be more valuable than a single large one. Vegetation also has its own requirements: in dry climates, trees need irrigation, and poorly chosen species may die in the very heatwaves they are meant to ease."
+      },
+      {
+        "label": "F",
+        "text": "A third approach involves the shape of the city itself. Streets aligned with the prevailing wind can channel cooler air into dense neighbourhoods, and gaps between buildings allow heat to escape at night. Traditional towns in hot regions often used narrow, shaded alleys and inner courtyards to keep residents cool long before the science was understood. The architect Leila Haddad argues that modern planners have much to learn from these designs, which, she points out, achieved comfortable conditions without any energy use at all. Changing the layout of an existing city is, of course, slow and expensive, so such ideas are most easily applied in new developments."
+      },
+      {
+        "label": "G",
+        "text": "Perhaps the clearest lesson from recent research is that no single measure is sufficient. The cities that have made the most progress, the urban ecologist Daniel Okafor suggests, are those that have combined several strategies and, crucially, have measured the results street by street rather than relying on citywide averages. Okafor has also argued that cooling programmes should begin in the neighbourhoods that suffer most, rather than in the areas where residents are most likely to complain. As summers grow hotter, the way cities manage heat may become one of the defining questions of urban planning in the twenty-first century."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-headings",
+        "instructions": "Questions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number, i–x, in boxes 14–20 on your answer sheet.",
+        "title": "List of Headings",
+        "options": [
+          { "key": "i", "text": "The unequal and costly effects of urban heat" },
+          { "key": "ii", "text": "How the layout of streets and buildings can help" },
+          { "key": "iii", "text": "An early discovery that matters more today" },
+          { "key": "iv", "text": "Why trees are being removed from city centres" },
+          { "key": "v", "text": "The physical processes that make cities warmer" },
+          { "key": "vi", "text": "A low-cost technique with unexpected drawbacks" },
+          { "key": "vii", "text": "Combining methods and directing them carefully" },
+          { "key": "viii", "text": "The advantages and practical limits of planting" },
+          { "key": "ix", "text": "Air conditioning as a long-term solution" },
+          { "key": "x", "text": "Comparing temperatures in different countries" }
+        ],
+        "items": [
+          {
+            "id": "q14",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph A",
+            "answer": "iii",
+            "evidence": "his observation has become a matter of public health",
+            "explanation": "Paragraph A describes Howard's nineteenth-century observation and ends by saying it is now a public-health issue: an early discovery that matters more today. Heading x is a trap: Howard compared London with nearby villages, not different countries."
+          },
+          {
+            "id": "q15",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph B",
+            "answer": "v",
+            "evidence": "The causes are now well understood.",
+            "explanation": "The whole paragraph explains causes: absorption by dark surfaces, heat storage, trapping between buildings, waste heat and the lack of vegetation. Heading iv is wrong because the paragraph says cities lack vegetation, not that trees are being removed."
+          },
+          {
+            "id": "q16",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph C",
+            "answer": "i",
+            "evidence": "Research has also found that the burden is not shared equally.",
+            "explanation": "Paragraph C covers health and economic costs and the fact that poorer districts suffer most - 'unequal and costly'. Air conditioning is mentioned as part of a problem cycle, not a solution (so not ix)."
+          },
+          {
+            "id": "q17",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph D",
+            "answer": "vi",
+            "evidence": "One of the cheapest responses is to change the colour of the city.",
+            "explanation": "'Cheapest' = low-cost; the drawbacks are that reflective pavements can make pedestrians feel hotter and that surfaces lose effectiveness when dirty."
+          },
+          {
+            "id": "q18",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph E",
+            "answer": "viii",
+            "evidence": "Vegetation also has its own requirements",
+            "explanation": "Paragraph E presents the benefits of trees and parks, then their limits: parks cool only a short distance, and trees need irrigation and may die in heatwaves."
+          },
+          {
+            "id": "q19",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph F",
+            "answer": "ii",
+            "evidence": "A third approach involves the shape of the city itself.",
+            "explanation": "Paragraph F discusses street alignment, gaps between buildings, alleys and courtyards - the layout of streets and buildings."
+          },
+          {
+            "id": "q20",
+            "kind": "match",
+            "qtype": "matching-headings",
+            "prompt": "Paragraph G",
+            "answer": "vii",
+            "evidence": "no single measure is sufficient",
+            "explanation": "Okafor recommends combining strategies and starting in the neighbourhoods that suffer most - combining methods and directing them carefully."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-features",
+        "instructions": "Questions 21–23\nLook at the following statements (Questions 21–23) and the list of people below.\nMatch each statement with the correct person, A–E.\nWrite the correct letter, A–E, in boxes 21–23 on your answer sheet.",
+        "title": "List of People",
+        "options": [
+          { "key": "A", "text": "Luke Howard" },
+          { "key": "B", "text": "Rosa Mendel" },
+          { "key": "C", "text": "Tomas Aaltonen" },
+          { "key": "D", "text": "Leila Haddad" },
+          { "key": "E", "text": "Daniel Okafor" }
+        ],
+        "items": [
+          {
+            "id": "q21",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "Building methods used in the past in hot places offer useful lessons today.",
+            "answer": "D",
+            "evidence": "modern planners have much to learn from these designs",
+            "explanation": "Haddad says planners have much to learn from traditional designs in hot regions (alleys and courtyards)."
+          },
+          {
+            "id": "q22",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "A measure that cools a surface may increase the heat that people experience.",
+            "answer": "B",
+            "evidence": "so that people walking on them may actually feel hotter",
+            "explanation": "Mendel's study found reflective pavements are cooler themselves but bounce heat onto pedestrians, who may feel hotter."
+          },
+          {
+            "id": "q23",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "Efforts to reduce heat should be prioritised according to need.",
+            "answer": "E",
+            "evidence": "cooling programmes should begin in the neighbourhoods that suffer most",
+            "explanation": "Okafor argues that programmes should start where people suffer most, not where residents complain most. Aaltonen (C) is about the size and spread of parks, not priorities."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "summary-completion",
+        "instructions": "Questions 24–26\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 24–26 on your answer sheet.",
+        "title": "Why cities are hotter",
+        "template": "Cities become warmer than the surrounding countryside for several reasons. Dark surfaces absorb sunlight, and building materials such as concrete hold this energy and give it out gradually after {{q24}}. Cities also have relatively little {{q25}}, which in rural areas cools the air by releasing water vapour. The extra heat is especially dangerous for {{q26}}, because their bodies are less able to control their temperature.",
+        "items": [
+          {
+            "id": "q24",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["sunset"],
+            "maxWords": 2,
+            "evidence": "store this energy during the day and release it slowly after sunset",
+            "explanation": "'Give it out gradually' paraphrases 'release it slowly'; the time is 'after sunset'. 'Night' does not appear in this sentence and is not the exact word."
+          },
+          {
+            "id": "q25",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["vegetation"],
+            "maxWords": 2,
+            "evidence": "Perhaps most important of all is what cities lack: vegetation.",
+            "explanation": "'What cities lack' = 'relatively little'; the missing element is vegetation, which cools the air by releasing water vapour."
+          },
+          {
+            "id": "q26",
+            "kind": "gap",
+            "qtype": "summary-completion",
+            "answers": ["elderly people"],
+            "maxWords": 2,
+            "evidence": "particularly among elderly people, whose bodies are less able to regulate temperature",
+            "explanation": "'Control their temperature' paraphrases 'regulate temperature'; the group named is elderly people."
+          }
+        ]
+      }
+    ]
+  }
+]

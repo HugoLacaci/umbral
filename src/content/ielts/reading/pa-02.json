@@ -1,0 +1,204 @@
+[
+  {
+    "id": "ielts-r-pa-02",
+    "difficulty": "easy",
+    "usage": "practice",
+    "passageNo": 1,
+    "title": "Does Cycling Pay?",
+    "subtitle": "Economists are putting a price on the urban bicycle",
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "For much of the twentieth century, city planners in many countries treated the bicycle as a toy, a hobby or a vehicle for people who could not afford anything better. Road space was designed around the private car, and cycling was rarely included in transport budgets at all. In some cities, existing cycle paths were even removed to make room for wider roads. Over the past two decades, however, a growing number of cities have begun to build networks of cycle lanes, and economists have started to ask a simple question: does this spending pay for itself?"
+      },
+      {
+        "label": "B",
+        "text": "The first part of the answer concerns construction. Building a kilometre of protected cycle lane, physically separated from traffic by a kerb or barrier, typically costs only a small fraction of what it costs to build a kilometre of urban road for cars. Cycle lanes also take up far less space: a lane about two metres wide can carry several times as many people per hour as a lane of the same width used by cars. Maintenance is cheaper, too. Road surfaces are worn down mainly by heavy vehicles, and because bicycles weigh so little, they cause almost no damage to the surface they travel on. A well-built cycle track can therefore last for decades with only minor repairs."
+      },
+      {
+        "label": "C",
+        "text": "The largest benefits, however, appear in a different budget altogether: health. People who cycle regularly are less likely to develop heart disease, type 2 diabetes and some forms of cancer, and they tend to take fewer days off work through illness. Because these savings fall mainly on health services rather than on transport departments, they are easily overlooked when budgets are set. To turn these effects into figures that can be compared with construction costs, researchers often use a calculator developed for the World Health Organization, which estimates how many early deaths are prevented when a population cycles a certain distance each week. Cyclists do breathe in traffic fumes and face the risk of collisions, but in almost every study the benefits of the extra exercise far outweigh these dangers."
+      },
+      {
+        "label": "D",
+        "text": "Some of the strongest opposition to cycle lanes comes from shopkeepers, who fear that removing parking spaces will drive away customers. Yet when researchers have surveyed both traders and shoppers on the same streets, they have repeatedly found that shop owners overestimate the proportion of their customers who arrive by car, sometimes by a factor of two. People on bicycles tend to spend less on each visit, since they cannot carry large loads, but they visit more often. Over a month, they frequently spend as much as drivers, or more. Studies of streets where lanes have actually been installed have generally found that retail sales stayed the same or increased."
+      },
+      {
+        "label": "E",
+        "text": "A further benefit is reduced congestion. Congestion is costly: drivers stuck in traffic lose working time, burn extra fuel and deliver goods late. Every commuter who switches from a car to a bicycle frees up road space, which in theory allows buses, delivery vans and the remaining drivers to move more quickly. Economists warn, though, that this gain can be temporary. If the roads become less crowded, some people who previously avoided driving may decide to make new car trips, until traffic returns to its original level. For this reason, the congestion benefit of cycling is the most difficult figure to estimate with confidence."
+      },
+      {
+        "label": "F",
+        "text": "Bicycle-sharing schemes add another layer to the calculation. Most city-run schemes do not cover their costs from user fees and depend on public money, in the same way that bus services usually do. Supporters argue that such schemes should be judged not by their income but by the car journeys they replace. Around 2017, private companies attempted a different model, flooding cities with thousands of 'dockless' bikes that could be unlocked with a smartphone and left anywhere. Many of these firms collapsed within two years, leaving piles of abandoned bicycles on pavements and in rivers, and several cities responded by introducing strict licensing rules."
+      },
+      {
+        "label": "G",
+        "text": "Critics point out that many of the figures used to justify cycling investment rest on assumptions, such as how many new cyclists a lane will attract and whether they would otherwise have walked, driven or stayed at home. These uncertainties are real, and researchers are now trying to reduce them by counting cyclists before and after new lanes open. Nevertheless, when transport projects are compared using the same methods, cycling schemes regularly produce some of the highest returns per unit of money spent. For most cities, it seems, the difficult part of building cycle lanes is political rather than economic: persuading residents who have always driven to give up road space they consider their own."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "matching-info",
+        "instructions": "Questions 1–5\nReading Passage 1 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G.\nNB You may use any letter more than once.",
+        "options": [
+          { "key": "A", "text": "Paragraph A" },
+          { "key": "B", "text": "Paragraph B" },
+          { "key": "C", "text": "Paragraph C" },
+          { "key": "D", "text": "Paragraph D" },
+          { "key": "E", "text": "Paragraph E" },
+          { "key": "F", "text": "Paragraph F" },
+          { "key": "G", "text": "Paragraph G" }
+        ],
+        "items": [
+          {
+            "id": "q1",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "an explanation of why one advantage of cycling may not last",
+            "answer": "E",
+            "evidence": "Economists warn, though, that this gain can be temporary.",
+            "explanation": "Paragraph E says the congestion benefit 'can be temporary' (= may not last) because new car trips may fill the freed space."
+          },
+          {
+            "id": "q2",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a comparison of the spending habits of two groups of people",
+            "answer": "D",
+            "evidence": "People on bicycles tend to spend less on each visit, since they cannot carry large loads, but they visit more often.",
+            "explanation": "Paragraph D compares how much cyclists and drivers spend per visit and per month."
+          },
+          {
+            "id": "q3",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a description of how local authorities reacted to a business failure",
+            "answer": "F",
+            "evidence": "several cities responded by introducing strict licensing rules",
+            "explanation": "In paragraph F, dockless bike firms 'collapsed' (= business failure) and cities 'responded' with licensing rules (= authorities reacted)."
+          },
+          {
+            "id": "q4",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "the reason why bicycles cause little wear to the surfaces they use",
+            "answer": "B",
+            "evidence": "because bicycles weigh so little, they cause almost no damage to the surface they travel on",
+            "explanation": "Paragraph B gives the reason: bicycles are very light, so they hardly damage the surface."
+          },
+          {
+            "id": "q5",
+            "kind": "match",
+            "qtype": "matching-info",
+            "prompt": "a reference to a tool for putting a value on improved health",
+            "answer": "C",
+            "evidence": "researchers often use a calculator developed for the World Health Organization",
+            "explanation": "The 'calculator' in paragraph C is the tool; it turns health effects 'into figures', i.e. gives them a value."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "tfng",
+        "instructions": "Questions 6–9\nDo the following statements agree with the information given in Reading Passage 1?\nWrite\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "items": [
+          {
+            "id": "q6",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "In the twentieth century, money for cycling was seldom part of transport planning.",
+            "answer": "TRUE",
+            "evidence": "cycling was rarely included in transport budgets at all",
+            "explanation": "'Rarely included in transport budgets' = 'money for cycling was seldom part of transport planning'. TRUE."
+          },
+          {
+            "id": "q7",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Cyclists breathe in less polluted air than people travelling by car.",
+            "answer": "NOT GIVEN",
+            "explanation": "Paragraph C says cyclists 'breathe in traffic fumes', but it never compares their exposure with that of car drivers. With no comparison in the text, the answer is NOT GIVEN, not FALSE."
+          },
+          {
+            "id": "q8",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "On streets where cycle lanes have been built, shop sales have usually gone down.",
+            "answer": "FALSE",
+            "evidence": "Studies of streets where lanes have actually been installed have generally found that retail sales stayed the same or increased.",
+            "explanation": "The text says sales 'stayed the same or increased', which contradicts 'gone down'. FALSE. (Shopkeepers fear a fall, but the studies show otherwise.)"
+          },
+          {
+            "id": "q9",
+            "kind": "judge",
+            "qtype": "tfng",
+            "scale": "tfng",
+            "statement": "Most city-run bike-sharing schemes are paid for entirely by the people who use them.",
+            "answer": "FALSE",
+            "evidence": "Most city-run schemes do not cover their costs from user fees and depend on public money",
+            "explanation": "The schemes 'do not cover their costs from user fees' and need public money, so they are not paid for entirely by users. FALSE."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "summary-completion",
+        "instructions": "Questions 10–13\nComplete the summary using the list of words, A–H, below.\nWrite the correct letter, A–H, for each answer.",
+        "title": "Is cycling a good investment?",
+        "options": [
+          { "key": "A", "text": "costs" },
+          { "key": "B", "text": "political" },
+          { "key": "C", "text": "assumptions" },
+          { "key": "D", "text": "health" },
+          { "key": "E", "text": "economic" },
+          { "key": "F", "text": "returns" },
+          { "key": "G", "text": "surveys" },
+          { "key": "H", "text": "congestion" }
+        ],
+        "template": "Studies that support spending on cycle lanes have been criticised because they depend on {{q10}} about how people will travel. However, when different transport projects are assessed using the same methods, cycling schemes often produce very high {{q11}}. Many of the gains are savings for {{q12}} services, which can be overlooked because they do not fall on transport departments. In most cities, the greatest challenge is a {{q13}} one: convincing drivers to give up road space.",
+        "items": [
+          {
+            "id": "q10",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 10",
+            "answer": "C",
+            "evidence": "many of the figures used to justify cycling investment rest on assumptions",
+            "explanation": "'Rest on assumptions' = 'depend on assumptions'. 'Surveys' (G) appear in paragraph D, but they are not what critics object to."
+          },
+          {
+            "id": "q11",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 11",
+            "answer": "F",
+            "evidence": "cycling schemes regularly produce some of the highest returns per unit of money spent",
+            "explanation": "'Some of the highest returns' = 'very high returns'. 'Costs' (A) would reverse the meaning."
+          },
+          {
+            "id": "q12",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 12",
+            "answer": "D",
+            "evidence": "Because these savings fall mainly on health services rather than on transport departments, they are easily overlooked",
+            "explanation": "The savings 'fall mainly on health services' and are 'easily overlooked' (= can be overlooked)."
+          },
+          {
+            "id": "q13",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 13",
+            "answer": "B",
+            "evidence": "the difficult part of building cycle lanes is political rather than economic",
+            "explanation": "'The difficult part' = 'the greatest challenge', and it is 'political rather than economic', so 'economic' (E) is the trap."
+          }
+        ]
+      }
+    ]
+  }
+]

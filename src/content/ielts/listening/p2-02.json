@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ielts-l-p2-02",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 2,
+    "title": "Induction for new volunteers at a wildlife shelter",
+    "context": "You will hear the volunteer coordinator of a wildlife shelter talking to a group of new volunteers.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Kerry", "role": "Volunteer coordinator", "gender": "f", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi everyone, and welcome to Gumtree Gully Wildlife Shelter. I'm Kerry, and I look after our volunteer program. Thanks so much for giving up your Saturday morning to be here. I'll start with a bit of background, then go over a few rules, and finish by telling you who's who." },
+        { "s": "a", "t": "So, the shelter. People often assume it was set up by a vet, and we do have a vet now, but actually it was started thirty years ago by a primary school teacher called Helen Barker. She found an injured wombat on the road near her school, took it home, and within a year she had so many animals in her garden that she needed a proper site. The land we're standing on was later donated by a local farming family." },
+        { "s": "a", "t": "These days we take in about three thousand animals a year. When people think of Australian wildlife rescue, they picture baby kangaroos, and we do get plenty of joeys, especially after storms. Possums are common too. But by far the biggest group is birds. Parrots, magpies, owls, you name it. They make up more than half of everything that comes through our doors." },
+        { "s": "a", "t": "Now, before you're given any animal care duties, there are a couple of steps. There's an online training module on our website, which is really useful, but it's optional. We also recommend a tetanus injection, although that's up to you. What we do insist on is that for your first two shifts, you work alongside an experienced volunteer, watching and helping. Only after that can you work on your own." },
+        { "s": "a", "t": "There are also a few things we ask you not to do. Firstly, please don't give the animals names. I know it's tempting, but naming them makes people get attached, and our goal is always to release them back into the wild. Secondly, please don't wear perfume or strongly scented products when you come in. Many of the animals are already stressed, and strong smells really upset them." },
+        { "s": "a", "t": "On the other hand, you're welcome to take photos for your own social media, as long as you don't show the inside of the clinic. Some of you will also learn to feed the orphaned joeys by hand, once you've been trained. And you might be surprised to hear that speaking softly to the animals while you work is fine. It actually seems to calm them down." },
+        { "s": "a", "t": "Okay, finally, let me tell you about the team. Dana is our shelter manager, and she organises all our fundraising events, like the quiz night and the Christmas market, so if you have any ideas for raising money, she's the person to talk to." },
+        { "s": "a", "t": "Kev is our vet nurse. You'd think he'd be in the clinic all day, but he actually spends most of his time driving our van, collecting injured animals from members of the public. So anything to do with animal transport, that's Kev." },
+        { "s": "a", "t": "Mei looks after the reptiles. That's snakes, lizards and turtles. If you're nervous about snakes, don't worry, nobody will ask you to handle one." },
+        { "s": "a", "t": "Ross used to be in charge of fundraising, before Dana took it over. These days he runs the food preparation room, where all the animals' meals are made up every morning. It's a busy place, so he's always grateful for extra help." },
+        { "s": "a", "t": "Tash is in charge of the aviaries, the big outdoor cages where the birds build up their strength before they're released." },
+        { "s": "a", "t": "Our social media pages are run by a volunteer who works from home, so you probably won't meet her. And the volunteer rosters are my job, so if you ever need to swap a shift, come and see me. Right, let's go and have a look around." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 11–13\nChoose the correct letter, A, B or C.",
+        "items": [
+          { "id": "q11", "kind": "mcq", "qtype": "mcq", "prompt": "The shelter was started by",
+            "options": ["a vet.", "a schoolteacher.", "a farming family."], "answer": 1,
+            "explanation": "A primary school teacher, Helen Barker, started it. People assume it was a vet, and the farming family only donated the land later.",
+            "evidence": "it was started thirty years ago by a primary school teacher called Helen Barker",
+            "optionNotes": ["A common assumption, which Kerry corrects.", "Correct.", "They donated the land later; they did not start the shelter."] },
+          { "id": "q12", "kind": "mcq", "qtype": "mcq", "prompt": "Most of the animals brought to the shelter are",
+            "options": ["kangaroo joeys.", "possums.", "birds."], "answer": 2,
+            "explanation": "Joeys and possums are common, but birds make up more than half of all arrivals.",
+            "evidence": "But by far the biggest group is birds.",
+            "optionNotes": ["Common, especially after storms, but not the biggest group.", "Common, but not the biggest group.", "Correct."] },
+          { "id": "q13", "kind": "mcq", "qtype": "mcq", "prompt": "Before working alone, new volunteers must",
+            "options": ["complete an online training module.", "have a tetanus injection.", "work with an experienced volunteer."], "answer": 2,
+            "explanation": "The online module is optional and the injection is only recommended; working alongside an experienced volunteer for two shifts is compulsory.",
+            "evidence": "What we do insist on is that for your first two shifts, you work alongside an experienced volunteer",
+            "optionNotes": ["Useful but optional.", "Recommended, but up to the volunteer.", "Correct."] }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "multi",
+        "instructions": "Questions 14 and 15\nChoose TWO letters, A–E.",
+        "items": [
+          { "id": "q14", "kind": "multi", "qtype": "multi", "prompt": "Which TWO things are volunteers asked NOT to do?",
+            "options": ["give the animals names", "take photographs", "wear perfume", "feed animals by hand", "talk to the animals"], "answers": [0, 2],
+            "explanation": "Volunteers must not name the animals or wear perfume. Photos are allowed (but not inside the clinic), hand-feeding is allowed after training, and speaking softly is fine.",
+            "evidence": "please don't give the animals names",
+            "optionNotes": ["Correct: naming makes people attached.", "Allowed, except inside the clinic.", "Correct: strong smells upset the animals.", "Allowed after training.", "Allowed: it calms them down."] }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching",
+        "instructions": "Questions 16–20\nWhat is each person's main responsibility?\nChoose FIVE answers from the box and write the correct letter, A–H, next to Questions 16–20.",
+        "options": [
+          { "key": "A", "text": "animal transport" },
+          { "key": "B", "text": "fundraising events" },
+          { "key": "C", "text": "volunteer rosters" },
+          { "key": "D", "text": "the bird aviaries" },
+          { "key": "E", "text": "reptile care" },
+          { "key": "F", "text": "food preparation" },
+          { "key": "G", "text": "school visits" },
+          { "key": "H", "text": "social media" }
+        ],
+        "items": [
+          { "id": "q16", "kind": "match", "qtype": "matching", "prompt": "Dana", "answer": "B",
+            "explanation": "Dana, the shelter manager, organises all the fundraising events.",
+            "evidence": "she organises all our fundraising events" },
+          { "id": "q17", "kind": "match", "qtype": "matching", "prompt": "Kev", "answer": "A",
+            "explanation": "Although he is the vet nurse, he mostly drives the van collecting injured animals.",
+            "evidence": "So anything to do with animal transport, that's Kev." },
+          { "id": "q18", "kind": "match", "qtype": "matching", "prompt": "Mei", "answer": "E",
+            "explanation": "Mei looks after the snakes, lizards and turtles.",
+            "evidence": "Mei looks after the reptiles." },
+          { "id": "q19", "kind": "match", "qtype": "matching", "prompt": "Ross", "answer": "F",
+            "explanation": "Fundraising was his old job; now he runs the food preparation room.",
+            "evidence": "These days he runs the food preparation room" },
+          { "id": "q20", "kind": "match", "qtype": "matching", "prompt": "Tash", "answer": "D",
+            "explanation": "Tash is in charge of the aviaries for the birds. Rosters are Kerry's own job and social media is run by a home-based volunteer.",
+            "evidence": "Tash is in charge of the aviaries" }
+        ]
+      }
+    ]
+  }
+]

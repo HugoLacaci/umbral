@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ielts-r-pb-05",
+    "difficulty": "hard",
+    "usage": "practice",
+    "passageNo": 3,
+    "title": "Too Much of a Good Thing?",
+    "subtitle": "Rethinking the psychology of choice overload",
+    "paragraphs": [
+      { "label": "A", "text": "Modern consumers face an extraordinary range of options. A large supermarket may stock tens of thousands of products, streaming services offer more films than anyone could watch in a lifetime, and even a simple cup of coffee can be ordered in dozens of combinations. For much of the twentieth century, economists assumed that this abundance could only be beneficial: a rational person who does not want an option can simply ignore it, so adding alternatives should never make anyone worse off. Over the last twenty-five years, however, that assumption has been challenged by an idea that has spread from psychology journals into business books and popular culture: the notion that too much choice can be paralysing." },
+      { "label": "B", "text": "The idea has deeper roots than is often realised. In the 1950s, the economist and cognitive scientist Herbert Simon argued that human beings lack the time and mental capacity to compare every available option. Instead, he proposed, people typically search until they find something that meets their minimum requirements and then stop, a strategy he called satisficing. Simon did not claim that large choice sets were harmful; his point was simply that real decision-makers cannot behave like the perfectly informed individuals of economic theory. Simon later received the Nobel Prize in economics, partly for this work on how organisations and individuals actually make decisions." },
+      { "label": "C", "text": "The modern debate began with a study published in 2000 by Sheena Iyengar and Mark Lepper. In an upmarket food store in California, the researchers set up a tasting stand that displayed either six or twenty-four varieties of jam. The larger display attracted more attention: sixty per cent of passing shoppers stopped, compared with forty per cent for the smaller one. Yet only three per cent of those who visited the large display went on to buy a jar, whereas thirty per cent of those who saw the smaller selection did so. The finding was striking precisely because it seemed to contradict common sense, and it was quickly cited as proof that businesses should offer fewer options. The same paper reported similar results in experiments involving chocolates and essay topics offered to students." },
+      { "label": "D", "text": "The psychologist Barry Schwartz developed these ideas into a broader critique of consumer society. He suggested that abundant choice not only discourages people from deciding but also makes them less satisfied with what they eventually choose, since it becomes easier to imagine that a better alternative was available. Schwartz distinguished between maximisers, who feel they must find the best possible option, and satisficers, borrowing Simon's term, who are content with something good enough. In his account, maximisers suffer most from the expansion of choice, and often report more regret despite making objectively better decisions." },
+      { "label": "E", "text": "Persuasive as these arguments are, I believe they were accepted too readily. When Benjamin Scheibehenne and his colleagues combined the results of fifty experiments in a 2010 meta-analysis, they found that the average effect of choice overload was close to zero. Some studies did find that larger assortments reduced purchases or satisfaction, but a similar number found the opposite, and many found no difference at all. This does not mean that the original jam study was wrong; rather, it shows that the effect is far less general than the popular version of the story suggests. It is regrettable that so many companies cut their product ranges on the strength of a handful of studies. Several later attempts to repeat the jam experiment itself also failed to find the same dramatic difference." },
+      { "label": "F", "text": "A more useful question, then, is not whether choice overload exists, but when it occurs. A later meta-analysis led by Alexander Chernev in 2015 attempted to answer exactly this. It identified four factors that made overload more likely: the complexity of the choice set, the difficulty of the decision task, the degree of uncertainty people feel about their own preferences, and whether the decision-maker's goal is to minimise effort. When options are hard to compare, when time is short, or when people have no clear idea of what they want, a large assortment can indeed be overwhelming. When people know what they are looking for, however, more options typically help them find it. In other words, the same assortment can help one shopper and overwhelm another." },
+      { "label": "G", "text": "This more nuanced picture has practical implications that seem to me far more defensible than simply reducing choice. Retailers and policymakers can make large assortments easier to navigate by grouping options into clear categories, providing well-designed default options, or allowing people to filter alternatives according to the features they care about. Pension schemes in several countries, for instance, now place members in a sensible default fund unless they actively choose otherwise, while still allowing those with strong preferences to select from many funds. Choice, in other words, is not the enemy; the real problem is choice that is poorly organised." }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "ynng",
+        "instructions": "Questions 1–5\nDo the following statements agree with the views of the writer in the reading passage?\nWrite\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+        "items": [
+          { "id": "q1", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "The idea of choice overload gained acceptance more quickly than the evidence justified.", "answer": "YES",
+            "explanation": "The writer says 'I believe they were accepted too readily' and then shows that the combined evidence gives an average effect 'close to zero'. 'Too readily' matches 'more quickly than the evidence justified'.",
+            "evidence": "Persuasive as these arguments are, I believe they were accepted too readily." },
+          { "id": "q2", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "The 2010 meta-analysis proved that the results of the jam study were mistaken.", "answer": "NO",
+            "explanation": "The writer states: 'This does not mean that the original jam study was wrong'. The statement contradicts this, so the answer is NO, not NOT GIVEN.",
+            "evidence": "This does not mean that the original jam study was wrong" },
+          { "id": "q3", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "Businesses were wise to reduce their product ranges in response to early research on choice.", "answer": "NO",
+            "explanation": "The writer calls it 'regrettable that so many companies cut their product ranges on the strength of a handful of studies' – a clear disagreement with the statement.",
+            "evidence": "It is regrettable that so many companies cut their product ranges on the strength of a handful of studies." },
+          { "id": "q4", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "Default options are a more effective tool than filtering systems.", "answer": "NOT GIVEN",
+            "explanation": "Both defaults and filters are listed in paragraph G as useful ways of organising choice, but the writer never compares their effectiveness. Mentioning both is not the same as ranking them, so NOT GIVEN." },
+          { "id": "q5", "kind": "judge", "qtype": "ynng", "scale": "ynng", "statement": "The central difficulty with choice lies in how the options are arranged.", "answer": "YES",
+            "explanation": "The writer concludes that 'the real problem is choice that is poorly organised'. 'Central difficulty' = 'real problem'; 'how the options are arranged' = 'organised'.",
+            "evidence": "Choice, in other words, is not the enemy; the real problem is choice that is poorly organised." }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-features",
+        "instructions": "Questions 6–10\nLook at the following statements (Questions 6–10) and the list of researchers below.\nMatch each statement with the correct researcher or researchers, A–E.",
+        "options": [
+          { "key": "A", "text": "Herbert Simon" },
+          { "key": "B", "text": "Sheena Iyengar and Mark Lepper" },
+          { "key": "C", "text": "Barry Schwartz" },
+          { "key": "D", "text": "Benjamin Scheibehenne and colleagues" },
+          { "key": "E", "text": "Alexander Chernev and colleagues" }
+        ],
+        "items": [
+          { "id": "q6", "kind": "match", "qtype": "matching-features", "prompt": "People who insist on the best option may feel worse about their decisions even when those decisions are good.", "answer": "C",
+            "explanation": "Schwartz says maximisers 'often report more regret despite making objectively better decisions'. Simon (A) invented 'satisficing' but did not discuss regret.",
+            "evidence": "maximisers suffer most from the expansion of choice, and often report more regret despite making objectively better decisions" },
+          { "id": "q7", "kind": "match", "qtype": "matching-features", "prompt": "People generally stop looking once they find an option that is acceptable.", "answer": "A",
+            "explanation": "Simon proposed that 'people typically search until they find something that meets their minimum requirements and then stop'. 'Acceptable' paraphrases 'meets their minimum requirements'.",
+            "evidence": "people typically search until they find something that meets their minimum requirements and then stop" },
+          { "id": "q8", "kind": "match", "qtype": "matching-features", "prompt": "A wider selection attracted more interest but resulted in fewer sales.", "answer": "B",
+            "explanation": "In the jam study, 60% stopped at the larger display but only 3% bought, compared with 30% for the smaller selection.",
+            "evidence": "Yet only three per cent of those who visited the large display went on to buy a jar" },
+          { "id": "q9", "kind": "match", "qtype": "matching-features", "prompt": "Research findings on choice overload point in opposite directions and largely balance each other out.", "answer": "D",
+            "explanation": "Scheibehenne's meta-analysis found the average effect 'close to zero' because some studies found overload and 'a similar number found the opposite'.",
+            "evidence": "they found that the average effect of choice overload was close to zero" },
+          { "id": "q10", "kind": "match", "qtype": "matching-features", "prompt": "Being unsure about what one personally wants makes overload more likely.", "answer": "E",
+            "explanation": "Chernev's meta-analysis listed among the four factors 'the degree of uncertainty people feel about their own preferences'.",
+            "evidence": "the degree of uncertainty people feel about their own preferences" }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "sentence-completion",
+        "instructions": "Questions 11–14\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+        "items": [
+          { "id": "q11", "kind": "gap", "qtype": "sentence-completion", "prompt": "In the jam experiment, the different selections were offered at a tasting ___ in a Californian shop.", "answers": ["stand"], "maxWords": 1,
+            "explanation": "'the researchers set up a tasting stand that displayed either six or twenty-four varieties of jam'.",
+            "evidence": "the researchers set up a tasting stand" },
+          { "id": "q12", "kind": "gap", "qtype": "sentence-completion", "prompt": "Schwartz argued that a wide range of options makes it easier for people to believe a better ___ existed.", "answers": ["alternative"], "maxWords": 1,
+            "explanation": "Abundant choice makes people less satisfied 'since it becomes easier to imagine that a better alternative was available'. 'Existed' paraphrases 'was available'.",
+            "evidence": "it becomes easier to imagine that a better alternative was available" },
+          { "id": "q13", "kind": "gap", "qtype": "sentence-completion", "prompt": "According to Chernev's study, overload is more likely if the person choosing wants to minimise ___.", "answers": ["effort"], "maxWords": 1,
+            "explanation": "One factor is 'whether the decision-maker's goal is to minimise effort'.",
+            "evidence": "whether the decision-maker's goal is to minimise effort" },
+          { "id": "q14", "kind": "gap", "qtype": "sentence-completion", "prompt": "Some pension schemes place members in a default ___ unless they make an active choice.", "answers": ["fund"], "maxWords": 1,
+            "explanation": "Pension schemes 'place members in a sensible default fund unless they actively choose otherwise'.",
+            "evidence": "place members in a sensible default fund unless they actively choose otherwise" }
+        ]
+      }
+    ]
+  }
+]

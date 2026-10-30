@@ -1,0 +1,138 @@
+[
+  {
+    "id": "ielts-l-p3-01",
+    "difficulty": "medium",
+    "usage": "practice",
+    "part": 3,
+    "title": "Presentation on urban bees",
+    "context": "You will hear two environmental science students, Maya and Tom, planning a seminar presentation about honeybees in cities.",
+    "audio": {
+      "speakers": [
+        { "id": "maya", "name": "Maya", "role": "student", "gender": "f", "accent": "en-GB" },
+        { "id": "tom", "name": "Tom", "role": "student", "gender": "m", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "maya", "t": "Hi Tom. Have you got a few minutes to sort out our presentation on urban bees? It's due a week on Friday, and we haven't really agreed on anything yet." },
+        { "s": "tom", "t": "Sure. I've been doing quite a bit of reading. I thought we could open with the boom in rooftop hives, because that's what got everyone talking about the subject in the first place." },
+        { "s": "maya", "t": "Hmm, I did wonder about that. But Doctor Hughes said she wanted each group to investigate a problem rather than just describe a trend. What if we built the whole thing around whether city hives are actually bad for wild bees?" },
+        { "s": "tom", "t": "That's a sharper angle, I suppose. Most people assume that more honeybees must be good news for nature." },
+        { "s": "maya", "t": "Exactly. And there's growing evidence that honeybees compete with wild species for nectar and pollen. So let's make that competition our central question, and only mention the rooftop trend as background." },
+        { "s": "tom", "t": "Fine by me. Now, the main study I found was done by researchers in a big European capital. They mapped the hives across the city and compared that with surveys of wild pollinators." },
+        { "s": "maya", "t": "Was it a big sample?" },
+        { "s": "tom", "t": "Not huge, and some people have criticised the way they identified species from photographs. But what impressed me was that they repeated the surveys every year for eight years, so it's not just a snapshot. Most of the other studies I looked at only covered a single summer." },
+        { "s": "maya", "t": "That's worth stressing, then. Long-term data is quite rare in this field. So what did they find?" },
+        { "s": "tom", "t": "Basically, in areas where hive numbers went up, wild bee visits to flowers went down. Though the authors are careful to say it's a correlation, not proof of cause." },
+        { "s": "maya", "t": "I was thinking I could make a map showing where all the hives are, to make it more visual." },
+        { "s": "tom", "t": "It would take ages, and the hive registry isn't public, so we'd have to guess." },
+        { "s": "maya", "t": "Fair enough, let's drop the map. But we definitely need a slide pointing out that the study can't prove cause and effect. Otherwise people will think we're exaggerating." },
+        { "s": "tom", "t": "Agreed, that has to go in. What about the results themselves? I was going to put all the figures in a table." },
+        { "s": "maya", "t": "A table would be far too dense for a five minute slot. Couldn't we use a bar chart?" },
+        { "s": "tom", "t": "We could, but the whole point is the change over the eight years. A line graph would show the trend much more clearly." },
+        { "s": "maya", "t": "Yes, you're right. A line graph it is." },
+        { "s": "tom", "t": "Now, I think we ought to include the beekeepers' side of the story. I could interview someone." },
+        { "s": "maya", "t": "I'm not sure. They might feel attacked. There's a nice quotation on the National Beekeeping Association's website that we could use instead." },
+        { "s": "tom", "t": "But that's basically publicity material. It'd be much more convincing to talk to a real person. What about Sam, who looks after the hives on the roof of the university library?" },
+        { "s": "maya", "t": "Oh, I hadn't thought of him. He'd probably be quite open about it. OK, you speak to Sam. And let's forget the idea of sending a questionnaire round to all the local clubs, because we'd never get the replies back in time." },
+        { "s": "tom", "t": "Right. Then the last section should be about solutions. I've got a list of five. The first is limiting the number of hives allowed in each district." },
+        { "s": "maya", "t": "That makes sense, but I suspect it could backfire. If you restrict hives in the centre, people might just move them out to the suburbs, where wild bees are already struggling." },
+        { "s": "tom", "t": "Good point. The second is planting native wildflowers along road verges." },
+        { "s": "maya", "t": "I'd have assumed that was expensive, but apparently not. The article you sent said it's been done in several Dutch cities, and wild bee numbers rose noticeably." },
+        { "s": "tom", "t": "That's right. Then there are artificial nesting sites in parks, the so-called bee hotels." },
+        { "s": "maya", "t": "I like those, but they don't do much good unless someone maintains them. If nobody cleans them out, they spread disease. So really it comes down to whether local residents are willing to look after them." },
+        { "s": "tom", "t": "Number four is charging beekeepers a small fee to register each hive." },
+        { "s": "maya", "t": "Wouldn't that be hard to manage?" },
+        { "s": "tom", "t": "Not really. The useful thing is that you'd know exactly how many hives there were, so you could track the effect of any policy year by year." },
+        { "s": "maya", "t": "And the last one?" },
+        { "s": "tom", "t": "Training courses for new beekeepers, so they understand the impact on wild species." },
+        { "s": "maya", "t": "It's a nice idea, but changing people's habits is slow. I doubt we'd see any difference in bee populations for a decade." },
+        { "s": "tom", "t": "Probably true, though I'd still include it. Shall we meet on Thursday to put the slides together?" },
+        { "s": "maya", "t": "Thursday's perfect." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–25\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q1", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What will be the main focus of the students' presentation?",
+            "options": ["the growing popularity of rooftop hives", "competition between honeybees and wild bees", "ways of increasing honey production in cities"],
+            "answer": 1,
+            "optionNotes": ["Tom suggests this, but Maya says it will only be background.", "Correct: Maya proposes the competition as the central question and Tom agrees.", "Honey production is never discussed."],
+            "explanation": "Tom's idea (rooftop hives) is rejected in favour of Maya's: whether city hives harm wild bees, i.e. competition for nectar and pollen.",
+            "evidence": "So let's make that competition our central question, and only mention the rooftop trend as background."
+          },
+          {
+            "id": "q2", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What does Tom find impressive about the main study he found?",
+            "options": ["the size of its sample", "the period of time it covered", "the way species were identified"],
+            "answer": 1,
+            "optionNotes": ["He says the sample was 'not huge'.", "Correct: the surveys were repeated for eight years.", "This method has been criticised."],
+            "explanation": "Tom says what impressed him was that the surveys were repeated every year for eight years. The sample was small and the photo identification was criticised.",
+            "evidence": "what impressed me was that they repeated the surveys every year for eight years"
+          },
+          {
+            "id": "q3", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What do the students agree to include in the presentation?",
+            "options": ["a map showing the location of hives", "a warning about the limits of the evidence", "photographs of the species in the study"],
+            "answer": 1,
+            "optionNotes": ["Maya suggests a map but they drop the idea.", "Correct: they agree on a slide saying the study cannot prove cause and effect.", "Photographs are only mentioned as the study's identification method."],
+            "explanation": "The map is rejected because the registry isn't public. Both agree a slide must explain that the study shows correlation, not cause.",
+            "evidence": "we definitely need a slide pointing out that the study can't prove cause and effect"
+          },
+          {
+            "id": "q4", "kind": "mcq", "qtype": "mcq",
+            "prompt": "How will the students present the results of the main study?",
+            "options": ["in a table", "in a bar chart", "in a line graph"],
+            "answer": 2,
+            "optionNotes": ["Maya says a table would be too dense.", "Maya suggests it, but changes her mind.", "Correct: Tom argues it shows the trend best and Maya agrees."],
+            "explanation": "Tom first wants a table, Maya proposes a bar chart, and finally they agree on a line graph to show change over the eight years.",
+            "evidence": "A line graph it is."
+          },
+          {
+            "id": "q5", "kind": "mcq", "qtype": "mcq",
+            "prompt": "How will the students include the beekeepers' point of view?",
+            "options": ["by using a quotation from an association's website", "by interviewing a beekeeper at the university", "by sending a questionnaire to local beekeeping clubs"],
+            "answer": 1,
+            "optionNotes": ["Tom rejects it as publicity material.", "Correct: Tom will speak to Sam, who keeps the hives on the library roof.", "Maya rules this out because there isn't enough time."],
+            "explanation": "Maya's website quotation is rejected as publicity; the questionnaire is rejected for lack of time. They choose Sam, who looks after the library's hives.",
+            "evidence": "OK, you speak to Sam."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching",
+        "instructions": "Questions 26–30\nWhat comment do the students make about each of the following ways of helping wild bees?\nChoose FIVE answers from the box and write the correct letter, A–G, next to Questions 26–30.",
+        "options": [
+          { "key": "A", "text": "It would be too costly for most councils." },
+          { "key": "B", "text": "It has already worked in other places." },
+          { "key": "C", "text": "It depends on the involvement of local people." },
+          { "key": "D", "text": "It might cause a new problem." },
+          { "key": "E", "text": "It would make monitoring easier." },
+          { "key": "F", "text": "It is better suited to large cities." },
+          { "key": "G", "text": "It would take a long time to have an effect." }
+        ],
+        "items": [
+          { "id": "q6", "kind": "match", "qtype": "matching", "prompt": "limiting hive numbers in each district", "answer": "D",
+            "explanation": "Maya fears it could backfire: hives would move to the suburbs, where wild bees already struggle.",
+            "evidence": "I suspect it could backfire" },
+          { "id": "q7", "kind": "match", "qtype": "matching", "prompt": "planting native wildflowers on road verges", "answer": "B",
+            "explanation": "It has been done in several Dutch cities with good results. Maya assumed it was expensive but says 'apparently not', so A is wrong.",
+            "evidence": "it's been done in several Dutch cities, and wild bee numbers rose noticeably" },
+          { "id": "q8", "kind": "match", "qtype": "matching", "prompt": "bee hotels in parks", "answer": "C",
+            "explanation": "They only work if local residents are willing to maintain them.",
+            "evidence": "it comes down to whether local residents are willing to look after them" },
+          { "id": "q9", "kind": "match", "qtype": "matching", "prompt": "a registration fee for each hive", "answer": "E",
+            "explanation": "You would know exactly how many hives exist and could track policies year by year.",
+            "evidence": "you could track the effect of any policy year by year" },
+          { "id": "q10", "kind": "match", "qtype": "matching", "prompt": "training courses for new beekeepers", "answer": "G",
+            "explanation": "Changing habits is slow; Maya doubts there would be any difference for a decade.",
+            "evidence": "I doubt we'd see any difference in bee populations for a decade" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "ielts-r-pc-01",
+    "difficulty": "hard",
+    "usage": "practice",
+    "passageNo": 3,
+    "title": "Who Owns the Past?",
+    "subtitle": "A writer questions both sides of the debate over returning museum objects",
+    "paragraphs": [
+      {
+        "text": "Few questions in the cultural world provoke as much passion as whether museums should return objects that were removed, often long ago, from the places where they were made. To some, the answer is self-evident: what was taken by force or under unequal conditions should go back. To others, the great 'universal' museums of Europe and North America perform a service that no single nation could, by allowing visitors to compare the achievements of many civilisations under one roof. My own view is that both positions, in their pure forms, rest on assumptions that do not survive close examination, and that the debate has been impoverished by the tendency to treat every case as if it were the same."
+      },
+      {
+        "text": "Consider first the argument from universality. Its defenders claim that great collections encourage a cosmopolitan outlook, reminding visitors that cultures have always borrowed from one another. There is something attractive in this, but it is notable that the universal museum is almost always located in a former imperial capital. The vision of a shared human heritage would be more persuasive if the sharing ran in both directions - if, for instance, the museums of Lagos or Lima held comparable collections of European art. That they do not suggests that 'universality' has been, at least in part, a flattering name for an accident of history."
+      },
+      {
+        "text": "Yet the case for automatic return has weaknesses of its own. It typically assumes that an object belongs to a modern state because it was produced within that state's present borders, even when the society that made it has long since vanished or when those borders were themselves drawn by colonial administrators. It also assumes that the meaning of an object lies wholly in its origin. Objects acquire histories as they travel; a carving that has spent two hundred years in a foreign city has become part of that city's story too. To say this is not to excuse the manner of its removal. It is only to observe that 'return' is rarely the restoration of an original state, because the original state no longer exists."
+      },
+      {
+        "text": "Much of the disagreement concerns the question of care. Museums resisting return long argued that objects would be safer where they were, pointing to the climate-controlled storerooms and trained conservators that wealthy institutions could provide. This argument has worn thin. Several museums in former colonies now meet the highest international standards, and the record of Western institutions is hardly spotless: objects have been damaged in storage and lost through poor record-keeping. More fundamentally, the argument assumes that preservation in an unchanging physical state is the only legitimate way of looking after an object. Some communities regard certain objects as living things that are meant to be used in ceremonies, to wear out and eventually to be replaced. For them, sealing such an object in a glass case is not care but a form of harm."
+      },
+      {
+        "text": "Researchers who have studied the question have reached differing conclusions. A team of legal scholars in the Netherlands argued that the strongest claims were those supported by clear documentation of how an object had been taken, and that museums should therefore research the origins of their collections before any request was made. An anthropological study carried out with several communities in the Pacific found that what people most wanted was not necessarily the physical return of objects but control over how they were displayed and described. A group of museum economists warned that large-scale returns could reduce visitor numbers and therefore the income that pays for conservation work, although they acknowledged that their models took no account of the damage to a museum's reputation when it refuses reasonable claims. A survey of museum visitors in Britain found that most supported the return of objects known to have been looted, but that support fell sharply when respondents were told this might mean fewer famous objects on display. Finally, a historian working in West Africa has argued that the attention paid to a handful of celebrated masterpieces has distracted from the thousands of ordinary objects held in storerooms, most of which have never been exhibited at all."
+      },
+      {
+        "text": "What these studies suggest, taken together, is that 'return' is too blunt a word for the range of outcomes that might satisfy a claim. Long-term loans, shared ownership, joint exhibitions, the digital publication of entire collections and the transfer of decision-making authority to source communities are all possible, and different combinations will suit different cases. I do not mean that these alternatives should be used to avoid returning objects where return is clearly justified; museums have too often offered a loan when what was asked for was ownership. But neither should the success of the debate be measured simply by the number of objects shipped home."
+      },
+      {
+        "text": "The deeper problem, I suspect, is that both camps have been arguing about property when the more important question concerns relationships. An object that was taken in violence is a reminder of a relationship that was unequal; returning it, sharing it, or changing how it is shown are different ways of attempting to repair that relationship. Which of them is appropriate cannot be decided in general, by a principle that applies to all museums everywhere. It can be decided only case by case, by people who are prepared to listen to one another - which is, perhaps, the most demanding requirement of all."
+      }
+    ],
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "ynng",
+        "instructions": "Questions 1–4\nDo the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 1–4 on your answer sheet, write\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+        "items": [
+          {
+            "id": "q1",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "The so-called universal museum is partly the result of historical chance.",
+            "answer": "YES",
+            "evidence": "'universality' has been, at least in part, a flattering name for an accident of history",
+            "explanation": "'Historical chance' paraphrases 'an accident of history', and 'partly' matches 'at least in part'. The writer points out that such museums are almost always in former imperial capitals. The writer does find the idea 'attractive', but this does not cancel the criticism, so YES."
+          },
+          {
+            "id": "q2",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "What an object means depends entirely on where it was originally made.",
+            "answer": "NO",
+            "evidence": "Objects acquire histories as they travel",
+            "explanation": "The writer criticises the assumption 'that the meaning of an object lies wholly in its origin' and argues that objects gain new histories as they travel. The statement repeats the assumption the writer rejects, so NO. Note the trap: the phrase 'lies wholly in its origin' appears in the text, but as a view the writer is attacking."
+          },
+          {
+            "id": "q3",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "Museums in former colonies now receive more international funding than they did in the past.",
+            "answer": "NOT GIVEN",
+            "explanation": "The writer says several such museums 'now meet the highest international standards', but nothing is said about where their money comes from. 'International' refers to standards, not funding, so we cannot know the writer's view: NOT GIVEN."
+          },
+          {
+            "id": "q4",
+            "kind": "judge",
+            "qtype": "ynng",
+            "scale": "ynng",
+            "statement": "The number of objects returned is the best indicator of progress in the debate.",
+            "answer": "NO",
+            "evidence": "neither should the success of the debate be measured simply by the number of objects shipped home",
+            "explanation": "The writer explicitly says success should not be measured 'simply by the number of objects shipped home'. This contradicts the statement: NO. Be careful: the writer also criticises museums for offering loans instead of ownership, but that does not make numbers the best measure."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching-features",
+        "instructions": "Questions 5–8\nLook at the following statements (Questions 5–8) and the list of researchers below.\nMatch each statement with the correct researcher or group of researchers, A–E.\nWrite the correct letter, A–E, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
+        "title": "List of Researchers",
+        "options": [
+          { "key": "A", "text": "legal scholars in the Netherlands" },
+          { "key": "B", "text": "an anthropological study in the Pacific" },
+          { "key": "C", "text": "museum economists" },
+          { "key": "D", "text": "a survey of visitors in Britain" },
+          { "key": "E", "text": "a historian working in West Africa" }
+        ],
+        "items": [
+          {
+            "id": "q5",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "Returning objects might indirectly make it harder to look after other objects.",
+            "answer": "C",
+            "evidence": "could reduce visitor numbers and therefore the income that pays for conservation work",
+            "explanation": "'Look after objects' = 'conservation work'; the economists link returns to lower income for conservation. D is a trap: the survey also mentions 'fewer famous objects on display', but that is about public support, not about the care of objects."
+          },
+          {
+            "id": "q6",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "Evidence about the circumstances in which an object was removed is what makes a claim most convincing.",
+            "answer": "A",
+            "evidence": "the strongest claims were those supported by clear documentation of how an object had been taken",
+            "explanation": "'Most convincing' = 'strongest'; 'evidence about the circumstances in which an object was removed' = 'documentation of how an object had been taken'. D mentions objects 'known to have been looted', but that finding concerns visitors' opinions, not what makes a claim strong."
+          },
+          {
+            "id": "q7",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "Communities may care more about influencing how objects are presented than about having them back.",
+            "answer": "B",
+            "evidence": "not necessarily the physical return of objects but control over how they were displayed and described",
+            "explanation": "'Influencing how objects are presented' = 'control over how they were displayed and described'; 'having them back' = 'physical return'."
+          },
+          {
+            "id": "q8",
+            "kind": "match",
+            "qtype": "matching-features",
+            "prompt": "Concentrating on well-known items has drawn attention away from most of what museums hold.",
+            "answer": "E",
+            "evidence": "the attention paid to a handful of celebrated masterpieces has distracted from the thousands of ordinary objects held in storerooms",
+            "explanation": "'Well-known items' = 'celebrated masterpieces'; 'drawn attention away from' = 'distracted from'; 'most of what museums hold' = 'thousands of ordinary objects held in storerooms'. D is a trap because it also mentions 'famous objects', but it is about visitors' willingness to lose them."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "summary-completion",
+        "instructions": "Questions 9–12\nComplete the summary using the list of words, A–I, below.\nWrite the correct letter, A–I, in boxes 9–12 on your answer sheet.",
+        "title": "The argument about care",
+        "options": [
+          { "key": "A", "text": "safer" },
+          { "key": "B", "text": "standards" },
+          { "key": "C", "text": "harm" },
+          { "key": "D", "text": "living" },
+          { "key": "E", "text": "sacred" },
+          { "key": "F", "text": "funding" },
+          { "key": "G", "text": "cheaper" },
+          { "key": "H", "text": "confusion" },
+          { "key": "I", "text": "valuable" }
+        ],
+        "template": "Museums that opposed return once claimed that objects would be {{q9}} if they stayed where they were, because of their storage facilities and expert staff. This claim is now less convincing, since some museums in former colonies meet international {{q10}}, and Western museums have themselves lost or damaged objects. The argument also depends on a narrow idea of preservation. Some communities see particular objects as {{q11}} things intended for use in ceremonies, so that keeping them behind glass actually does them {{q12}}.",
+        "items": [
+          {
+            "id": "q9",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 9",
+            "answer": "A",
+            "evidence": "objects would be safer where they were",
+            "explanation": "The text says museums argued objects 'would be safer where they were'. 'Cheaper' (G) and 'valuable' (I) fit the grammar but are never connected with this argument."
+          },
+          {
+            "id": "q10",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 10",
+            "answer": "B",
+            "evidence": "now meet the highest international standards",
+            "explanation": "'Meet international standards' is taken directly from the passage. 'Funding' (F) is a distractor: money is never mentioned in connection with these museums, and one does not 'meet' funding."
+          },
+          {
+            "id": "q11",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 11",
+            "answer": "D",
+            "evidence": "Some communities regard certain objects as living things",
+            "explanation": "The communities regard the objects 'as living things' that are used, wear out and are replaced. 'Sacred' (E) sounds plausible because ceremonies are mentioned, but the passage never uses this idea; the point is that the objects are alive and meant to change."
+          },
+          {
+            "id": "q12",
+            "kind": "match",
+            "qtype": "summary-completion",
+            "prompt": "Gap 12",
+            "answer": "C",
+            "evidence": "sealing such an object in a glass case is not care but a form of harm",
+            "explanation": "'Does them harm' paraphrases 'a form of harm'. 'Confusion' (H) fits after 'does them' only awkwardly and has no support in the text."
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "qtype": "mcq",
+        "instructions": "Questions 13–14\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 13 and 14 on your answer sheet.",
+        "items": [
+          {
+            "id": "q13",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What is the writer's main purpose in the third paragraph?",
+            "options": [
+              "to argue that objects should stay in the museums that now hold them",
+              "to suggest that the way an object was removed is unimportant",
+              "to question some assumptions behind demands for automatic return",
+              "to explain how modern borders were drawn in colonial times"
+            ],
+            "answer": 2,
+            "evidence": "Yet the case for automatic return has weaknesses of its own",
+            "explanation": "The paragraph examines two assumptions of the 'automatic return' position (modern borders and meaning lying wholly in origin). B is directly rejected: 'To say this is not to excuse the manner of its removal'. A goes too far: the writer criticises both sides, and colonial borders (D) are only an example.",
+            "optionNotes": [
+              "Too strong: the writer questions both positions and does not conclude that objects should stay.",
+              "The writer says this is 'not to excuse the manner of its removal'.",
+              "Correct: the paragraph lists weaknesses in the case for automatic return.",
+              "Colonial borders are mentioned only as an example within the argument."
+            ]
+          },
+          {
+            "id": "q14",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What does the writer conclude in the final paragraph?",
+            "options": [
+              "Disputes about objects should be settled by a single international principle.",
+              "The issue is better understood in terms of relationships than of ownership.",
+              "Most disputed objects will eventually be returned to their places of origin.",
+              "Museums and source communities are rarely able to cooperate."
+            ],
+            "answer": 1,
+            "evidence": "both camps have been arguing about property when the more important question concerns relationships",
+            "explanation": "'Ownership' paraphrases 'property'. A is the opposite of the writer's view: the answer 'cannot be decided in general, by a principle that applies to all museums everywhere'. C and D are not stated; the writer says listening is 'demanding', not that cooperation rarely happens.",
+            "optionNotes": [
+              "Contradicted: it cannot be decided by a general principle.",
+              "Correct: property vs relationships.",
+              "No prediction is made about future returns.",
+              "Listening is called 'demanding', which is not the same as rare."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

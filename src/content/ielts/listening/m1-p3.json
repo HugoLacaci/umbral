@@ -1,0 +1,124 @@
+[
+  {
+    "id": "ielts-l-m1-p3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 1,
+    "part": 3,
+    "title": "Evaluating a bike-hire scheme",
+    "context": "You will hear two tourism students, Grace and Ben, discussing a report on their city's public bike-hire scheme.",
+    "audio": {
+      "speakers": [
+        { "id": "grace", "name": "Grace", "role": "student", "gender": "f", "accent": "en-AU" },
+        { "id": "ben", "name": "Ben", "role": "student", "gender": "m", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "grace", "t": "So, Ben, we need to agree on the structure of the bike-hire report. I thought we'd start with the aims of the scheme. It was introduced to cut traffic congestion, wasn't it?" },
+        { "s": "ben", "t": "That's what everyone assumes, but I went through the council documents, and congestion is only mentioned in passing. The main goal was to get visitors to explore beyond the old town, so the money they spend is spread more widely." },
+        { "s": "grace", "t": "Oh, so it was really a tourism project. That changes how we judge it. And what about the usage figures? I wasn't at all surprised that most trips were under twenty minutes." },
+        { "s": "ben", "t": "No, that's typical. What I didn't expect was who the users were. The majority turned out to be local residents riding to work, not tourists at all." },
+        { "s": "grace", "t": "That is surprising, given the aim. So what would you say is the scheme's biggest weakness? I'd have said the price. Three pounds an hour seems a lot." },
+        { "s": "ben", "t": "Compared with a taxi, it's nothing. I think the real issue is the app. You have to go through about six screens to register, and you can't pay without it." },
+        { "s": "grace", "t": "Actually, that's true. When I tried it, I nearly gave up. And tourists using their phones abroad will find it even harder. OK, the app is the main weakness." },
+        { "s": "ben", "t": "There's also the problem of empty stations. Have you noticed that the ones at the top of hills are nearly always empty?" },
+        { "s": "grace", "t": "Because people ride down but don't ride back up. I'd assumed the stations were just too small." },
+        { "s": "ben", "t": "Some are, but that isn't the main reason. The vans that bring bikes back up the hill can't keep up with demand." },
+        { "s": "grace", "t": "Hmm, so it's really about the hills. Then for the comparison section, I suggested Paris, because their scheme is so famous." },
+        { "s": "ben", "t": "But Paris is a huge capital city. It'd be much more useful to compare ours with a scheme in a city of a similar size. There's one in Aarhus in Denmark that's been well studied." },
+        { "s": "grace", "t": "Fine, Aarhus it is. Now, the last section is recommendations for each area. Let's start with the railway station." },
+        { "s": "ben", "t": "That one runs out of bikes every single morning, with commuters. I'd suggest electric bikes, to make it more attractive." },
+        { "s": "grace", "t": "But electric bikes really help with hills, and the area around the station is completely flat. The problem there is simply quantity. They need more bikes." },
+        { "s": "ben", "t": "Good point. More bikes at the station. What about the harbour?" },
+        { "s": "grace", "t": "The station there is hidden behind the ferry terminal. I was going to suggest moving it." },
+        { "s": "ben", "t": "There's no space anywhere else on the seafront, though. I think better signs would solve it. Most tourists just don't know it's there." },
+        { "s": "grace", "t": "Yes, that's cheaper too. Then the university campus, which is right at the top of the hill." },
+        { "s": "ben", "t": "That's where electric bikes would make the biggest difference. Students would actually be able to ride home." },
+        { "s": "grace", "t": "Agreed. And the old town? The station's fine, but people say they feel unsafe on the main road leading to it." },
+        { "s": "ben", "t": "Then what's needed is a proper cycle lane, separated from the traffic. The council has talked about it for years." },
+        { "s": "grace", "t": "Right. And finally, the hospital. Hardly anyone uses that station. Maybe it should be moved closer to the car park entrance?" },
+        { "s": "ben", "t": "I don't think moving it would help. Most hospital staff work night shifts and drive. Honestly, I'd close it and use those bikes at the railway station instead." },
+        { "s": "grace", "t": "I suppose that makes sense. It'd save money too. OK, let's write it up. I'll draft the first two sections tonight and send them over, and then you can take care of the recommendations and the comparison with Aarhus." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–25\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q1", "kind": "mcq", "qtype": "mcq",
+            "prompt": "According to the council documents, the main aim of the scheme was to",
+            "options": ["reduce traffic congestion.", "encourage tourists to visit more areas.", "improve the health of residents."],
+            "answer": 1,
+            "optionNotes": ["Grace's assumption; congestion is only mentioned in passing.", "Correct.", "Not mentioned."],
+            "explanation": "Ben says the main goal was to get visitors to explore beyond the old town.",
+            "evidence": "The main goal was to get visitors to explore beyond the old town"
+          },
+          {
+            "id": "q2", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What surprised the students about the usage figures?",
+            "options": ["the length of most journeys", "the type of people using the bikes", "the times when bikes were used"],
+            "answer": 1,
+            "optionNotes": ["Grace says short trips were not surprising.", "Correct: most users were residents, not tourists.", "Not discussed as a surprise."],
+            "explanation": "Short trips are 'typical'. What was unexpected was that most users were local residents.",
+            "evidence": "The majority turned out to be local residents riding to work"
+          },
+          {
+            "id": "q3", "kind": "mcq", "qtype": "mcq",
+            "prompt": "The students agree that the scheme's main weakness is",
+            "options": ["the cost of hiring a bike.", "the process of signing up.", "the small size of some stations."],
+            "answer": 1,
+            "optionNotes": ["Grace's first idea, but Ben says it is cheap compared with a taxi.", "Correct: the app needs about six screens to register.", "Mentioned later about empty stations, not as the main weakness."],
+            "explanation": "Grace suggests price, but Ben says the real issue is the app's registration process, and Grace agrees.",
+            "evidence": "OK, the app is the main weakness."
+          },
+          {
+            "id": "q4", "kind": "mcq", "qtype": "mcq",
+            "prompt": "Why are some stations often empty?",
+            "options": ["They are too small.", "Bikes are not returned to them quickly enough.", "Tourists do not know where they are."],
+            "answer": 1,
+            "optionNotes": ["Ben says this isn't the main reason.", "Correct: the vans can't keep up.", "This is about the harbour station, not empty stations."],
+            "explanation": "People ride downhill, and the vans that bring bikes back up can't keep up with demand.",
+            "evidence": "The vans that bring bikes back up the hill can't keep up with demand."
+          },
+          {
+            "id": "q5", "kind": "mcq", "qtype": "mcq",
+            "prompt": "The students will compare their city's scheme with one in",
+            "options": ["a capital city.", "a city of a similar size.", "a city with a failed scheme."],
+            "answer": 1,
+            "optionNotes": ["Paris is rejected as too big.", "Correct: Aarhus.", "Not mentioned."],
+            "explanation": "Grace suggests Paris, but Ben prefers a similar-sized city, Aarhus, and Grace agrees.",
+            "evidence": "compare ours with a scheme in a city of a similar size"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "matching",
+        "instructions": "Questions 26–30\nWhat do the students recommend for each location?\nChoose FIVE answers from the box and write the correct letter, A–G, next to Questions 26–30.",
+        "options": [
+          { "key": "A", "text": "provide more bikes" },
+          { "key": "B", "text": "introduce electric bikes" },
+          { "key": "C", "text": "move the station" },
+          { "key": "D", "text": "build a cycle lane" },
+          { "key": "E", "text": "put up better signs" },
+          { "key": "F", "text": "close the station" },
+          { "key": "G", "text": "reduce the price" }
+        ],
+        "items": [
+          { "id": "q6", "kind": "match", "qtype": "matching", "prompt": "the railway station", "answer": "A",
+            "explanation": "Ben suggests electric bikes, but Grace says the area is flat; they need more bikes.", "evidence": "More bikes at the station." },
+          { "id": "q7", "kind": "match", "qtype": "matching", "prompt": "the harbour", "answer": "E",
+            "explanation": "Moving it is impossible (no space); better signs would solve it.", "evidence": "I think better signs would solve it." },
+          { "id": "q8", "kind": "match", "qtype": "matching", "prompt": "the university campus", "answer": "B",
+            "explanation": "The campus is at the top of the hill, so electric bikes would help most.", "evidence": "That's where electric bikes would make the biggest difference." },
+          { "id": "q9", "kind": "match", "qtype": "matching", "prompt": "the old town", "answer": "D",
+            "explanation": "People feel unsafe on the main road; a separate cycle lane is needed.", "evidence": "what's needed is a proper cycle lane" },
+          { "id": "q10", "kind": "match", "qtype": "matching", "prompt": "the hospital", "answer": "F",
+            "explanation": "Grace suggests moving it, but Ben says it wouldn't help and recommends closing it; Grace agrees.", "evidence": "I'd close it and use those bikes at the railway station instead" }
+        ]
+      }
+    ]
+  }
+]

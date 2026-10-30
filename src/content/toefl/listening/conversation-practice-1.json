@@ -1,0 +1,297 @@
+[
+  {
+    "id": "toefl-conv-01", "difficulty": "easy", "usage": "practice", "task": "conversation", "title": "Renewing a library book",
+    "context": "Listen to a conversation between a student and a librarian.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Maria", "role": "Student", "gender": "f", "accent": "en-US" },
+        { "id": "b", "name": "Mr. Hughes", "role": "Librarian", "gender": "m", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi, I'd like to renew this book. It's due tomorrow, but I haven't finished my research yet." },
+        { "s": "b", "t": "Let me check. Hmm, I'm afraid I can't renew it. Another student has placed a hold on it." },
+        { "s": "a", "t": "Oh no. Is there another copy in the library?" },
+        { "s": "b", "t": "Not a physical copy, but we do have an electronic version. You can read it online with your student login." },
+        { "s": "a", "t": "Oh, that's perfect. Can I download chapters too?" },
+        { "s": "b", "t": "You can download up to fifty pages at a time. Just search for the title in the online catalog." },
+        { "s": "a", "t": "Great. I'll return this one today, then." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-purpose", "prompt": "Why does the woman go to the library desk?",
+        "options": ["To place a hold on a book", "To renew a book she has borrowed", "To ask how to download chapters", "To report a lost book"],
+        "answer": 1,
+        "optionNotes": ["Another student placed the hold, not her.", "Correct: she says so in her first sentence.", "She asks this later, after learning about the e-book.", "No book is lost."],
+        "explanation": "Her first words state her purpose: she wants to renew the book because she hasn't finished her research.",
+        "evidence": "Hi, I'd like to renew this book."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-next", "prompt": "What will the woman probably do next?",
+        "options": ["Wait for the other student to return the book", "Buy her own copy of the book", "Return the book and use the electronic version", "Ask her professor for an extension"],
+        "answer": 2,
+        "optionNotes": ["She doesn't mention waiting.", "Buying is never mentioned.", "Correct: she says she'll return it and is happy with the online version.", "No professor or extension is mentioned."],
+        "explanation": "She calls the e-book 'perfect' and then says she will return the physical copy today.",
+        "evidence": "I'll return this one today, then."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-02", "difficulty": "medium", "usage": "practice", "task": "conversation", "title": "Kitchen chores",
+    "context": "Listen to a conversation between two roommates.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Priya", "gender": "f", "accent": "en-GB" },
+        { "id": "b", "name": "Tom", "gender": "m", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hey, Tom, have you got a minute? I wanted to talk about the kitchen." },
+        { "s": "b", "t": "Sure. Is this about the dishes? Sorry, I know I left a pile last night." },
+        { "s": "a", "t": "Honestly, it's not just you. I've been doing it too. I was thinking we could make a schedule, like, alternate weeks for the dishes and for taking out the trash." },
+        { "s": "b", "t": "That makes sense. Actually, my weeks get pretty crazy when I've got lab shifts, though. Could we swap whenever one of us is busy?" },
+        { "s": "a", "t": "Sure, as long as we tell each other a day ahead." },
+        { "s": "b", "t": "Deal. I'll print a chart and stick it on the fridge tonight." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-gist", "prompt": "What are the speakers mainly discussing?",
+        "options": ["Who should pay for groceries", "How to organize household chores", "Tom's lab schedule", "Buying a new fridge"],
+        "answer": 1,
+        "optionNotes": ["Money is never mentioned.", "Correct: they plan a schedule for dishes and trash.", "Mentioned only as a reason to swap weeks.", "The fridge is only where the chart will go."],
+        "explanation": "The whole conversation is about sharing kitchen tasks with a schedule.",
+        "evidence": "I was thinking we could make a schedule"
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-detail", "prompt": "What condition does the woman set for swapping weeks?",
+        "options": ["Tom must do extra chores the following week.", "Swaps are only allowed during exam periods.", "They have to give each other one day's notice.", "Tom must pay for the cleaning supplies."],
+        "answer": 2,
+        "optionNotes": ["Not mentioned.", "Not mentioned; Tom mentions lab shifts, not exams.", "Correct: 'tell each other a day ahead'.", "Not mentioned."],
+        "explanation": "She agrees to swaps 'as long as' they warn each other a day before.",
+        "evidence": "as long as we tell each other a day ahead"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-03", "difficulty": "easy", "usage": "practice", "task": "conversation", "title": "Clinic appointment",
+    "context": "Listen to a conversation between a student and a receptionist at the campus health clinic.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Leo", "role": "Student", "gender": "m", "accent": "en-US" },
+        { "id": "b", "name": "Janet", "role": "Receptionist", "gender": "f", "accent": "en-CA" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi, I'd like to make an appointment. I've had a sore throat for about four days now." },
+        { "s": "b", "t": "Okay. Are you a registered student?" },
+        { "s": "a", "t": "Yes, I am. Here's my ID card." },
+        { "s": "b", "t": "Thanks. The earliest appointment with a doctor is on Thursday. But if you don't want to wait, the nurse sees walk-in patients every morning from eight to ten." },
+        { "s": "a", "t": "Oh, I'd rather not wait until Thursday. So I could just come in tomorrow at eight?" },
+        { "s": "b", "t": "Exactly. Try to arrive early, though. It gets pretty busy by nine." },
+        { "s": "a", "t": "Okay, I'll do that. Thanks." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-detail", "prompt": "What is the man's health problem?",
+        "options": ["He has a headache.", "He has had a sore throat for several days.", "He injured his arm.", "He needs a vaccination."],
+        "answer": 1,
+        "optionNotes": ["Not mentioned.", "Correct: a sore throat for about four days.", "Not mentioned.", "Not mentioned."],
+        "explanation": "He states the problem in his first sentence.",
+        "evidence": "I've had a sore throat for about four days now."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-next", "prompt": "What will the man most likely do?",
+        "options": ["Come back on Thursday to see a doctor", "Go to a hospital off campus", "Call the clinic again later", "Visit the nurse tomorrow morning"],
+        "answer": 3,
+        "optionNotes": ["He says he'd rather not wait until Thursday.", "Not mentioned.", "Not mentioned.", "Correct: he plans to come in at eight tomorrow for walk-in hours."],
+        "explanation": "He prefers the walk-in option and confirms he'll come at eight tomorrow.",
+        "evidence": "So I could just come in tomorrow at eight?"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-04", "difficulty": "medium", "usage": "practice", "task": "conversation", "title": "A late group member",
+    "context": "Listen to a conversation between two classmates.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Hannah", "gender": "f", "accent": "en-AU" },
+        { "id": "b", "name": "Diego", "gender": "m", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Have you heard from Marcus? Our group presentation is next Wednesday, and he still hasn't sent his slides." },
+        { "s": "b", "t": "I texted him yesterday. He said he's been sick, but he'd have them done by the weekend." },
+        { "s": "a", "t": "Hmm, I hope so. Last time he promised that, we got them the night before." },
+        { "s": "b", "t": "Yeah, I remember. Look, why don't we each prepare a backup slide on his section, just in case?" },
+        { "s": "a", "t": "That's extra work, but I guess it's safer than panicking on Tuesday night." },
+        { "s": "b", "t": "Exactly. And if he does send them, we'll just combine the best parts." },
+        { "s": "a", "t": "Okay. I'll draft something on the survey results tonight." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-attitude", "prompt": "How does the woman feel about Marcus's promise?",
+        "options": ["She doubts he will keep it.", "She is confident he will finish early.", "She is angry that he got sick.", "She thinks it is not important."],
+        "answer": 0,
+        "optionNotes": ["Correct: she remembers he was late last time.", "The opposite of what she suggests.", "She shows no anger about his illness.", "She clearly cares about the slides."],
+        "explanation": "'I hope so' plus the memory of last time shows she is doubtful.",
+        "evidence": "Last time he promised that, we got them the night before."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-detail", "prompt": "What does the man suggest?",
+        "options": ["Asking the professor for more time", "Removing Marcus from the group", "Preparing backup slides for Marcus's section", "Presenting without any slides"],
+        "answer": 2,
+        "optionNotes": ["Not mentioned.", "Not mentioned.", "Correct: each of them prepares a backup slide.", "Not mentioned."],
+        "explanation": "He proposes a backup plan in case Marcus is late again.",
+        "evidence": "why don't we each prepare a backup slide on his section, just in case?"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-05", "difficulty": "hard", "usage": "practice", "task": "conversation", "title": "Textbook editions",
+    "context": "Listen to a conversation between a student and a clerk at the campus bookstore.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Aisha", "role": "Student", "gender": "f", "accent": "en-CA" },
+        { "id": "b", "name": "Oliver", "role": "Clerk", "gender": "m", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi, I'm looking for Principles of Microeconomics, the ninth edition. The website says you have it in stock." },
+        { "s": "b", "t": "Let me look. Ah, we sold the last new copy this morning, I'm afraid. We've got a used eighth edition for about half the price, though." },
+        { "s": "a", "t": "Half the price? That's tempting. But my syllabus specifically says ninth edition." },
+        { "s": "b", "t": "A lot of students ask about that. Between you and me, the differences are usually just the order of a couple of chapters and some updated examples. Still, I'd check with your professor before buying." },
+        { "s": "a", "t": "Right. If the homework problems are from the book, the numbers might not match." },
+        { "s": "b", "t": "Exactly. We can also order a new ninth edition for you. It'd be here by Monday." },
+        { "s": "a", "t": "Let me email my professor first, and I'll come back this afternoon." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-inference", "prompt": "Why is the woman hesitant to buy the used eighth edition?",
+        "options": ["It is more expensive than a new copy.", "It is in poor condition.", "Her assignments might not match that edition.", "The bookstore will not let her return it."],
+        "answer": 2,
+        "optionNotes": ["It is half the price.", "Its condition is never discussed.", "Correct: homework problems could differ between editions.", "Returns are not mentioned."],
+        "explanation": "She worries that if homework comes from the book, the problem numbers in the older edition may be different.",
+        "evidence": "If the homework problems are from the book, the numbers might not match."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-next", "prompt": "What will the woman do next?",
+        "options": ["Contact her professor", "Order the ninth edition", "Buy the eighth edition", "Look for the book online"],
+        "answer": 0,
+        "optionNotes": ["Correct: she will email her professor first.", "She may do this later, but not before asking her professor.", "She hasn't decided yet.", "Not mentioned."],
+        "explanation": "Before deciding, she wants her professor's opinion.",
+        "evidence": "Let me email my professor first"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-06", "difficulty": "medium", "usage": "practice", "task": "conversation", "title": "Two job offers",
+    "context": "Listen to a conversation between two friends.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Noah", "gender": "m", "accent": "en-CA" },
+        { "id": "b", "name": "Grace", "gender": "f", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Guess what? I got both jobs I applied for. The café and the campus museum." },
+        { "s": "b", "t": "Congratulations! So which one are you taking?" },
+        { "s": "a", "t": "That's the problem. The café pays more, but the shifts are late at night, and I've got an eight a.m. class three days a week." },
+        { "s": "b", "t": "And the museum?" },
+        { "s": "a", "t": "The pay's a bit lower, but it's only weekend afternoons. Plus, it's related to my art history major." },
+        { "s": "b", "t": "Honestly, it sounds like you already know which one you want. Being tired all semester for a couple of extra dollars an hour doesn't seem worth it." },
+        { "s": "a", "t": "Yeah, you're right. I'll call the museum tomorrow and accept." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-gist", "prompt": "What is the man's problem?",
+        "options": ["He did not get the job he wanted.", "He has to choose between two job offers.", "He cannot find a job related to his major.", "His class schedule changed."],
+        "answer": 1,
+        "optionNotes": ["He got both jobs.", "Correct: he must decide which offer to accept.", "The museum job is related to his major.", "No schedule change is mentioned."],
+        "explanation": "He was offered two jobs and is deciding between them.",
+        "evidence": "I got both jobs I applied for."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-detail", "prompt": "Why is the café job less attractive to the man?",
+        "options": ["It pays less than the museum.", "It is far from campus.", "Its late shifts conflict with his early classes.", "It requires weekend work."],
+        "answer": 2,
+        "optionNotes": ["The café pays more.", "Location is not mentioned.", "Correct: late shifts plus eight a.m. classes.", "It's the museum job that is on weekends."],
+        "explanation": "Working late and then attending early classes would leave him tired.",
+        "evidence": "the shifts are late at night, and I've got an eight a.m. class three days a week"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-07", "difficulty": "easy", "usage": "practice", "task": "conversation", "title": "Swimming class",
+    "context": "Listen to a conversation between a student and an employee at the recreation center.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Liam", "role": "Employee", "gender": "m", "accent": "en-AU" },
+        { "id": "b", "name": "Sophie", "role": "Student", "gender": "f", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Welcome to the Rec Center. How can I help?" },
+        { "s": "b", "t": "Hi, I wanted to sign up for the beginner swimming class on Tuesday evenings." },
+        { "s": "a", "t": "Let me see. Sorry, that one's full. But there's space in the Saturday morning class. It's the same level." },
+        { "s": "b", "t": "On Saturday mornings I work at the bookstore. Is there a waiting list for Tuesday?" },
+        { "s": "a", "t": "There is. You'd be third on the list, and people often drop out after the first week." },
+        { "s": "b", "t": "Okay, please put me on it. My email's on my student account." },
+        { "s": "a", "t": "Done. We'll email you if a spot opens up." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-detail", "prompt": "Why can't the woman take the Saturday class?",
+        "options": ["It is for advanced swimmers.", "She has a job at that time.", "It is already full.", "She has a class on Saturdays."],
+        "answer": 1,
+        "optionNotes": ["It's the same level.", "Correct: she works at the bookstore on Saturday mornings.", "It's the Tuesday class that is full.", "She mentions work, not a class."],
+        "explanation": "She explains that she works on Saturday mornings.",
+        "evidence": "On Saturday mornings I work at the bookstore."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-detail", "prompt": "How will the woman find out if a place becomes available?",
+        "options": ["She will receive an email.", "She will check the website.", "She will call the center.", "She will come to the first class."],
+        "answer": 0,
+        "optionNotes": ["Correct: the center will email her.", "Not mentioned.", "Not mentioned.", "Not mentioned."],
+        "explanation": "The employee promises to email her.",
+        "evidence": "We'll email you if a spot opens up."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-08", "difficulty": "hard", "usage": "practice", "task": "conversation", "title": "A missed appointment",
+    "context": "Listen to a conversation between a student and a department secretary.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Ethan", "role": "Student", "gender": "m", "accent": "en-US" },
+        { "id": "b", "name": "Karen", "role": "Secretary", "gender": "f", "accent": "en-AU" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Hi, I had an appointment with Professor Lin at two today, but I need to move it. My bus got cancelled." },
+        { "s": "b", "t": "Oh, actually, Professor Lin isn't in today at all. She's at a conference in Denver until Friday. Didn't you get her email?" },
+        { "s": "a", "t": "No, I didn't. Maybe it went to my spam folder. Hmm. I really wanted to ask her about my research proposal before it's due on Monday." },
+        { "s": "b", "t": "Well, her teaching assistant, Mark, has office hours tomorrow from ten to noon. He's read most of the proposals, so he could probably help." },
+        { "s": "a", "t": "That might work. Though I'd still like the professor's opinion on my topic." },
+        { "s": "b", "t": "She checks her email in the evenings, even when she's traveling. You could send her a short summary." },
+        { "s": "a", "t": "Good idea. I'll do both." }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1", "kind": "mcq", "qtype": "ls-inference", "prompt": "What can be inferred about the man?",
+        "options": ["He forgot about his appointment.", "He did not know the professor was away.", "He has already submitted his proposal.", "He has met the teaching assistant before."],
+        "answer": 1,
+        "optionNotes": ["He remembered it; he wanted to change it.", "Correct: he never saw her email about the conference.", "It's due on Monday, so not yet.", "Nothing suggests this."],
+        "explanation": "He came to move the appointment, and he says he didn't get the professor's email, so he didn't know she was at a conference.",
+        "evidence": "No, I didn't. Maybe it went to my spam folder."
+      },
+      {
+        "id": "q2", "kind": "mcq", "qtype": "ls-next", "prompt": "What will the man probably do?",
+        "options": ["Only email the professor", "Wait until Friday to see the professor", "See the teaching assistant and email the professor", "Change his research topic"],
+        "answer": 2,
+        "optionNotes": ["He says he'll do both things, not only one.", "Not mentioned; his proposal is due Monday.", "Correct: 'I'll do both' refers to the TA's office hours and the email.", "Not mentioned."],
+        "explanation": "The secretary suggests two things (the TA's office hours and an email to the professor), and he decides to do both.",
+        "evidence": "Good idea. I'll do both."
+      }
+    ]
+  }
+]

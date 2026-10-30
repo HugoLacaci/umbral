@@ -1,0 +1,75 @@
+[
+  {
+    "id": "ielts-l-m4-p2",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "part": 2,
+    "title": "Welcome to Gannet Island nature reserve",
+    "context": "You will hear a warden giving a talk to visitors on the ferry to an island nature reserve.",
+    "audio": {
+      "speakers": [
+        { "id": "a", "name": "Helen", "role": "Reserve warden", "gender": "f", "accent": "en-GB" }
+      ],
+      "lines": [
+        { "s": "a", "t": "Good morning, everyone, and welcome aboard. My name's Helen, and I'm one of the wardens on Gannet Island. We've got about twenty minutes before we land, so I'd like to tell you a little about the island and how to get the most out of your visit." },
+        { "s": "a", "t": "First, a bit of history. You might imagine the island has always been wild, but for over a hundred years it was actually a sheep farm. The last farming family left in 1962, and you'll still see the ruins of their stone cottage near the landing stage." },
+        { "s": "a", "t": "So why did it become a reserve? Well, there are plenty of seals around the coast, and some very rare plants on the cliffs. But the main reason was the puffin colony, which is one of the largest on this side of the country. In a good year we have around eight thousand pairs." },
+        { "s": "a", "t": "Because the island is so fragile, we limit the number of visitors. Until last year we allowed two hundred people a day, but we found the paths were getting badly worn, so the limit is now one hundred and twenty." },
+        { "s": "a", "t": "Please keep an eye on the time while you're on the island. The boat back to the mainland leaves at 4.30. If you miss it, I'm afraid there isn't another one until the following morning, and there's nowhere to stay." },
+        { "s": "a", "t": "When you're walking around, please stay on the marked paths at all times. The puffins nest in burrows under the grass, and the ground can collapse very easily if you step on it. It's not just dangerous for the birds, you could twist an ankle too." },
+        { "s": "a", "t": "The visitor centre is just up from the landing stage. It's small, but it's well worth a visit, because there's a screen showing live pictures from a camera on the cliffs, so you can watch the birds feeding their chicks without disturbing them." },
+        { "s": "a", "t": "Now, a few people have asked what activities are on this summer. I'm sorry to say the guided night walks have stopped, because we couldn't get enough staff to run them safely. Some of you may have seen people snorkelling off the beach in old photographs, but it's no longer allowed because of the strong currents. And the bird-ringing demonstrations finished last month, when the research team left. What we do have is a photography workshop every afternoon with a local wildlife photographer, which is excellent. And if you've got time before your boat, there's a short boat trip right round the island, which is the best way to see the seals." },
+        { "s": "a", "t": "Finally, some advice. You don't need to worry if you haven't brought binoculars, because we lend them out free at the visitor centre. There are no bins on the island, so please take all your rubbish back to the mainland with you. And I'd strongly recommend wearing a hat. In the nesting season, the gulls will dive at anyone who walks too close to their chicks, and a hat gives you some protection. Oh, and of course, please don't feed any of the birds, however hungry they look." },
+        { "s": "a", "t": "Right, I can see the island now, so let's get ready to land." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "note-completion",
+        "instructions": "Questions 11–16\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+        "title": "Gannet Island – visitor information",
+        "template": "History: the island was a {{q11}} farm until 1962\nMain reason for the reserve: its {{q12}} colony\nMaximum number of visitors per day: {{q13}}\nLast boat to the mainland: {{q14}}\nStay on the paths to protect the {{q15}} where birds nest\nVisitor centre: live pictures from a {{q16}} on the cliffs",
+        "items": [
+          { "id": "q11", "kind": "gap", "qtype": "note-completion", "answers": ["sheep"], "maxWords": 1, "allowNumber": true,
+            "explanation": "For over a hundred years the island was a sheep farm.", "evidence": "it was actually a sheep farm" },
+          { "id": "q12", "kind": "gap", "qtype": "note-completion", "answers": ["puffin"], "maxWords": 1, "allowNumber": true,
+            "explanation": "Seals and rare plants are mentioned, but the main reason was the puffin colony.", "evidence": "the main reason was the puffin colony" },
+          { "id": "q13", "kind": "gap", "qtype": "note-completion", "answers": ["120"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The old limit was 200; it is now 120.", "evidence": "the limit is now one hundred and twenty" },
+          { "id": "q14", "kind": "gap", "qtype": "note-completion", "answers": ["4.30", "4:30", "4.30pm", "4:30pm", "4.30 pm", "4:30 pm", "16:30"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The boat back leaves at 4.30.", "evidence": "The boat back to the mainland leaves at 4.30." },
+          { "id": "q15", "kind": "gap", "qtype": "note-completion", "answers": ["burrows"], "maxWords": 1, "allowNumber": true,
+            "explanation": "The puffins nest in burrows, which can collapse if stepped on.", "evidence": "The puffins nest in burrows under the grass" },
+          { "id": "q16", "kind": "gap", "qtype": "note-completion", "answers": ["camera"], "maxWords": 1, "allowNumber": true,
+            "explanation": "A screen shows live pictures from a camera on the cliffs.", "evidence": "live pictures from a camera on the cliffs" }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "multi",
+        "instructions": "Questions 17 and 18\nChoose TWO letters, A–E.",
+        "items": [
+          { "id": "q17", "kind": "multi", "qtype": "multi", "prompt": "Which TWO activities are available to visitors this summer?",
+            "options": ["guided night walks", "snorkelling", "a photography workshop", "a boat trip around the island", "bird-ringing demonstrations"], "answers": [2, 3],
+            "explanation": "Night walks have stopped, snorkelling is no longer allowed and bird-ringing finished last month. The photography workshop and the round-island boat trip are on.",
+            "evidence": "What we do have is a photography workshop every afternoon",
+            "optionNotes": ["Stopped: not enough staff.", "No longer allowed because of currents.", "Correct.", "Correct.", "Finished last month."] }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "multi",
+        "instructions": "Questions 19 and 20\nChoose TWO letters, A–E.",
+        "items": [
+          { "id": "q19", "kind": "multi", "qtype": "multi", "prompt": "Which TWO things does Helen advise visitors to do?",
+            "options": ["bring their own binoculars", "take their rubbish home", "wear a hat", "feed the birds only at the visitor centre", "walk close to the cliff edge for the best views"], "answers": [1, 2],
+            "explanation": "Binoculars are lent free, so there is no need to bring them; birds must not be fed at all; nothing is said about the cliff edge. She asks visitors to take rubbish back and to wear a hat because of the gulls.",
+            "evidence": "please take all your rubbish back to the mainland with you",
+            "optionNotes": ["Not necessary: they are lent free.", "Correct.", "Correct: protection from diving gulls.", "No feeding anywhere.", "Not advised."] }
+        ]
+      }
+    ]
+  }
+]

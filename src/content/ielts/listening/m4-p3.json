@@ -1,0 +1,308 @@
+[
+  {
+    "id": "ielts-l-m4-p3",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "part": 3,
+    "title": "A case study of a vertical farm",
+    "context": "You will hear two students, Ellie and Josh, discussing a case study of an indoor vertical farm for their food systems assignment.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "ell",
+          "name": "Ellie",
+          "role": "student",
+          "gender": "f",
+          "accent": "en-AU"
+        },
+        {
+          "id": "jos",
+          "name": "Josh",
+          "role": "student",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "ell",
+          "t": "Josh, have you got a minute? I wanted to check where we are with the case study for our food systems assignment."
+        },
+        {
+          "s": "jos",
+          "t": "Sure. We agreed on the vertical farm in the old warehouse, didn't we? Greenstack."
+        },
+        {
+          "s": "ell",
+          "t": "Yes. I know some people in the class thought we picked it because it's only twenty minutes away, but we can't even go inside. They don't allow visitors, for hygiene reasons."
+        },
+        {
+          "s": "jos",
+          "t": "Right. And it's not the biggest one in the country either, not by a long way. The real advantage is that they publish really detailed figures every year, on energy, water, yields, everything. Most companies keep that kind of information secret."
+        },
+        {
+          "s": "ell",
+          "t": "Exactly. OK, so water. Their website claims they use ninety-five per cent less water than a conventional farm. That sounded far too good to be true."
+        },
+        {
+          "s": "jos",
+          "t": "I thought they might be exaggerating as well, so I looked into it. The plants are grown without soil, so no water drains away. And the moisture the plants give off into the air is captured by dehumidifiers and fed straight back into the system. So the figure's actually quite reasonable."
+        },
+        {
+          "s": "ell",
+          "t": "Interesting. I'd assumed they collected rainwater from the roof, but there was nothing about that in the report."
+        },
+        {
+          "s": "jos",
+          "t": "No. So, what about the downsides? I suppose the obvious one would be the price of land."
+        },
+        {
+          "s": "ell",
+          "t": "Not for them. It's an old industrial building, so the rent's fairly low. And they said they train their own staff, so finding workers isn't a problem. The thing that keeps coming up in the report is the electricity for the lights. The plants get no sunlight at all, so every bit of light they need has to be artificial."
+        },
+        {
+          "s": "jos",
+          "t": "Yes, that's definitely the biggest weakness. It's by far their largest cost."
+        },
+        {
+          "s": "ell",
+          "t": "Then we need a section on the location. I've noted two advantages. One is that they're right next to the city, so vegetables reach the shops within hours rather than being trucked across the country."
+        },
+        {
+          "s": "jos",
+          "t": "Yes. And the second is that they've given an empty building a new use instead of building on farmland. I thought there'd be a third, because the plan was to use waste heat from the factory next door."
+        },
+        {
+          "s": "ell",
+          "t": "That's right, but the factory closed before they opened, so that never happened. And they mention working with a college, but it's in a different city, so that's not really about location."
+        },
+        {
+          "s": "jos",
+          "t": "OK. Now the crops. Shall we go through them one by one? Lettuce first."
+        },
+        {
+          "s": "ell",
+          "t": "Lettuce is their main product. It makes up most of what the farm produces, about seventy per cent by weight. Some customers say it doesn't taste quite as strong as field lettuce, but the report says blind tests didn't find any difference."
+        },
+        {
+          "s": "jos",
+          "t": "Then strawberries. They're a lot trickier, because there are no insects inside the building."
+        },
+        {
+          "s": "ell",
+          "t": "Right. So the flowers have to be pollinated, and at the moment staff do it with a small brush. They're testing a robot that might do it eventually."
+        },
+        {
+          "s": "jos",
+          "t": "And basil. I was surprised how much they grow."
+        },
+        {
+          "s": "ell",
+          "t": "That's because nearly all of it goes to restaurants. Chefs like it because it arrives the day it's cut. The supermarkets only take a small amount."
+        },
+        {
+          "s": "jos",
+          "t": "What about wheat? I remember they did a trial."
+        },
+        {
+          "s": "ell",
+          "t": "They did, and it worked technically, but the amount of electricity needed to grow a grain crop under lights made it hopeless financially. Wheat is so cheap to grow outdoors that it just doesn't make sense."
+        },
+        {
+          "s": "jos",
+          "t": "And finally, microgreens, the tiny seedlings. I read that they once stopped growing them."
+        },
+        {
+          "s": "ell",
+          "t": "Only for a month, while they changed suppliers of seed. There weren't any complaints. What makes microgreens special is that they're the fastest crop they've got. They're harvested about ten days after sowing, which is quicker than anything else in the building."
+        },
+        {
+          "s": "jos",
+          "t": "OK, great. I'll start writing up the crops section tonight, and you can do water and energy."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–23\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q21",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "Why did the students choose Greenstack for their case study?",
+            "options": [
+              "They were able to visit it.",
+              "It is the largest vertical farm in the country.",
+              "It makes detailed information available."
+            ],
+            "answer": 2,
+            "optionNotes": [
+              "Visitors are not allowed, for hygiene reasons.",
+              "Josh says it is not the biggest \"by a long way\".",
+              "Correct."
+            ],
+            "explanation": "Its real advantage is that it publishes detailed yearly figures, which most companies keep secret.",
+            "evidence": "they publish really detailed figures every year"
+          },
+          {
+            "id": "q22",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What does Josh say about the farm's water use?",
+            "options": [
+              "The farm's claims are exaggerated.",
+              "Water released by the plants into the air is reused.",
+              "Rainwater is collected from the roof."
+            ],
+            "answer": 1,
+            "optionNotes": [
+              "He suspected this at first but found the figure reasonable.",
+              "Correct: dehumidifiers capture moisture and return it.",
+              "Ellie assumed this, but the report did not mention it."
+            ],
+            "explanation": "Moisture given off by the plants is captured by dehumidifiers and fed back into the system.",
+            "evidence": "the moisture the plants give off into the air is captured by dehumidifiers"
+          },
+          {
+            "id": "q23",
+            "kind": "mcq",
+            "qtype": "mcq",
+            "prompt": "What do the students agree is the main disadvantage of the farm?",
+            "options": [
+              "the cost of the land",
+              "the need for artificial light",
+              "a shortage of trained staff"
+            ],
+            "answer": 1,
+            "optionNotes": [
+              "The rent is fairly low.",
+              "Correct: electricity for the lights is the biggest cost.",
+              "They train their own staff without difficulty."
+            ],
+            "explanation": "The report keeps mentioning the electricity for the lights; Josh agrees it is the biggest weakness.",
+            "evidence": "that's definitely the biggest weakness"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "multi",
+        "instructions": "Questions 24 and 25\nChoose TWO letters, A–E.",
+        "items": [
+          {
+            "id": "q24",
+            "kind": "multi",
+            "qtype": "multi",
+            "prompt": "Which TWO advantages of the farm's location do the students include?",
+            "options": [
+              "It is close to its customers.",
+              "It uses waste heat from a nearby factory.",
+              "It has links with a local college.",
+              "It has good public transport for workers.",
+              "It has given an unused building a new purpose."
+            ],
+            "answers": [
+              0,
+              4
+            ],
+            "optionNotes": [
+              "Correct: vegetables reach the shops within hours.",
+              "Planned, but the factory closed.",
+              "The college is in a different city.",
+              "Not mentioned.",
+              "Correct: an empty building instead of farmland."
+            ],
+            "explanation": "Ellie notes the closeness to the city; Josh adds the reuse of an empty building. The waste-heat plan never happened and the college is elsewhere.",
+            "evidence": "they've given an empty building a new use"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "qtype": "matching",
+        "instructions": "Questions 26–30\nWhat do the students say about each crop?\nChoose FIVE answers from the box and write the correct letter, A–G, next to Questions 26–30.",
+        "options": [
+          {
+            "key": "A",
+            "text": "It is grown mainly for restaurants."
+          },
+          {
+            "key": "B",
+            "text": "It needs help with pollination."
+          },
+          {
+            "key": "C",
+            "text": "It uses too much energy to be profitable."
+          },
+          {
+            "key": "D",
+            "text": "It grows more quickly than the other crops."
+          },
+          {
+            "key": "E",
+            "text": "It forms the largest part of the farm's output."
+          },
+          {
+            "key": "F",
+            "text": "It was withdrawn after customer complaints."
+          },
+          {
+            "key": "G",
+            "text": "It tastes different from field-grown crops."
+          }
+        ],
+        "items": [
+          {
+            "id": "q26",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "lettuce",
+            "answer": "E",
+            "explanation": "It makes up about seventy per cent of production. The taste claim (G) was not supported by blind tests.",
+            "evidence": "It makes up most of what the farm produces"
+          },
+          {
+            "id": "q27",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "strawberries",
+            "answer": "B",
+            "explanation": "There are no insects, so staff pollinate the flowers with a brush.",
+            "evidence": "the flowers have to be pollinated"
+          },
+          {
+            "id": "q28",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "basil",
+            "answer": "A",
+            "explanation": "Nearly all of it goes to restaurants; supermarkets take only a little.",
+            "evidence": "nearly all of it goes to restaurants"
+          },
+          {
+            "id": "q29",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "wheat",
+            "answer": "C",
+            "explanation": "The electricity needed made it hopeless financially.",
+            "evidence": "made it hopeless financially"
+          },
+          {
+            "id": "q30",
+            "kind": "match",
+            "qtype": "matching",
+            "prompt": "microgreens",
+            "answer": "D",
+            "explanation": "They were paused while changing seed suppliers, with no complaints (not F). They are the fastest crop.",
+            "evidence": "they're the fastest crop they've got"
+          }
+        ]
+      }
+    ]
+  }
+]

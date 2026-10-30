@@ -1,0 +1,115 @@
+[
+  {
+    "id": "ielts-l-p3-05",
+    "difficulty": "hard",
+    "usage": "practice",
+    "part": 3,
+    "title": "The shipping container",
+    "context": "You will hear two economics students, Olivia and Marcus, preparing a seminar presentation on how the shipping container changed world trade.",
+    "audio": {
+      "speakers": [
+        { "id": "olivia", "name": "Olivia", "role": "student", "gender": "f", "accent": "en-NZ" },
+        { "id": "marcus", "name": "Marcus", "role": "student", "gender": "m", "accent": "en-US" }
+      ],
+      "lines": [
+        { "s": "marcus", "t": "So, did you get through the article on the shipping container?" },
+        { "s": "olivia", "t": "I did. I'd always assumed the container was a single brilliant invention, but what surprised me was that the basic idea wasn't new at all. People had been loading goods onto ships in large wooden boxes since the eighteenth century. The real breakthrough in the nineteen fifties was getting everyone to use the same size of box." },
+        { "s": "marcus", "t": "I knew that part, actually, from a documentary. What struck me were the cost figures. Loading costs supposedly fell by more than ninety percent." },
+        { "s": "olivia", "t": "Impressive, isn't it?" },
+        { "s": "marcus", "t": "It is, but I'm a bit wary of those numbers. They're all based on a single voyage from one port in New Jersey. That's hardly representative of shipping in general." },
+        { "s": "olivia", "t": "Well, at least they've been converted into today's money, so the comparison is fair in that sense. And the source is a university study, not some company's advertising." },
+        { "s": "marcus", "t": "True, but one port is still one port. I think we should say that in the presentation." },
+        { "s": "olivia", "t": "OK, fair enough. Now, we can't cover everything in twenty minutes. I was thinking we could focus on the environmental impact." },
+        { "s": "marcus", "t": "I'd love to, but there's almost no data on that for the period. What the article does have is loads of material on what happened to the old port cities. London and New York lost tens of thousands of dock jobs within about fifteen years, while new container ports grew up in places that had never been important before." },
+        { "s": "olivia", "t": "That's a much stronger story. And it's more human than changes in ship design, which was my other idea. Let's make the port cities our focus." },
+        { "s": "marcus", "t": "Agreed. How do we make it visual? I found a great video clip of the London docks in the nineteen fifties." },
+        { "s": "olivia", "t": "We'd need permission to show it, and that could take weeks. What about a set of photographs comparing the same places then and now? The docks have mostly been turned into offices and flats." },
+        { "s": "marcus", "t": "That would be really striking. I'd also thought of interviewing a retired dockworker, but I don't know anyone. So photographs, then." },
+        { "s": "olivia", "t": "And what did you make of the article's conclusion, that the container did more for globalisation than all the trade agreements put together?" },
+        { "s": "marcus", "t": "I think it overstates the case. The big trade agreements were happening at exactly the same time, so you can't really separate the two effects." },
+        { "s": "olivia", "t": "The evidence is fairly recent, though." },
+        { "s": "marcus", "t": "It is. I'm not saying the research is old. I just think the author is claiming more than the evidence allows." },
+        { "s": "olivia", "t": "That's a good point for the discussion. So, who does what? I'll find the employment figures for London's docks. The city archive should have them." },
+        { "s": "marcus", "t": "Great. And I'll get in touch with the maritime museum about the photographs. They've got a huge collection, and I think students can use them for free." },
+        { "s": "olivia", "t": "When do we need to have the slides finished? The seminar's on Friday, so Thursday?" },
+        { "s": "marcus", "t": "Doctor Evans said she wants them two days before, so she can check them. So it'll have to be Wednesday." },
+        { "s": "olivia", "t": "Wednesday it is. And how should we finish? I thought a short quiz might wake people up." },
+        { "s": "marcus", "t": "Quizzes always take longer than you expect, and we'll be short of time already. Why don't we just end with a discussion question for the class, something like, is the container the most important invention of the twentieth century?" },
+        { "s": "olivia", "t": "Yes, that's simpler. We should also rehearse at least once. My flat's too small for that." },
+        { "s": "marcus", "t": "Let's book a study room in the library. The ones on the top floor have a screen we can practise with." },
+        { "s": "olivia", "t": "Perfect. I'll book it for Tuesday afternoon." }
+      ]
+    },
+    "groups": [
+      {
+        "id": "g1",
+        "qtype": "mcq",
+        "instructions": "Questions 21–25\nChoose the correct letter, A, B or C.",
+        "items": [
+          {
+            "id": "q1", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What surprised Olivia about the history of the container?",
+            "options": ["It was invented by a single person.", "The basic idea had existed for a long time.", "The first containers were made of wood."],
+            "answer": 1,
+            "optionNotes": ["This was her assumption before reading, which turned out to be wrong.", "Correct.", "Wooden boxes are mentioned, but they are not what surprised her."],
+            "explanation": "Olivia had assumed it was one invention; what surprised her was that the idea dated from the eighteenth century.",
+            "evidence": "what surprised me was that the basic idea wasn't new at all"
+          },
+          {
+            "id": "q2", "kind": "mcq", "qtype": "mcq",
+            "prompt": "Why is Marcus doubtful about the cost figures in the article?",
+            "options": ["They are based on a very limited example.", "They have not been adjusted for inflation.", "They come from a commercial source."],
+            "answer": 0,
+            "optionNotes": ["Correct: a single voyage from one port.", "Olivia says they have been converted into today's money.", "Olivia says the source is a university study."],
+            "explanation": "Marcus says the figures come from one voyage from one port, which is not representative.",
+            "evidence": "They're all based on a single voyage from one port in New Jersey."
+          },
+          {
+            "id": "q3", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What will the presentation focus on?",
+            "options": ["the impact of containers on the environment", "the effect on traditional port cities", "developments in the design of ships"],
+            "answer": 1,
+            "optionNotes": ["There is almost no data for the period.", "Correct.", "Olivia's other idea, which she drops."],
+            "explanation": "Olivia's environmental idea lacks data; they agree to focus on the old port cities.",
+            "evidence": "Let's make the port cities our focus."
+          },
+          {
+            "id": "q4", "kind": "mcq", "qtype": "mcq",
+            "prompt": "How will the students illustrate their presentation?",
+            "options": ["with a historical video clip", "with an interview with a former dockworker", "with photographs from different periods"],
+            "answer": 2,
+            "optionNotes": ["Getting permission could take weeks.", "Marcus doesn't know anyone to interview.", "Correct: the same places then and now."],
+            "explanation": "The video is rejected because of permission, the interview because they know no one; they choose then-and-now photographs.",
+            "evidence": "So photographs, then."
+          },
+          {
+            "id": "q5", "kind": "mcq", "qtype": "mcq",
+            "prompt": "What is Marcus's view of the article's conclusion?",
+            "options": ["It is based on out-of-date research.", "It exaggerates the importance of the container.", "It ignores the effects on workers."],
+            "answer": 1,
+            "optionNotes": ["He explicitly says the research is not old.", "Correct: 'it overstates the case'.", "Not mentioned as a criticism."],
+            "explanation": "Marcus thinks the author claims more than the evidence allows, because trade agreements happened at the same time.",
+            "evidence": "I think it overstates the case."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "qtype": "sentence-completion",
+        "instructions": "Questions 26–30\nComplete the sentences below.\nWrite NO MORE THAN TWO WORDS for each answer.",
+        "items": [
+          { "id": "q6", "kind": "gap", "qtype": "sentence-completion", "prompt": "Olivia will look for figures on ___ at London's docks.", "answers": ["employment"], "maxWords": 2, "allowNumber": false,
+            "explanation": "Olivia will find the employment figures for London's docks.", "evidence": "I'll find the employment figures for London's docks." },
+          { "id": "q7", "kind": "gap", "qtype": "sentence-completion", "prompt": "Marcus will ask the ___ for permission to use photographs.", "answers": ["maritime museum"], "maxWords": 2, "allowNumber": false,
+            "explanation": "Marcus will get in touch with the maritime museum about the photographs.", "evidence": "I'll get in touch with the maritime museum about the photographs" },
+          { "id": "q8", "kind": "gap", "qtype": "sentence-completion", "prompt": "The slides must be completed by ___.", "answers": ["Wednesday"], "maxWords": 2, "allowNumber": false,
+            "explanation": "Olivia suggests Thursday, but the tutor wants them two days before Friday, so Wednesday.", "evidence": "So it'll have to be Wednesday." },
+          { "id": "q9", "kind": "gap", "qtype": "sentence-completion", "prompt": "The presentation will end with a ___ for the audience.", "answers": ["discussion question", "question"], "maxWords": 2, "allowNumber": false,
+            "explanation": "A quiz is rejected as too time-consuming; they will end with a discussion question.", "evidence": "end with a discussion question for the class" },
+          { "id": "q10", "kind": "gap", "qtype": "sentence-completion", "prompt": "The students will rehearse in a ___ in the library.", "answers": ["study room"], "maxWords": 2, "allowNumber": false,
+            "explanation": "Marcus suggests booking a study room in the library.", "evidence": "book a study room in the library" }
+        ]
+      }
+    ]
+  }
+]

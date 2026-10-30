@@ -1,0 +1,74 @@
+[
+  {
+    "id": "toefl-build-09", "difficulty": "medium", "usage": "practice",
+    "context": { "name": "Rachel", "text": "Where did you get that bike? It looks brand new." },
+    "respondent": "Daniel",
+    "prefix": "I", "suffix": ".",
+    "answer": ["bought", "it", "from a student", "who", "was moving away"],
+    "distractors": ["which"],
+    "explanation": "Oración de relativo: «who» se refiere a una persona («a student who was moving away»). «Which» se usa para cosas, por eso sobra."
+  },
+  {
+    "id": "toefl-build-10", "difficulty": "medium", "usage": "practice",
+    "context": { "name": "Kevin", "text": "Why is the gym closed today?" },
+    "respondent": "Laura",
+    "prefix": "The floors", "suffix": "until Monday.",
+    "answer": ["are", "being", "replaced,", "so", "it", "won't open"],
+    "distractors": ["replacing"],
+    "explanation": "Pasiva en presente continuo: «are being + participio» («are being replaced»). Los suelos no reemplazan nada: reciben la acción, por eso no vale «replacing»."
+  },
+  {
+    "id": "toefl-build-11", "difficulty": "medium", "usage": "practice",
+    "context": { "name": "Dr. Kim", "text": "Your lab report was missing the data tables." },
+    "respondent": "Jin",
+    "prefix": "I'm sorry. I", "suffix": ".",
+    "answer": ["must have", "forgotten", "to attach", "them"],
+    "distractors": ["forgot"],
+    "explanation": "Modal de deducción sobre el pasado: «must have + participio» («must have forgotten»). Tras «have» va el participio, no el pasado simple «forgot». «Forget to do» = olvidarse de hacer algo."
+  },
+  {
+    "id": "toefl-build-12", "difficulty": "medium", "usage": "practice",
+    "context": { "name": "Mia", "text": "I'm not sure which electives to take next semester." },
+    "respondent": "Noah",
+    "prefix": "Why don't you", "suffix": "?",
+    "answer": ["ask", "your advisor", "which", "courses", "are", "most useful"],
+    "distractors": ["do"],
+    "explanation": "Sugerencia con «Why don't you…?» + pregunta indirecta («which courses are most useful»). En la parte incrustada no hay inversión ni auxiliar «do»."
+  },
+  {
+    "id": "toefl-build-13", "difficulty": "medium", "usage": "practice",
+    "context": { "name": "Olivia", "text": "Did you finish the reading for tomorrow's seminar?" },
+    "respondent": "Marcus",
+    "prefix": "Not yet. I", "suffix": ".",
+    "answer": ["haven't", "had", "a chance", "to start", "it"],
+    "distractors": ["didn't"],
+    "explanation": "Present perfect negativo («haven't had») para algo que aún no ha ocurrido hasta ahora, coherente con «Not yet». «Didn't» exigiría la forma base «have», no «had»."
+  },
+  {
+    "id": "toefl-build-14", "difficulty": "medium", "usage": "practice",
+    "context": { "name": "Aisha", "text": "The campus shuttle was late again this morning." },
+    "respondent": "Pablo",
+    "prefix": "I", "suffix": ".",
+    "answer": ["wonder", "why", "they", "don't", "add", "more buses"],
+    "distractors": ["doesn't"],
+    "explanation": "«I wonder why…» introduce una pregunta indirecta: orden sujeto + verbo («why they don't add»), y la frase termina en punto porque no es una pregunta directa. El sujeto es «they», por eso «don't» y no «doesn't»."
+  },
+  {
+    "id": "toefl-build-15", "difficulty": "medium", "usage": "practice",
+    "context": { "name": "Ryan", "text": "Have you met the new teaching assistant yet?" },
+    "respondent": "Chloe",
+    "prefix": "Yes, she's the one", "suffix": ".",
+    "answer": ["who", "helped", "me", "with my", "statistics project"],
+    "distractors": ["whom"],
+    "explanation": "Relativo de sujeto: «who» es el sujeto de «helped» («the one who helped me»). «Whom» sólo funciona como objeto, así que no sirve aquí."
+  },
+  {
+    "id": "toefl-build-16", "difficulty": "medium", "usage": "practice",
+    "context": { "name": "Isabel", "text": "I can't decide between the two apartments I visited." },
+    "respondent": "Tariq",
+    "prefix": "Which one", "suffix": "?",
+    "answer": ["is", "closer", "to", "where", "you", "work"],
+    "distractors": ["more close"],
+    "explanation": "Pregunta directa con «Which one is…?» + comparativo de adjetivo corto («closer», no «more close»). «Where you work» es una cláusula nominal que funciona como complemento de «to»."
+  }
+]

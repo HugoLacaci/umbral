@@ -1,0 +1,790 @@
+[
+  {
+    "id": "toefl-conv-m3-router-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "module": "router",
+    "task": "conversation",
+    "title": "Parking permit",
+    "context": "Listen to a conversation between a student and an employee at the campus parking office.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Diego",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-US"
+        },
+        {
+          "id": "b",
+          "name": "Fiona",
+          "role": "Employee",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hi, I'd like to buy a parking permit for the spring semester."
+        },
+        {
+          "s": "b",
+          "t": "Sure. Are you a commuter, or do you live in campus housing?"
+        },
+        {
+          "s": "a",
+          "t": "I commute. I live about forty minutes away, so I drive in three days a week."
+        },
+        {
+          "s": "b",
+          "t": "In that case, you might not need a full permit. We have a part-time pass that covers up to three days a week, and it's about half the price."
+        },
+        {
+          "s": "a",
+          "t": "Really? Nobody mentioned that at orientation. Can I park in Lot C with it? That's right next to the engineering building."
+        },
+        {
+          "s": "b",
+          "t": "Unfortunately, no. The part-time pass is only valid in the north garage. It's about a ten-minute walk from engineering."
+        },
+        {
+          "s": "a",
+          "t": "Ten minutes is nothing if I'm saving that much. I'll take the part-time pass."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the employee suggest?",
+        "options": [
+          "Moving into campus housing",
+          "Parking in Lot C next to the engineering building",
+          "A cheaper pass for people who drive in only some days",
+          "Taking the bus three days a week"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "She only asks whether he lives on campus.",
+          "The part-time pass is not valid in Lot C.",
+          "Correct: she offers the part-time pass.",
+          "The bus is never mentioned."
+        ],
+        "explanation": "Because he drives in only three days a week, she suggests the part-time pass at about half the price.",
+        "evidence": "We have a part-time pass that covers up to three days a week"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What can be inferred about the man's decision?",
+        "options": [
+          "He thinks the savings are worth a longer walk.",
+          "He is disappointed that he cannot park in the north garage.",
+          "He plans to drive to campus every day.",
+          "He learned about the pass at orientation."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: 'Ten minutes is nothing' compared with the money saved.",
+          "He can park in the north garage; it is Lot C he cannot use.",
+          "He drives three days a week.",
+          "He says nobody mentioned it at orientation."
+        ],
+        "explanation": "He accepts the ten-minute walk because the pass is much cheaper.",
+        "evidence": "Ten minutes is nothing if I'm saving that much."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m3-router-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 3,
+    "module": "router",
+    "task": "conversation",
+    "title": "Choosing an arts elective",
+    "context": "Listen to a conversation between two students.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Hannah",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-AU"
+        },
+        {
+          "id": "b",
+          "name": "Kofi",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Have you picked your arts elective yet? Registration closes tomorrow."
+        },
+        {
+          "s": "b",
+          "t": "I was going to take Introduction to Photography, but it turns out you need your own camera. A decent one costs more than my rent."
+        },
+        {
+          "s": "a",
+          "t": "Ouch. What about the film studies course? I took it last year. You mostly watch classic movies and write short reviews."
+        },
+        {
+          "s": "b",
+          "t": "That sounds more like my thing, honestly. Is the professor strict?"
+        },
+        {
+          "s": "a",
+          "t": "She's demanding about deadlines, but if you hand things in on time, she's really generous with grades."
+        },
+        {
+          "s": "b",
+          "t": "Okay, I'm sold. I'll sign up tonight before I change my mind."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why does the man decide not to take the photography course?",
+        "options": [
+          "Registration for it has already closed.",
+          "The professor is known to be strict.",
+          "He took a similar course last year.",
+          "The equipment it requires is too expensive."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Registration closes tomorrow.",
+          "Strictness is discussed for the film course.",
+          "The woman took the film course last year.",
+          "Correct: a decent camera costs more than his rent."
+        ],
+        "explanation": "He needs his own camera and a good one is too expensive.",
+        "evidence": "you need your own camera. A decent one costs more than my rent"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the man probably do?",
+        "options": [
+          "Buy a camera",
+          "Register for the film studies course",
+          "Ask the professor for an extension",
+          "Watch a classic movie with the woman"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "He rejects the course because of the camera.",
+          "Correct: 'I'm sold' and 'I'll sign up tonight'.",
+          "Not mentioned.",
+          "Movies are part of the course, not a plan."
+        ],
+        "explanation": "'I'm sold' means I'm convinced; he will sign up for film studies.",
+        "evidence": "I'll sign up tonight before I change my mind."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m3-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 3,
+    "module": "lower",
+    "task": "conversation",
+    "title": "Lost water bottle",
+    "context": "Listen to a conversation between a student and an employee at the recreation center.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Priya",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-GB"
+        },
+        {
+          "id": "b",
+          "name": "Leo",
+          "role": "Employee",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hi, I think I left my water bottle here yesterday. It's green with a sticker of a mountain on it."
+        },
+        {
+          "s": "b",
+          "t": "Let me check the lost and found box. Hmm, there are a few water bottles here. Is this it?"
+        },
+        {
+          "s": "a",
+          "t": "No, mine is darker green and bigger."
+        },
+        {
+          "s": "b",
+          "t": "Then it might be in the office. We move items there after one day. The office opens at noon."
+        },
+        {
+          "s": "a",
+          "t": "Okay, I have class until twelve thirty. I'll come back after that."
+        },
+        {
+          "s": "b",
+          "t": "Sounds good. Just bring your student card."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the woman talk to the man?",
+        "options": [
+          "To return a water bottle she found",
+          "To find a water bottle she lost",
+          "To buy a new water bottle",
+          "To sign up for a class"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She lost one; she did not find one.",
+          "Correct: she left it there yesterday.",
+          "Not mentioned.",
+          "She only mentions her class schedule."
+        ],
+        "explanation": "She is looking for her lost bottle.",
+        "evidence": "I think I left my water bottle here yesterday"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What must the woman bring when she comes back?",
+        "options": [
+          "A photo of the bottle",
+          "A mountain sticker",
+          "Her class schedule",
+          "Her student card"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not mentioned.",
+          "The sticker is on her bottle.",
+          "She mentions class, but does not need to bring anything.",
+          "Correct: the man says so at the end."
+        ],
+        "explanation": "The man asks her to bring her student card.",
+        "evidence": "Just bring your student card."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m3-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 3,
+    "module": "upper",
+    "task": "conversation",
+    "title": "Research assistant offer",
+    "context": "Listen to a conversation between a student and a professor.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Marcus",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-CA"
+        },
+        {
+          "id": "b",
+          "name": "Professor Whitfield",
+          "role": "Professor",
+          "gender": "f",
+          "accent": "en-GB"
+        }
+      ],
+      "lines": [
+        {
+          "s": "b",
+          "t": "Marcus, thanks for coming by. I wanted to ask whether you'd be interested in working in my lab next term. One of my research assistants is graduating."
+        },
+        {
+          "s": "a",
+          "t": "Wow, I'm flattered. What would the job involve?"
+        },
+        {
+          "s": "b",
+          "t": "Mostly coding interview transcripts, about ten hours a week. It's tedious at times, I won't pretend otherwise, but you'd get your name on the paper if it's published."
+        },
+        {
+          "s": "a",
+          "t": "That's a big deal for grad school applications. The only thing is, I've already promised the campus bookstore I'd work there next term."
+        },
+        {
+          "s": "b",
+          "t": "Well, you'd hardly be the first student to juggle two jobs, but I'd rather you didn't burn out. Why not talk to the bookstore and see if they'd cut your hours?"
+        },
+        {
+          "s": "a",
+          "t": "That's fair. My manager's pretty flexible. I'll stop by the store this afternoon and let you know by Friday."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's attitude toward the research work?",
+        "options": [
+          "She admits it can be dull but believes it offers a real benefit.",
+          "She thinks it is too difficult for an undergraduate.",
+          "She considers it less important than the bookstore job.",
+          "She is worried that the paper will not be published."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: tedious, but his name would appear on the paper.",
+          "She never says it is difficult.",
+          "She wants him to reduce bookstore hours, not the research.",
+          "She says 'if it's published', but expresses no worry."
+        ],
+        "explanation": "She is honest that the work is tedious, but stresses the benefit of authorship.",
+        "evidence": "It's tedious at times, I won't pretend otherwise, but you'd get your name on the paper"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the man probably do next?",
+        "options": [
+          "Turn down the research position",
+          "Quit his job at the bookstore immediately",
+          "Ask his manager about working fewer hours",
+          "Start coding interview transcripts"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "He seems keen on the position.",
+          "He will ask about cutting hours, not quit.",
+          "Correct: he will visit the store as the professor suggested.",
+          "The job begins next term."
+        ],
+        "explanation": "The professor suggests asking the bookstore to cut his hours, and he agrees to go there this afternoon.",
+        "evidence": "I'll stop by the store this afternoon and let you know by Friday."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m4-router-a",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "conversation",
+    "title": "Tutoring schedule",
+    "context": "Listen to a conversation between a student and the coordinator of the tutoring center.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Jasmine",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-US"
+        },
+        {
+          "id": "b",
+          "name": "Owen",
+          "role": "Coordinator",
+          "gender": "m",
+          "accent": "en-AU"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hi, I signed up for chemistry tutoring, but the only session I was given is Friday at eight in the morning."
+        },
+        {
+          "s": "b",
+          "t": "Ah, yes. Chemistry is our busiest subject, so the good times go fast."
+        },
+        {
+          "s": "a",
+          "t": "The problem is, I work a night shift on Thursdays. I don't get home until two."
+        },
+        {
+          "s": "b",
+          "t": "I see. Well, there's a waiting list for afternoon slots, and people drop out fairly often in the first few weeks. Or you could join a small group session on Monday evenings. It's three or four students with one tutor."
+        },
+        {
+          "s": "a",
+          "t": "A group might actually be good. I'd hear other people's questions too."
+        },
+        {
+          "s": "b",
+          "t": "Great. I'll move you to the Monday group and put your name on the waiting list just in case."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-purpose",
+        "prompt": "Why does the woman go to the tutoring center?",
+        "options": [
+          "To apply for a job as a chemistry tutor",
+          "To complain about her tutor",
+          "To register for a chemistry course",
+          "To change the time of her tutoring session"
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "She is a student who needs tutoring.",
+          "She never mentions the tutor.",
+          "She already signed up for tutoring.",
+          "Correct: Friday at eight is a problem after her night shift."
+        ],
+        "explanation": "Her session is early on Friday, right after her Thursday night shift.",
+        "evidence": "the only session I was given is Friday at eight in the morning"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "What does the man agree to do?",
+        "options": [
+          "Give her a private session on Thursday night",
+          "Place her in a group session and on a waiting list",
+          "Cancel her session without replacing it",
+          "Find her a different tutor for Friday"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "She works on Thursday nights.",
+          "Correct: he does both.",
+          "He moves her to another session.",
+          "Not mentioned."
+        ],
+        "explanation": "He moves her to the Monday group and adds her to the waiting list.",
+        "evidence": "I'll move you to the Monday group and put your name on the waiting list just in case."
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m4-router-b",
+    "difficulty": "medium",
+    "usage": "mock",
+    "mock": 4,
+    "module": "router",
+    "task": "conversation",
+    "title": "Farewell party",
+    "context": "Listen to a conversation between two students.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Ethan",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-GB"
+        },
+        {
+          "id": "b",
+          "name": "Chloe",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-CA"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "So, about the farewell party for Professor Brandt. I was thinking we could book the room above the Italian restaurant."
+        },
+        {
+          "s": "b",
+          "t": "That would be lovely, but have you seen their prices? Even with thirty people chipping in, it'd be a stretch."
+        },
+        {
+          "s": "a",
+          "t": "Fair point. What about the department lounge? It's free."
+        },
+        {
+          "s": "b",
+          "t": "It's free, but it's a bit gloomy. Then again, a few plants and some decent lighting could make a big difference."
+        },
+        {
+          "s": "a",
+          "t": "And we could spend the money we save on a really nice gift."
+        },
+        {
+          "s": "b",
+          "t": "Now you're talking. I'll email the department secretary to reserve the lounge, and you can start a list of gift ideas."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the woman imply about the restaurant?",
+        "options": [
+          "It is too far from campus.",
+          "It is too small for thirty people.",
+          "It would cost too much even if many people contributed.",
+          "Professor Brandt does not like Italian food."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Distance is not mentioned.",
+          "Thirty is the number of people paying, not a size problem.",
+          "Correct: 'a stretch' = hard to afford.",
+          "Not mentioned."
+        ],
+        "explanation": "'Chipping in' = contributing money; 'a stretch' = difficult to manage.",
+        "evidence": "Even with thirty people chipping in, it'd be a stretch."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-next",
+        "prompt": "What will the woman probably do next?",
+        "options": [
+          "Contact the department secretary",
+          "Buy plants for the lounge",
+          "Make a list of gift ideas",
+          "Call the Italian restaurant"
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: she will email the secretary.",
+          "Only an idea, not her stated next step.",
+          "That is the man's task.",
+          "They rejected the restaurant."
+        ],
+        "explanation": "She says she will email the secretary to reserve the lounge.",
+        "evidence": "I'll email the department secretary to reserve the lounge"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m4-lower",
+    "difficulty": "easy",
+    "usage": "mock",
+    "mock": 4,
+    "module": "lower",
+    "task": "conversation",
+    "title": "Changing dorm rooms",
+    "context": "Listen to a conversation between a student and an employee at the housing office.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Noah",
+          "role": "Student",
+          "gender": "m",
+          "accent": "en-AU"
+        },
+        {
+          "id": "b",
+          "name": "Grace",
+          "role": "Housing officer",
+          "gender": "f",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Hello, I'd like to ask about changing my dorm room."
+        },
+        {
+          "s": "b",
+          "t": "Okay. Is there a problem with your current room?"
+        },
+        {
+          "s": "a",
+          "t": "It's right next to the elevator, so it's very noisy at night. I can't sleep."
+        },
+        {
+          "s": "b",
+          "t": "I understand. You need to fill out this form. We'll look for a quieter room, but it may take two or three weeks."
+        },
+        {
+          "s": "a",
+          "t": "That's fine. Can I give it to you now?"
+        },
+        {
+          "s": "b",
+          "t": "Yes, or you can send it by email. Either way is okay."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "Why does the man want to change rooms?",
+        "options": [
+          "His room is too noisy.",
+          "His room is too small.",
+          "He wants to live with a friend.",
+          "The elevator in his building is broken."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Correct: it is next to the elevator.",
+          "Size is not mentioned.",
+          "Not mentioned.",
+          "The elevator makes noise; it is not broken."
+        ],
+        "explanation": "The noise from the elevator stops him from sleeping.",
+        "evidence": "it's very noisy at night"
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-detail",
+        "prompt": "How long might the room change take?",
+        "options": [
+          "Two or three days",
+          "About a month",
+          "Two or three weeks",
+          "It can happen today"
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "She says weeks, not days.",
+          "Not said.",
+          "Correct: the officer says so.",
+          "She says it may take weeks."
+        ],
+        "explanation": "The officer says it may take two or three weeks.",
+        "evidence": "it may take two or three weeks"
+      }
+    ]
+  },
+  {
+    "id": "toefl-conv-m4-upper",
+    "difficulty": "hard",
+    "usage": "mock",
+    "mock": 4,
+    "module": "upper",
+    "task": "conversation",
+    "title": "Poster session data",
+    "context": "Listen to a conversation between a student and a professor.",
+    "audio": {
+      "speakers": [
+        {
+          "id": "a",
+          "name": "Amara",
+          "role": "Student",
+          "gender": "f",
+          "accent": "en-GB"
+        },
+        {
+          "id": "b",
+          "name": "Professor Kessler",
+          "role": "Professor",
+          "gender": "m",
+          "accent": "en-US"
+        }
+      ],
+      "lines": [
+        {
+          "s": "a",
+          "t": "Professor Kessler, do you have a minute? It's about the student research poster session."
+        },
+        {
+          "s": "b",
+          "t": "Of course. Your poster draft is due Monday, isn't it?"
+        },
+        {
+          "s": "a",
+          "t": "That's the thing. My survey closed late because so few people responded at first, so I've only just started analysing the data. I was wondering if I could present preliminary results instead."
+        },
+        {
+          "s": "b",
+          "t": "Hmm. Preliminary results aren't ideal, but they're hardly unusual. Plenty of posters at real conferences are works in progress. What I'd want to see is a clear explanation of what you expect to find and why."
+        },
+        {
+          "s": "a",
+          "t": "So I should focus more on my hypotheses than on conclusions."
+        },
+        {
+          "s": "b",
+          "t": "Exactly. And frankly, being honest about a low response rate will impress the judges more than pretending your data is complete."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "kind": "mcq",
+        "qtype": "ls-attitude",
+        "prompt": "What is the professor's attitude toward presenting preliminary results?",
+        "options": [
+          "He thinks the judges will reject it.",
+          "He accepts it, as long as the student explains her expectations clearly.",
+          "He prefers that she wait until next year.",
+          "He believes only first-year students do it."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "He says honesty will impress the judges.",
+          "Correct: not ideal, but hardly unusual.",
+          "Not suggested.",
+          "He says conference posters are often works in progress."
+        ],
+        "explanation": "'Not ideal, but hardly unusual' shows acceptance with a condition: explain what she expects to find.",
+        "evidence": "Preliminary results aren't ideal, but they're hardly unusual."
+      },
+      {
+        "id": "q2",
+        "kind": "mcq",
+        "qtype": "ls-inference",
+        "prompt": "What does the professor suggest about the low response rate?",
+        "options": [
+          "The student should collect more responses before Monday.",
+          "The judges will probably not notice it.",
+          "It shows her survey questions were badly written.",
+          "The student should mention it openly."
+        ],
+        "answer": 3,
+        "optionNotes": [
+          "Not suggested.",
+          "He says honesty is better than pretending.",
+          "He never criticizes the questions.",
+          "Correct: honesty will impress the judges."
+        ],
+        "explanation": "He advises her to be honest about the response rate rather than hiding it.",
+        "evidence": "being honest about a low response rate will impress the judges more than pretending your data is complete"
+      }
+    ]
+  }
+]
